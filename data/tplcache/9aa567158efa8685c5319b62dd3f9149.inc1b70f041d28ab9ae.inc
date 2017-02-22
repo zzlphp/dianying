@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","迈阿密行动DVD国语版2012最新中",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","迈阿密行动DVD国语版2012最新中国上映法国喜剧爱情大片迅雷下载、免费下载，迈阿密行动DVD国语版2012最新中国上映法国喜剧爱情大片Gvod高清在线播放，剧情介绍等。",72,268);
+$z[1][4]['name']="description";
+$z[2]=Array("field","迈阿密行动DVD国语版2012最新中国上映法国喜剧爱情大片",270,359);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",361,400);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",402,441);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-04-13",443,493);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img border=\"0\" src=\"http://img170.poco.cn/mypoco/myphoto/20120412/23/56643687201204122351343045345371520_004.jpg\" /></p>\r\n<p>\r\n	导演: 弗雷德里克&middot;贝恩<br />\r\n	编剧: Alexandre Charlot<br />\r\n	主演: 凯德&middot;麦拉德 / 梅兰妮&middot;杜迪 / 法朗西斯&middot;瑞纳德<br />\r\n	类型: 喜剧 / 爱情<br />\r\n	官方网站: <a href=\"http://www.rtt-lefilm.com\">www.rtt-lefilm.com</a><br />\r\n	制片国家/地区: 法国<br />\r\n	语言: 法语 / 英语 / 西班牙语<br />\r\n	上映日期: 2009-12-09(法国) / 2012-04-12(中国大陆)<br />\r\n	片长: 88分钟<br />\r\n	又名: 延时往返<br />\r\n	IMDb链接: tt1345507</p>\r\n<p>\r\n	<br />\r\n	剧情简介</p>\r\n<p>\r\n	　　亚瑟（凯德&middot;麦拉德 Kad Merad 饰）遭到相恋五年女友的突然劈腿，难以接受事实的他决定远赴千里赶往迈阿密阻止她的婚礼。不料在机场阴差阳错的被女飞贼艾米丽（梅兰妮&middot;杜迪 M&eacute;lanie Doutey 饰）缠上，艾米丽身怀绝技、专偷名画的女贼艾米丽盗走了一幅价值不菲的名画，为了躲避警察的搜查，将偷取的名画放入了亚瑟的行李包中。一路上艾米丽千方百计想取回名画，却一路被跟踪而来的警察扰乱计划，无辜的亚瑟也被误认为是同伙，阻止前女友婚礼的计划眼看要泡汤，&ldquo;绝顶&rdquo;衰男亚瑟不得不与绝色神偷共同进退，一路浪漫逃亡。</p>\r\n<p>\r\n	<br />\r\n	◎影片截图</p>\r\n\r\n<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120412/23/56643687201204122351343045345371520_003.jpg\" style=\"border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid\" /></p>\r\n<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120412/23/56643687201204122351343045345371520_002.jpg\" style=\"border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid\" /></p>\r\n<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120412/23/56643687201204122351343045345371520_001.jpg\" style=\"border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid\" /></p>\r\n<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120412/23/56643687201204122351343045345371520_000.jpg\" style=\"border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.netftp//dy44:piaohua@dy44.piaohua.com:3201/\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3211/飘花电影piaohua.com迈阿密行动DVD国语版.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:3211/飘花电影piaohua.com迈阿密行动DVD国语版.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",495,3694);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15T93P-1R93.jpg",3696,3778);
+$z[7][4]['name']="litpic";
+
+?>

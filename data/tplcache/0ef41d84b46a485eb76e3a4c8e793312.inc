@@ -1,0 +1,9 @@
+{dede:field name='keywords'}蝙蝠侠Ⅱ：蝙蝠侠归来高清BD1280{/dede:field}
+{dede:field name='description'}蝙蝠侠Ⅱ：蝙蝠侠归来高清BD1280双语配音迅雷下载、免费下载，蝙蝠侠Ⅱ：蝙蝠侠归来高清BD1280双语配音Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蝙蝠侠Ⅱ：蝙蝠侠归来高清BD1280双语配音{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOWX10-362N.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}无所畏惧Chris,Rock2004年HBO华{/dede:field}
+{dede:field name='description'}无所畏惧Chris Rock2004年HBO华盛顿特区专场脱口秀迅雷下载、免费下载，无所畏惧Chris Rock2004年HBO华盛顿特区专场脱口秀Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}无所畏惧Chris Rock2004年HBO华盛顿特区专场脱口秀{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3134/飘花电影piaohua.com无所畏惧Chris Rock2004年HBO华盛顿特区专场脱口秀.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ440Y0-54329.jpg{/dede:field}

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","百变星君/百变金刚[BD国粤双语中",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","百变星君/百变金刚[BD国粤双语中英双字1024x576+1280x720高清版]迅雷下载、免费下载，百变星君/百变金刚[BD国粤双语中英双字1024x576+1280x720高清版]Gvod高清在线播放，剧情介绍等。",73,287);
+$z[1][4]['name']="description";
+$z[2]=Array("field","百变星君/百变金刚[BD国粤双语中英双字1024x576+1280x720高清版]",289,387);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",389,428);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",430,469);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-11-12",471,521);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo5.zxip.com/albums5/folder10/7895/20101101143827/20101111131827545.jpg');\" border=0 src=\"http://photo5.zxip.com/albums5/folder10/7895/20101101143827/20101111131827545.jpg\"><BR><BR>◎译　　名　百变星君/百变金刚<BR>◎片　　名　Sixty Million Dollar Man<BR>◎年　　代　1995<BR>◎国　　家　中国香港<BR>◎类　　别　喜剧/科幻/奇幻<BR>◎语　　言　普通话/粤语<BR>◎字　　幕　中文<BR>◎IMDB评分 6.0/10&nbsp; 546 votes<BR>◎文件格式　x264 + AAC<BR>◎视频尺寸　1024 x 576+1280x720<BR>◎文件大小　1CD<BR>◎片　　长　90 Min<BR>◎导　　演　王晶 Jing Wong<BR>　　　　　　叶伟民 Wai Man Yip<BR>◎主　　演　周星驰 Stephen Chow&nbsp; ....Lee Chak-Sing<BR>　　　　　　梁咏琪 Gigi Leung&nbsp; ....Chung-Chung<BR>　　　　　　吴孟达 Man Tat Ng&nbsp; ....Tat<BR>　　　　　　郑祖 Joe Cheng&nbsp; ....Fumito<BR>　　　　　　江欣燕 Alvina Kong&nbsp; ....Aunt<BR>　　　　　　黎应就 Guy Lai&nbsp; ....Uncle<BR>　　　　　　李健仁 Kin-Yan Lee&nbsp; ....Siu-Fu<BR>　　　　　　孙佳君 Paulyn Sun&nbsp; ....Bonnie<BR>　　　　　　徐锦江 Elvis Tsui&nbsp; ....Professor Chang Sze<BR>　　　　　　文隽 Manfred Wong&nbsp; ....Principal<BR>　　　　　　黄一飞 Yut Fei Wong&nbsp; ....Lee Yat-Fai<BR>　　　　　　朱咪咪 Mimi Zhu&nbsp; ....Sing's Mother<BR>　　　　　　陈志辉 Chi Fai Chan&nbsp; ....Teacher<BR>　　　　　　邓兆尊 Siu Juen Dang&nbsp; ....Chung Chung's Fiancé<BR>　　　　　　洪小云 Siu Wan Hung<BR>　　　　　　林迪安 Dion Lam&nbsp; ....Man in Zebra Suit<BR>　　　　　　David John Saunders&nbsp; ....Bodyguard<BR>　　　　　　Darren Shahlavi&nbsp; ....Bodyguard<BR>　　　　　　宋本中 Boon Chung Sung&nbsp; ....Student Leader (with Shaved Head)<BR><BR>◎简　　介　<BR><BR>　　在夏威夷念大学的香港富豪子弟李泽星（周星驰）学业无成挥金如土，是校园一霸，终因搭上黑帮老大情妇遭黑帮追杀，身体被被成碎片。<BR><BR>　　在李泽星父亲（吴孟达）的请求下，教授（徐锦江）将李泽星全身人造复原，并把最新研制成功电影下载的无敌芯片置入其身，令其摇身一变成为无敌“百变金刚”。黑帮老大得知李泽星复活后，将写有战争程序的芯片植入手下身体，令其变身“铁甲威龙”前来追杀李泽星。为赢得暗恋的女同学虫虫（梁咏琪）的芳心，李泽星决意重塑形象，奋力与“铁甲威龙”展开大战...<BR></P>\r\n<P>【电影截图】：<BR><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo5.zxip.com/albums5/folder10/7895/20101101143827/201011111318315116.jpg');\" border=0 src=\"http://photo5.zxip.com/albums5/folder10/7895/20101101143827/201011111318315116.jpg\">&nbsp;<BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo5.zxip.com/albums5/folder10/7895/20101101143827/201011111318311304.jpg');\" border=0 src=\"http://photo5.zxip.com/albums5/folder10/7895/20101101143827/201011111318311304.jpg\"><BR><BR><BR><BR></P><BR>[下载地址]：<IMG border=0 src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\"><BR>\r\n<TABLE style=\"BORDER-BOTTOM: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-RIGHT: #cccccc 1px dotted\" border=0 cellSpacing=0 cellPadding=6 width=\"95%\" align=center>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://3e:3e@d3.3edyy.com:121/【3E电影院www.eee4.org】百变星君.1024x576.国粤双语.中文字幕.mkv</TD></TR></TBODY></TABLE><BR>[下载地址]：<IMG border=0 src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\"><BR>\r\n<TABLE style=\"BORDER-BOTTOM: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-RIGHT: #cccccc 1px dotted\" border=0 cellSpacing=0 cellPadding=6 width=\"95%\" align=center>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://5e:5e@d3.3edyy.com:124/【3E电影院www.eee4.org】百变星君BD粤语中英双字1280x720高清版.rmvb</TD></TR></TBODY></TABLE>",523,4299);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133N494PE0-1N58.jpg",4301,4383);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","散打高清HD1280迅雷下载，免费下",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","散打高清HD1280迅雷下载、免费下载，散打高清HD1280Gvod高清在线播放，剧情介绍等。",73,195);
+$z[1][4]['name']="description";
+$z[2]=Array("field","散打高清HD1280",197,249);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",251,290);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",292,331);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-04-24",333,383);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://apollo.s.dpool.sina.com.cn/nd/dataent/moviepic/pics/147/moviepic_dbbc51425deac63b212d076a3f04ddc4.jpg\" style=\"width: 572px; height: 814px\" /></p>\r\n<p>\r\n	◎译　　名　散打<br />\r\n	◎片　　名　Xanda<br />\r\n	◎年　　代　2003<br />\r\n	◎国　　家　中国<br />\r\n	◎类　　别　功夫/剧情<br />\r\n	◎语　　言　普通话<br />\r\n	◎字　　幕　中文<br />\r\n	◎IMDB评分 5.2/10(179 votes)<br />\r\n	◎视频尺寸　1280 x 720<br />\r\n	◎文件大小　1CDA<br />\r\n	◎片　　长　89 Min<br />\r\n	◎导　　演　麦子善<br />\r\n	◎主　　演　桑伟淋<br />\r\n	　　　　　　滕军<br />\r\n	　　　　　　倪景阳<br />\r\n	　　　　　　赵子龙</p>\r\n\r\n<p>\r\n	◎简　　介　</p>\r\n<p>\r\n	　 自少习中国武术的强（桑伟淋饰），在赢取套路冠军后，便没有再参加任何比赛，只留在村里教小孩耍套路。 强后来认识了小虞，她外表伤残，却有着无比坚毅的生命力。小虞认为强的「冠军」衔头只是一种负累，令他不敢再去接受任何挑战，甚至连残疾的她也不如。小虞死后，强伤心地离开家乡，跟好友虾仔（李铁饰）到南方城市深圳闯天下，然而，他始终活在「冠军」和小虞的阴影下，直至遇上灵（倪景阳饰）。</p>\r\n<p>\r\n	　　灵是一个到深圳找演出机会的歌女，同时也要帮姐姐解决感情纠纷；灵的姐姐爱上了散打冠军赵威（滕军饰），但威似乎重视散打多过灵姐。当灵代姐向威提出分手时，刚巧在场的强以为威欺凌弱质女流，竟跟威一伙人大打出手，不仅强被威打倒，虾仔更惨被打至重伤。 由于冲突因灵而起，灵愿意承担虾的医疗费用，但强只答应一人一半，承诺会尽快还钱给灵。</p>\r\n<p>\r\n	　　潦倒的强去找好友阿（赵子龙饰）龙商量，却被龙的父亲铁教练误会他是龙的损友。铁教练在深圳办散打学校，一心训练儿子成为最优秀的散打王，故此对龙在武术和武德两方面的要求都苛刻严格。 强向龙借钱不遂，却得悉散打比赛有丰厚的奖金，惟有恳求铁教练收他为徒。强虽然成为散打学校的学员，却只被派去做些清洁的杂役工作，完全没有得到散打的训练，为争取参加比赛的机会，强只好要龙暗中传授。</p>\r\n<p>\r\n	　　满怀希望和信心的强终于可在新人王散打赛中出场，却在毫无招架之力下惨被击倒。彻底丧失自信和自尊的强黯然离开铁的学校，他看来会在挫折中无法再站起来，幸而得到灵的鼓励和推动，强终于可以重新面对生活，更与灵展开一段幸福的感情。</p>\r\n<p>\r\n	　　本来已甘于平淡的强，偶然在电视上看到龙挑战散打冠军威的比赛，双方的激战，再次唤起强的斗志，他发觉自己始终是个爱武的武者。龙结果被威打败，强毅然决定放下平静幸福的生活，要重上擂台去证明自我，他不得不暂别灵，以全心投入铁教练和龙的地狱式特训，而曾经许诺不会让彼此成为对方的包袱的灵，也洒脱地与强各走各路；她甚至没有告诉强，她已经怀了他的孩子。 在铁教练和龙两父子的悉心训练下，强终于成为一个优秀的散打选手，并赢得挑战冠军的资格，可以与威在擂台上争雄。</p>\r\n<p>\r\n	　　就在决战之前，强终于知道怀着他的骨肉的灵要离开深圳，强必须要在最短的时间内完成赛事，才赶得及去车站追回灵。患得患失的强在比赛中无法尽展所长，被威的凌厉攻势打得焦头烂额，眼看就要断送大家的一番心血了，幸得铁教练和龙锲而不舍的鼓舞，强终于能够集中心力，与威展开慑人的最后一战...... 。</p>\r\n<p>\r\n	　　比赛后，伤痕累累的强马上赶去车站，但灵已不知所踪。治愈皮肉的伤后，强带着依然创痛的心，重返家乡，他以为在那里等着他的，只有小虞的墓，却原来还有那个已经取代了小虞的女孩：灵。</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120424/07/62564813201204240727012521323749630_002.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120424/07/62564813201204240727012521323749630_001.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120424/07/62564813201204240727012521323749630_000.jpg\" style=\"width: 720px; height: 405px\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net/\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy125:piaohua@dy125.piaohua.com:7883/飘花电影piaohua.com散打HD国语中字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:7883/飘花电影piaohua.com散打HD国语中字1280高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",385,4768);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15634560-223H.jpg",4770,4854);
+$z[7][4]['name']="litpic";
+
+?>

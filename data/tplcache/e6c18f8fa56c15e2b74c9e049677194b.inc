@@ -1,0 +1,9 @@
+{dede:field name='keywords'}破产姐妹/追梦女孩第一季24欧美{/dede:field}
+{dede:field name='description'}破产姐妹/追梦女孩第一季24欧美剧迅雷下载、免费下载，破产姐妹/追梦女孩第一季24欧美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}破产姐妹/追梦女孩第一季24欧美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1867/飘花电影piaohua.com破产姐妹.第一季EP01 .rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0K2P-4R10.jpg{/dede:field}

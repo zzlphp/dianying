@@ -1,0 +1,9 @@
+{dede:field name='keywords'}美国派4：美国重逢清晰TS中字201{/dede:field}
+{dede:field name='description'}美国派4：美国重逢清晰TS中字2012美国喜剧迅雷下载、免费下载，美国派4：美国重逢清晰TS中字2012美国喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}美国派4：美国重逢清晰TS中字2012美国喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3261/飘花电影piaohua.com美国派4：美国重逢清晰TS中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO55440-56142.jpg{/dede:field}

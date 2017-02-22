@@ -1,0 +1,9 @@
+{dede:field name='keywords'}特工维诺德DVD中英双字印度2012{/dede:field}
+{dede:field name='description'}特工维诺德DVD中英双字印度2012动作迅雷下载、免费下载，特工维诺德DVD中英双字印度2012动作Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}特工维诺德DVD中英双字印度2012动作{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3401/飘花电影piaohua.com特工维诺德DVD中英双字.mp4{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO446130-45096.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}亡命夜巴黎/惊狂记高清中英双字B{/dede:field}
+{dede:field name='description'}亡命夜巴黎/惊狂记高清中英双字BD1280迅雷下载、免费下载，亡命夜巴黎/惊狂记高清中英双字BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}亡命夜巴黎/惊狂记高清中英双字BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2017/小八戒电影xiaobajie.com惊狂记高清中英双字BD1280.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP2923Z-51b4.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}爱情骗子DVD中英双字2011剧情迅{/dede:field}
+{dede:field name='description'}爱情骗子DVD中英双字2011剧情迅雷下载、免费下载，爱情骗子DVD中英双字2011剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}爱情骗子DVD中英双字2011剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2703/飘花电影piaohua.com爱情骗子DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOSA40-32C6.jpg{/dede:field}

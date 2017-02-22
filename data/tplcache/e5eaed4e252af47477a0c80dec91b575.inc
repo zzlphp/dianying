@@ -1,0 +1,9 @@
+{dede:field name='keywords'}第84届奥斯卡金像奖颁奖典礼高清{/dede:field}
+{dede:field name='description'}第84届奥斯卡金像奖颁奖典礼高清1280版HD中字2012最新美国综艺迅雷下载、免费下载，第84届奥斯卡金像奖颁奖典礼高清1280版HD中字2012最新美国综艺Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}第84届奥斯卡金像奖颁奖典礼高清1280版HD中字2012最新美国综艺{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2915/飘花电影piaohua.com第84届奥斯卡金像奖颁奖典礼高清1280版HD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4362F-5W38.jpg{/dede:field}

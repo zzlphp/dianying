@@ -1,0 +1,9 @@
+{dede:field name='keywords'}2012成人奥斯卡颁奖典礼迅雷下载{/dede:field}
+{dede:field name='description'}2012成人奥斯卡颁奖典礼迅雷下载、免费下载，2012成人奥斯卡颁奖典礼Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}2012成人奥斯卡颁奖典礼{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3481/飘花电影piaohua.com2012成人奥斯卡颁奖典礼.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ44N30-15452.jpg{/dede:field}

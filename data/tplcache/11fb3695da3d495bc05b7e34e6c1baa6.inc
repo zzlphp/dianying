@@ -1,0 +1,9 @@
+{dede:field name='keywords'}战栗航班93迅雷下载，免费下载，{/dede:field}
+{dede:field name='description'}战栗航班93迅雷下载、免费下载，战栗航班93Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}战栗航班93{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-12-04{/dede:field}
+{dede:field name='body'}战栗航班93 (United 93)<br />导 演： 保罗&middot;格林戈拉斯<br />主 演： 刘易斯&middot;阿尔萨玛利 JJ&middot;约翰逊 特里斯&middot;盖茨 <br />上 映： 2006年4月19日 <br />地 区： 美国 <br />语 言： 英语 <br />时 长： 93 分钟 <br />颜 色： 彩色 <br />类 型： 惊悚片 剧情片 <br />剧情介绍<br />2001年9月11日，令所有地球人游龙@推荐难以忘记的日子。&ldquo;9&middot;11&rdquo;三个数字连接在一起，不再仅仅代表美国人的报警专用电话号码，而是由&ldquo;在这一天三架分别撞击了世贸双子大厦和五角大楼的美国航班&rdquo;而改变成了惊世骇俗的一串数字！而就在同一天，另一架被恐怖分子劫持&ldquo;93号航班&rdquo;却&ldquo;意外&rdquo;坠毁在了宾夕法尼亚州的尚克斯维尔附近地区。<br />免费迅雷:www.eee4.com当时的实时新闻报道称&ldquo;美国联合航空公司93次航班9月11日上午遭劫持后在宾夕法尼亚州尚克斯维尔的一片树林坠毁，机上45人全部遇难。媒体广泛猜测，由于乘客反抗，恐怖分子利用该机攻击华盛顿重要目标的企图失败。&rdquo;有人说劫机的恐怖分子原本要驾驶这架航班同样去撞击美国总统府白宫。 <br />免费迅雷:www.eee4.com
+<p class="Bqi399">ftp://ftp1.kudian.net:kudian@ftp.kudian.net/原创/电影/颤慄航班93/颤慄航班93.rmvb<br /><br />2006-12-04 08:01:19 开始连接......<br />2006-12-04 08:01:19 开始搜索候选资源......<br />2006-12-04 08:01:24 搜索到41个候选资源<br />2006-12-04 08:01:24 使用候选资源进行连接......<br />2006-12-04 08:01:26 开始创建文件......<br />2006-12-04 08:01:33 搜索到14个候选资源<br />2006-12-04 08:01:33 使用候选资源进行连接......<br />2006-12-04 08:01:47 文件创建成功，开始下载数据......<br />2006-12-04 08:01:48 用户取消下载<br /></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O164K060-19414.jpg{/dede:field}

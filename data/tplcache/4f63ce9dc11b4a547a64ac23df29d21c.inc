@@ -1,0 +1,9 @@
+{dede:field name='keywords'}今天·明天高清1024版BD国语中字{/dede:field}
+{dede:field name='description'}今天·明天高清1024版BD国语中字2012中国动画迅雷下载、免费下载，今天·明天高清1024版BD国语中字2012中国动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}今天·明天高清1024版BD国语中字2012中国动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3409/飘花电影piaohua.com今天明天高清1024版BD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1424Z-45D5.jpg{/dede:field}

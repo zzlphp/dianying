@@ -1,0 +1,9 @@
+{dede:field name='keywords'}铁门高清720P,1280*720迅雷下载{/dede:field}
+{dede:field name='description'}铁门高清720P 1280*720迅雷下载、免费下载，铁门高清720P 1280*720Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}铁门高清720P 1280*720{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-31{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy195:piaohua@dy195.piaohua.com:1003/飘花电影下载站www.piaohua.com铁门720p.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3M350-14523.jpg{/dede:field}

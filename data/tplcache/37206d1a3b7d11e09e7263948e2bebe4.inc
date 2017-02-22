@@ -1,0 +1,9 @@
+{dede:field name='keywords'}禁运品高清BD1280迅雷下载，免费{/dede:field}
+{dede:field name='description'}禁运品高清BD1280迅雷下载、免费下载，禁运品高清BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}禁运品高清BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3211/飘花电影piaohua.com黑金速递DVD中英双字CD1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO5432Z-31010.jpg{/dede:field}

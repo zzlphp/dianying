@@ -1,0 +1,9 @@
+{dede:field name='keywords'}为父寻仇/重金摇滚男的奇异旅程B{/dede:field}
+{dede:field name='description'}为父寻仇/重金摇滚男的奇异旅程BD1280高清迅雷下载、免费下载，为父寻仇/重金摇滚男的奇异旅程BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}为父寻仇/重金摇滚男的奇异旅程BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO61G20-51Y5.jpg{/dede:field}

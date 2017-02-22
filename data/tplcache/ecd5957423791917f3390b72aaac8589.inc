@@ -1,0 +1,9 @@
+{dede:field name='keywords'}哥的传说/西京囧事HD国语中字128{/dede:field}
+{dede:field name='description'}哥的传说/西京囧事HD国语中字1280高清2010爱情喜剧迅雷下载、免费下载，哥的传说/西京囧事HD国语中字1280高清2010爱情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}哥的传说/西京囧事HD国语中字1280高清2010爱情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2342/飘花电影piaohua.com西京囧事HD国语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MON1560-425N.jpg{/dede:field}

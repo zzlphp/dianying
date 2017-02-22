@@ -1,0 +1,9 @@
+{dede:field name='keywords'}天咒迅雷下载，免费下载，Gvod高{/dede:field}
+{dede:field name='description'}天咒迅雷下载、免费下载，天咒Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天咒{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}http://pic.piaohua.com/images/defaultpic.gifalt=天咒width=120height=150border=0{/dede:field}

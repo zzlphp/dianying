@@ -1,0 +1,9 @@
+{dede:field name='keywords'}逆战正式版DVD中字迅雷下载，免{/dede:field}
+{dede:field name='description'}逆战正式版DVD中字迅雷下载、免费下载，逆战正式版DVD中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}逆战正式版DVD中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2731/飘花电影piaohua.com逆战TS国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO509510-512c.jpg{/dede:field}

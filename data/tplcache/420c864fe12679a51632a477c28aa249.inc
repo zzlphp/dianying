@@ -1,0 +1,9 @@
+{dede:field name='keywords'}在这世界的角落中日双语字幕1024{/dede:field}
+{dede:field name='description'}在这世界的角落中日双语字幕1024×576迅雷下载、免费下载，在这世界的角落中日双语字幕1024×576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}在这世界的角落中日双语字幕1024×576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy67:piaohua@dy67.piaohua.com:1031/飘花电影下载站www.piaohua.com在这世界的角落中日双语字幕1024分辨率.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP52620-35510.jpg{/dede:field}

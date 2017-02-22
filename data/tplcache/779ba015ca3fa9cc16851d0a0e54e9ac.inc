@@ -1,0 +1,9 @@
+{dede:field name='keywords'}爱回来港台剧,22迅雷下载，免费{/dede:field}
+{dede:field name='description'}爱回来港台剧 22迅雷下载、免费下载，爱回来港台剧 22Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}爱回来港台剧 22{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3192/飘花电影piaohua.com爱回来EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ04A50-230B.jpg{/dede:field}

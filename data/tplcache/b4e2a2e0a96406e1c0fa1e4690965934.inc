@@ -1,0 +1,9 @@
+{dede:field name='keywords'}异形x异种入侵迅雷下载，免费下{/dede:field}
+{dede:field name='description'}异形x异种入侵迅雷下载、免费下载，异形x异种入侵Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}异形x异种入侵{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-07-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPTB0-2aI.jpg{/dede:field}

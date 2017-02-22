@@ -1,0 +1,9 @@
+{dede:field name='keywords'}神通乡巴佬DVD国语王宝强,曾志伟{/dede:field}
+{dede:field name='description'}神通乡巴佬DVD国语王宝强 曾志伟2012最新喜剧迅雷下载、免费下载，神通乡巴佬DVD国语王宝强 曾志伟2012最新喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}神通乡巴佬DVD国语王宝强 曾志伟2012最新喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2980/飘花电影piaohua.com神通乡巴佬DVD国语.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO630Q0-32947.jpg{/dede:field}

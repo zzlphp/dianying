@@ -1,0 +1,9 @@
+{dede:field name='keywords'}叠影谋杀案BD高清中英双字1024/1{/dede:field}
+{dede:field name='description'}叠影谋杀案BD高清中英双字1024/1280高清迅雷下载、免费下载，叠影谋杀案BD高清中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}叠影谋杀案BD高清中英双字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3275/飘花电影piaohua.com叠影谋杀案BD高清中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3032P-4E46.jpg{/dede:field}

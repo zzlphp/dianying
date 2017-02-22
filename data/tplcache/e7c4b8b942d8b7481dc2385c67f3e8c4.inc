@@ -1,0 +1,9 @@
+{dede:field name='keywords'}功夫熊猫2DVD中英双字+720P-HDTV{/dede:field}
+{dede:field name='description'}功夫熊猫2DVD中英双字+720P-HDTV国配内嵌中字2011最新动画大片迅雷下载、免费下载，功夫熊猫2DVD中英双字+720P-HDTV国配内嵌中字2011最新动画大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}功夫熊猫2DVD中英双字+720P-HDTV国配内嵌中字2011最新动画大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1337/飘花电影piaohua.com功夫熊猫2DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1O320-1U14.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}笑傲江湖HD高清1024*576许冠杰{/dede:field}
+{dede:field name='description'}笑傲江湖HD高清1024*576许冠杰版粤语中字迅雷下载、免费下载， 笑傲江湖HD高清1024*576许冠杰版粤语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}笑傲江湖HD高清1024*576许冠杰版粤语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ255130-39507.jpg{/dede:field}

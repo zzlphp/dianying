@@ -1,0 +1,9 @@
+{dede:field name='keywords'}蓝色激情/冲浪美眉/蓝色征服BD高{/dede:field}
+{dede:field name='description'}蓝色激情/冲浪美眉/蓝色征服BD高清迅雷下载、免费下载，蓝色激情/冲浪美眉/蓝色征服BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蓝色激情/冲浪美眉/蓝色征服BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MON21Z-52550.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}心术国产剧第36集2012热播电视剧{/dede:field}
+{dede:field name='description'}心术国产剧第36集2012热播电视剧迅雷下载、免费下载，心术国产剧第36集2012热播电视剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}心术国产剧第36集2012热播电视剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3361/飘花电影piaohua.com心术01.HDTV.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP962220-12Y5.jpg{/dede:field}

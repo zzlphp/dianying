@@ -1,0 +1,9 @@
+{dede:field name='keywords'}穿靴子的猫之萌猫三剑客高清1280{/dede:field}
+{dede:field name='description'}穿靴子的猫之萌猫三剑客高清1280版BD中字2012最新美国动画喜剧大迅雷下载、免费下载，穿靴子的猫之萌猫三剑客高清1280版BD中字2012最新美国动画喜剧大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}穿靴子的猫之萌猫三剑客高清1280版BD中字2012最新美国动画喜剧大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2865/飘花电影piaohua.com穿靴子的猫之萌猫三剑客高清1280版BD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ111910-59C3.jpg{/dede:field}

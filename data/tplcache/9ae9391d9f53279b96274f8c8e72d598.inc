@@ -1,0 +1,9 @@
+{dede:field name='keywords'}新东方快车谋杀案高清720P,1280*{/dede:field}
+{dede:field name='description'}新东方快车谋杀案高清720P 1280*720迅雷下载、免费下载，新东方快车谋杀案高清720P 1280*720Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}新东方快车谋杀案高清720P 1280*720{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy67:piaohua@dy67.piaohua.com:1012/飘花电影下载站www.piaohua.com新东方快车谋杀案720p.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3H3P-2K20.jpg{/dede:field}

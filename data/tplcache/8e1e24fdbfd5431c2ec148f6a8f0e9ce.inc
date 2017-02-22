@@ -1,0 +1,9 @@
+{dede:field name='keywords'}韩半岛日韩剧6迅雷下载，免费下{/dede:field}
+{dede:field name='description'}韩半岛日韩剧6迅雷下载、免费下载，韩半岛日韩剧6Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}韩半岛日韩剧6{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3446/飘花电影piaohua.com韩半岛EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP962Z-2S42.jpg{/dede:field}

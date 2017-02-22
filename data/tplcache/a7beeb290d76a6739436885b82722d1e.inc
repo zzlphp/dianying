@@ -1,0 +1,9 @@
+{dede:field name='keywords'}变形金刚1-3部BD国语配音中字102{/dede:field}
+{dede:field name='description'}变形金刚1-3部BD国语配音中字1024高清科幻大迅雷下载、免费下载，变形金刚1-3部BD国语配音中字1024高清科幻大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}变形金刚1-3部BD国语配音中字1024高清科幻大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3018/飘花电影piaohua.com变形金刚1-BD国语配音中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOY5D0-1F47.jpg{/dede:field}

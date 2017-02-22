@@ -1,0 +1,9 @@
+{dede:field name='keywords'}理查德·哈蒙德：看不见的世界BD{/dede:field}
+{dede:field name='description'}理查德·哈蒙德：看不见的世界BD中字1024高清BBC纪录片迅雷下载、免费下载，理查德·哈蒙德：看不见的世界BD中字1024高清BBC纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}理查德·哈蒙德：看不见的世界BD中字1024高清BBC纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy444:piaohua@dy444.piaohua.com:412/飘花电影piaohua.com看不见的世界BD中字1024高清CD1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4Yb0-14356.jpg{/dede:field}

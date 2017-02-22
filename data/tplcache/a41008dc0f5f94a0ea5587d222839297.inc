@@ -1,0 +1,9 @@
+{dede:field name='keywords'}开拓者：陌生的兄弟连DVD中英双{/dede:field}
+{dede:field name='description'}开拓者：陌生的兄弟连DVD中英双字+1280高清动作战争迅雷下载、免费下载，开拓者：陌生的兄弟连DVD中英双字+1280高清动作战争Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}开拓者：陌生的兄弟连DVD中英双字+1280高清动作战争{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy195:piaohua@dy195.piaohua.com:1005/飘花电影下载站www.piaohua.com陌生的兄弟连720p.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP51bP-29428.jpg{/dede:field}

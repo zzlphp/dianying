@@ -1,0 +1,9 @@
+{dede:field name='keywords'}人性污点BD中英双字1280高清经典{/dede:field}
+{dede:field name='description'}人性污点BD中英双字1280高清经典爱情惊悚迅雷下载、免费下载，人性污点BD中英双字1280高清经典爱情惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}人性污点BD中英双字1280高清经典爱情惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3079/飘花电影piaohua.com人性污点BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOG31P-2X50.jpg{/dede:field}

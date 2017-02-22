@@ -1,0 +1,9 @@
+{dede:field name='keywords'}POWER星期天-20110821下载迅雷下{/dede:field}
+{dede:field name='description'}POWER星期天-20110821下载迅雷下载、免费下载，POWER星期天-20110821下载Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}POWER星期天-20110821下载{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1022/飘花电影piaohua.comPOWER星期天-20110703.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ504950-240V.jpg{/dede:field}

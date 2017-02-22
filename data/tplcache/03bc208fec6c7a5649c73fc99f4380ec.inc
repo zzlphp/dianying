@@ -1,0 +1,54 @@
+{dede:field name='keywords'}锅匠/裁缝士兵/间谍BD1280高清迅{/dede:field}
+{dede:field name='description'}锅匠/裁缝士兵/间谍BD1280高清迅雷下载、免费下载，锅匠/裁缝士兵/间谍BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}锅匠/裁缝士兵/间谍BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-15{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://img165.poco.cn/mypoco/myphoto/20120115/03/62564813201201150345599473594102165_000.jpg" style="width: 650px; height: 839px" /></p>
+<p>
+	◎译　　名　锅匠，裁缝，士兵，间谍<br />
+	◎片　　名　Tinker, Tailor, Soldier, Spy<br />
+	◎年　　代　2011<br />
+	◎国　　家　英国/法国/德国<br />
+	◎类　　别　惊悚<br />
+	◎语　　言　英语/俄语/匈牙利语/法语<br />
+	◎字　　幕　中字<br />
+	◎IMDB评分 7.7/10 from 9,017 users<br />
+	◎IMDB链接 <a href="http://www.imdb.com/title/tt1340800">http://www.imdb.com/title/tt1340800</a><br />
+	◎文件格式　XviD + AC3<br />
+	◎视频尺寸　1280 x 720<br />
+	◎文件大小　1CD 530MB<br />
+	◎片　　长　127 mins<br />
+	◎导　　演　托马斯&middot;阿尔弗莱德森 Tomas Alfredson<br />
+	◎主　　演　加里&middot;奥德曼 Gary Oldman&nbsp; &hellip;.George Smiley<br />
+	　　　　　　科林&middot;费斯 Colin Firth&nbsp; &hellip;.Bill Haydon<br />
+	　　　　　　本尼迪克特&middot;康伯巴奇 Benedict Cumberbatch&nbsp; &hellip;.Peter Guillam<br />
+	　　　　　　布兰卡&middot;苏亚雷兹 Blanca Su&aacute;rez&nbsp; &hellip;.Norma<br />
+	　　　　　　汤姆&middot;哈迪 Tom Hardy&nbsp; &hellip;.Ricki Tarr<br />
+	　　　　　　马克&middot;斯特朗 Mark Strong&nbsp; &hellip;.Jim Prideaux<br />
+	　　　　　　芭芭拉&middot;蓝妮 B&aacute;rbara Lennie<br />
+	　　　　　　约翰&middot;赫特 John Hurt&nbsp; &hellip;.Control</p>
+
+<p>
+	◎简　　介　</p>
+<p>
+	　　《锅匠，裁缝，士兵，间谍》这个名称实际上是来自英国民间的&ldquo;鹅妈妈童谣集&rdquo;。故事背景设定在冷战时期。英国的情报组织&ldquo;圆场&rdquo;和俄国的间谍机构&ldquo;中心&rdquo;都活跃在世界的间谍网中。当时&rdquo;中心&rdquo;的头子卡拉很有心机地在圆场内部埋伏了一枚棋子，这名掩藏很深的&ldquo;地鼠&rdquo;作为双面间谍位居圆场要职，有五个高层人士是最具嫌疑的。他们被上一任已经去世的圆场首长&ldquo;老总&rdquo;讽刺地用童谣中的&ldquo;锅匠，裁缝，士兵，穷人，乞丐&rdquo;作为代号。<br />
+	　　当时已经离开圆场，过着难耐的被迫退休生活的乔治&middot;史迈利（加里&middot;奥德曼 Gary Oldman 饰）本是被嫌疑的对象&ldquo;乞丐&rdquo;，但老总死后这件事的调查便断了线。一日，当现已成为行动组-剥头皮组头目的彼得&middot;吉勒姆（本尼迪克特&middot;康伯巴奇 Benedict Cumberbatch 饰）来找他，并和他以及英国内阁办公室专门负责谍报事务的总监督拉康一起，听了一位精明的外勤人员里基&middot;塔尔（汤姆&middot;哈迪 Tom Hardy 饰）在一次行动中意外从俄方得知的情报后，圆场有内鬼这件本被人认为是子虚乌有、老总在重病中多疑的顾虑被证实。史迈利也奉命出山，锅匠-如今的圆场老大阿勒莱恩（托比&middot;琼斯 Toby Jones 饰），裁缝-风流才子比尔&middot;海顿（柯林&middot;菲尔斯 Colin Firth 饰），士兵-掌管东欧事务的资深间谍罗埃&middot;布兰德（塞伦&middot;希德 Ciar&aacute;n Hinds 饰），穷人-后勤部门点路灯组组长托比&middot;伊斯特哈斯（大卫&middot;丹席克 David Dencik 饰）&hellip;&hellip;在这四人之中，究竟谁是背叛国家和自我的双重罪人呢？</p>
+<p>
+	<img alt="" src="http://img165.poco.cn/mypoco/myphoto/20120114/21/62564813201201142113492974997120644_003.jpg" style="width: 720px; height: 405px" /><img alt="" src="http://img165.poco.cn/mypoco/myphoto/20120114/21/62564813201201142113492974997120644_002.jpg" style="width: 720px; height: 405px" /><img alt="" src="http://img165.poco.cn/mypoco/myphoto/20120114/21/62564813201201142113492974997120644_001.jpg" style="width: 720px; height: 405px" /><img alt="" src="http://img165.poco.cn/mypoco/myphoto/20120114/21/62564813201201142113492974997120644_000.jpg" style="width: 720px; height: 405px" /></p>
+
+<p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" />&nbsp;&nbsp;&nbsp;</p>
+
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="&#13;&#10;ftp://dy125:piaohua@dy125.piaohua.com:7388/飘花电影piaohua.com锅匠裁缝士兵间谍DVD中字.rmvb">ftp://dy125:piaohua@dy125.piaohua.com:7388/飘花电影piaohua.com锅匠裁缝士兵间谍DVD中字.rmvb</a></td>
+		</tr>
+	</tbody><td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="&#13;&#10;ftp://dy125:piaohua@dy125.piaohua.com:7505/飘花电影piaohua.com锅匠裁缝士兵间谍BD中字1280高清.rmvb">ftp://dy125:piaohua@dy125.piaohua.com:7505/飘花电影piaohua.com锅匠裁缝士兵间谍BD中字1280高清.rmvb</a></td>
+
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O16053H0-35I5.jpg{/dede:field}

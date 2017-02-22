@@ -1,0 +1,9 @@
+{dede:field name='keywords'}香港回归十周年文艺晚会(四大天{/dede:field}
+{dede:field name='description'}香港回归十周年文艺晚会(四大天王齐上阵)迅雷下载、免费下载，香港回归十周年文艺晚会(四大天王齐上阵)Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}香港回归十周年文艺晚会(四大天王齐上阵){/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-07-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP42Q50-4Q27.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}荒岛情未了BD国语中字1280高清20{/dede:field}
+{dede:field name='description'}荒岛情未了BD国语中字1280高清2012中国悬疑惊悚大片迅雷下载、免费下载，荒岛情未了BD国语中字1280高清2012中国悬疑惊悚大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}荒岛情未了BD国语中字1280高清2012中国悬疑惊悚大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3216/飘花电影piaohua.com荒岛情未了DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPE2R0-41G3.jpg{/dede:field}

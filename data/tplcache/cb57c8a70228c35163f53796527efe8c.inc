@@ -1,0 +1,9 @@
+{dede:field name='keywords'}冤家父子迅雷下载，免费下载，Gv{/dede:field}
+{dede:field name='description'}冤家父子迅雷下载、免费下载，冤家父子Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}冤家父子{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP394350-132W.jpg{/dede:field}

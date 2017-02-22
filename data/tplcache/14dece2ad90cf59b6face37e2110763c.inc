@@ -1,0 +1,9 @@
+{dede:field name='keywords'}神秘起源：DC漫画的故事DVD中英{/dede:field}
+{dede:field name='description'}神秘起源：DC漫画的故事DVD中英双字迅雷下载、免费下载，神秘起源：DC漫画的故事DVD中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}神秘起源：DC漫画的故事DVD中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy172:piaohua@dy172.piaohua.com:200/飘花电影piaohua.com神秘起源.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4R050-491G.jpg{/dede:field}

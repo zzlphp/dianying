@@ -1,0 +1,9 @@
+{dede:field name='keywords'}摔角王/摔角手/拼命战羊BD1280高{/dede:field}
+{dede:field name='description'}摔角王/摔角手/拼命战羊BD1280高清迅雷下载、免费下载，摔角王/摔角手/拼命战羊BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}摔角王/摔角手/拼命战羊BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7838/飘花电影piaohua.com摔角王BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP22PP-24120.jpg{/dede:field}

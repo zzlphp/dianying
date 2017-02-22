@@ -1,0 +1,9 @@
+{dede:field name='keywords'}超人总动员BD英国粤台四语中英字{/dede:field}
+{dede:field name='description'}超人总动员BD英国粤台四语中英字幕1024高清经典动画迅雷下载、免费下载，超人总动员BD英国粤台四语中英字幕1024高清经典动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}超人总动员BD英国粤台四语中英字幕1024高清经典动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-31{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1438/飘花电影piaohua.com超人总动员BD英国粤台四语中英字幕1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1L540-41310.jpg{/dede:field}

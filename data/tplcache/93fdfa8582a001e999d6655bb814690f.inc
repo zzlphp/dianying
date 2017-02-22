@@ -1,0 +1,9 @@
+{dede:field name='keywords'}惊异大奇航BD中英双字1280高清经{/dede:field}
+{dede:field name='description'}惊异大奇航BD中英双字1280高清经典科幻喜剧迅雷下载、免费下载，惊异大奇航BD中英双字1280高清经典科幻喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}惊异大奇航BD中英双字1280高清经典科幻喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1815/飘花电影piaohua.com惊异大奇航BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO94MZ-43496.jpg{/dede:field}

@@ -1,0 +1,170 @@
+{dede:field name='keywords'}电子情书BD中英双字1024/1280高{/dede:field}
+{dede:field name='description'}电子情书BD中英双字1024/1280高清经典爱情喜剧迅雷下载、免费下载，电子情书BD中英双字1024/1280高清经典爱情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}电子情书BD中英双字1024/1280高清经典爱情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-13{/dede:field}
+{dede:field name='body'}<p>
+	<img border="0" onclick="if(this.parentNode.tagName!='A'&amp;&amp;this.width&gt;=750) window.open('http://i.imgur.com/gsfAH.jpg');" onload="if(this.offsetWidth&gt;'750')this.width='750';" src="http://i.imgur.com/gsfAH.jpg" /></p>
+<p>
+	<img border="0" onclick="if(this.parentNode.tagName!='A'&amp;&amp;this.width&gt;=750) window.open('http://i.imgur.com/BSqHh.jpg');" onload="if(this.offsetWidth&gt;'750')this.width='750';" src="http://i.imgur.com/BSqHh.jpg" /></p>
+<p>
+	◎译&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 名&nbsp; 电子情书<br />
+	◎片&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 名&nbsp; You&#39;ve Got Mail<br />
+	◎别&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 名&nbsp; 网上情缘 / 有你的信 / E-mail情缘<br />
+	◎年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 代&nbsp; 1998<br />
+	◎国&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 家&nbsp; 美国<br />
+	◎类&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 别&nbsp; 爱情片<br />
+	◎语&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 言&nbsp; 英语<br />
+	◎字&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 幕&nbsp; 中英双语&nbsp;<br />
+	◎IMDB评分&nbsp; <a href="http://www.imdb.com/title/tt0128853/">http://www.imdb.com/title/tt0128853/</a><br />
+	◎IMDB链接&nbsp; 6.3/10 (59281 票)<br />
+	◎片&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 长&nbsp; 119 分钟<br />
+	◎文件大小&nbsp;&nbsp; 1.81G<br />
+	◎格&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 式&nbsp; mkv, x264<br />
+	◎片&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 源&nbsp; You&#39;ve.Got.Mail.1998.BluRay.720p.DTS.x264-CHD<br />
+	◎分&nbsp;&nbsp; 辨&nbsp; 率&nbsp; 1024 X 576<br />
+	◎导&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 演&nbsp; 诺拉&middot;艾芙隆 Nora Ephron<br />
+	◎主&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 演&nbsp; 汤姆&middot;汉克斯 Tom Hanks ....Joe Fox<br />
+	　　　　　　梅格&middot;瑞恩 Meg Ryan ....Kathleen Kelly<br />
+	　　　　　　格雷戈&middot;金尼尔 Greg Kinnear ....Frank Navasky<br />
+	　　　　　　帕克&middot;波西 Parker Posey ....Patricia Eden<br />
+	　　　　　　史蒂夫&middot;茨恩 Steve Zahn ....George Pappas<br />
+	　　　　　　达布尼&middot;柯尔曼 Dabney Coleman ....Nelson Fox<br />
+	　　　　　　黛伯拉&middot;拉什 Deborah Rush ....Veronica Grant<br />
+	　　　　　　布鲁斯&middot;杰&middot;弗里德曼 Bruce Jay Friedman ....Vince Mancini<br />
+	　　　　　　蕾可&middot;艾尔丝沃斯 Reiko Aylesworth ....Thanksgiving Guest<br />
+	　　　　　　克里斯&middot;梅西纳 Chris Messina ....Fox Salesperson<br />
+	　　　　　　简&middot;亚当斯 Jane Adams ....Sydney Anne (uncredited)<br />
+	　　　　　　基甸&middot;雅各布斯 Gideon Jacobs ....Young Joe Fox (uncredited)<br />
+	　　　　　　斯科特&middot;沃克&middot;茂林 Scott Walker Mullin ....Male Runner (uncredited)<br />
+	　　　　　　Jean Stapleton ....Birdie Conrad<br />
+	　　　　　　Heather Burns ....Christina Plutzker<br />
+	　　　　　　David Chappelle ....Kevin Jackson<br />
+	　　　　　　John Randolph ....Schuyler Fox<br />
+	　　　　　　Hallee Hirsh ....Annabelle Fox<br />
+	　　　　　　Jeffrey Scaperrotta ....Matthew &#39;Matt&#39; Fox<br />
+	　　　　　　Cara Seymour ....Gillian Quinn<br />
+	　　　　　　凯蒂&middot;芬内朗 Katie Finneran ....Maureen, the Nanny<br />
+	　　　　　　Michael Badalucco ....Charlie<br />
+	　　　　　　Veanne Cox ....Miranda Margulies<br />
+	　　　　　　莎拉&middot;拉米尔兹 Sara Ramirez ....Rose, Zabar&#39;s Cashier<br />
+	　　　　　　Howard Spiegel ....Henry, Zabar&#39;s Shopper<br />
+	　　　　　　Diane Sokolow ....Zabar&#39;s Shopper<br />
+	　　　　　　Julie Kass ....Zabar&#39;s Shopper<br />
+	　　　　　　Kathryn Meisle ....Cecilia Kelly<br />
+	　　　　　　Nina Zoie Lam ....T.V. Reporter<br />
+	　　　　　　Maggie Murphy ....Theater Patron<br />
+	　　　　　　Michelle Blakely ....Shopper<br />
+	　　　　　　Meredith White ....Shopper<br />
+	　　　　　　Dianne Dreyer ....Shopper<br />
+	　　　　　　Julie Galdieri ....Shopper<br />
+	　　　　　　Leila Nichols ....Shopper<br />
+	　　　　　　Mary A. Kelly ....Fox Books Shopper (as Mary Kelly)<br />
+	　　　　　　Ronobir Lahiri ....Man at Cafe Lalo<br />
+	　　　　　　Andr&eacute; Sogliuzzo ....Waiter at Cafe Lalo<br />
+	　　　　　　Peter A. Mian ....Capeman<br />
+	　　　　　　Richard Cohen ....Starbucks Customer<br />
+	　　　　　　Enzo Angileri ....Starbucks Customer<br />
+	　　　　　　Nick Brown ....Juggler<br />
+	　　　　　　Ann Fleuchaus ....Sarah Mancini<br />
+	　　　　　　Neil Bonin ....Party Guest<br />
+	　　　　　　Bill McHugh ....Party Guest<br />
+	　　　　　　Santiago Quinones ....Decorator<br />
+	　　　　　　Lynn Grossman ....Yvette Fox<br />
+	　　　　　　Dolores Sirianni ....Mother of Twins<br />
+	　　　　　　Nicole Bernadette ....Florist<br />
+	　　　　　　Elwood Edwards ....Online &#39;You&#39;ve Got Mail&#39; Voice (voice) (uncredited)<br />
+	　　　　　　阿方索&middot;戈麦兹-瑞洪 Alfonso Gomez-Rejon ....Party guest (uncredited)<br />
+	　　　　　　布里克&middot;梅森 Brick Mason ....Woman Letting Joe Fox in (uncredited)<br />
+	　　　　　　Katie Sagona ....Young Kathleen Kelly (uncredited)</p>
+<p>
+	◎简&nbsp;&nbsp;&nbsp; 介</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 在纽约人文气息浓厚的上西区，凯萨琳&middot;凯莉（梅格&middot;莱恩饰）经营一家温馨的小书店，书店继承自母亲，已有四十年的历史，是附近街坊生活的一部份。没想到就在隔街，一家大型的连锁书店开张，各种折扣、多功能卖场大大危及到小店生意，而大书店的老板乔福斯（汤姆&middot;汉克斯饰）自然成为凯萨琳&middot;凯莉的眼中钉。</p>
+<p>
+	　　乔（汤姆&middot;汉克斯 Tom Hanks 饰）有一个能干的女友派翠西亚（派克&middot;波西饰），凯萨琳&middot;凯莉也有一个匹配的男友法兰克（葛瑞格&middot;金尼尔饰）。他们原以为已找到人生伴侣，虽然两人白天时时斗法，但却是夜深人静时电子邮件的最佳笔友。</p>
+<p>
+	　　两人在电脑中互通心事时，殊不知对方就是平时自己最憎恨的人。这对网路恋人在结束各自的恋情后，终于协议要见面了。但好奇的本性驱使乔怂恿自己的好友先去约好的地点偷看一眼，结果发现，心仪的网路情人，竟是死对头凯萨琳。当然乔并无赴约，让面临关门大吉又无人可靠的凯萨琳怅然失落。但乔也开始从一个全新的角度去认识凯萨琳，只是，乔要如何让凯萨琳知道，其实他就是那位神秘网友。</p>
+<p>
+	<br />
+	◎一句话评论</p>
+<p>
+	&nbsp;&nbsp;&nbsp; Someone you pass on the street may already be the love of your life.</p>
+<p>
+	At odds in life... in love on-line.</p>
+<p>
+	一部充满幽默、浪漫和温暖的电影。</p>
+<p>
+	&mdash;&mdash;ReelViews</p>
+<p>
+	比《西雅图夜未眠》更优秀。</p>
+<p>
+	&mdash;&mdash;AboutFilm.com</p>
+<p>
+	动人的爱情喜剧，出色的约会电影。</p>
+<p>
+	&mdash;&mdash;《综艺》</p>
+<p>
+	◎幕后制作</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 在看过40年代的经典老片《街角商店》之后，执行制片朱莉&middot;德克(Julie Durk)产生了重拍该片的想法，她找到了制片人劳伦&middot;舒勒&middot;唐纳(Lauren Shuler Donner)，萌发兴趣的唐纳立即与制作《街角商店》的特纳电影公司(Turner Pictures)接洽，很快取得了改编拍摄权。</p>
+<p>
+	　　诺拉&middot;艾芙恩和迪莉亚&middot;艾芙恩是一对成功的影坛姊妹花，两人对《街角商店》心仪已久，得知本片的拍摄计划后，十分愿意担纲影片导演和编剧。</p>
+<p>
+	　　在《街角商店》中，詹姆斯&middot;斯图尔特与玛格里特&middot;苏利文是从笔友发展为恋人，而在本片中，现代版的两人是网友，互联网成了影片故事的重要背景，这个新潮创意是由制片人唐纳想出的。她说：&ldquo;在互联网上你可以直率的透露自己的隐私，你不会不安，因为彼此都是陌生人。我认为网络不但可以让你更深入的了解对方，而且关系发展要比现实中面对面接触迅速得多。&rdquo;当然，网络交流有很多明确的规则，大多数人都会遵守。比如说不能道出真正身份，这样不仅能保全自己，而且可以畅所欲言。</p>
+<p>
+	　　诺拉&middot;艾芙恩说：&ldquo;互联网看上去漫无边际，但和一座大都市一样，由一系列社区组成，所有人都有所关联。&rdquo;这感觉就像诺拉眼中的纽约上西区，影片故事就是在此发生。上西区是纽约城中设施完善并风格独特的著名社区，布满历史悠久的地标和喧闹繁华的建筑。其中的小店铺都有着几十年的历史，店主知道所有顾客的名字，而每个餐馆已经成为了人们生活规律的一部分。与此同时，新建的公寓楼和商业区不断拔地而起，争夺着空间和关注。作为上西区的长期居民，艾芙恩姐妹俩太熟悉这里了，她们试图展现出一个多层面的上西区。</p>
+<p>
+	　　迪莉亚&middot;艾芙恩一改《街角商店》中的杂货铺，而是让故事围绕两个书店展开。她说：&ldquo;书店早就不只是购买书籍的地方了，人们在书店中阅读、喝咖啡、约会，可以逗留良久。&rdquo;片中的两个书店是全然不同的，&ldquo;角落书店&rdquo;是一个小规模的童书店，有知识渊博、热爱书籍的店员，可爱的店主还会主持故事时间，不但博得了小顾客的喜爱，而且还是社区的重要组成部分；福克斯书店是庞大连锁书业的新成员，不仅书目更广泛、有价格折扣，而且提供咖啡，适合所有年龄段的顾客，并且气氛放松而融洽。</p>
+<p>
+	　　为了赋予影片独特的纽约风情，制作设计师丹&middot;戴维斯(Dan Davis)决定放弃摄影棚，改在纽约城中实景拍摄。片中的两个书店确实是在曼哈顿街头搭建的，其中福克斯书店的店面足以以假乱真，甚至有路人询问剧组人员新书店何时开张。</p>
+<p>
+	　　早在《西雅图夜未眠》中，导演诺拉&middot;艾芙恩就曾与汤姆&middot;汉克斯和梅格&middot;瑞安合作过，三人的再次合作让艾芙恩兴奋不已。她说：&ldquo;我的脑海中总会出现他们俩，创作喜剧时没法不想到他们，因为两人是如此优秀，适合出演喜剧的演员并不多，更别提能精彩演绎了。还有，你知道，很多夫妻都有夫妻相，而汤姆和梅格虽不是夫妻却也如出一辙，这对表现角色的情感关系很有帮助。&rdquo;</p>
+<p>
+	◎花&nbsp;&nbsp;&nbsp; 絮</p>
+<p>
+	&middot;本片是汤姆&middot;汉克斯同梅格&middot;瑞安的第三次合作，之前的两部影片是《跳火山的人》和《西雅图夜未眠》。</p>
+<p>
+	&middot;片中福克斯书店的原址是巴尼百货商店。</p>
+<p>
+	&middot;片中凯思琳&middot;凯丽的书店是基于曼哈顿Books of Wonder书店修建而成的，为了扮演角色，梅格&middot;瑞安曾在Books of Wonder书店作了一天店员。</p>
+<p>
+	&middot;片尾两人站在桥上时响起的歌曲《Somewhere Over the Rainbow》也曾出现在《西雅图夜未眠》中。</p>
+<p>
+	穿帮镜头</p>
+<p>
+	&middot;当乔和凯思琳坐在路边咖啡馆中时，推着橙色购物车的女人经过了两次。</p>
+<p>
+	<img border="0" onclick="if(this.parentNode.tagName!='A'&amp;&amp;this.width&gt;=750) window.open('http://i.imgur.com/jmMj2.jpg');" onload="if(this.offsetWidth&gt;'750')this.width='750';" src="http://i.imgur.com/jmMj2.jpg" width="750" /></p>
+<p>
+	<img border="0" onclick="if(this.parentNode.tagName!='A'&amp;&amp;this.width&gt;=750) window.open('http://i.imgur.com/rV7rv.jpg');" onload="if(this.offsetWidth&gt;'750')this.width='750';" src="http://i.imgur.com/rV7rv.jpg" width="750" /></p>
+<p>
+	&nbsp;<img border="0" onclick="if(this.parentNode.tagName!='A'&amp;&amp;this.width&gt;=750) window.open('http://i.imgur.com/49Iwh.jpg');" onload="if(this.offsetWidth&gt;'750')this.width='750';" src="http://i.imgur.com/49Iwh.jpg" width="750" /></p>
+<p>
+	[下载地址]： &nbsp;<img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" /></p>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy444:piaohua@dy444.piaohua.com:401/飘花电影piaohua.com电子情书1.81G双语字幕.mkv">ftp://dy444:piaohua@dy444.piaohua.com:401/飘花电影piaohua.com电子情书1.81G双语字幕.mkv</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2805/飘花电影piaohua.com电子情书BD中英双字1024高清.mkv">ftp://dy44:piaohua@dy44.piaohua.com:2805/飘花电影piaohua.com电子情书BD中英双字1024高清.mkv</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2805/飘花电影piaohua.com电子情书BD中英双字1280高清.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2805/飘花电影piaohua.com电子情书BD中英双字1280高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O15O3360-2SU.jpg{/dede:field}

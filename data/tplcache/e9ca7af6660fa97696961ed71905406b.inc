@@ -1,0 +1,9 @@
+{dede:field name='keywords'}洛克王国之圣龙骑士DVD中字2011{/dede:field}
+{dede:field name='description'}洛克王国之圣龙骑士DVD中字2011腾讯社区游戏改编大型魔幻动画片迅雷下载、免费下载，洛克王国之圣龙骑士DVD中字2011腾讯社区游戏改编大型魔幻动画片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}洛克王国之圣龙骑士DVD中字2011腾讯社区游戏改编大型魔幻动画片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1766/飘花电影piaohua.com洛克王国之圣龙骑士DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ194510-1PH.jpg{/dede:field}

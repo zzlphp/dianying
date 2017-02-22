@@ -1,0 +1,9 @@
+{dede:field name='keywords'}醉拳I,HD1280高清,成龙大哥经典{/dede:field}
+{dede:field name='description'}醉拳I HD1280高清 成龙大哥经典迅雷下载、免费下载，醉拳I HD1280高清 成龙大哥经典Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}醉拳I HD1280高清 成龙大哥经典{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2951P-22Y1.jpg{/dede:field}

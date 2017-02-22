@@ -1,0 +1,9 @@
+{dede:field name='keywords'}嫁个100分男人HD国语中字1024/12{/dede:field}
+{dede:field name='description'}嫁个100分男人HD国语中字1024/1280高清2012最新爱情喜剧迅雷下载、免费下载，嫁个100分男人HD国语中字1024/1280高清2012最新爱情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}嫁个100分男人HD国语中字1024/1280高清2012最新爱情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3032/飘花电影piaohua.com嫁个100分男人HD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOFW10-2O34.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}父辈的旗帜BD中英双字1024/1280{/dede:field}
+{dede:field name='description'}父辈的旗帜BD中英双字1024/1280高清经典战争剧情迅雷下载、免费下载，父辈的旗帜BD中英双字1024/1280高清经典战争剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}父辈的旗帜BD中英双字1024/1280高清经典战争剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3064/飘花电影piaohua.com父辈的旗帜BD中英双字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP1Q1F-3K12.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}我们约会吧迅雷下载，免费下载，{/dede:field}
+{dede:field name='description'}我们约会吧迅雷下载、免费下载，我们约会吧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}我们约会吧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4V20-26327.jpg{/dede:field}

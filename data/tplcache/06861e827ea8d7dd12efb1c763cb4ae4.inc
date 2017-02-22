@@ -1,0 +1,9 @@
+{dede:field name='keywords'}天国王朝导演剪辑版BD中英双字10{/dede:field}
+{dede:field name='description'}天国王朝导演剪辑版BD中英双字1024/1280高清经典战争剧情迅雷下载、免费下载，天国王朝导演剪辑版BD中英双字1024/1280高清经典战争剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天国王朝导演剪辑版BD中英双字1024/1280高清经典战争剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2359/飘花电影piaohua.com天国王朝导演剪辑版BD中英双字1024高清CD1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP5AM0-1P63.jpg{/dede:field}

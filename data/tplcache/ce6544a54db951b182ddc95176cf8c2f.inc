@@ -1,0 +1,9 @@
+{dede:field name='keywords'}天与地HD高清修正迅雷下载，免费{/dede:field}
+{dede:field name='description'}天与地HD高清修正迅雷下载、免费下载，天与地HD高清修正Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天与地HD高清修正{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2WF-49405.jpg{/dede:field}

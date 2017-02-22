@@ -1,0 +1,9 @@
+{dede:field name='keywords'}直到遇见你BD1024中文字幕迅雷下{/dede:field}
+{dede:field name='description'}直到遇见你BD1024中文字幕迅雷下载、免费下载，直到遇见你BD1024中文字幕Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}直到遇见你BD1024中文字幕{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2173/飘花电影piaohua.com直到遇见你DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOL6020-13C9.jpg{/dede:field}

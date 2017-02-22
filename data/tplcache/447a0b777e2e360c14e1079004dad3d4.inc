@@ -1,0 +1,9 @@
+{dede:field name='keywords'}灵异隧道实录HD高清版BD中字2011{/dede:field}
+{dede:field name='description'}灵异隧道实录HD高清版BD中字2011澳大利亚恐怖迅雷下载、免费下载，灵异隧道实录HD高清版BD中字2011澳大利亚恐怖Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}灵异隧道实录HD高清版BD中字2011澳大利亚恐怖{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2509/飘花电影piaohua.com灵异隧道实录HD高清版BD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPO5640-525Z.jpg{/dede:field}

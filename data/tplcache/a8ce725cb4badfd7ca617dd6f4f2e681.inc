@@ -1,0 +1,9 @@
+{dede:field name='keywords'}战栗航班93迅雷下载，免费下载，{/dede:field}
+{dede:field name='description'}战栗航班93迅雷下载、免费下载，战栗航班93Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}战栗航班93{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-12-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPSE10-1a30.jpg{/dede:field}

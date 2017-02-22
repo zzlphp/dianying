@@ -1,0 +1,9 @@
+{dede:field name='keywords'}混蛋DVD中字2012最新美国R级动作{/dede:field}
+{dede:field name='description'}混蛋DVD中字2012最新美国R级动作大片迅雷下载、免费下载，混蛋DVD中字2012最新美国R级动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}混蛋DVD中字2012最新美国R级动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3284/飘花电影piaohua.com混蛋DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4122F-551T.jpg{/dede:field}

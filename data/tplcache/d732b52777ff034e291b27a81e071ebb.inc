@@ -1,0 +1,9 @@
+{dede:field name='keywords'}爱啊哎呀，我愿意！国产剧24迅雷{/dede:field}
+{dede:field name='description'}爱啊哎呀，我愿意！国产剧24迅雷下载、免费下载，爱啊哎呀，我愿意！国产剧24Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}爱啊哎呀，我愿意！国产剧24{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3016/飘花电影piaohua.com爱啊哎呀，我愿意01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ025230-25W7.jpg{/dede:field}

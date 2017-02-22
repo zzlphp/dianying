@@ -1,0 +1,9 @@
+{dede:field name='keywords'}哥伦布怪圈高清1280版BD中字迅雷{/dede:field}
+{dede:field name='description'}哥伦布怪圈高清1280版BD中字迅雷下载、免费下载，哥伦布怪圈高清1280版BD中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}哥伦布怪圈高清1280版BD中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3000/飘花电影piaohua.com哥伦布怪圈DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP2ac0-252V.jpg{/dede:field}

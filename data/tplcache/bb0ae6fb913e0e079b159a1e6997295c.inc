@@ -1,0 +1,84 @@
+{dede:field name='keywords'}与罪犯的战争HD中字1024高清韩国{/dede:field}
+{dede:field name='description'}与罪犯的战争HD中字1024高清韩国2012动作剧情迅雷下载、免费下载，与罪犯的战争HD中字1024高清韩国2012动作剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}与罪犯的战争HD中字1024高清韩国2012动作剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-15{/dede:field}
+{dede:field name='body'}<p>
+	&nbsp;<img alt="" src="http://img170.poco.cn/mypoco/myphoto/20120414/23/64486803201204142355173558763743294_010.jpg" style="width: 600px; height: 855px" /></p>
+
+
+<p>
+	◎中 文 名　与罪犯的战争：坏人的巅峰时代<br />
+	◎英 文 名　War.With.Crime：Hey.Days.Of.Bastards<br />
+	◎原　　名　&#48276;&#51396;&#50752;&#51032; &#51204;&#51137; : &#45208;&#49244;&#45448;&#46308; &#51204;&#49457;&#49884;&#45824;&nbsp;&nbsp;&nbsp;<br />
+	◎年　　代　2012<br />
+	◎国　　家　犯罪/剧情&nbsp;<br />
+	◎片　　长　133分钟<br />
+	◎导　　演　尹钟彬 Jong-bin Yun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+	◎主　　演　崔岷植 Min-sik Choi<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 河正宇 Jung-woo Ha<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 赵镇雄 Jin-ung Jo<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 马东锡 Tong-Seok Ma<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 金英善 Yeong-seon Kim<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 金惠恩 Hye-eun Kim<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 郭道元 Do-won Gwak<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 金成钧 &#44608;&#49457;&#44512;</p>
+<p>
+	◎剧&nbsp;&nbsp;&nbsp;&nbsp; 情</p>
+<p>
+	<br />
+	&nbsp;&nbsp;&nbsp; 1982年，釜山。</p>
+<p>
+	　　靠收取走私者贿赂为生的海关税务官崔益贤面临失业危机，欲意在被炒之前大干一票。他特地联络上釜山最大黑道组织的年轻头目&mdash;&mdash;&ldquo;拳头老大&rdquo;崔相裴，意图携手一统釜山黑道。凭借卓越的应变能力和与生俱来的亲和力，崔益贤得到崔相裴的信任与器重，配合亲密无间，势力愈发无法阻挡。<br />
+	　　<br />
+	&nbsp;&nbsp;&nbsp; 进入90年代，为了肃清黑道势力时任总统卢泰愚宣布的10.13宣言，提出&ldquo;要与犯罪和暴力进行战争&rdquo;的政策。在警方扫荡犯罪势力的过程中，&ldquo;双崔&rdquo;间渐生嫌隙背叛，为了生存下去，两人展开了激烈的对决&hellip;&hellip;究竟谁能笑到最后？</p>
+<p>
+	◎幕后/花絮</p>
+<p>
+	<br />
+	　　黑色风云儿</p>
+<p>
+	　　进入上世纪80年代后，韩国进入朝气蓬勃的发展期，开创震惊世人的&ldquo;汉江奇迹&rdquo;。经济振兴的同时，社会治安也面临严峻考验，全国各地黑帮势力此起彼伏，火拼事件层出不穷，严重影响社会稳定。1990年，时任总统的卢泰愚毅然发表&ldquo;10&middot;13宣言&rdquo;，宣布&ldquo;与犯罪开战&rdquo;，加大对黑暗势力的打压力度，社会治安得到恢复，本土黑社会组织的嚣张气焰开始降温。亦有很多黑社会头目从此转向有着合法外衣的个人事业，如投资建筑拆迁行业，从中捞取利益。以前，在首尔地区有被称为&ldquo;三大家族&rdquo;的黑社会组织的头目也都基本上洗手不干，但各个地域的黑社会组织等仍然在当地活动。</p>
+<p>
+	　　影片正是截取了这一历史时期作为背景，讲述了釜山一带黑恶势力在内外夹击的生死关头面临的人性挑战。导演尹钟彬此前曾拍摄过《不可饶恕》、《野兽男孩》等影片，阳刚味十足，由擅驾驭充满暴力美学的男性作品。而自从《汉城大劫案》《卑劣的街头》《甜蜜的人生》《我的老婆是大佬》等片广获赞誉后，黑帮题材也被韩国影人玩得炉火纯青，除吸取港片、美片的长处外，还衍生出自己的&ldquo;韩式风味&rdquo;，将恩怨、血腥、暴力、粗口、动作，甚至爱情完美地糅合到一起，人物故事更加多棱、立体。《与犯罪的战争：坏家伙们的全盛时代》集韩式黑帮元素于一体，特别突出人物间的冲突和时代大背景烘托，在呈献刺激画面的同时也将一群无恶不作的&ldquo;坏蛋&rdquo;打造成了有血有肉的&ldquo;风云儿&rdquo;。</p>
+<p>
+	　　喋血双雄</p>
+<p>
+	　　好莱坞拍片有不成文的规定，凡是两位男性主角不外两种情况，要不旗鼓相当、都是大牌，要不便是戏骨提携新丁、老少搭配。本片显然更接近第二种组合，却又不尽然。崔岷植毋庸赘言，已是殿堂级人物，轻易不接片，接片必是佳品，但由于早前过分沉迷于对艺术片的钻研，也只拍了《看见恶魔》《鸡妈鸭仔》（配音）为数不多的商业片。因此《与犯罪的战争》应属其回归商业市场的一部力作。另一位男主角河正宇虽未有崔影帝资深，但早已不能归入新人行列，《追击者》《黄海》《国家代表》等片的成功以令其晋身最具票房保障的明星，而《时间》《呼吸》《爱，不爱》《第二次爱情》等作品又彰显其不俗的艺术表现力，使之成为忠武路商业片、艺术片的双料宠儿。此番，崔岷植+河正宇这对性格组合联手打造韩国黑帮时代最具震撼力的史诗，无论气场抑或刻画皆惟妙惟肖，被网友戏称为&ldquo;史上最不容错过的一场飙戏&rdquo;。</p>
+<p>
+	　　在公开的官方海报上，除了扮演&ldquo;说客之神&rdquo;且擅长装腔作势的崔岷植手握墨镜做出一副大佬派头，&ldquo;拳头老大&rdquo;河正宇面无表情却处处彰显性感权威外，两人身后还跟着由&ldquo;实力甘草&rdquo;曹振雄、马东硕、金圣均等人的一群&ldquo;恶棍&rdquo;，他们凶狠的表情不仅给人留下深刻印象，其自信满满又个性张扬的造型也展现出釜山黑道汉子为义气独尊的铁血作风。</p>
+<p>
+	&middot;本片已是导演尹钟彬和河正宇的第三次合作，前两次分别是 《不可饶恕》和《野兽男孩》。尹钟彬还是河正宇同一个大学的学弟。<br />
+	&middot;本片根据真实历史事件改编，主要黑社会头面人物确有原型。<br />
+	&middot;河正宇评价崔岷植的表演为&ldquo;经典&rdquo;，因对方在现场从来不说&ldquo;NO&rdquo;，也从来不&ldquo;吝惜&rdquo;自己的身体。&ldquo;戏中有多场被踩踏、殴打的场面，崔前辈毫不犹豫就答应了，都是50多岁的人了，却一点儿不含糊。&rdquo;<br />
+	&middot;影片上映首周以92万人次登顶票房冠军，这是崔岷植继2005年《哭泣的拳头》《亲切的金子》之后首个票房冠军。</p>
+<p>
+	&nbsp;<img alt="" height="400" src="http://img170.poco.cn/mypoco/myphoto/20120414/22/54726759201204142245583820562771441_001.jpg" width="720" /></p>
+<p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" />&nbsp;&nbsp;&nbsp;</p>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				在线观看地址：<a href="http://www.xiaozhizhu.netftp//dy44:piaohua@dy44.piaohua.com:3201/" target="_blank">http://www.xiaozhizhu.net</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3227/飘花电影piaohua.com与罪犯的战争.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3227/飘花电影piaohua.com与罪犯的战争.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3227/飘花电影piaohua.com与罪犯的战争HD1024高清.mkv">ftp://dy44:piaohua@dy44.piaohua.com:3227/飘花电影piaohua.com与罪犯的战争HD1024高清.mkv</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O15613c0-131D.jpg{/dede:field}

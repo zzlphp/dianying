@@ -1,0 +1,9 @@
+{dede:field name='keywords'}舌尖上的中国HD国语中字1280高清{/dede:field}
+{dede:field name='description'}舌尖上的中国HD国语中字1280高清062012纪录片迅雷下载、免费下载，舌尖上的中国HD国语中字1280高清062012纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}舌尖上的中国HD国语中字1280高清062012纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3462/飘花电影piaohua.com舌尖上的中国HD国语中字1280高清01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ446050-14140.jpg{/dede:field}

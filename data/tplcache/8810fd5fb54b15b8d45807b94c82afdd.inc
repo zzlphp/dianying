@@ -1,0 +1,9 @@
+{dede:field name='keywords'}极品妈妈/闪婚的代价国产剧28迅{/dede:field}
+{dede:field name='description'}极品妈妈/闪婚的代价国产剧28迅雷下载、免费下载，极品妈妈/闪婚的代价国产剧28Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}极品妈妈/闪婚的代价国产剧28{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3012/飘花电影piaohua.com闪婚的代价01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ011R0-2c50.jpg{/dede:field}

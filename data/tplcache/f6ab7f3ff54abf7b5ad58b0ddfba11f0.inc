@@ -1,0 +1,9 @@
+{dede:field name='keywords'}巴黎最后的探戈BD中英双字1024高{/dede:field}
+{dede:field name='description'}巴黎最后的探戈BD中英双字1024高清经典爱情剧情迅雷下载、免费下载，巴黎最后的探戈BD中英双字1024高清经典爱情剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}巴黎最后的探戈BD中英双字1024高清经典爱情剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3142/飘花电影piaohua.com巴黎最后的探戈BD中英双字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP209150-5B51.jpg{/dede:field}

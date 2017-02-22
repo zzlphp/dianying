@@ -1,0 +1,9 @@
+{dede:field name='keywords'}三尖树时代(三脚妖之日)高清1280{/dede:field}
+{dede:field name='description'}三尖树时代(三脚妖之日)高清1280版BD中字2010英国科幻恐怖动作大迅雷下载、免费下载，三尖树时代(三脚妖之日)高清1280版BD中字2010英国科幻恐怖动作大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}三尖树时代(三脚妖之日)高清1280版BD中字2010英国科幻恐怖动作大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2842/飘花电影piaohua.com三尖树时代(三脚妖之日)高清1280版BD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOX4E0-5D38.jpg{/dede:field}

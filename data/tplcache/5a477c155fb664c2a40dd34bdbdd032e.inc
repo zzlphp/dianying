@@ -1,0 +1,9 @@
+{dede:field name='keywords'}奋斗电影版HD国语中字1024高清20{/dede:field}
+{dede:field name='description'}奋斗电影版HD国语中字1024高清2011剧情迅雷下载、免费下载，奋斗电影版HD国语中字1024高清2011剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}奋斗电影版HD国语中字1024高清2011剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3094/飘花电影piaohua.com奋斗电影版HD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP192150-3J43.jpg{/dede:field}

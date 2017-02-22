@@ -1,0 +1,9 @@
+{dede:field name='keywords'}自然大事件HD中英双字1280高清BB{/dede:field}
+{dede:field name='description'}自然大事件HD中英双字1280高清BBC纪录片迅雷下载、免费下载，自然大事件HD中英双字1280高清BBC纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}自然大事件HD中英双字1280高清BBC纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2443/飘花电影piaohua.com自然大事件HD中英双字1280高清1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ393J0-5X60.jpg{/dede:field}

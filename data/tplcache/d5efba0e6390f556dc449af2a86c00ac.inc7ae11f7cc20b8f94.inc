@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","抓住外国佬/我如何度过假期DVD中",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","抓住外国佬/我如何度过假期DVD中字2012动作迅雷下载、免费下载，抓住外国佬/我如何度过假期DVD中字2012动作Gvod高清在线播放，剧情介绍等。",73,247);
+$z[1][4]['name']="description";
+$z[2]=Array("field","抓住外国佬/我如何度过假期DVD中字2012动作",249,327);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",329,368);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",370,409);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-15",411,461);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	&nbsp;<img alt=\"\" src=\"http://www.789dy.com/pic/uploadimg/2012-2/28129.jpg\" /></p>\r\n\r\n<p>\r\n	◎译　　名　抓住外国佬/我如何度过假期<br />\r\n	◎片　　名　Get the Gringo<br />\r\n	◎年　　代　2012<br />\r\n	◎国　　家　美国<br />\r\n	◎类　　别　动作/剧情<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中字<br />\r\n	◎IMDB评分 8.4/10 from 1,189 users<br />\r\n	◎文件格式　XviD + AC3<br />\r\n	◎视频尺寸　720 x 384<br />\r\n	◎文件大小　1CD<br />\r\n	◎片　　长　95 Mins<br />\r\n	◎导　　演　阿德里安&middot;格鲁伯格 Adrian Grunberg<br />\r\n	◎主　　演　梅尔&middot;吉布森 Mel Gibson ....Driver<br />\r\n	　　　　　　彼得&middot;斯特曼 Peter Stormare ....Frank<br />\r\n	　　　　　　迪恩&middot;诺里斯 Dean Norris ....Bill<br />\r\n	　　　　　　鲍勃&middot;冈顿 Bob Gunton ....Mr. Kaufmann<br />\r\n	　　　　　　斯科特&middot;科恩 Scott Cohen ....Frank&#39;s Lawyer<br />\r\n	　　　　　　帕特里克&middot;波查 Patrick Bauchau ....Surgeon<br />\r\n	　　　　　　Kevin Hernandez<br />\r\n	　　　　　　Stephanie Nicole Lemelin ....Frank&#39;s Lawyer&#39;s Secretary<br />\r\n	　　　　　　Tom Schanley ....Gregor<br />\r\n	　　　　　　Gustavo S&aacute;nchez Parra ....Size 11<br />\r\n	　　　　　　丹尼尔&middot;吉梅内斯&middot;卡乔 Daniel Gim&eacute;nez Cacho ....Javi<br />\r\n	　　　　　　德洛丽丝&middot;赫雷迪亚 Dolores Heredia ....TKM - The Kid&#39;s Mom<br />\r\n	　　　　　　Zak Charles Knutson ....Hitman 2<br />\r\n	　　　　　　杰苏斯&middot;欧乔阿 Jes&uacute;s Ochoa ....Caracas<br />\r\n	　　　　　　Tenoch Huerta ....Carlos<br />\r\n	　　　　　　Roberto Sosa ....Carnal<br />\r\n	　　　　　　Denise Gossett ....Mr. Kauffman&#39;s Secretary<br />\r\n	　　　　　　Sof&iacute;a Sisniega ....20 Year Old Bombshell<br />\r\n	　　　　　　Omar Ayala ....Police borther<br />\r\n	　　　　　　Jace Jeanes ....American Hitman<br />\r\n	　　　　　　Paloma Arredondo ....Woman renting tents<br />\r\n	　　　　　　Aaron Cohen ....Hitman<br />\r\n	　　　　　　Fernando Becerril ....Prison Director<br />\r\n	　　　　　　Aar&oacute;n Campos ....Another guy<br />\r\n	　　　　　　Blue Demon Jr.<br />\r\n	　　　　　　Dalibor Jajcanin ....Commanding officer<br />\r\n	　　　　　　Manuel Dom&iacute;nguez<br />\r\n	　　　　　　Boris Milaszenko ....Gringo<br />\r\n	　　　　　　Charlotte Biggs ....Store Patron (uncredited)<br />\r\n	　　　　　　Clayton J. Barber ....American hit man</p>\r\n<p>\r\n	<br />\r\n	◎简　　介　</p>\r\n<p>\r\n	&nbsp;&nbsp;&nbsp;&nbsp; 影片讲述了一个职业罪犯被墨西哥警方抓捕后送往一个充满毒品和犯罪的监狱，在一个9岁男孩的帮助下，他学会了如何在这样的监狱里生存下来。</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net/\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3425/飘花电影piaohua.com我如何度过假期DVD中字.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:3425/飘花电影piaohua.com我如何度过假期DVD中字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",463,3958);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15BWP-19227.jpg",3960,4042);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}突击2011DVD法语/中字迅雷下载，{/dede:field}
+{dede:field name='description'}突击2011DVD法语/中字迅雷下载、免费下载，突击2011DVD法语/中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}突击2011DVD法语/中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1060/飘花电影piaohua.com突击2011DVD法语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP510110-24616.jpg{/dede:field}

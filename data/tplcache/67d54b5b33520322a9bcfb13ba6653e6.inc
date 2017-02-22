@@ -1,0 +1,9 @@
+{dede:field name='keywords'}小婷DVD国语中字2011最新中国犯{/dede:field}
+{dede:field name='description'}小婷DVD国语中字2011最新中国犯罪悬疑爱情短片迅雷下载、免费下载，小婷DVD国语中字2011最新中国犯罪悬疑爱情短片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}小婷DVD国语中字2011最新中国犯罪悬疑爱情短片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2434/飘花电影piaohua.com小婷DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOO0c0-35627.jpg{/dede:field}

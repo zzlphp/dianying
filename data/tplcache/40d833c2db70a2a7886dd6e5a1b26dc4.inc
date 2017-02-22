@@ -1,0 +1,9 @@
+{dede:field name='keywords'}湖南卫视2012小年夜春晚（含倒计{/dede:field}
+{dede:field name='description'}湖南卫视2012小年夜春晚（含倒计时）高清无水印终极收藏版迅雷下载、免费下载，湖南卫视2012小年夜春晚（含倒计时）高清无水印终极收藏版Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}湖南卫视2012小年夜春晚（含倒计时）高清无水印终极收藏版{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2667/飘花电影piaohua.com湖南卫视2012小年夜春晚（含倒计时）高清无水印终极收藏版.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ40A30-1G45.jpg{/dede:field}

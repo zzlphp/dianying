@@ -1,0 +1,9 @@
+{dede:field name='keywords'}弗里达/挥洒烈爱/笔姬别恋BD高清{/dede:field}
+{dede:field name='description'}弗里达/挥洒烈爱/笔姬别恋BD高清迅雷下载、免费下载，弗里达/挥洒烈爱/笔姬别恋BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}弗里达/挥洒烈爱/笔姬别恋BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOM2Q0-43540.jpg{/dede:field}

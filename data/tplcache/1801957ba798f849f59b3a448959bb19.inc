@@ -1,0 +1,9 @@
+{dede:field name='keywords'}一年恋一天/一天的恋人/真爱挑日{/dede:field}
+{dede:field name='description'}一年恋一天/一天的恋人/真爱挑日子/情约1天BD高清迅雷下载、免费下载，一年恋一天/一天的恋人/真爱挑日子/情约1天BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}一年恋一天/一天的恋人/真爱挑日子/情约1天BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2113/飘花电影piaohua.com情约1天BD1024中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOL4160-5N00.jpg{/dede:field}

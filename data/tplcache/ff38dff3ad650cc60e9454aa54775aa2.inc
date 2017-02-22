@@ -1,0 +1,9 @@
+{dede:field name='keywords'}台湾惊点2D版BD1280高清迅雷下载{/dede:field}
+{dede:field name='description'}台湾惊点2D版BD1280高清迅雷下载、免费下载，台湾惊点2D版BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}台湾惊点2D版BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2042/小八戒电影xiaobajie.com台湾惊点2D版BD1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ433910-231U.jpg{/dede:field}

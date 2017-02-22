@@ -1,0 +1,9 @@
+{dede:field name='keywords'}亲爱的，你完了DVD中英双字2011{/dede:field}
+{dede:field name='description'}亲爱的，你完了DVD中英双字2011最新美国喜剧爱情大片迅雷下载、免费下载，亲爱的，你完了DVD中英双字2011最新美国喜剧爱情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}亲爱的，你完了DVD中英双字2011最新美国喜剧爱情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1355/飘花电影piaohua.com亲爱的，你完了DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO59420-515R.jpg{/dede:field}

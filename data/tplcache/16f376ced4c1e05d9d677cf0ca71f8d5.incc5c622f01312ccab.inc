@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","替身BD1280高清迅雷下载，免费下",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","替身BD1280高清迅雷下载、免费下载，替身BD1280高清Gvod高清在线播放，剧情介绍等。",73,195);
+$z[1][4]['name']="description";
+$z[2]=Array("field","替身BD1280高清",197,249);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",251,290);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",292,331);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-01-21",333,383);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120121/13/62564813201201211352151249719424584_000.jpg\" style=\"width: 650px; height: 831px\" /></p>\r\n<p>\r\n	【影片名称】：The Double &nbsp;<br />\r\n	【中文名称】：替身<br />\r\n	【年 &nbsp; &nbsp; &nbsp;代】：2011年<br />\r\n	【国家地区】：美国<br />\r\n	【语 &nbsp; &nbsp; &nbsp;言】：英语<br />\r\n	【类 &nbsp; &nbsp; &nbsp;别】：惊悚 / 犯罪 / 剧情 / 悬疑<br />\r\n	【片 &nbsp; &nbsp; &nbsp;长】：98 分钟<br />\r\n	【上映日期】：2011年9月23日 &nbsp;美国<br />\r\n	【IMDB链接】：<a href=\"http://www.imdb.com/title/tt1646980/\" target=\"_blank\">http://www.imdb.com/title/tt1646980/</a><br />\r\n	【IMDB评分】：5.9/10 from 481 users<br />\r\n	【导 &nbsp; &nbsp; &nbsp;演】：迈克尔&middot;布拉德特 Michael Brandt<br />\r\n	【编 &nbsp; &nbsp; &nbsp;剧】：迈克尔&middot;布拉德特 Michael Brandt &nbsp;....(written by) &amp;amp;<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;德里克&middot;哈斯 Derek Haas &nbsp;....(written by)<br />\r\n	【主 &nbsp; &nbsp; &nbsp;演】：托弗&middot;戈瑞斯 Topher Grace<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;理查&middot;基尔 Richard Gere<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;马丁&middot;辛 Martin Sheen<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;奥黛塔&middot;安纳布尔 Odette Annable &nbsp;....(as Odette Yustman)<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;史蒂芬&middot;莫耶 Stephen Moyer<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;斯坦娜&middot;卡蒂克 Stana Katic<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;克里斯&middot;马奎特 Chris Marquette<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;塔梅尔&middot;哈桑 Tamer Hassan &nbsp;....Boz<br />\r\n	<br />\r\n	<br />\r\n	※※※※※※※　剧情简介　※※※※※※※<br />\r\n	<br />\r\n	&nbsp; &nbsp; &nbsp; 一名美国议员被杀，凶手怀疑是一位消失以久的苏联杀手。理查&middot;基尔扮演的退休CIA特工重新出山，与托弗&middot;格瑞斯扮演的FBI探员一起调查这起命案。<br />\r\n	&nbsp;<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120121/13/62564813201201211352151249719424584_004.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120121/13/62564813201201211352151249719424584_003.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120121/13/62564813201201211352151249719424584_002.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120121/13/62564813201201211352151249719424584_001.jpg\" style=\"width: 720px; height: 405px\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"&#13;&#10;ftp://dy125:piaohua@dy125.piaohua.com:7527/飘花电影piaohua.com替身BD中字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:7527/飘花电影piaohua.com替身BD中字1280高清.rmvb </a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",385,3864);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O16054a0-55636.jpg",3866,3950);
+$z[7][4]['name']="litpic";
+
+?>

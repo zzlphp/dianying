@@ -1,0 +1,9 @@
+{dede:field name='keywords'}快乐大本营-20111203迅雷下载，{/dede:field}
+{dede:field name='description'}快乐大本营-20111203迅雷下载、免费下载，快乐大本营-20111203Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}快乐大本营-20111203{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1047/飘花电影piaohua.com快乐大本营-20110514.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3Y350-54560.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}ÄªÂŞ×¯Ô°/ÄªÂŞ¾Æ×¯DVDÖĞÓ¢Ë«×Ö20{/dede:field}
+{dede:field name='description'}ÄªÂŞ×¯Ô°/ÄªÂŞ¾Æ×¯DVDÖĞÓ¢Ë«×Ö2011°®Çé¾çÇéÑ¸À×ÏÂÔØ¡¢Ãâ·ÑÏÂÔØ£¬ÄªÂŞ×¯Ô°/ÄªÂŞ¾Æ×¯DVDÖĞÓ¢Ë«×Ö2011°®Çé¾çÇéGvod¸ßÇåÔÚÏß²¥·Å£¬¾çÇé½éÉÜµÈ¡£{/dede:field}
+{dede:field name='title'}ÄªÂŞ×¯Ô°/ÄªÂŞ¾Æ×¯DVDÖĞÓ¢Ë«×Ö2011°®Çé¾çÇé{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2782/Æ®»¨µçÓ°piaohua.comÄªÂŞ¾Æ×¯DVDÖĞÓ¢Ë«×Ö.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOT1110-4OB.jpg{/dede:field}

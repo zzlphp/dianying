@@ -1,0 +1,196 @@
+{dede:field name='keywords'}午夜凶铃BD1280高清中字迅雷下载{/dede:field}
+{dede:field name='description'}午夜凶铃BD1280高清中字迅雷下载、免费下载，午夜凶铃BD1280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}午夜凶铃BD1280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://img170.poco.cn/mypoco/myphoto/20120511/00/17870980201205110017252307006446309_000.jpg" style="width: 430px; height: 610px" /></p>
+<p>
+	◎译　　名: 午夜凶铃<br />
+	◎片　　名: Ring<br />
+	◎别　　名: 七夜怪谈/午夜凶灵<br />
+	◎年　　代: 1998年<br />
+	◎国　　家: 日本<br />
+	◎类　　别: 恐怖/惊怵/神秘<br />
+	◎语　　言: 日语<br />
+	◎IMDB评分: 7.4/10 (19,909 votes)<br />
+	◎IMDB链接: <a href="http://www.bluemv.com">http://www.bluemv.com</a><br />
+	◎片　　长: 96 Mins<br />
+	◎导　　演: 中田秀夫 Hideo Nakata<br />
+	◎主　　演: 松岛菜菜子 Nanako Matsushima ... Reiko Asakawa<br />
+	　　　　　&nbsp;&nbsp;中谷美纪 Miki Nakatani ... Mai Takano<br />
+	　　　　　&nbsp;&nbsp;竹内结子 Y&ucirc;ko Takeuchi ... Tomoko &Ocirc;ishi<br />
+	　　　　　&nbsp;&nbsp;佐藤仁美 Hitomi Sat&ocirc; ... Masami<br />
+	　　　　　&nbsp;&nbsp;Y&ocirc;ichi Numata ... Takashi Yamamura<br />
+	　　　　　&nbsp;&nbsp;松重丰 Yutaka Matsushige ... Yoshino<br />
+	　　　　　&nbsp;&nbsp;Katsumi Muramatsu ... K&ocirc;ichi Asakawa<br />
+	　　　　　&nbsp;&nbsp;Rikiya &Ocirc;taka ... Y&ocirc;ichi Asakawa<br />
+	　　　　　&nbsp;&nbsp;安绮珍儿 Masako ... Shizuko Yamamura<br />
+	　　　　　&nbsp;&nbsp;Daisuke Ban ... Heihachir&ocirc; Ikuma<br />
+	　　　　　&nbsp;&nbsp;Hiroshi Sakuma ... Komiya Kameraman (as Kanehiro Ri)<br />
+	　　　　　&nbsp;&nbsp;Y&ucirc;rei Yanagi ... AD Okazaki<br />
+	　　　　　&nbsp;&nbsp;Y&ocirc;ko &Ocirc;shima ... Reiko no Oba<br />
+	　　　　　&nbsp;&nbsp;Kiriko Shimizu ... Yoshimi &Ocirc;ishi<br />
+	　　　　　&nbsp;&nbsp;Makoto Kakeda ... Kanrinin<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;《午夜凶铃》（日文：リング）是日本一套悬疑惊栗电影，改编自铃木光司的同名小说。该片于1998年上映，由中田秀夫执导。包括同名的系列电影及图书等。<br />
+	<br />
+	【剧情简介】<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;高中生友子和同学共同看了一盘来历不明的录像带，七天后，她和她的同学相继死去，这引起了女记者浅川的关注，她决定调查这件事件的源头和原因。浅川了解到友子死前曾看过一盘录像带因过分恐怖而住了院，于是她找到了他们看录像带的那家旅店，果真看到有一盘没有名字的录像带。浅川于是打开了录像机&hellip;&hellip; 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;浅川的前夫高山此时来到了她的身边，并且复制了一盘录像带决定和她一起研究。而此时他们只有七天的生存时间，他们将面临什么样的惊人秘密，他们能够在有限的七天时间里揭开这个录像带之迷吗&hellip;&hellip;？ 　　<br />
+	<br />
+	【剧情详解】<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;四名学生看了录象，七天后死亡，这引起了记者浅川的注意,在经过一番调查后，浅川找到了那盒录像带，并且看了，她相信了看过录像带的人七天后就会死去，为了挽回自己的生命，为了了解事实的真相，她找到了她的前夫，高山龙司，并且拷贝了录象给他研究，通过录像带里隐藏的方言以及上面报纸的影象，他们找到了录像带的出处，在这时，浅川的儿子在不明力量的指示下看了录象。他们去了伊豆大岛，在那里了解到是一个有超能力的女孩用意念录下来的，其中都是女孩的怨愤，他们认为只要找到女孩的尸体就可以化解诅咒，他们在四名学生看录象的小屋下找到了那口井，找到了女孩的尸体。可是第二天龙司仍然死了，在龙司力量的提示下，浅川知道了可以真正解除诅咒的方法，就是将录象复制给别人看，为了救自己儿子她决定将录象给自己爸爸看。 　　<br />
+	<br />
+	【银幕编絮】<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;《午夜凶铃》改编自日本著名作家铃木光司的作品《七夜怪谈》，这是一部一气呵成绝无冷场的恐怖电影，全片100分钟。其剧情不是血淋淋的恐怖，而是通过制造悬疑气氛抓住观众的心情，并产生幻想，再加上出色的恐怖音效，令观众在观看时紧张的喘不过气来。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;这部影片98年七月在香港上映时，以总收三千一百万港币成为98年香港目前为止最高票房电影，打破贺岁片《喜剧之王》及《玻璃樽》纪录，连《星球大战首部曲》也难与之匹敌。喜爱恐怖片的朋友，这部影片不能不看！<br />
+	<br />
+	【现实原型】<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;影片中受诅咒的录影带画面给人不祥感觉，出现了好像贞子从井底抬头向上望的模样，断断续续的粗糙影像，仿佛初学摄影者般的构图，既稚拙又复杂的画面完全没有电影符号学的脉络可寻，这加深坐在戏院椅子上观众心中莫名的恐惧；当观众随著贞子从井底往上看时，贞子眼里看到的男人，竟是狠心把自己女儿贞子推下井底的伊熊博士。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;据《午夜凶铃》编导高桥洋说，原来诅咒录影带画面上的影像，并非透过摄影镜头拍摄，而是利用特摄，活生生映写在胶卷上的灵异画面，不用摄影镜头而能将心中所想的画面投映至底片的透摄超能力，源自于日本明治时期，御船千鹤子及长尾郁子二位真实存在的透视特异功能者，生于明治19年的御船千鹤子，在日本有千里眼千鹤子之称而闻名，她因为哥哥的一场诱导催眠实验，而在明治41年夏天，利用透视找到一只掉入海中的金戒指而声名大噪，御船千鹤子这一段传闻在电影里，也被改编用在能和海怪交谈的山村志津子身上。 　　<br />
+	&nbsp; &nbsp;&nbsp;&nbsp;<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;早期研究日本灵异现象的佼佼者福来有吉博士，也因为与御船千鹤子接触而成为话题人物；他为了证明世界上有特异能力的存在，不惜在御船千鹤子身上下工夫，把她拿来当做自己的最佳实验战利品，让御船千鹤子成为媒体瞩目焦点，一场明治43年9月15日在数百学者面前的实验，御船千鹤子在毫无被告知的情形之下，自己从一千个文字当中挑三至五个单字，然后再去对照学者所准备的五十组成语，她利用透视三次均成功地答对单字，让现场所有人傻眼，但是因为她是背对所有人而让人怀疑她的手去动了手脚，隔日惨遭报纸指称她为诈欺师，年芳廿五岁千鹤子因为受不了媒体批判，忿而饮药自杀。&nbsp;&nbsp;<br />
+	<br />
+	　　&nbsp; &nbsp;&nbsp;&nbsp;另一位长尾郁子则是日本首位能利用特异功能，将自己脑里所想画面及文字投摄在影像底片上的传奇人物，福来博士在御船千鹤子的实验失败后，于明治43年找上了当时39岁的长尾郁子，郁子也是经由福来博士的种种实验宣嚷，在媒体面前展现多次不可思议的特异能力，但是也在明治44年1月8日一次实验上的手法遭人侧议，同年二月因为受不了心脏病疾之苦，而步上御船千鹤子后尘。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;电影《午夜凶铃》里的贞子，虽然在日本近代史记里并未留下任何相关文献，但是可以隐约旁敲得出来，贞子是极为接近这二位曾呼风唤雨的传奇人物的结合，若是如此，电影里将贞子推下井底的伊熊博士，便是携摩自游走于御船千鹤子和长尾郁子之间的福来友吉博士为原始角色。<br />
+	<br />
+	【编年史】<br />
+	　　<br />
+	以下内容以小说内容为准<br />
+	<br />
+	　　&nbsp; &nbsp;1946年志津子从海中打捞出役小角的石像，获得超能力。时年21岁<br />
+	　　<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1947年志津子离开伊豆前往东京。并结识T大学精神科副教授伊熊平八郎。同年生下贞子 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1950年志津子和伊熊平八郎公开超能力实验成果。引起广泛关注 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1954年志津子生下一个男孩儿，4个月后夭折 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1955年公开超能力实验失败，伊熊平八郎离开T大进入深山修炼，后因肺结核进入南箱根疗养院治疗 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1956年志津子带贞子回到伊豆，后因精神失常跳入三原山自杀。贞子预测三原山在第二年会爆发 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1957年三原山爆发 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1958年8月29日 三浦哲三博士将贞子收入超能力者档案 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1965年2月 贞子高中毕业后加入飞翔剧团，并与远山博相识，相恋 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1966年3月 贞子出演&ldquo;穿着黑衣的少女&rdquo;。后重森勇作死于心脏麻痹，贞子离开飞翔剧团，两个月后远山也离开剧团。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1966年夏天 贞子死在南箱根疗养院附近的井中。不久伊熊平八郎死于肺结核。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1972年 南箱根疗养院关闭。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1975年 修建南箱根太平洋休闲俱乐部。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年8月26日20时 录像带录下了咒文。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年8月29日 大石智子、岩田秀一、辻遥子、能美武彦观看了录像带。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年9月5日22时49分 四人同时死亡。<br />
+	　　<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年9月底 浅川和行开始调查。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月11日晚 浅川进入太平洋俱乐部。22时8分看完录像带。<br />
+	　　<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月12日19时20分 浅川和高山龙司见面。21时49分龙司看完录像带。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月14日10时30分左右 浅川静与阳子看完录像带。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月15日 浅川和龙司到达三浦哲三纪念馆并找到贞子的档案。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月16日11时15分左右 浅川和龙司到达伊豆大岛差木地并住入山村敬的旅馆。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月18日上午 浅川和龙司回到热海找到长尾城太郎。22时左右，在B4号房间底下井中挖出贞子的骸骨。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月19日 浅川将贞子的骸骨交还给山村敬。21时49分龙司死亡。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月20日 安藤满男负责解剖高山龙司，发现密码：178136。晚上浅川在龙司家见到高野舞。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月21日 浅川复制并让岳父岳母观看录像带。11时，浅川在东京高速公路车祸重伤，浅川静与阳子死亡。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月28日 浅川的录影带让岳父岳母死亡。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年10月31日 安藤和高野舞见面。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月1日 在龙司的组织标本中发现类天花病毒。高野舞在寻找龙司遗失的手稿时发现录像带，并且看了。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月5日 安藤在S大学看望了浅川。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月8日 高野舞在某大楼通风井中生下了贞子。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月14日 安藤在拜访学校并给高野舞的母亲打电话后确认高野舞失踪。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月15日 安藤进入高野舞房间，发现被删的录像带。下午得知龙司的体内的病毒中有40个不明盐基排列。吉野打电话给安藤，约他出来。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月16日 安藤和吉野见面，吉野向安藤透露的整个事件始末。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月18日 安藤找到浅川顺一郎，得到浅川遗留下的磁盘。高野舞死亡。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月20日 安藤打印出&ldquo;铃&rdquo; 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月24日 安藤解开不明盐基之迷，答案是MUTATION（突变）。18时左右，安藤在高野舞家第一次遇到贞子。 　　<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月26日 发现并解剖高野舞尸体。浅川死亡。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月27日 安藤在发现高野舞尸体的大楼上第二次遇到贞子。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月29日 吉野找到并采访远山博。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年11月30日 远山死在贞子怀中。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1990年12月3日 医学院将其命名为RING病毒。 　　<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;1991年1月 安藤和宫下在确认后认为&ldquo;铃&rdquo;不是浅川所写。安藤第三次遇到贞子。后贞子用孝则的复活胁迫安藤。不久，龙司和孝则复活。<br />
+	<br />
+	　　&nbsp; &nbsp;&nbsp;&nbsp;1991年6月龙司研究出抗病毒疫苗。安藤和孝则失踪。 　　<br />
+	<br />
+	这部编年史是环年部分的，龙司复活后书中没有明确纪年份。<br />
+	<br />
+	<br />
+	贞子魅力：<br />
+	<br />
+	(一)贞子语录：<br />
+	<br />
+	　　如果，我真的可以重生的话，即使违背天意，我也要留在你身边。 　　<br />
+	如果这一切都是梦，我但愿从梦中醒来时，你还在我身边，可是，朝日会照出我真正的身影。 　　<br />
+	即使如此，我还是要告诉你&hellip;&hellip;我爱你！ 　　<br />
+	我要和你厮守在一起。<br />
+	<br />
+	(二)贞子超能力：<br />
+	<br />
+	　　1、为人治伤：在《贞相大白》中，她一摸就治好远山的伤，后来又使残疾的老人重新站起。 　　<br />
+	&nbsp; &nbsp;&nbsp;&nbsp;2、意念杀人：在几部影片中，她都先令对方挣扎，然后张大嘴巴死去。 　　<br />
+	&nbsp; &nbsp;&nbsp;&nbsp;3、催眠术：《贞子缠身》中，令那个医生走入水中，《贞相大白》中，她令向她射击的人自杀而死。 　　<br />
+	&nbsp; &nbsp;&nbsp;&nbsp;4、预知能力：她和母亲都具有预报灾害的能力，在远山杀人前，她看到他手上有血。 　　<br />
+	&nbsp; &nbsp;&nbsp;&nbsp;5、借胎生人：《凶铃再现》中，她借助别人的细胞生下已经死去的人。 　　<br />
+	&nbsp; &nbsp;&nbsp;&nbsp;6、意念成像：她用意念化成录像带，并且录像带具有诅咒的能力。<br />
+	<br />
+	(三)贞子原型：<br />
+	<br />
+	　　《午夜凶铃》中，贞子与母亲都拥有超乎常人的异能：母亲能够透视文字，贞子能凭意志力杀人於无形。而御船千鹤子无论是电影还是小说中的情节，跟现实生活脱不了关系。在日本历史上，便曾出现过三位拥有&ldquo;超能力&rdquo;的人，但没有一个有好的下场！ 　　<br />
+	<br />
+	&nbsp;<img alt="" src="http://img170.poco.cn/mypoco/myphoto/20120510/22/17870980201205102257323773858131113_004.jpg" style="width: 640px; height: 360px" /></p>
+<p>
+	<img alt="" src="http://img170.poco.cn/mypoco/myphoto/20120510/22/17870980201205102257323773858131113_001.jpg" style="width: 640px; height: 360px" /></p>
+<p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" />&nbsp;&nbsp;&nbsp;</p>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy241:piaohua@117.41.229.29:2013/飘花电影piaohua.com午夜凶铃BD1280高清中字.rmvb">ftp://dy241:piaohua@117.41.229.29:2013/飘花电影piaohua.com午夜凶铃BD1280高清中字.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O16442160-4HI.jpg{/dede:field}

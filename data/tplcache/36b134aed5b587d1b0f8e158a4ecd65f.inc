@@ -1,0 +1,9 @@
+{dede:field name='keywords'}我猜0902迅雷下载，免费下载，Gv{/dede:field}
+{dede:field name='description'}我猜0902迅雷下载、免费下载，我猜0902Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}我猜0902{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-09-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3c220-3WK.jpg{/dede:field}

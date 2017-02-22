@@ -1,0 +1,9 @@
+{dede:field name='keywords'}天才冲冲冲-20110716迅雷下载，{/dede:field}
+{dede:field name='description'}天才冲冲冲-20110716迅雷下载、免费下载，天才冲冲冲-20110716Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天才冲冲冲-20110716{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1041/飘花电影piaohua.com天才冲冲冲-20110709.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ494030-12953.jpg{/dede:field}

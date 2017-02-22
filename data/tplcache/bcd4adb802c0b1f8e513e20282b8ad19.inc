@@ -1,0 +1,9 @@
+{dede:field name='keywords'}齐达内：一幅21世纪的肖像BD高清{/dede:field}
+{dede:field name='description'}齐达内：一幅21世纪的肖像BD高清1280迅雷下载、免费下载，齐达内：一幅21世纪的肖像BD高清1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}齐达内：一幅21世纪的肖像BD高清1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2029/小八戒xiaobajie.com齐达内：一幅21世纪的肖像BD高清1280.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4224P-462N.jpg{/dede:field}

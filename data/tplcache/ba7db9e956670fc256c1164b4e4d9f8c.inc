@@ -1,0 +1,9 @@
+{dede:field name='keywords'}一部塞爾維亞電影完整版【重口味{/dede:field}
+{dede:field name='description'}一部塞爾維亞電影完整版【重口味】塞尔维亚共和国惊悚/恐怖/成人迅雷下载、免费下载，一部塞爾維亞電影完整版【重口味】塞尔维亚共和国惊悚/恐怖/成人Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}一部塞爾維亞電影完整版【重口味】塞尔维亚共和国惊悚/恐怖/成人{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-05{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:3043/飘花电影piaohua.com塞尔维亚电影BD高清1024分辨率.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPL4930-32W2.jpg{/dede:field}

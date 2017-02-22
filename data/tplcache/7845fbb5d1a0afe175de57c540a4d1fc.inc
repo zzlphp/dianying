@@ -1,0 +1,9 @@
+{dede:field name='keywords'}纽约行动BD中英双字1024/1280高{/dede:field}
+{dede:field name='description'}纽约行动BD中英双字1024/1280高清2012最新中国上映美国动作惊悚迅雷下载、免费下载，纽约行动BD中英双字1024/1280高清2012最新中国上映美国动作惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}纽约行动BD中英双字1024/1280高清2012最新中国上映美国动作惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3218/飘花电影piaohua.com纽约行动HD国语版.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO41050-31L5.jpg{/dede:field}

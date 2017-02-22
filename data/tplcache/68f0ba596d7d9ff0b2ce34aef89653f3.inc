@@ -1,0 +1,9 @@
+{dede:field name='keywords'}毁灭战士迅雷下载，免费下载，Gv{/dede:field}
+{dede:field name='description'}毁灭战士迅雷下载、免费下载，毁灭战士Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}毁灭战士{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-11-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP920530-52954.jpg{/dede:field}

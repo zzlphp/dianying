@@ -1,0 +1,9 @@
+{dede:field name='keywords'}正义联盟：毁灭/正义联盟：判决B{/dede:field}
+{dede:field name='description'}正义联盟：毁灭/正义联盟：判决BD1280高清迅雷下载、免费下载，正义联盟：毁灭/正义联盟：判决BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}正义联盟：毁灭/正义联盟：判决BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ10S60-1W02.jpg{/dede:field}

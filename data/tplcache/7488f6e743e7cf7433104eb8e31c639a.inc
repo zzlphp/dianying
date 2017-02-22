@@ -1,0 +1,9 @@
+{dede:field name='keywords'}英雄本色3：夕阳之歌高清迅雷下{/dede:field}
+{dede:field name='description'}英雄本色3：夕阳之歌高清迅雷下载、免费下载，英雄本色3：夕阳之歌高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}英雄本色3：夕阳之歌高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2501Z-31638.jpg{/dede:field}

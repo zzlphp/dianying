@@ -1,0 +1,9 @@
+{dede:field name='keywords'}猫的生活(猫在巴黎)DVD中字2011{/dede:field}
+{dede:field name='description'}猫的生活(猫在巴黎)DVD中字2011最新法国犯罪神秘动画大片迅雷下载、免费下载，猫的生活(猫在巴黎)DVD中字2011最新法国犯罪神秘动画大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}猫的生活(猫在巴黎)DVD中字2011最新法国犯罪神秘动画大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2325/飘花电影piaohua.com猫的生活-猫在巴黎DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ223220-14000.jpg{/dede:field}

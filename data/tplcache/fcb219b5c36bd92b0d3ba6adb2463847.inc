@@ -1,0 +1,9 @@
+{dede:field name='keywords'}波弗特BD高清1024*576迅雷下载，{/dede:field}
+{dede:field name='description'}波弗特BD高清1024*576迅雷下载、免费下载，波弗特BD高清1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}波弗特BD高清1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP532C0-34536.jpg{/dede:field}

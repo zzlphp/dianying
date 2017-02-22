@@ -1,0 +1,9 @@
+{dede:field name='keywords'}泊车殿下港台剧6迅雷下载，免费{/dede:field}
+{dede:field name='description'}泊车殿下港台剧6迅雷下载、免费下载，泊车殿下港台剧6Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}泊车殿下港台剧6{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3163/飘花电影piaohua.com泊车殿下EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ042310-34b9.jpg{/dede:field}

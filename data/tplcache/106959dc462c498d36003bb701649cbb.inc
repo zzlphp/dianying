@@ -1,0 +1,9 @@
+{dede:field name='keywords'}多啦A梦剧场版-伸太的恐龙2006BD{/dede:field}
+{dede:field name='description'}多啦A梦剧场版-伸太的恐龙2006BD1280高清迅雷下载、免费下载，多啦A梦剧场版-伸太的恐龙2006BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}多啦A梦剧场版-伸太的恐龙2006BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:8058/飘花电影piaohua.com多啦A梦剧场版-伸太的恐龙BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ14P30-22021.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}超感警探,第四季更新24集[中英双{/dede:field}
+{dede:field name='description'}超感警探 第四季更新24集[中英双字]2012主打美剧迅雷下载、免费下载，超感警探 第四季更新24集[中英双字]2012主打美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}超感警探 第四季更新24集[中英双字]2012主打美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2759/飘花电影piaohua.com超感警探第四季01集[中英双字].rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP94B20-1P42.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}辛亥革命清晰版DVD国语中字2011{/dede:field}
+{dede:field name='description'}辛亥革命清晰版DVD国语中字2011最新上映成龙/赵文瑄战争历史大片迅雷下载、免费下载，辛亥革命清晰版DVD国语中字2011最新上映成龙/赵文瑄战争历史大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}辛亥革命清晰版DVD国语中字2011最新上映成龙/赵文瑄战争历史大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1649/飘花电影piaohua.com辛亥革命清晰TS国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP551Q0-51142.jpg{/dede:field}

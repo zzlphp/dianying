@@ -1,0 +1,9 @@
+{dede:field name='keywords'}美国战舰修正版DVD中字2012美国{/dede:field}
+{dede:field name='description'}美国战舰修正版DVD中字2012美国战争动作惊悚迅雷下载、免费下载，美国战舰修正版DVD中字2012美国战争动作惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}美国战舰修正版DVD中字2012美国战争动作惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3432/飘花电影piaohua.com美国战舰修正版DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4505F-55255.jpg{/dede:field}

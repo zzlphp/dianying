@@ -1,0 +1,9 @@
+{dede:field name='keywords'}蒸汽男孩/蒸汽少年BD1280高清国{/dede:field}
+{dede:field name='description'}蒸汽男孩/蒸汽少年BD1280高清国日双语迅雷下载、免费下载，蒸汽男孩/蒸汽少年BD1280高清国日双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蒸汽男孩/蒸汽少年BD1280高清国日双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2030/飘花电影piaohua.com蒸汽少年BD1280高清国日双语.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1512F-1OJ.jpg{/dede:field}

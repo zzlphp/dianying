@@ -1,0 +1,9 @@
+{dede:field name='keywords'}英雄时代高清720P,1280*720迅雷{/dede:field}
+{dede:field name='description'}英雄时代高清720P 1280*720迅雷下载、免费下载，英雄时代高清720P 1280*720Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}英雄时代高清720P 1280*720{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy222:piaohua@dy222.piaohua.com:222/飘花电影下载站www.piaohua.com英雄时代720p.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPAC60-54347.jpg{/dede:field}

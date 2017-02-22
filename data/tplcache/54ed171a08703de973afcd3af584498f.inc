@@ -1,0 +1,9 @@
+{dede:field name='keywords'}了不起的亡灵DVD中字2012喜剧迅{/dede:field}
+{dede:field name='description'}了不起的亡灵DVD中字2012喜剧迅雷下载、免费下载，了不起的亡灵DVD中字2012喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}了不起的亡灵DVD中字2012喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3420/飘花电影piaohua.com了不起的亡灵DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0P420-29602.jpg{/dede:field}

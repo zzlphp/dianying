@@ -1,0 +1,9 @@
+{dede:field name='keywords'}夜店诡谈/夜店怪谈HD国语中字128{/dede:field}
+{dede:field name='description'}夜店诡谈/夜店怪谈HD国语中字1280高清2012最新恐怖惊悚迅雷下载、免费下载，夜店诡谈/夜店怪谈HD国语中字1280高清2012最新恐怖惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}夜店诡谈/夜店怪谈HD国语中字1280高清2012最新恐怖惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2800/飘花电影piaohua.com夜店怪谈DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPJPF-35005.jpg{/dede:field}

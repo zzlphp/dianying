@@ -1,0 +1,9 @@
+{dede:field name='keywords'}张国荣跨越97演唱会迅雷下载，免{/dede:field}
+{dede:field name='description'}张国荣跨越97演唱会迅雷下载、免费下载，张国荣跨越97演唱会Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}张国荣跨越97演唱会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy444:piaohua@dy444.piaohua.com:420/飘花电影piaohua.com张国荣跨越97演唱会.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4X0F-5OC.jpg{/dede:field}

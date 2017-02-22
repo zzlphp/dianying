@@ -1,0 +1,13 @@
+{dede:field name='keywords'}等待超人/超人，你在哪里？[DVD{/dede:field}
+{dede:field name='description'}等待超人/超人，你在哪里？[DVD中英双字]迅雷下载、免费下载，等待超人/超人，你在哪里？[DVD中英双字]Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}等待超人/超人，你在哪里？[DVD中英双字]{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-02-15{/dede:field}
+{dede:field name='body'}<IMG onclick=zoom(this) border=0 alt="" src="/uploads/allimg/c120524/133N4Qb930-G941.jpg" onload="attachimg(this, 'load')"><BR><BR><BR>◎译　　名　《等待超人/超人，你在哪里？》2011年美国最新高分纪录片DVD中英双字<BR>◎片　　名　Waiting For Superman<BR>◎年　　代　2011<BR>◎国　　家　美国<BR>◎类　　别　纪录片<BR>◎语　　言　英语<BR>◎字　　幕　中英双字<BR>◎IMDB评分 7.4/10 (924 votes)<BR>◎IMDB链接 http://www.imdb.com/title/tt1566648<BR>◎文件格式　XviD + MP3<BR>◎视频尺寸　624 x 352<BR>◎文件大小　1CD 50 x 15MB<BR>◎片　　长　111 mins<BR>◎导　　演　戴维斯·古根海姆 Davis Guggenheim<BR>◎主　　演　The Black Family&nbsp;&nbsp;...&nbsp;&nbsp;Themselves&nbsp;&nbsp;<BR>　　　　　　Geoffrey Canada&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　The Esparza Family&nbsp;&nbsp;...&nbsp;&nbsp;Themselves&nbsp;&nbsp;<BR>　　　　　　The Hill Family&nbsp;&nbsp;...&nbsp;&nbsp;Themselves&nbsp;&nbsp;<BR>　　　　　　乔治·里弗斯 George Reeves&nbsp;&nbsp;...&nbsp;&nbsp;Superman (archive footage)&nbsp;&nbsp;<BR>　　　　　　Michelle3e Rhee&nbsp;&nbsp;...&nbsp;&nbsp;Herself&nbsp;&nbsp;<BR>　　　　　　Bill Strickland&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Randi Weingarten&nbsp;&nbsp;...&nbsp;&nbsp;Herself&nbsp;&nbsp;<BR><BR>◎简　　介　<BR><BR>　该片聚焦许多普通美国中学生想接受更好教育但却无法实现这一心愿的现实，探讨了美国公立教育体系现存的问题。 
+<P>【电影截图】：<BR><BR></P><IMG src="/uploads/allimg/c120524/133N4R003P-Y007.jpg">&nbsp;<BR><IMG src="/uploads/allimg/c120524/133N4R00950-b252.jpg">&nbsp;<BR><IMG src="/uploads/allimg/c120524/133N4R02C0-103647.jpg">&nbsp;<BR><IMG src="/uploads/allimg/c120524/133N4R03150-11C31.jpg">&nbsp;<BR><IMG src="/uploads/allimg/c120524/133N4R03E0-121325.jpg"><BR><BR><BR><BR><BR>【dbank网盘高速下载地址】:<BR>2011年美国最新高分纪录片《等待超人/超人，你在哪里？》DVD中英双字<BR><BR>【115网盘高速下载地址】:<BR>2011年美国最新高分纪录片《等待超人/超人，你在哪里？》DVD中英双字<BR><BR>2011年美国最新高分纪录片《等待超人/超人，你在哪里？》DVD中英双字 [下载地址]：<IMG border=0 src="/uploads/allimg/c120524/133N2Z4FF-102231.jpg"><BR>
+<TABLE style="BORDER-BOTTOM: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-RIGHT: #cccccc 1px dotted" border=0 cellSpacing=0 cellPadding=6 width="95%" align=center>
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" bgColor=#fdfddf>ftp://5e:5e@m3.3edyy.com:519/【3E看看www.3ekk.com】等待超人[DVD中英双字].rmvb</TD></TR></TBODY></TABLE>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120524/133N4R04450-134054.jpg{/dede:field}

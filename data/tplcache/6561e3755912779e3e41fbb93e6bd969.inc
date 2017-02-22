@@ -1,0 +1,9 @@
+{dede:field name='keywords'}大白鲨之致命武器迅雷下载，免费{/dede:field}
+{dede:field name='description'}大白鲨之致命武器迅雷下载、免费下载，大白鲨之致命武器Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}大白鲨之致命武器{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-10-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPTM20-4JO.jpg{/dede:field}

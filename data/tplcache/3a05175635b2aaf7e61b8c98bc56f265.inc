@@ -1,0 +1,9 @@
+{dede:field name='keywords'}力王永恒的经典HD高清国语中字10{/dede:field}
+{dede:field name='description'}力王永恒的经典HD高清国语中字1024*576迅雷下载、免费下载，力王永恒的经典HD高清国语中字1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}力王永恒的经典HD高清国语中字1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ259610-2F03.jpg{/dede:field}

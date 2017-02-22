@@ -1,0 +1,9 @@
+{dede:field name='keywords'}殉难者/殉道者BD1280高清中英双{/dede:field}
+{dede:field name='description'}殉难者/殉道者BD1280高清中英双字迅雷下载、免费下载，殉难者/殉道者BD1280高清中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}殉难者/殉道者BD1280高清中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2025/飘花电影piaohua.com殉难者BD1280高清中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP091Z-5LT.jpg{/dede:field}

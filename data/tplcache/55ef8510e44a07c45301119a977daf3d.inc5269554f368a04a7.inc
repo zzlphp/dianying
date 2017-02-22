@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","S.H.E《SHERO》[DVD国语中字无水",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","S.H.E《SHERO》[DVD国语中字无水印]迅雷下载、免费下载，S.H.E《SHERO》[DVD国语中字无水印]Gvod高清在线播放，剧情介绍等。",73,233);
+$z[1][4]['name']="description";
+$z[2]=Array("field","S.H.E《SHERO》[DVD国语中字无水印]",235,306);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",308,347);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",349,388);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-03-28",390,440);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<IMG onclick=zoom(this) alt=\"\" src=\"http://www.fitbbs.com/attachment/Mon_1003/33_9849_50ea7b136b4ae25.jpg\" onload=\"attachimg(this, 'load')\" border=0><BR><BR><BR><BR><BR>◎译　　名　S.H.E《SHERO》 2010年S.H.E最新MV专辑DVD国语中字无水印<BR>◎片　　名　S H E Shero MV<BR>◎年　　代　2010<BR>◎国　　家　中国台湾<BR>◎类　　别　音乐<BR>◎语　　言　国语<BR>◎字　　幕　(内嵌)繁体中文<BR>◎IMDB评分 N/A<BR>◎IMDB链接 N/A<BR>◎文件格式　XviD + MP3<BR>◎视频尺寸　512 x 368<BR>◎文件大小　1CD 25 x 15MB<BR>◎片　　长　39 mins<BR>◎导　　演　<BR>◎主　　演　S H E<BR><BR>◎简　　介　<BR><BR>　　继第三次世界巡回演唱会《S.H.E is the One 爱而为一》后，台湾人气组合S.H.E久睽了一年半后终于再推出全新专辑 《SHERO》。《SHERO》带出新世代S.H.E女王新风潮，代表着HERO+HISTORY，S.H.E演绎出女人对爱情的敢爱敢恨，对工作与生活独立，对自己不因外表而妄自菲薄，懂得爱自己才会找到幸福。点题曲“SHERO”由阿璞作曲，五月天阿信谱词，打造出 S.H.E女王天团的摇滚新歌，同时为 2010台北国际花卉博览会指定主题曲。 <BR><BR>　　全新专辑中，S.H.E还有与师弟周定纬合唱情歌“两个人的荒岛”，并收录了成员Ella演出最新的偶像剧《就想赖着你》的主题曲“爱上你”。 <BR><BR>　　“女王天团”S.H.E第12张专辑《SHERO》，是S.H.E距离上张专辑“我的电台FM S.H.E”一年半后从小女生蜕变为小女人的转型力作，歌曲内容主要诠释“女人”的爱情、友情、生活与工作，是S.H.E在经历这些年的人生风雨，从女孩成长为女人所感受到的点滴，并试图把所获得的体悟透过歌曲传达给各角落为自己努力的女孩并鼓舞女孩们“爱自己才会找到幸福”。首波同名主打“SHERO”在五月天阿信的打造下，传达“找不到你的HERO，就做自己的SHERO”概念，要女生不用像童话故事里的公主般苦苦等待王子来拯救，自己一样能创造精采美满的结局。“SHERO”视为“SUPER STAR”第二的摇滚歌曲。 <BR><BR>&nbsp; &nbsp; “SHERO”这个概念来电影下载自阿信想到说英文中有雄性意识的“HERO”、“HISTORY”，那应该也要有女性意识的“SHERO”及“HERSTORY”，并觉得由独立自主、努力追求梦想成真这个形象十分鲜明的S.H.E来改写历史最适合不过了，而查了字典后也确定真有“SHERO”这个单字。什么是“SHERO呢？网路辞典的注解有二：一.是指提倡女权主义者并积极参与女权运动的人。二.泛指在电影或文学中出现的女英雄角色。 <BR><BR>　　推出“SHERO”专辑S.H.E期引领一股女王风潮，喊出成为女王的“三有”条件：有种、有钱、有身材。S.H.E说到“有种-就是要敢爱、敢放手”、“有钱-就是要努力工作、独立生活、满足自己的需求”、“有身材-喜欢自己的身体，不因外表而妄自菲薄，想露就露，自己做主”，希望不论是小姐或女士、败犬或人妻都能加入女王行列，成为自己的SHERO。 <BR><BR>　　S.H.E从女孩迈向女人，‘SHERO’新专辑主视觉也展现轻熟女风情。三人除剪了极具女人味的发型外，化妆上也从3E电影院之前的“烟薰个性妆”转变为“桃红柔美妆”，女人味十足。而重要的主视觉服装，则邀来在国际服装竞赛拿下前卫时装奖的古又文为S.H.E量身编制，古又文费时两个月一针一线完成的女王服装，三件总重约25公斤，由于是粗毛线编织而成，古又文在设计时又为展现S.H.E姣好的身材曲线，整件服装合身又露很大，而为求画面漂亮，三人在毛衣下都无法再加衣服，仅贴胸贴和超低腰小裤上场。Ella漂亮的背部到腰际全都露，加上一双美腿，性感尺度让工作人员直呼:连女人都会流口水。Selina和Hebe则露出完美的腰侧线与锁骨线条，引人遐想，如此清纯又性感的造型也让拍摄现场气氛火热。 <BR><BR><BR><BR>DVD目录：<BR><BR>01.宇宙小姐 MV<BR>02.沿海公路的出口 MV<BR>03.女孩当自强 MV<BR>04.安静了 MV<BR>05.月光手札 MV<BR>06.612星球 MV<BR>07.可爱万岁 MV<BR>08.梦田 MV<BR>09.锁住时间 MV<BR><BR><BR>【电影截图】：<BR><BR><IMG src=\"/uploads/allimg/c120524/133N42526460-L642.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120524/133N4252DZ-U246.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120524/133N4252G20-95A0.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120524/133N4252M10-109111.jpg\"><BR><BR><BR>【网盘高速下载地址】:(直接点击下面链接)<BR>2010年S.H.E最新MV专辑《SHERO》DVD国语中字无水印<BR><BR>2010年S.H.E最新MV专辑《SHERO》DVD国语中字无水印 [下载地址]：<IMG src=\"/uploads/allimg/c120524/133N295542P-105L6.jpg\" border=0><BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://4e:4e@m1.3edyy.com:1445/【3E电影院www.eee4.cc】S.H.E-SHERO[无水印].rmvb</TD></TR></TBODY></TABLE>",442,4629);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133N4252QP-1130c.jpg",4631,4714);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,31 @@
+{dede:field name='keywords'}想飞的钢琴少年迅雷下载，免费下{/dede:field}
+{dede:field name='description'}想飞的钢琴少年迅雷下载、免费下载，想飞的钢琴少年Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}想飞的钢琴少年{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-11-29{/dede:field}
+{dede:field name='body'}<P>译　　名　想飞的钢琴少年<BR>片　　名　Vitus<BR>年　　代　2006<BR>国　　家　瑞士<BR>类　　别　剧情/音乐<BR>语　　言　德语/英语<BR>字　　幕　中文<BR>编辑链接　www.eee4.com<BR>片　　长　118 mins<BR>导　　演　弗兰迪-M.米偌 Fredi M. Murer<BR>主　　演　布鲁诺·甘茨 Bruno Ganz<BR>　　　　　Urs Jucker<BR>　　　　　Teo Gheorghiu ...</P>
+<P>影片简介：</P>
+<P>　　该片讲述的是一个少年天才Vitus，他有着惊人的天赋。他的父母希望他将来成为一名伟大的钢琴家，小Vitus却不愿遵从父母的心意，只想做一个普普通通的小男孩。片中扮演12岁Vitus的小演员Teo Gheorghiu在现实中也是一个才华横溢的少年钢琴家，而祖父则是由实力派老影星Bruno Ganz担纲。</P>
+<P>　　差不多已经满6岁了，维达斯(Fabrizio Borsani饰)有着非常敏感的听觉，平时的娱乐活动就是阅读百科全书。他是父母亲眼中的掌上明珠，父亲Leo(Urs Jucker饰一位发明家，正在着手改进助听器设计上的钢丝韧化处理革命技术，而英国籍的母亲Helen(Julika Jenkins饰)则热心于挖掘儿子的天赋。</P>
+<P>　　即使是在这样幼小的年纪，维达斯已经能够完全理解他所接受到的任何吸引他的事物。孩子很迷恋行为古怪的祖父(Bruno Ganz饰)，把大部分时间都花在老人的工作室里，听爷爷讲述忠告和建议，还有让他的梦想开始飞翔。</P>
+<P>　　到了12岁的时候，维达斯（现在由现实生活中的天才Teo Gheorghiu饰）对于自己的与众不同越发感到不适，面对现实生活也变得十分早熟。在祖父的帮助下带上一对木制的翅膀然后从阳台上跳了下去，就在跌到的那一瞬间，男孩心中忽然有了一个主意，假装自己的天赋因为这么一摔而消失了。就在享受这个“诡计”的同时，男孩也帮助父亲挽救了事业，同时也从中体验到更多生命的真谛。</P>
+<P><IMG height=648 alt="" src="http://img.verycd.com/posts/0711/post-202538-1194972340.jpg" width=450 border=0></P>
+<P><IMG height=380 alt="" src="http://photo15.yupoo.com/20071124/011145_1878294433_znnwlaeu.jpg" width=672 border=0><IMG height=380 alt="" src="http://pic.piaohua.com/0701pic/allimg/071129/1319342.jpg" width=672 border=0><IMG height=380 alt="" src="http://photo15.yupoo.com/20071124/011146_1627002512_urhttjkk.jpg" width=672 border=0><IMG height=380 alt="" src="http://pic.piaohua.com/0701pic/allimg/071129/1319344.jpg" width=672 border=0><IMG height=380 alt="" src="http://pic.piaohua.com/0701pic/allimg/071129/1319345.jpg" width=672 border=0></P><p>2007-11-29 20:56:10 开始连接......<br>2007-11-29 20:56:12 开始搜索候选资源......<br>2007-11-29 20:56:13 搜索到19个候选资源<br>2007-11-29 20:56:15 使用候选资源进行连接......<br>2007-11-29 20:56:17 搜索到39个候选资源<br>2007-11-29 20:56:19 使用候选资源进行连接......<br>2007-11-29 20:56:21 文件创建成功，开始下载数据......<br>2007-11-29 20:56:22 用户取消下载&nbsp;&nbsp; 本文来自 www.eee4.com</p>
+（直接可能无法下载，一律使用<a href="http://pstatic.xunlei.com/about/product/down_xl5.htm" target="_blank">迅雷下载</a>）<br>
+06奥斯卡最佳外语剧大片《想飞的钢琴少年》DVD中字 下载地址：<IMG src="/templets/img/down.jpg" border=0><br>
+cd1:<br><table style="BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted" cellspacing="0" cellpadding="6" width="95%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><anchor></anchor><a href="ftp://eee4:eee4.com@xl.eee4.com/想飞的钢琴少年/[3E迅雷电影站www.eee4.com]想飞的钢琴少年cd1.rmvb" target="_blank">ftp://eee4:eee4.com@xl.eee4.com/想飞的钢琴少年/[3E迅雷电影站www.eee4.com]想飞的钢琴少年cd1.rmvb</a></td>
+        </tr>
+    </tbody>
+</table>
+cd2:<br><table style="BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted" cellspacing="0" cellpadding="6" width="95%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><anchor></anchor><a href="ftp://eee4:eee4.com@xl.eee4.com/想飞的钢琴少年/[3E迅雷电影站www.eee4.com]想飞的钢琴少年cd2.rmvb" target="_blank">ftp://eee4:eee4.com@xl.eee4.com/想飞的钢琴少年/[3E迅雷电影站www.eee4.com]想飞的钢琴少年cd2.rmvb</a></td>
+        </tr>
+    </tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O1611F10-1RQ.jpg{/dede:field}

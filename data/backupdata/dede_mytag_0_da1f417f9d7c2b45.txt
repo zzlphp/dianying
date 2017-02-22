@@ -1,0 +1,1 @@
+INSERT INTO `dede_mytag` VALUES('1','0','aaa','0','1337903882','1340495882','					{dede:arclist row=24 orderby=click titlelen=\'35\'}\r\n       				   <li><span>[field:global name=autoindex/] </span><a href=\"[field:arcurl/]\"><font color=\"#0000FF\">[field:title/]</font></a>£¨[field:typename/]£©</li>\r\n        			 {/dede:arclist}	','');

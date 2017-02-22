@@ -1,0 +1,9 @@
+{dede:field name='keywords'}埃尔熙德传奇HD国语1024高清经典{/dede:field}
+{dede:field name='description'}埃尔熙德传奇HD国语1024高清经典动画迅雷下载、免费下载，埃尔熙德传奇HD国语1024高清经典动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}埃尔熙德传奇HD国语1024高清经典动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1742/飘花电影piaohua.com埃尔熙德传奇HD国语1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ192210-52264.jpg{/dede:field}

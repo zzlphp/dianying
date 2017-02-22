@@ -1,0 +1,101 @@
+{dede:field name='keywords'}蝴蝶效应1BD中英双字1024/1280高{/dede:field}
+{dede:field name='description'}蝴蝶效应1BD中英双字1024/1280高清迅雷下载、免费下载，蝴蝶效应1BD中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蝴蝶效应1BD中英双字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-01{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://cimg.163.com/movie/0310/21/hd.jpg" /></p>
+<p>
+	◎中文　名　《蝴蝶效应》2004年美国经典科幻惊悚DVD中英双字1024x576高清版<br />
+	◎片　　名　The Butterfly Effect<br />
+	◎年　　代　2004<br />
+	◎国　　家　美国<br />
+	◎类　　别　剧情/科幻/惊悚<br />
+	◎语　　言　英语<br />
+	◎字　　幕　中英文<br />
+	◎IMDB评分　7.7/10 (36,915 votes)<br />
+	◎IMDB链接　http://www.imdb.com/title/tt0289879<br />
+	◎文件格式　BluRay-RMVB<br />
+	◎视频尺寸　1024x576<br />
+	◎文件大小　1CD<br />
+	◎片　　长　120 Min<br />
+	◎导　　演　埃里克&middot;布雷斯 Eric Bress<br />
+	◎主　　演　阿什顿&middot;库切尔 Ashton Kutcher .... Evan Treborn<br />
+	　　　　　　米罗娜&middot;沃尔特斯 Melora Walters .... Andrea Treborn<br />
+	　　　　　　艾米&middot;斯马特 Amy Smart .... Kayleigh Miller<br />
+	　　　　　　埃尔登&middot;汉森 Elden Henson .... Lenny Kagan<br />
+	　　　　　　威廉&middot;李&middot;斯科特 William Lee Scott .... Tommy Miller<br />
+	　　　　　　约翰&middot;帕特里克&middot;阿梅多里 John Patrick Amedori .... Evan Treborn at 13<br />
+	　　　　　　Irene Gorovaia .... Kayleigh Miller at 13<br />
+	　　　　　　凯文&middot;施密特 Kevin Schmidt .... Lenny at 13<br />
+	　　　　　　耶希&middot;詹姆斯 Jesse James .... Tommy Miller at 13<br />
+	　　　　　　Logan Lerman .... Evan Treborn at 7<br />
+	　　　　　　Sarah Widdows .... Kayleigh Miller at 7<br />
+	　　　　　　Jake Kaese .... Lenny Kagan at 7<br />
+	　　　　　　卡梅隆&middot;布莱特 Cameron Bright .... Tommy Miller at 7<br />
+	　　　　　　埃里克&middot;斯托尔兹 Eric Stoltz .... Mr. George Miller<br />
+	　　　　　　Callum Keith Rennie .... Jason Treborn<br />
+	<br />
+	<br />
+	<br />
+	◎简　　介　<br />
+	<br />
+	一只蝴蝶在纽约中央公园的小黄花上扇动了一下翅膀，于是东京掀起风暴电闪雷鸣&hellip;&hellip;<br />
+	　　也许人的一生就会被当年一点点不经意间细枝末节改变，从此走上不同岔口不能回头&hellip;&hellip;<br />
+	　　拓扑学中说这叫蝴蝶效应，你相信吗？<br />
+	<br />
+	　　埃文&middot;泰瑞博(艾什顿&middot;库奇饰)是一个平平无奇的大学生，唯一和普通人不同的是从童年时代起，就有心理学家不停记录他每日生活中的全部细节。某天，埃文忽然读到了那些记录中的一部分，顿时，那些已经被他自己埋葬在内心最深处许多年的黑暗记忆又再次被唤醒，那是改变了他整个少年时代的不堪回首往事。<br />
+	　　机缘巧合，埃文忽然发现自己可以通过一直搁在床下那些写着当年记录的笔记本回到过去，进入自己当年的身体。也许这些落满灰尘的笔记本可以让他从此摆脱所有不愉快的记忆，抱着这样的想法，埃文回到过去，力图改写历史，以为这样就可以治愈他受伤的记忆，让他和所爱的人们能从此之后幸福生活。<br />
+	<br />
+	　　&ldquo;如果你某天早上醒来发现也许你可以按照一个全新的方向重新生活，你会选择改变吗？&rdquo;<br />
+	　　埃文说：&ldquo;是。&rdquo;<br />
+	<br />
+	　　他制定出无懈可击计划，执行起来也小心翼翼。但等他一旦回到现实，却发现一切都已面目全非。他的行为已经造成了损失惨重的改变，而他最亲密的那些朋友的生活已经南辕北辙。特别是他的初恋女友凯勒&middot;米勒(艾米&middot;斯马特饰)，他们是儿时玩伴，在经历了长久的漠然以对之后，发现彼此还是相爱。<br />
+	　　为了弥补自己的错误，埃文只好一次次的回到过去，但每次总有些小事件在他不注意时层出不穷地发生，之后一连串连锁反应，到底让他和他朋友们的生活更加彻头彻尾的改变。于是埃文一次次尝试，他们的生活也就像高速火车一般刹那间从山顶冲下，树林或者河流在窗外一掠而过。凯勒从女招待到学生会主席再到落魄吸毒者。她的命运和他一样不停改变。<br />
+	　　一团糟的现实最后到底要怎么收场？他们真的还会坚持对彼此的爱么？<br />
+	　　埃文真的能得偿所愿，让每一个人幸福吗？</p>
+<p>
+	<img src="http://www.eee4.com/0701pic/allimg/090223/2203480.jpg" /><br />
+	[台前幕后]<br />
+	　　&ldquo;当超自然因素在电影中被运用的时候，你一般可能有三种感觉：被毒蜘蛛狠狠咬了一口，被你在科学实验室工作的老爸嘲讽的盯着，或者从小就和这样第六感觉相依相偎，当然，我希望我们的电影能让观众有第三种感觉。&rdquo;本片导演之一埃里克&middot;布雷斯表示。<br />
+	　　对于编剧出身的埃里克&middot;布雷斯和J&middot;麦凯伊&middot;格鲁伯来说(大热惊悚片《绝命终结站》及其续集就是他们的剧本)，《蝴蝶效应》是他们独立执导的第一部电影，这部电影从7年前就开始构思，终于在2002年开始在温哥华的大街小巷拍摄而成。<br />
+	　　对于本片来说，由于一直在过去和现在的不同时间中跳跃，同时现实又出现了好几种不同的虚拟情况，因此影片的调和问题就显得十分重要，导演必须不停把握扮演同一角色各个时期的不同演员的表现，以把握人物性格和形象上的前后一致。&ldquo;真正操作起来比我们<a href="http://www.eee4.com/" target="_blank">迅雷电影下载</a>事先想的还要困难，&rdquo;制片人克瑞斯&middot;班德说，&ldquo;我们有12个演员来演4个角色的三个不同时期，机会似乎一直在和我们作对，好在演艺之神看起来没有放弃我们。&rdquo;<br />
+	<br />
+	　　为了更加真实可信的展现埃文的时间旅行所造成的现实转变，同时也为了让这部头绪众多的影片看起来更加清晰明了，两位导演付出了巨大的努力，6年来他们一直在改写和完善剧本，以至于真正开拍之后，不管多么复杂次序安排他们都已经清楚的铭记在心。&ldquo;我们清楚这个大迷宫的每一条小路，那是因为在拍摄之前对每一个镜头处理，拍摄次序乃至细节，都经过了几百次的讨论。&rdquo;两位导演说，&ldquo;不过，我们也觉得，能够将超现实主义和现实主义结合起来是一种技术，这能够给导演充分的空间来处理那些富有挑战性的情况。&rdquo;<br />
+	　　在技术处理的方面，为了能够将各部分划分更加清晰明白，导演在影片各个不同的虚拟现实部分使用了不同的色调。并为此特别邀请了著名摄影师马修&middot;拉内蒂掌镜。他们尝试了柯达所能提供的各种胶片来展现现实世界的不同变化，采取了包括经典黑白片，黑色电影和蓝调彩色在内的多种色彩感觉的表现形式。拉内蒂说：&ldquo;也许我们的摄影技术不是最正统的，但对这部妙趣横生的电影来说，也许恰恰是一个优势。&rdquo;他的确在电影中使用了许多非常规镜头，比如手持镜头，倾斜拍摄，一些变速运动镜头和小景深镜头等等，并希望这些镜头能够展现出男主角埃文在时间中穿行对未来和现实都全无把握的心情和感受。<br />
+	<br />
+	　　除了富有结构性的剧情外，好莱坞当红炸子鸡艾什顿&middot;库奇出演男主角，将成为本片可预见的票房保证。这位好莱坞新贵帅哥最近人气极佳，刚刚被评为&ldquo;2003年度好莱坞最有人气新星&rdquo;，并被传言将可能与绯闻女友老牌女星黛米&middot;摩尔一起重新演绎著名影片《毕业生》。<br />
+	　　谈到自己的这部新片，艾什顿认为，这样的人物是他所未尝试过的方向，同时不断切换的时空对他的表演也的确是个考验，为了更好的把握角色的心态和感觉，他特意去阅读了心理学著作，特别那些有关选择性失忆的研究。&ldquo;我想知道人们到底如何逃避那些让他们痛不欲生的感觉，&rdquo;艾什顿解释说，&ldquo;那和埃文做的一样。&rdquo;<br />
+	<br />
+	　　对于大部分观众来说，《蝴蝶效应》这部影片应该算是一部幻想片甚至是一部冒险片，但扮演女主角的凯勒的艾米&middot;斯马特却觉得这归根到底还是一部爱情片。她说：&ldquo;我们一起象坐过山车一样在不同感情模式和诡异场景中一掠而过，仿佛这是个伟大旅程，凯勒和埃文不过是一对再平凡不过情侣，他们只是想要让彼此幸福，想要尽力跟上过去和现实的变化，真正让我感动的是他们真的相信彼此，不关发生了怎样天塌地陷的不可思议变化。&rdquo;</p>
+<p>
+	<br />
+	[花絮]<br />
+	&middot;在片中，埃文每次从过去回来都会发现自己身处一个完全不明所以的情况之中，其中有一幕，是他发现自己在一所全州最大的监狱中醒来，这里到处都关着最危险的犯人。&ldquo;我们大约请了100个真正的犯人来做临时演员&rdquo;导演麦凯伊&middot;格鲁伯透露说，&ldquo;他们中的大部分在服有期徒刑，但也有一些人来自死囚房。我曾经想要找一个出现在车上的临时演员，也看中了一个人，但监狱官告诉我说：&lsquo;这个人是个杀过10个人的连环杀手。&rsquo;我不知道到底该不该用他，还有一次，一个大个子忽然冲到我面前对我说：&lsquo;先生，你说到底我有什么作案的动机？&rsquo;&rdquo;<br />
+	<br />
+	&middot;对于艾什顿&middot;库奇来说，能够提供他对新片最终信心的恐怕是他的妈妈，&ldquo;我绝对不会拍一部我妈妈不喜欢的电影，我要始终让她以我为荣。&rdquo;库奇说。&ldquo;不过这部片子我一开始并不太肯定，所以我就把剧本给她看，她一开始也没太搞清楚，但最后还是觉得这片子不错，她对我说：&lsquo;你只要向人们展示现实就好了，别藏起它也别给想给它包上糖衣，忠实现实最要紧了。&rsquo;这话真是酷死了！&rdquo;</p>
+<p>
+	【电影截图】：<br />
+	电影来源：www.eee4.com<br />
+	<a href="http://www.eee4.com/0701pic/allimg/090223/2203481.jpg" target="_blank"><img border="0" src="http://www.eee4.com/0701pic/allimg/090223/2203481.jpg" /></a>&nbsp;<br />
+	<a href="http://www.eee4.com/0701pic/allimg/090223/2203482.jpg" target="_blank"><img border="0" src="http://www.eee4.com/0701pic/allimg/090223/2203482.jpg" /></a></p>
+<p>
+	2004年美国经典科幻惊悚《蝴蝶效应》DVD中英双字1024x576高清版 －来自[www.eee4.com]：<img border="0" src="http://www.eee4.com/templets/img/down.jpg" /></p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://e15:e15@xl2.eee4.com:9219/[3E电影站www.eee4.com]蝴蝶效应[DVD中英双字1024x576高清版].rmvb" target="_blank">ftp://e15:e15@xl2.eee4.com:9219/[3E电影站www.eee4.com]蝴蝶效应[DVD中英双字1024x576高清版].rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2225/飘花电影piaohua.com蝴蝶效BD中英双字1280高清.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2225/飘花电影piaohua.com蝴蝶效BD中英双字1280高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O1604210-55F9.jpg{/dede:field}

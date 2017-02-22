@@ -1,0 +1,9 @@
+{dede:field name='keywords'}血腥播客DVD中英双字恐怖视频日{/dede:field}
+{dede:field name='description'}血腥播客DVD中英双字恐怖视频日记迅雷下载、免费下载，血腥播客DVD中英双字恐怖视频日记Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}血腥播客DVD中英双字恐怖视频日记{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2332/飘花电影piaohua.com血腥播客DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPM2Z-12394.jpg{/dede:field}

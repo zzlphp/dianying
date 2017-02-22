@@ -1,0 +1,9 @@
+{dede:field name='keywords'}爱出色高清/爱精彩/我的天空HD12{/dede:field}
+{dede:field name='description'}爱出色高清/爱精彩/我的天空HD1280迅雷下载、免费下载，爱出色高清/爱精彩/我的天空HD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}爱出色高清/爱精彩/我的天空HD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOF2M0-4W31.jpg{/dede:field}

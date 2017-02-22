@@ -1,0 +1,9 @@
+{dede:field name='keywords'}金刚归来高清/金刚007/人猿特工H{/dede:field}
+{dede:field name='description'}金刚归来高清/金刚007/人猿特工HD1280迅雷下载、免费下载，金刚归来高清/金刚007/人猿特工HD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}金刚归来高清/金刚007/人猿特工HD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO62LZ-5D44.jpg{/dede:field}

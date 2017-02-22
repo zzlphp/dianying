@@ -1,0 +1,9 @@
+{dede:field name='keywords'}夜狼DVD中英双字2012英国恐怖惊{/dede:field}
+{dede:field name='description'}夜狼DVD中英双字2012英国恐怖惊悚迅雷下载、免费下载，夜狼DVD中英双字2012英国恐怖惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}夜狼DVD中英双字2012英国恐怖惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3332/飘花电影piaohua.com夜狼DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPI0060-19D7.jpg{/dede:field}

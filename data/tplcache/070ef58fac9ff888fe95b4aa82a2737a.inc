@@ -1,0 +1,9 @@
+{dede:field name='keywords'}粉爱粉爱你第16集2012偶像剧迅雷{/dede:field}
+{dede:field name='description'}粉爱粉爱你第16集2012偶像剧迅雷下载、免费下载，粉爱粉爱你第16集2012偶像剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}粉爱粉爱你第16集2012偶像剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2717/飘花电影piaohua.com粉爱粉爱你01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP924220-4I45.jpg{/dede:field}

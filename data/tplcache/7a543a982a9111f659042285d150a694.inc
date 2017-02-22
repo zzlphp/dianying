@@ -1,0 +1,9 @@
+{dede:field name='keywords'}海洋BD中英双字1280高清大型8集{/dede:field}
+{dede:field name='description'}海洋BD中英双字1280高清大型8集纪录片迅雷下载、免费下载，海洋BD中英双字1280高清大型8集纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}海洋BD中英双字1280高清大型8集纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2422/飘花电影piaohua.com海洋01科斯特海BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3924Z-342H.jpg{/dede:field}

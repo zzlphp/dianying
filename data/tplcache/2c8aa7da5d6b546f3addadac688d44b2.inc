@@ -1,0 +1,125 @@
+{dede:field name='keywords'}窗台上的男人(惊天换日)DVD中字2{/dede:field}
+{dede:field name='description'}窗台上的男人(惊天换日)DVD中字2012最新美国犯罪惊悚大片迅雷下载、免费下载，窗台上的男人(惊天换日)DVD中字2012最新美国犯罪惊悚大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}窗台上的男人(惊天换日)DVD中字2012最新美国犯罪惊悚大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-17{/dede:field}
+{dede:field name='body'}<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120310/00/56643687201203100029223433126188313_005.jpg" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120310/00/56643687201203100029223433126188313_004.jpg" /></p>
+<p>
+	【影片原名】Man On A Ledge<br />
+	【中文译名】窗台上的男人/惊天换日(台)/天际100分钟(港)/顶楼救援<br />
+	【出品公司】顶峰娱乐<br />
+	【出品年代】2012 年<br />
+	【上映日期】2012年1月27日 美国<br />
+	【影片级别】USA:PG-13<br />
+	【IMDB链接】<a href="http://www.imdb.com/title/tt1568338/">http://www.imdb.com/title/tt1568338/</a><br />
+	【国　　家】美国<br />
+	【类　　别】惊悚/犯罪<br />
+	【导　　演】阿斯各&middot;莱斯 Asger Leth<br />
+	【主　　演】萨姆&middot;沃辛顿 Sam Worthington ....Nick Cassidy<br />
+	　　　　　　伊丽莎白&middot;班克斯 Elizabeth Banks ....Lydia Mercer<br />
+	　　　　　　安东尼&middot;麦凯 Anthony Mackie ....Mike Ackerman<br />
+	　　　　　　杰米&middot;贝尔 Jamie Bell ....Joey Cassidy<br />
+	　　　　　　Mandy Gonzalez ....Manager<br />
+	　　　　　　Barbara Marineau ....Screaming Woman<br />
+	　　　　　　J. Smith-Cameron ....Psychiatrist<br />
+	　　　　　　Patrick Collins ....Father Leo<br />
+	　　　　　　Genesis Rodriguez ....Angie<br />
+	　　　　　　Afton Williamson ....Janice Ackerman<br />
+	　　　　　　Robert Clohessy ....Prison Guard<br />
+	　　　　　　Joe Lisi ....Desk Sergeant<br />
+	　　　　　　Candice McKoy ....Cop - Bullhorn<br />
+	　　　　　　爱德华&middot;伯恩斯 Edward Burns ....Jack Dougherty<br />
+	　　　　　　Johnny Solo ....Cop - Room (as John Solo)</p>
+<p>
+	【文件格式】清晰TC-RMVB<br />
+	【文件大小】1CD 484MB<br />
+	【视频尺寸】720 x 304<br />
+	【影片长度】96 Mins<br />
+	【对白语言】英语<br />
+	【字幕语言】中文字幕</p>
+<p>
+	【内容简介】</p>
+<p>
+	前纽约警局警探尼克卡西迪(萨姆&middot;沃辛顿饰)因重大窃盗罪入狱,之后又成为逃犯。如今,他进入位于纽约市第45街和麦迪逊大道交界著名的罗斯福饭店,在最高楼层的房间里爬出窗外,站在大楼外墙边缘,这不只威胁到他自身的安危,也捕捉到全市的目光,其中有些人正担心某个天大的秘密会曝光。</p>
+<p>
+	　　尼克站在高楼窗台边缘的惊心动魄举动不仅爆发媒体追踪,也引来不被看好的谈判女警探莉迪亚梅瑟(伊丽莎白&middot;班克斯 饰),她必须说服他回到房间,同时还要应付刁难的纽约警局同事(爱德华&middot;伯恩斯)。</p>
+<p>
+	这可能跟一个声东击西的惊人计划有关。尼克在大楼边缘等待时机的同时,他的忠心弟弟(杰米&middot;贝尔饰)跟女友正在祕密进行什麽?或者尼克在警力的好友兼搭挡(安东尼`麦凯 饰)正想说动他进来房间?或者这一切都跟商界大亨(艾德&middot;哈里斯饰)的卑鄙勾当脱不了关系?在尼克大胆展开惊险行动的过程中,更多谜团将随之揭露,而不消多久,这个不名誉警探想证明自己清白的决心和幕后故事无疑成为更令人大开眼界的焦点。最后,这场风险变得愈益诡谲危急,不再只是他可能会失去平衡掉下大楼。</p>
+<p>
+	一句话评论</p>
+<p>
+	　　本片虽然目标不高,但它至少完成了它的既定使命;它充分抓住了观众的注意力、调动了他们的情绪并且在影片结束之后能换来一声&ldquo;不错&rdquo;的评价。</p>
+<p>
+	　　一月份的影片中充斥着大俗套是可以预期的;本片至少提供了足够分量的悬疑成分。</p>
+<p>
+	　　作为一部悬疑片,却一直忙于烦死观众,而不是制造悬念。</p>
+<p>
+	幕后制作</p>
+<p>
+	　　北欧导演的好莱坞处女秀</p>
+<p>
+	虽然有一部尚在计划中的《卡特尔》在前,但是这部叫做《窗台上的男人》的惊悚片,却是阿斯各&middot;莱斯实实在在拍摄出来的第一部英文对白的电影。来自北欧的阿斯各&middot;莱斯此前只与别人和拍过一部名为《索莱伊的幽灵》的纪录片。作为知名纪录片导演乔根&middot;莱斯(曾与拉斯&middot;冯&middot;提尔合作《五道障碍》)的儿子,阿斯各&middot;莱斯从北欧走向世界,从纪录片走到剧情片,似乎是一条预定好的道路。</p>
+<p>
+	　　对于自己的这部电影,阿斯各&middot;莱斯说:&ldquo;我想在影片中展示出一种真实性来,这种感觉也正是电影这种艺术形式给我的感觉:真实和虚假并存。在影片中,如果你全情投入,你就会搞不清什么是真实的,而什么又是编剧捏造出来的&lsquo;戏&rsquo;的。在拍摄的过程中,我一直想为我的故事和人物们注入真实的情感和人生。所以,我们创造了尼克这个人物,然后为他的过往写了很多,里面有他的生活、过去、情感、报复等等。而且,围绕在尼克的周围,我们还创造了很多其他的人物,比如他的弟弟,他弟弟的女朋友,他的老搭档等等。这么做,第一是故事的需要,而第二则是为了展示一个完整且真实的人生,并且希望观众们能相信这就是真实。在其他方面,我和我的剧组使用了时下最有感染力的手持式拍摄和快速剪辑的方式来制作这部电影。这样的方式能为影片的整体性带来一种颇为吸引人眼球的元素,更何况,这还是一部悬疑惊悚片,你以为尼克那个角色是无辜的么?其实并不是,因为他是一切事件的幕后策划人。不过,这些内容得到你把电影全部看完才能了解,这可能就是悬疑片的魅力。&rdquo;</p>
+<p>
+	　　演员班底</p>
+<p>
+	虽然只是处女作,但是阿斯各&middot;莱斯却在影片中找来了萨姆&middot;沃辛顿、伊丽莎白&middot;班克斯、杰米&middot;贝尔和艾德&middot;哈里斯这样出色的演员阵容。谈及这群演员,尤其是沃辛顿的表演,阿斯各&middot;莱斯赞不绝口。他说:&ldquo;这群演员算得上是好莱坞现今的中流砥柱了,特别是萨姆&middot;沃辛顿这样知名的年轻演员。在这部电影里,给萨姆发挥的场所不多,他的大多数戏份都是在窗台上完成的,这就对他的表演功底提出了很高的要求。他表现的很出色,一些极具情感张力和戏剧性的片段,都被他演绎得非常完整。其他的戏份里,他表现出了一个动作演员的水准,无论是奔跑、跳跃还是打斗的镜头,他表现得都很流畅,几乎是无与伦比的。其他几位主演的表现也很抢眼,那些并不简单的戏份,在他们身上出现了非同一般的光彩。&rdquo;</p>
+<p>
+	　　谈及自己的表演,与导演的合作,沃辛顿说:&ldquo;我很喜欢这个故事,尤其是那种只身一人站在窗台上要跳楼的情节,很让我心驰神往。这么一个独特的故事,很吸引我。而且,和我在影片中配戏的演员也很出色。阿斯各&middot;莱斯很有才华,他能从非常不一般的角度找到讲述故事的方法,无论在多么狭小的空间内,或者是多么危机的状况下,他都能找到合适的途径来表达自己。而且影片的摄影和剪辑也很专业,他们赋予了这部电影以生命,尤其是剪辑,实在是太棒了。&rdquo;</p>
+<p>
+	　　摄影和剪辑</p>
+<p>
+	　　在整部影片中,萨姆&middot;沃辛顿扮演的尼克几乎都在纽约的一栋高楼的窗台上游荡,随时都有跳下去的可能。在这种逼仄、狭小、独一的空间内,要把影片拍摄出一种惊悚和紧张的感觉,绝对不是一件容易的事情。而且摄影师扛着笨重的摄影器材,要和沃辛顿一样站在窗台上工作,也凭添了几分危险。不过,影片最后所呈现出来的效果是震撼的,这一切都要拜摄影师保罗&middot;卡麦隆和剪辑师凯文&middot;斯蒂特所赐。</p>
+<p>
+	　　在实拍期间,斯蒂特为沃辛顿找了一个&ldquo;合适的&rdquo;窗台,既方便剧组安全地工作,又适合各个角度的摄影。为了后期的方便,他和卡麦隆一起走上窗台,研究摄影角度和后期剪辑的空间。这种前期的工作,为卡麦隆的摄影找到了突破常规的途径。而且避免了观众在看高楼场景时候的恶心感和眩晕感。更重要的是,复杂、多变的机位和取景角度,还避免让观众感到无聊和重复的可能--毕竟,在这部影片中,沃辛顿几乎一直都在窗台上晃悠。在一些使用广角镜头拍摄的镜头中,窗台上的险象,被拍摄出了无穷的张力。保罗&middot;卡麦隆很聪明地在影片中使用了对比和第一人称视角的拍摄方法。他会用沃辛顿的角度朝地面拍摄,也会从围观群众的角度向沃辛顿拍摄--这样,既制造出了紧张感,又深刻描绘出了大楼的高度。</p>
+<p>
+	在拍摄和剪辑中,保罗&middot;卡麦隆和凯文&middot;斯蒂特都力求展示出故事真实的一面,所以他们使用了手持式摄影、跟拍和快速与凌厉的剪辑。而且凯文&middot;斯蒂特曾经剪辑了那部著名的《科洛弗档案》,对这样的&ldquo;人为的&rdquo;真实感熟稔于胸。所以,影片呈现出的紧张、刺激、真实的感受,也就不再奇怪了。</p>
+<p>
+	花絮</p>
+<p>
+	　　&middot;在影片中,萨姆&middot;沃辛顿要跳的那栋楼是纽约著名的罗斯福酒店(Roosevelt Hotel)。他几乎在整部影片中都站在酒店的窗台上。</p>
+<p>
+	　　&middot;艾米&middot;亚当斯曾经是扮演莉迪亚的人选。后来这个角色被交到了伊丽莎白&middot;班克斯的手上。</p>
+<p>
+	<br />
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120310/00/56643687201203100029223433126188313_003.jpg" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120310/00/56643687201203100029223433126188313_002.jpg" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120310/00/56643687201203100029223433126188313_000.jpg" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120310/00/56643687201203100029223433126188313_001.jpg" /></p>
+<p>
+	<img border="0" src="http://img170.poco.cn/mypoco/myphoto/20120416/22/56643687201204162213297591066085894_000.jpg" /></p>
+<p>
+	<img border="0" src="http://img170.poco.cn/mypoco/myphoto/20120416/22/56643687201204162213297591066085894_003.jpg" /></p>
+<p>
+	<img border="0" src="http://img170.poco.cn/mypoco/myphoto/20120416/22/56643687201204162213297591066085894_004.jpg" /></p>
+<p>
+	<img border="0" src="http://img170.poco.cn/mypoco/myphoto/20120416/22/56643687201204162213297591066085894_001.jpg" /></p>
+<p>
+	&nbsp;<img border="0" src="http://img170.poco.cn/mypoco/myphoto/20120416/22/56643687201204162213297591066085894_002.jpg" /></p>
+<p>
+	[下载地址]：&nbsp;&nbsp;</p>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2998/飘花电影piaohua.com窗台上的男人(惊天换日)清晰抢先中字.rmvb">&nbsp;</a><a href="ftp://dy44:piaohua@dy44.piaohua.com:2998/飘花电影piaohua.com窗台上的男人(惊天换日)清晰抢先中字.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2998/飘花电影piaohua.com窗台上的男人(惊天换日)清晰抢先中字.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3237/飘花电影piaohua.com窗台上的男人(惊天换日)DVD中字.rmvb">&nbsp;</a><a href="ftp://dy44:piaohua@dy44.piaohua.com:3237/飘花电影piaohua.com窗台上的男人(惊天换日)DVD中字.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3237/飘花电影piaohua.com窗台上的男人(惊天换日)DVD中字.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O14cE50-46461.jpg{/dede:field}

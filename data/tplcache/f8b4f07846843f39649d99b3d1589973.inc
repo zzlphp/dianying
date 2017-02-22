@@ -1,0 +1,9 @@
+{dede:field name='keywords'}夜巡者/为女守夜HDTVrip中英字幕{/dede:field}
+{dede:field name='description'}夜巡者/为女守夜HDTVrip中英字幕英国战争2011迅雷下载、免费下载，夜巡者/为女守夜HDTVrip中英字幕英国战争2011Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}夜巡者/为女守夜HDTVrip中英字幕英国战争2011{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1111/飘花电影piaohua.com夜巡者HDTVrip.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP5130F-53431.jpg{/dede:field}

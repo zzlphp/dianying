@@ -1,0 +1,9 @@
+{dede:field name='keywords'}都市异乡人HD国语中字都市/喜剧2{/dede:field}
+{dede:field name='description'}都市异乡人HD国语中字都市/喜剧2012迅雷下载、免费下载，都市异乡人HD国语中字都市/喜剧2012Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}都市异乡人HD国语中字都市/喜剧2012{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2920/飘花电影piaohua.com都市异乡人HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO615260-24111.jpg{/dede:field}

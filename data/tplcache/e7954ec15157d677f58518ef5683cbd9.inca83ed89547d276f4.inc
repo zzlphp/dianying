@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","顶级猫/猫老大BD中英双字1024高",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","顶级猫/猫老大BD中英双字1024高清2011动画迅雷下载、免费下载，顶级猫/猫老大BD中英双字1024高清2011动画Gvod高清在线播放，剧情介绍等。",72,244);
+$z[1][4]['name']="description";
+$z[2]=Array("field","顶级猫/猫老大BD中英双字1024高清2011动画",246,323);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",325,364);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",366,405);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-03-08",407,457);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" height=\"1062\" src=\"http://thecitylovesyou.com/cinerex/wp-content/uploads/2011/08/cartel.jpg\" width=\"750\" /></p>\r\n<p>\r\n	◎译　　名　顶级猫/猫老大<br />\r\n	◎片　　名　Top Cat The Movie<br />\r\n	◎年　　代　2011<br />\r\n	◎国　　家　墨西哥/阿根廷<br />\r\n	◎类　　别　动画<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中英双字<br />\r\n	◎IMDB评分 5.8/10 from 239 users<br />\r\n	◎文件格式　X264 + AAC<br />\r\n	◎视频尺寸　1024 x 576<br />\r\n	◎文件大小　1CD<br />\r\n	◎片　　长　1h 30mn<br />\r\n	◎导　　演　Alberto Mar<br />\r\n	◎主　　演　R&aacute;ul Anaya ... Don Gato (voice)<br />\r\n	　　　　　　Jorge Arvizu ... Benito / Cucho (voice)<br />\r\n	　　　　　　Mario Casta?eda Partido ... Lucas Buenrostro (voice)<br />\r\n	　　　　　　Jim Conroy ... Additional Voices (voice)<br />\r\n	　　　　　　Rolando de Castro ... Juez de la corte (voice)<br />\r\n	　　　　　　Ben Diskin ... Spook (voice: English version)<br />\r\n	　　　　　　Melissa Disney ... Trixie (voice: English version)<br />\r\n	　　　　　　Chris Edgerly ... Benny (voice: English version)<br />\r\n	　　　　　　Eduardo Garza ... Panza (voice)<br />\r\n	　　　　　　Jason Harris ... Top Cat / Griswald / Strickland / Choo Choo / Brain / Big Gus (voice)<br />\r\n	　　　　　　Guzm&aacute;n Jes&uacute;s ... Dem&oacute;stenes (voice)<br />\r\n	　　　　　　Bob Kaliban ... Judge / Police Chief / Mayor (voice)<br />\r\n	　　</p>\r\n<p>\r\n	◎简　　介　</p>\r\n<p>\r\n	　　Top Cat and the gang face a new police chief, who is not at all happy with the poor officer Dribble&#39;s performance trying to prevent Top Cat&#39;s scams. Strickland, the new police chief, has a wealth of technological resources and their real intention is to take the city, imposing ridiculous laws. Will test the Don Gato and all members of the gang, as well as the proper officer Dribble in a film full of adventure, action and lots of fun.　</p>\r\n\r\n<div id=\"trans-result-content\">\r\n	<p src=\"　Top Cat and the gang face a new police chief, who is not at all happy with the poor officer Dribble&amp;#39;s performance trying to prevent Top Cat&amp;#39;s scams. Strickland, the new police chief, has a wealth of technological resources and their real intention is to take the city, imposing ridiculous laws. Will test the Don Gato and all members of the gang, as well as the proper officer Dribble in a film full of adventure, action and lots of fun.\">\r\n		顶部猫和帮派面临一个新的警察局长，谁是不满意的差官运球的表现，试图阻止的顶级猫的骗局。斯特里克兰，新的警察局长，有丰富的技术资源和他们的真正目的是取城，对荒谬的法律。将测试不加托和所有成员，以及适当的军官运球电影充满冒险，行动和许多乐趣。</p>\r\n</div>\r\n\r\n<p>\r\n	<img alt=\"\" src=\"http://img.album.pchome.net/48/32/32/45/f46ca355bbf7b213729e0bb84d02b3ab.Top\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img.album.pchome.net/48/32/32/45/c9d62478e133831e7c6ffcffaa2e5d99.Top\" /></p>\r\n	[下载地址]： &nbsp;<img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" /></p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2975/飘花电影piaohua.com猫老大BD中英双字1024高清.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:2975/飘花电影piaohua.com猫老大BD中英双字1024高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",459,3878);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O1B51210-49634.jpg",3880,3964);
+$z[7][4]['name']="litpic";
+
+?>

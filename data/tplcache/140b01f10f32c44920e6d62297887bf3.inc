@@ -1,0 +1,9 @@
+{dede:field name='keywords'}初到东京高清1024/1280版HD中英{/dede:field}
+{dede:field name='description'}初到东京高清1024/1280版HD中英双字2012最新上映中日合拍爱情大迅雷下载、免费下载，初到东京高清1024/1280版HD中英双字2012最新上映中日合拍爱情大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}初到东京高清1024/1280版HD中英双字2012最新上映中日合拍爱情大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3062/飘花电影piaohua.com初到东京高清1024版HD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOFa60-494D.jpg{/dede:field}

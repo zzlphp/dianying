@@ -1,0 +1,9 @@
+{dede:field name='keywords'}赛车总动员2BD高清/国粤台英语港{/dede:field}
+{dede:field name='description'}赛车总动员2BD高清/国粤台英语港版中文化界面迅雷下载、免费下载，赛车总动员2BD高清/国粤台英语港版中文化界面Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}赛车总动员2BD高清/国粤台英语港版中文化界面{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ214A0-11204.jpg{/dede:field}

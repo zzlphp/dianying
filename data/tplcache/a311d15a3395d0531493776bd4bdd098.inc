@@ -1,0 +1,9 @@
+{dede:field name='keywords'}2011年TVB万千星辉颁奖典礼迅雷{/dede:field}
+{dede:field name='description'}2011年TVB万千星辉颁奖典礼迅雷下载、免费下载，2011年TVB万千星辉颁奖典礼Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}2011年TVB万千星辉颁奖典礼{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2272/飘花电影piaohua.com2011年TVB万千星辉颁奖典礼.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3XN0-45251.jpg{/dede:field}

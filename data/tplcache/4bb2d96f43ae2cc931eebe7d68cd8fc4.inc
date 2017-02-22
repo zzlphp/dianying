@@ -1,0 +1,9 @@
+{dede:field name='keywords'}2011蛋炒饭HD国语中字1024高清中{/dede:field}
+{dede:field name='description'}2011蛋炒饭HD国语中字1024高清中国喜剧迅雷下载、免费下载，2011蛋炒饭HD国语中字1024高清中国喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}2011蛋炒饭HD国语中字1024高清中国喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1117/飘花电影piaohua.com2011蛋炒饭TS抢先版.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO6164Z-4PJ.jpg{/dede:field}

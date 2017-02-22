@@ -1,0 +1,9 @@
+{dede:field name='keywords'}隔世情缘/穿越时空爱上你BD1280{/dede:field}
+{dede:field name='description'}隔世情缘/穿越时空爱上你BD1280高清迅雷下载、免费下载，隔世情缘/穿越时空爱上你BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}隔世情缘/穿越时空爱上你BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7830/飘花电影piaohua.com隔世情缘BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOH5O0-51938.jpg{/dede:field}

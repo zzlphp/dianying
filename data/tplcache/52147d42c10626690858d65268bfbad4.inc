@@ -1,0 +1,9 @@
+{dede:field name='keywords'}贵族HD国语配音1024高清经典喜剧{/dede:field}
+{dede:field name='description'}贵族HD国语配音1024高清经典喜剧迅雷下载、免费下载，贵族HD国语配音1024高清经典喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}贵族HD国语配音1024高清经典喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3006/飘花电影piaohua.com贵族HD国语配音1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO634I0-3T04.jpg{/dede:field}

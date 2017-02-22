@@ -1,0 +1,9 @@
+{dede:field name='keywords'}天龙八部之天山童姥HD高清1024*5{/dede:field}
+{dede:field name='description'}天龙八部之天山童姥HD高清1024*576迅雷下载、免费下载，天龙八部之天山童姥HD高清1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天龙八部之天山童姥HD高清1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2I640-53236.jpg{/dede:field}

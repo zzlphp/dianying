@@ -1,0 +1,9 @@
+{dede:field name='keywords'}理性与感性作品音乐会DVD中字李{/dede:field}
+{dede:field name='description'}理性与感性作品音乐会DVD中字李宗盛迅雷下载、免费下载，理性与感性作品音乐会DVD中字李宗盛Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}理性与感性作品音乐会DVD中字李宗盛{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1056/飘花电影piaohua.com理性与感性作品音乐会DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ492230-51541.jpg{/dede:field}

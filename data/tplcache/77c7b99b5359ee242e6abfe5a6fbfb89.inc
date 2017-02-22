@@ -1,0 +1,9 @@
+{dede:field name='keywords'}大追捕/杀人犯2/追捕HD国粤双语{/dede:field}
+{dede:field name='description'}大追捕/杀人犯2/追捕HD国粤双语中字1024/1280高清迅雷下载、免费下载，大追捕/杀人犯2/追捕HD国粤双语中字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}大追捕/杀人犯2/追捕HD国粤双语中字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3022/飘花电影piaohua.com大追捕1024版HD高清国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4V310-46164.jpg{/dede:field}

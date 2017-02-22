@@ -1,0 +1,9 @@
+{dede:field name='keywords'}飞越老人院HD国语中字1024/1280{/dede:field}
+{dede:field name='description'}飞越老人院HD国语中字1024/1280高清2012最新喜剧迅雷下载、免费下载，飞越老人院HD国语中字1024/1280高清2012最新喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}飞越老人院HD国语中字1024/1280高清2012最新喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3386/飘花电影piaohua.com飞越老人院HD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO593220-329E.jpg{/dede:field}

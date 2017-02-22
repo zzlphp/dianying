@@ -1,0 +1,9 @@
+{dede:field name='keywords'}婚礼告急HD1024/1280高清国语中{/dede:field}
+{dede:field name='description'}婚礼告急HD1024/1280高清国语中字迅雷下载、免费下载，婚礼告急HD1024/1280高清国语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}婚礼告急HD1024/1280高清国语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2114/飘花电影piaohua.com婚礼告急HD1024国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MON64P-3TJ.jpg{/dede:field}

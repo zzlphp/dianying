@@ -1,0 +1,9 @@
+{dede:field name='keywords'}只有你高清BD中字2011最新韩国苏{/dede:field}
+{dede:field name='description'}只有你高清BD中字2011最新韩国苏志燮、韩孝珠爱情大片迅雷下载、免费下载，只有你高清BD中字2011最新韩国苏志燮、韩孝珠爱情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}只有你高清BD中字2011最新韩国苏志燮、韩孝珠爱情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2547/飘花电影piaohua.com只有你高清BD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOR1220-21S3.jpg{/dede:field}

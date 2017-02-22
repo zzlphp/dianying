@@ -1,0 +1,9 @@
+{dede:field name='keywords'}天坛BD国语中字1024高清2010纪录{/dede:field}
+{dede:field name='description'}天坛BD国语中字1024高清2010纪录片迅雷下载、免费下载，天坛BD国语中字1024高清2010纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天坛BD国语中字1024高清2010纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy445:piaohua@dy445.piaohua.com:503/飘花电影piaohua.com天坛BD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4Z460-2Q44.jpg{/dede:field}

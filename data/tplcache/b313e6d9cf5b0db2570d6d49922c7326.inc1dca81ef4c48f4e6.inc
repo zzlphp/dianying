@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","贱民BD1280高清迅雷下载，免费下",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","贱民BD1280高清迅雷下载、免费下载，贱民BD1280高清Gvod高清在线播放，剧情介绍等。",73,195);
+$z[1][4]['name']="description";
+$z[2]=Array("field","贱民BD1280高清",197,249);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",251,290);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",292,331);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-11",333,383);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://i.imgur.com/1iAN6.jpg\" style=\"width: 580px; height: 741px\" /></p>\r\n<p>\r\n	◎译　　名　贱民<br />\r\n	◎片　　名　Pariah<br />\r\n	◎年　　代　2011<br />\r\n	◎国　　家　美国<br />\r\n	◎类　　别　剧情<br />\r\n	◎语　　言　英语<br />\r\n	◎IMDB评分 &nbsp; 7.0/10 (633 votes)<br />\r\n	◎IMDB链接 &nbsp; <a href=\"http://www.imdb.com/title/tt1233334/\" target=\"_blank\">http://www.imdb.com/title/tt1233334/</a><br />\r\n	◎片　　长　86分钟<br />\r\n	◎导　　演　Dee Rees<br />\r\n	◎编　　剧　Dee Rees<br />\r\n	◎主　　演　阿德佩罗&middot;奥杜耶 Adepero Oduye &nbsp;....Alike<br />\r\n	　　　　　　Kim Wayans &nbsp;....Audrey<br />\r\n	　　　　　　Aasha Davis &nbsp;....Bina<br />\r\n	　　　　　　Charles Parnell &nbsp;....Arthur<br />\r\n	　　　　　　Shamika Cotton &nbsp;....Candace<br />\r\n	　　　　　　Nina Daniels &nbsp;....Gina<br />\r\n	　　　　　　Joey Auzenne &nbsp;....Math Teacher<br />\r\n	　　　　　　Natalie Carter &nbsp;....Rowdy Co-Worker #1<br />\r\n	　　　　　　Afton Williamson &nbsp;....Mika<br />\r\n	　　　　　　Zabryna Guevara &nbsp;....Mrs. Alvarado<br />\r\n	　　　　　　Raymond Anthony Thomas &nbsp;....Mack<br />\r\n	　　　　　　Sahra Mellesse &nbsp;....Sharonda<br />\r\n	　　　　　　Kim Sykes &nbsp;....Mrs. Singletary<br />\r\n	　　　　　　Rob Morgan &nbsp;....Sock<br />\r\n	　　　　　　Pernell Walker &nbsp;....Laura<br />\r\n	　　　　　　Loren Hankin &nbsp;....Personal Cheerleader<br />\r\n	　　　　　　Kinya Shakur Rector &nbsp;....Hospital Clerk<br />\r\n	　　　　　　Chant&eacute; Lewis &nbsp;....Fast Girl #1<br />\r\n	　　　　　　Alaina Dunn &nbsp;....Pier Girl #2<br />\r\n	　　　　　　Ozzie Stewart &nbsp;....Mrs. Campbell<br />\r\n	　　　　　　Jeremie Harris &nbsp;....Bina&#39;s Boyfriend<br />\r\n	　　　　　　Donei Hall &nbsp;....Rowdy Co-Worker #2<br />\r\n	　　　　　　Kymbali Craig &nbsp;....Pier Girl #1<br />\r\n	　　　　　　Olithea Anglin &nbsp;....Fast Girl #2<br />\r\n	　　　　　　Andrea Smith &nbsp;....Pier Girl #3<br />\r\n	　　　　　　Stephanie Andujar &nbsp;....Pier Girl<br />\r\n	　　　　　　Maine Anders &nbsp;....Go Go Dancer<br />\r\n	<br />\r\n	<br />\r\n	◎简　　介<br />\r\n	<br />\r\n	　　影片的女主角是一个叫做艾立凯的17岁黑人少女，她和自己的父母以及妹妹住在布鲁克林。艾立凯是一个很聪明的学生，她很平静，但同时也是很坚定地接受了自己是一个同性恋的事实。在好朋友劳拉的支持和鼓励下，她开始为自己寻找一个女朋友。于是，在自己的坚持和朋友的支持下，艾立凯开始用优雅、幽默和坚韧的态度来度过自己的青春期。<br />\r\n	&nbsp;<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120510/19/62564813201205101942569859621444258_002.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120510/19/62564813201205101942569859621444258_001.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120510/19/62564813201205101942569859621444258_000.jpg\" style=\"width: 720px; height: 405px\" /></p>\r\n<p>\r\n	【下载地址】</p>\r\n<table bgcolor=\"#0099cc\" border=\"0\" cellpadding=\"10\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy125:piaohua@dy125.piaohua.com:8040/飘花电影piaohua.com贱民BD中英双字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:8040/飘花电影piaohua.com贱民BD中英双字1280高清.rmvb</a></td>\r\n		</tr>\r\n		<tr>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<br />",385,3982);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15K2220-35094.jpg",3984,4068);
+$z[7][4]['name']="litpic";
+
+?>

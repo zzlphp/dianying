@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","霓虹肉身BD1280高清迅雷下载，免",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","霓虹肉身BD1280高清迅雷下载、免费下载，霓虹肉身BD1280高清Gvod高清在线播放，剧情介绍等。",73,203);
+$z[1][4]['name']="description";
+$z[2]=Array("field","霓虹肉身BD1280高清",205,261);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",263,302);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",304,343);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-14",345,395);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120514/00/62564813201205140016571941537677326_000.jpg\" style=\"width: 436px; height: 550px\" /></p>\r\n<p>\r\n	◎译　　名　霓虹肉身/ 灯红酒绿<br />\r\n	◎片　　名　Neon Flesh<br />\r\n	◎年　　代　2010<br />\r\n	◎国　　家　西班牙/阿根廷/瑞典 &nbsp; &nbsp;<br />\r\n	◎类　　别　喜剧 &nbsp;<br />\r\n	◎语　　言　西班牙语 &nbsp;<br />\r\n	◎IMDB评分 &nbsp;5.2/10 (311 votes)<br />\r\n	◎IMDB链接 &nbsp;<a href=\"http://www.xiaozhizhu.net/\" target=\"_blank\" title=\"最新电影\">http://www.xiaozhizhu.net/</a><br />\r\n	◎片　　长　1h:38m:11s<br />\r\n	◎导　　演　Paco Cabezas<br />\r\n	◎主　　演　安吉拉&middot;摩琳娜 Angela Molina &nbsp;....Pura<br />\r\n	　　　　　　Macarena Gomez &nbsp;....La Canija / Marga<br />\r\n	　　　　　　Vicente Romero &nbsp;....Angelito<br />\r\n	　　　　　　Carlos Vellido &nbsp;....Director<br />\r\n	　　　　　　马里奥&middot;卡萨斯 Mario Casas &nbsp;....Ricky<br />\r\n	　　　　　　Luciano Caceres &nbsp;....El Nino<br />\r\n	　　　　　　Damaso Conde &nbsp;....La Infantita<br />\r\n	　　　　　　达里奥&middot;葛兰帝内提 Dario Grandinetti<br />\r\n	　　　　　　Charles Tyner &nbsp;....Robidoux<br />\r\n	　　　　　　Matt Clark &nbsp;....Qualen<br />\r\n	　　　　　　布兰卡&middot;苏亚雷兹 Blanca Suarez &nbsp;....Veronica　　　　　<br />\r\n	<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	　 　影片讲述了主人公为了讨老妈欢心，与自己两个没用的老友开了一家妓院做事业的喜剧故事。<br />\r\n	<br />\r\n	　　 里基Ricky（马里奥&middot;卡萨斯饰）在不到12岁时就混迹街头，生活上与妓女、皮条客和瘾君子们打成一片，并且与其保持着密切的关系。现在，为了讨刚刚出狱的老妈普拉Pura（安赫拉&middot;莫利纳饰）欢心，23岁的里基与自己两个没用的老友开了一家名为&ldquo;广岛俱乐部&rdquo;的妓院作为一份礼物让老妈把持。然而，这个快乐的想法是不那么容易实现的......<br />\r\n	<br />\r\n	　　 NEON FLESH 是一部高度犯罪惊悚片，具有独特风格及野性幽默。全片围绕Ricky和他所生活的地下世界展开。Pura，他的母亲，是个妓女，在他12岁就抛弃了他。如今，Ricky长大成人，他想在母亲出狱时开一家妓院孝敬她。他找了他的瘾君子女友帮他拉皮条，还招募了一个相信自己是皇家成员的变性人。但是当Ricky从医院把母亲接回来时，发现母亲已经对自己送的礼物非常腻味了，这让他非常失落。更糟的是，他妓院选址侵犯了无情的暴徒El Chino的领域。</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120514/00/62564813201205140015491880916421436_003.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120514/00/62564813201205140015491880916421436_002.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120514/00/62564813201205140015491880916421436_001.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120514/00/62564813201205140015491880916421436_000.jpg\" style=\"width: 720px; height: 405px\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	【下载地址】</p>\r\n<table bgcolor=\"#0099cc\" border=\"0\" cellpadding=\"10\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net/movie/20543.html\" target=\"_blank\">http://www.xiaozhizhu.net/movie/20543.html</a></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy125:piaohua@dy125.piaohua.com:8065/飘花电影piaohua.com霓虹肉身BD中英双字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:8065/飘花电影piaohua.com霓虹肉身BD中英双字1280高清.rmvb</a></td>\r\n		</tr>\r\n		<tr>\r\n		</tr>\r\n	</tbody>\r\n</table>",397,3979);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15L4W0-442N.jpg",3981,4063);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}海底世界1024高清双语字幕美国]{/dede:field}
+{dede:field name='description'}海底世界1024高清双语字幕美国]纪录迅雷下载、免费下载，海底世界1024高清双语字幕美国]纪录Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}海底世界1024高清双语字幕美国]纪录{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1521/飘花电影piaohua.com海底世界1024高清双语字幕.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ5095P-2W42.jpg{/dede:field}

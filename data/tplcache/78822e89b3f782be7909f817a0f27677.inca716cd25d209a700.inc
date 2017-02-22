@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","卫斯理传奇[BD国语+粤语中字1024",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","卫斯理传奇[BD国语+粤语中字1024x576高清版]迅雷下载、免费下载，卫斯理传奇[BD国语+粤语中字1024x576高清版]Gvod高清在线播放，剧情介绍等。",73,249);
+$z[1][4]['name']="description";
+$z[2]=Array("field","卫斯理传奇[BD国语+粤语中字1024x576高清版]",251,330);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",332,371);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",373,412);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-05-01",414,464);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<IMG border=0 src=\"http://photo7.zxip.com/albums7/folder18/14187/20110301162240/2011425154743328.JPG\"><BR><BR>◎译　　名　卫斯理传奇<BR>◎片　　名　The Legend Of Wisely<BR>◎年　　代　1987<BR>◎国　　家　香港<BR>◎类　　别　动作/冒险/科幻<BR>◎语　　言　普通话/粤语<BR>◎字　　幕　中文<BR>◎IMDB评分 6.3/10 (117 votes)<BR>◎文件格式　x264 + AAC<BR>◎视频尺寸　1024 x 576<BR>◎文件大小　1CD<BR>◎片　　长　1h:28m:34s<BR>◎导　　演　泰迪罗宾Teddy Robin Kwan<BR>◎编　　剧　廖坚为Jianwei Liao<BR>　　　　　　潘源良Yuen-Leung Poon<BR>　　　　　　郑忠泰Philip Cheng<BR>◎主　　演　许冠杰 Sam Hui ....卫斯理 Wisely<BR>　　　　　　狄龙 Lung Ti ....白奇伟 Pak Kei-Wei<BR>　　　　　　王祖贤 Joey Wong ....白素 Sue Pak (as Wong Joe Hin)<BR>　　　　　　泰迪罗宾 Teddy Robin Kwan ....高大威 David Ko<BR>　　　　　　柯受良 Cylon Or ....The Two Headed Snake<BR>　　　　　　Bruce Baron ....Howard Hope<BR>　　　　　　Heidi Makinen ....Hope's Assistant<BR>　　　　　　Eva Cobo<BR>　　　　　　冯永 Wellington Fung ....Cameo appearance (uncredited)<BR><BR>◎简　　介<BR><BR>&nbsp; &nbsp; 这是港片中比较罕见的大型科幻传奇片，取材自倪匡原着小说的精神和男女主角卫斯理、白素的名字，故事内容则由编剧新创。<BR><BR>&nbsp; &nbsp; 爱冒险的科幻小说家卫斯理(许冠杰饰)为寻友远赴尼泊尔。西藏密教有一轮回转世之宝物龙珠突遭不明人士盗走，卫斯理在密宗朋友邀请之下介入调查。原来其友受清帮老大白奇伟所令盗取龙珠。卫斯理受小活佛所托找回龙珠，途中遇见神秘女子白素(王祖贤饰)，两人不打不相识，结伴同往探查龙珠的失踪案。 <BR><BR>&nbsp; &nbsp; 原来龙珠是外星生物所遗失之太空船启动器，当年太空船因故障撞落西藏，而启动器被偷走，致使外星人无法回去所属的星球。最后龙珠<A href=\"http://www.3ekk.com/\" target=_blank>电影下载</A>物归原主，状若飞龙的太空船腾空而起，慢慢消失于云层中…… <BR><BR>◎幕后制作<BR><BR>&nbsp; &nbsp; 倪匡的科幻小说《卫斯理传奇》，除了广受欢迎外，笔下的传奇人物卫斯理更是各大电影人最爱拍摄成电影的题材之一。但奈于小说中的情节时而科幻，情节时而扑朔迷离，因而改编成电影的难度相当高。1987年，泰迪罗宾执起卫斯理题材，除了自导自演外，更找来许冠杰扮演智勇兼备的卫斯理，而王祖贤则饰演卫斯理一生挚爱的白素。电影《卫斯理传奇》有超卓的特技效果，更挑战外太空及密宗等题材，确属诚意之作，值得影迷珍藏...<BR><BR><IMG border=0 src=\"http://photo7.zxip.com/albums7/folder18/14187/20110301162240/20114291641216256.jpg\">&nbsp;<BR><IMG border=0 src=\"http://photo7.zxip.com/albums7/folder18/14187/20110301162240/20114291641224016.jpg\"><BR><BR><BR><BR><BR>[下载地址]：<IMG border=0 src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\"><BR>\r\n<TABLE style=\"BORDER-BOTTOM: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-RIGHT: #cccccc 1px dotted\" border=0 cellSpacing=0 cellPadding=6 width=\"95%\" align=center>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf><A href=\"ftp://3e:3e@m3.3edyy.com:529/【3E看看www.3ekk.com】卫斯理传奇.1024x576.国粤双语.中文字幕.mkv\" target=_blank>ftp://3e:3e@m3.3edyy.com:529/【3E看看www.3ekk.com】卫斯理传奇.1024x576.国粤双语.中文字幕.mkv</A></TD></TR></TBODY></TABLE>",466,3553);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O1BQ130-21226.jpg",3555,3638);
+$z[7][4]['name']="litpic";
+
+?>

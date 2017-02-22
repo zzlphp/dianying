@@ -1,0 +1,9 @@
+{dede:field name='keywords'}玻璃樽BD1280高清粤语中字迅雷下{/dede:field}
+{dede:field name='description'}玻璃樽BD1280高清粤语中字迅雷下载、免费下载，玻璃樽BD1280高清粤语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}玻璃樽BD1280高清粤语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOR32P-56344.jpg{/dede:field}

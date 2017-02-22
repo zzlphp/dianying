@@ -1,0 +1,30 @@
+{dede:field name='keywords'}地心末日/地心浩劫/地心抢险记迅{/dede:field}
+{dede:field name='description'}地心末日/地心浩劫/地心抢险记迅雷下载、免费下载，地心末日/地心浩劫/地心抢险记Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}地心末日/地心浩劫/地心抢险记{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2008-09-22{/dede:field}
+{dede:field name='body'}<P>【译　　名】《地心末日/地心浩劫/地心抢险记》世界顶级科幻灾难超刺激大片DVD中英字幕<BR>【原　　名】The Core <BR>【上　　映】2003年<BR>【国　　家】美国<BR>【类　　型】冒险/动作/科幻/灾难<BR>【语　　言】英语<BR>【字　　幕】中英字幕<BR>【视频尺寸】800 x 452<BR>【电影整理】3E迅雷电影下载站(www.eee4.com)<BR>【文件大小】3CD 802MB<BR>【片　　长】135分钟<BR>【导　　演】乔恩·阿米尔 Jon Amiel<BR>【演　　员】阿伦·艾克哈特 Aaron Eckhart Dr. Josh Keyes <BR>　　　　&nbsp; 　Christopher Shyer Dave Perry <BR>　　　&nbsp; 　　Ray Galletti Paul <BR>　　　&nbsp; 　　希拉里·斯万科 Hilary Swank Maj. Rebecca Childs <BR>　　　　&nbsp;&nbsp;&nbsp; 切基·卡尤 Tchéky Karyo Dr. Serge Levequ</P>
+<P>【影片简介】：</P>
+<P>　　地球核心因为不明原因停止转动，导致存在于地球上的电磁场急速崩解，全球各地都出现异常灾难。美国波士顿在十个街口的范围内，有三十二名装置心律调整器的市民在一瞬间心脏停止跳动因而暴毙；</P>
+<P>　　西岸旧金山的地标金门大桥也突然断成两截，数百人坠入大海；而更离奇的是，聚集在伦敦特拉法加广场的成群鸽子突然之间失去辨识方向能力，于是成千上百只鸽子就这样冲进人群或是撞上玻璃窗，不但伤及无数游客，更让车辆驾驶失去控制发生严重意外。</P>
+<P>　　最夸张的是，罗马著名的观光景点古罗马竞技场前，无数游客竟然亲眼目睹这座千年古迹被密集的闪电击成碎片。美国ZF及军方在面临这项空前危机时，决定向顶尖的地质物理学家乔许·凯斯，以及一群全球最杰出的科学家求助并找来所谓的“地心航员”蕾贝卡·柴德中校以及劳勃·艾维森指挥官驾驶一艘前所未有的地心航舰，载着这群科学家执行一项空前绝后的伟大任务，那就是深入地心引爆核弹，让地球核新再度转动，并避免地心毁灭导致世界末日…… </P>
+<P><BR>【幕后故事】： </P>
+<P>　　这是导演庄·阿米尔首次涉足科幻题材的影片，这位来自英国、毕业于剑桥的导演1990年开始进入好莱坞，这十几年间他的作品不算多，但却是风格各异，这其中有讲述南北战争的剧情片《萨莫斯比》(SommerXXy)，有惊悚题材的《叠影谋杀案》(Copycat)，喜剧片《The Man Who Knew Too Little》，还有国内观众熟悉的动作片《偷天陷阱》(Entrapment)，埃米尔不喜欢把自己局限一种类型的影片中，这对他的发展既有促进作用，也带来了一定的障碍，有些人就认为他的影片毫无风格可言，虽然拍过很多影片，却无法相那些耳熟能详的大导演们给人留下深刻印象。</P>
+<P>　　奥斯卡影后希拉里·斯万克毫无疑问是整部影片最引人注目的亮点。自1999年凭借《男孩不哭》中的同性恋角色爆冷捧走小金人后，希拉里便开始了马不停蹄的接片工作，先是灵异惊悚片《天赋》中饱受虐待的妻子，而后是《项链事件》里18世纪的法国宫廷美人，接着她又和两位演技派大高手艾尔·帕西诺、罗宾·威廉斯一起经历阿拉斯加的白夜(《失眠症》)，现在她又要钻到地心里去经历平生最刺激的冒险了。电影编辑整理：(www.eee4.com)</P>
+<P><IMG src="http://pic.piaohua.com/0701pic/allimg/080922/0648510.jpg"></P>
+<P>【电影截图】：<BR>电影来源：www.eee4.com <BR><IMG src="http://pic.piaohua.com/0701pic/allimg/080922/0648381.jpg">&nbsp;<BR><IMG src="http://pic.piaohua.com/0701pic/allimg/080922/0648382.jpg">&nbsp;<BR><IMG src="http://pic.piaohua.com/0701pic/allimg/080922/0648383.jpg"></P>
+<P>2008-09-22 01:41:12 开始连接......<BR>2008-09-22 01:41:12 开始搜索候选资源......<BR>2008-09-22 01:41:12 搜索到52个候选资源<BR>2008-09-22 01:41:12 使用候选资源进行连接......<BR>2008-09-22 01:41:13 搜索到121个候选资源<BR>2008-09-22 01:41:13 使用候选资源进行连接......<BR>2008-09-22 01:41:13 文件创建成功，开始下载数据......<BR>2008-09-22 01:41:16 用户取消下载&nbsp;&nbsp; 本文来自：www.eee4.com</P>（直接可能无法下载，一律使用<A href="/soft.htm" target=_blank>迅雷下载</A>）<BR>世界顶级科幻灾难超刺激大片《地心末日》DVD中英字幕 － 来自[3E迅雷电影站eee4.com]下载地址：<IMG src="/templets/img/down.jpg" border=0><BR>CD1：<BR>
+<TABLE style="BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted" cellSpacing=0 cellPadding=6 width="95%" align=center border=0>
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" bgColor=#fdfddf><ANCHOR></ANCHOR><A href="ftp://3e:1001@xl2.eee4.com:1001/[3E迅雷电影站www.eee4.com]地心末日DVD中英双字CD1.rmvb" target=_blank>ftp://3e:1001@xl2.eee4.com:1001/[3E迅雷电影站www.eee4.com]地心末日DVD中英双字CD1.rmvb</A></TD></TR></TBODY></TABLE>CD2：<BR>
+<TABLE style="BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted" cellSpacing=0 cellPadding=6 width="95%" align=center border=0>
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" bgColor=#fdfddf><ANCHOR></ANCHOR><A href="ftp://3e:1001@xl2.eee4.com:1001/[3E迅雷电影站www.eee4.com]地心末日DVD中英双字CD2.rmvb" target=_blank>ftp://3e:1001@xl2.eee4.com:1001/[3E迅雷电影站www.eee4.com]地心末日DVD中英双字CD2.rmvb</A></TD></TR></TBODY></TABLE>CD3：<BR>
+<TABLE style="BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted" cellSpacing=0 cellPadding=6 width="95%" align=center border=0>
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" bgColor=#fdfddf><ANCHOR></ANCHOR><A href="ftp://3e:1001@xl2.eee4.com:1001/[3E迅雷电影站www.eee4.com]地心末日DVD中英双字CD3.rmvb" target=_blank>ftp://3e:1001@xl2.eee4.com:1001/[3E迅雷电影站www.eee4.com]地心末日DVD中英双字CD3.rmvb</A></TD></TR></TBODY></TABLE>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O1A02I0-552L.jpg{/dede:field}

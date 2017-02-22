@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","心中有鬼1024/1280高清迅雷下载",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","心中有鬼1024/1280高清迅雷下载、免费下载，心中有鬼1024/1280高清Gvod高清在线播放，剧情介绍等。",72,208);
+$z[1][4]['name']="description";
+$z[2]=Array("field","心中有鬼1024/1280高清",210,269);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",271,310);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",312,351);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-08-12",353,403);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O03513540-63407.jpg\" /></p>\r\n<p>\r\n	◎片　　名　心中有鬼<br />\r\n	◎译　　名　The Matrimony<br />\r\n	◎年　　代　1971<br />\r\n	◎国　　家　中国<br />\r\n	◎类　　别　惊悚/爱情<br />\r\n	◎语　　言　国语<br />\r\n	◎字　　幕　无<br />\r\n	◎文件格式　RVMB<br />\r\n	◎视频尺寸　1280 x 720<br />\r\n	◎片　　长　90min<br />\r\n	◎导　　演　滕华涛 Hua-Tao Teng<br />\r\n	◎编　　剧　杨倩玲 Qianling Yang&nbsp;<br />\r\n	◎主　　演　张家鲁 Jialu Zhang</p>\r\n<p>\r\n	　　　　　&nbsp; 黎明 Leon Lai<br />\r\n	　　　　　　刘若英 Rene Liu<br />\r\n	　　　　　　范冰冰 Bingbing Fan&nbsp;<br />\r\n	　　<br />\r\n	　　　　　<br />\r\n	◎简　　介<br />\r\n	　　&nbsp;&nbsp; 你能多爱一个人？乐其所乐，悲其所悲？为对方付出一切，出生入死，甘愿奉上性命？ 　</p>\r\n<p>\r\n	　甚至，出卖灵魂，和鬼魂打交道？&hellip;&hellip; 　　君初(黎明饰)和曼丽(范冰冰(blog)饰)早论及婚嫁，</p>\r\n<p>\r\n	却因为一场车祸，天人永隔；君初眼睁睁看着未婚妻香消玉陨，无力回天。 　　君初整个人崩溃，</p>\r\n<p>\r\n	整日关在阴森幽阔的老宅子里回想从前，痛苦难以名状。母亲半哄半骗逼他和三三(刘若英饰)办了</p>\r\n<p>\r\n	婚事，盼望能藉此跳脱厄运。没想到，君初益加懊丧，更骇人的是，这栋身处竹海的老宅子，总在</p>\r\n<p>\r\n	出人不意时，传来细碎的低语、莫名的噪音，甚至，惨淡的魅影&hellip;&hellip;&nbsp; 《心中有鬼》剧照<br />\r\n	尽管害怕，三三咬牙顶住。她万般珍惜这段糊涂姻缘。只盼有那一天，君初对她一个笑，唤她一声</p>\r\n<p>\r\n	妻。 　　怎知君初不堪往事纠缠，精神耗弱病倒，命在旦夕。听着君初辗转病榻，仍不断呼求曼丽</p>\r\n<p>\r\n	之名，三三决定了；她红着眼眶，奔回老宅，狂喊着要曼丽现身！只要能救君初一命，要她怎么样</p>\r\n<p>\r\n	都行&hellip;&hellip; 　　曼丽惨白的脸望着哭得凄惨的三三，问：──怎样都行？ 　　君初的病好起来，对</p>\r\n<p>\r\n	三三逐渐产生好感。曼丽却逐渐走向黑暗，妒火让她失去理智。她先是活生生吓疯了被她视为始作</p>\r\n<p>\r\n	俑者的沈母，接下来要和三三摊牌，甚至不惜要带走她毕生的至爱君初&hellip;&hellip;</p>\r\n\r\n<p>\r\n	<br />\r\n	◎截　　图：</p>\r\n<p>\r\n	&nbsp;<img alt=\"\" src=\"/uploads/allimg/c120525/133O03514620-J5P.jpg\" /><img alt=\"\" src=\"/uploads/allimg/c120525/133O03515C0-XH0.jpg\" /><img alt=\"\" src=\"/uploads/allimg/c120525/133O0351B10-9C28.jpg\" /><img alt=\"\" src=\"/uploads/allimg/c120525/133O0351J40-1053T.jpg\" /></p>\r\n<p>\r\n	[心中有鬼下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\" />&nbsp;&nbsp;&nbsp;\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				ftp://dy195:piaohua@dy195.piaohua.com:1014/飘花电影下载站www.xiaozhizhu.net心中有鬼[国语无字].rmvb </td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				ftp://dy44:piaohua@dy44.piaohua.com:1259/飘花电影piaohua.com心中有鬼HD国语1024分辨率.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",405,3461);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O0351S0-112648.jpg",3463,3547);
+$z[7][4]['name']="litpic";
+
+?>

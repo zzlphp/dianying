@@ -1,0 +1,9 @@
+{dede:field name='keywords'}一年级生/我的八十后同学高清128{/dede:field}
+{dede:field name='description'}一年级生/我的八十后同学高清1280版BD中英双字2011英国传记迅雷下载、免费下载，一年级生/我的八十后同学高清1280版BD中英双字2011英国传记Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}一年级生/我的八十后同学高清1280版BD中英双字2011英国传记{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2003/飘花电影piaohua.com一年级生高清1280版BD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP04C0-49438.jpg{/dede:field}

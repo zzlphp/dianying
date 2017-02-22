@@ -1,0 +1,9 @@
+{dede:field name='keywords'}苔丝BD1280高清中字迅雷下载，免{/dede:field}
+{dede:field name='description'}苔丝BD1280高清中字迅雷下载、免费下载，苔丝BD1280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}苔丝BD1280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2031/飘花电影piaohua.com苔丝BD1280高清中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP122N0-4KS.jpg{/dede:field}

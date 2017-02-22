@@ -1,0 +1,9 @@
+{dede:field name='keywords'}日落狂沙/搜索者BD中英双字1280{/dede:field}
+{dede:field name='description'}日落狂沙/搜索者BD中英双字1280高清经典动作剧情迅雷下载、免费下载，日落狂沙/搜索者BD中英双字1280高清经典动作剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}日落狂沙/搜索者BD中英双字1280高清经典动作剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3180/飘花电影piaohua.com搜索者BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP220520-5AW.jpg{/dede:field}

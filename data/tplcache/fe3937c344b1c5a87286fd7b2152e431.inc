@@ -1,0 +1,9 @@
+{dede:field name='keywords'}绿灯侠加长版/绿光战警BD高清迅{/dede:field}
+{dede:field name='description'}绿灯侠加长版/绿光战警BD高清迅雷下载、免费下载，绿灯侠加长版/绿光战警BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}绿灯侠加长版/绿光战警BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-05{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO943350-45118.jpg{/dede:field}

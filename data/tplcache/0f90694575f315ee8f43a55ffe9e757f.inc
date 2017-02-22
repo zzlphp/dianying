@@ -1,0 +1,9 @@
+{dede:field name='keywords'}小鬼当家1-3部BD国语配音1024高{/dede:field}
+{dede:field name='description'}小鬼当家1-3部BD国语配音1024高清经典喜剧迅雷下载、免费下载，小鬼当家1-3部BD国语配音1024高清经典喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}小鬼当家1-3部BD国语配音1024高清经典喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3038/飘花电影piaohua.com小鬼当家1BD国语配音1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO642510-11292.jpg{/dede:field}

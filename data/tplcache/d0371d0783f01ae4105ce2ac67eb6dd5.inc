@@ -1,0 +1,9 @@
+{dede:field name='keywords'}生活大爆炸,第五季更新24集[中英{/dede:field}
+{dede:field name='description'}生活大爆炸 第五季更新24集[中英双字]2011主打美剧迅雷下载、免费下载，生活大爆炸 第五季更新24集[中英双字]2011主打美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}生活大爆炸 第五季更新24集[中英双字]2011主打美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2926/飘花电影piaohua.com生活大爆炸第五季01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP922950-23Z7.jpg{/dede:field}

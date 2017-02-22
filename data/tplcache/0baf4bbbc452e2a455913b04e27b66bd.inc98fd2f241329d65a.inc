@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","地球湮没之惊涛大历险/明天过后2",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","地球湮没之惊涛大历险/明天过后2/后天2/超级飓风之世界末日[BD中英双字1280x720高清版]迅雷下载、免费下载，地球湮没之惊涛大历险/明天过后2/后天2/超级飓风之世界末日[BD中英双字1280x720高清版]Gvod高清在线播放，剧情介绍等。",73,329);
+$z[1][4]['name']="description";
+$z[2]=Array("field","地球湮没之惊涛大历险/明天过后2/后天2/超级飓风之世界末日[BD中英双字1280x720高清版]",331,450);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",452,491);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",493,532);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2009-08-15",534,584);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG height=496 alt=\"\" src=\"http://img.album.pchome.net/54/70/52/82/bd82d15143eaf688194dd6a0a02dbc69.jpg\" width=354><BR><BR>【中　文名】《地球湮没之惊涛大历险/明天过后2/后天2/超级飓风之世界末日》BD中英双字1280x720高清版<BR>【英　文名】Category 7 The End of the World<BR>【年　　代】2006.12.19上映<BR>【地　　区】美国/德国<BR>【类　　型】迷你剧/灾难/动作<BR>【片　　长】192分钟<BR>【语　　言】英语<BR>【字幕语言】中文<BR>【视频尺寸】1280×720<BR>【文件格式】RMVB+AAC<BR>【IMDb评分】4.5/10 (1,021 votes)<BR>【官方网站】http://www.cbs.com/specials/category7/ <BR>【导　　演】Dick Lowry <BR>【主　　演】Gina Gershon ... FEMA Director Judith Carr<BR>　　　　　　Cameron Daddo ... Ross Duffy<BR>　　　　　　Shannen Doherty ... Faith Clavell<BR>　　　　　　Randy Quaid ... Tornado Tommy Dixon<BR>　　　　　　Robert Wagner ... Sen. Ryan Carr<BR>　　　　　　Adam Rodriguez ... USAF Pilot Ritter<BR>　　　　　　Sebastian Spence ... FPS Agent Gavin Carr<BR>　　　　　　Nicholas Lea ... Monty<BR>　　　　　　John Kapelos ... Secretary of Homeland Security Jim Roberts<BR>　　　　　　Lindy Booth ... Brigid<BR>　　　　　　James Brolin ... Donny Hall<BR>　　　　　　Swoosie Kurtz ... Penny Hall<BR>　　　　　　Tom Skerritt ... Colonel Mike Davis<BR>　　　　　　Kenneth Welsh ... Chief of Staff Alan Horst<BR>　　　　　　Suki Kaiser ... Gayle Duffy<BR><BR>【内容介绍】<BR><BR>　　地球变暖引发的罕见的飓风席卷全球，随之而来的便是惊天大海啸和特大冰雹灾害：艾菲尔铁塔摇摇欲坠，埃及大金字塔土崩瓦解，纽约自然博物馆被浓雾吞噬，美国白宫瞬间崩塌，死伤无数，整个地球瞬间变为人间炼狱科学家罗斯教授组织发起了一支风暴敢死队，他们用生命去争取人类的最后一线生机。而此时恐怖分子的袭击让整个局面更加混乱不堪。就在此时，飓风突然以不可挡之势迅速上升为历史上罕见的特大风暴，难道这真的是世界末日了吗？敢死队将如何拯救地球，人类将如何幸存…… <BR>　　《后天》原版特效联手出击！末日危机生死一线，海啸飓风夺魄惊心！<BR>　　《惊涛大冒险》<a href=\"http://www.eee4.com/\" target=\"_blank\">电影下载</a>中的洪水，变成了滔天巨浪；《龙卷风》中强大飓风，掀起汽车和房屋；《后天》中柚子般大小的冰雹接踵而来……影片在同一时间，把无数旷世灾难统统砸向人间……<BR>　　影片超眩的特效强力打造有史以来电影中最惊心动魄的灾难，最震撼人心的特效，该片融合了《龙卷风》、《天地大冲撞》等灾难的视觉奇观。</P>\r\n<P>【电影截图】：<BR><BR><a href=\"http://img.album.pchome.net/54/70/52/82/ccaaccd6b7baa40bb2aefc7a337cad75.jpg\" target=\"_blank\"><IMG src=\"http://img.album.pchome.net/54/70/52/82/ccaaccd6b7baa40bb2aefc7a337cad75.jpg\" border=0></a>&nbsp;<BR>\r\n<a href=\"http://img.album.pchome.net/54/70/52/82/6bd71bd1c8d214a795e570f9d5c02b5a.jpg\" target=\"_blank\"><IMG src=\"http://img.album.pchome.net/54/70/52/82/6bd71bd1c8d214a795e570f9d5c02b5a.jpg\" border=0></a></P><br>（一律使用<a href=\"http://www.eee4.com/soft.htm\" target=\"_blank\">迅雷下载</a>）<br>\r\n美国经典灾难动作片《地球湮没之惊涛大历险》BD中英双字1280x720高清版  [下载地址]：<IMG src=\"http://www.eee4.com/templets/img/down.jpg\" border=0><br>\r\n<table style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellspacing=\"0\" cellpadding=\"6\" width=\"95%\" align=\"center\" border=\"0\">\r\n    <tbody>\r\n        <tr>\r\n            <td style=\"WORD-WRAP: break-word\" bgcolor=\"#fdfddf\"><a href=\"ftp://4e:4e@www2.eee4.com:675/[www.eee4.cn提供]地球湮没之惊涛大历险BD中英双字1280x720高清版.rmvb\" target=\"_blank\">ftp://4e:4e@www2.eee4.com:675/[www.eee4.cn提供]地球湮没之惊涛大历险BD中英双字1280x720高清版.rmvb</a></td>\r\n        </tr>\r\n    </tbody>\r\n</table>",586,4158);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O150U20-234M.jpg",4160,4242);
+$z[7][4]['name']="litpic";
+
+?>

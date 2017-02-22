@@ -1,0 +1,27 @@
+{dede:field name='keywords'}大白鲨之致命武器迅雷下载，免费{/dede:field}
+{dede:field name='description'}大白鲨之致命武器迅雷下载、免费下载，大白鲨之致命武器Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}大白鲨之致命武器{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-10-07{/dede:field}
+{dede:field name='body'}<p>◆中文片名：大白鲨之致命武器<br />◆英文片名：Dark Waters<br />◆年　　代：2007<br />◆国　　家：美国<br />◆类　　别：科幻/灾难<br />◆导　　演：菲利浦-J-罗斯<br />◆主　　演：劳伦索-拉马斯 加拿大著名男演员，获1982年金球奖提名奖 代表作品：《贿赂》、《猎鹰》等<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 乔纳斯-托克顿 代表作：《奇异启示》、《控制》等<br />◆片&nbsp;&nbsp;&nbsp; 长：93分钟<br />◆语　　言：英语<br />◆字　　幕：中文字幕<br />◆迅雷地址：www.eee4.com提供<br />◆压缩格式：DVD-RMVB<br />◆剧情简介： </p>
+<p>　　平静的海洋发出了一系列不安的讯号：在墨西哥湾，一个深海油料转运站遭到不明物体的攻击而爆炸&hellip;&hellip;在西大西洋，一艘英国皇家潜艇遭到恐怖袭击，最终船毁人亡&hellip;&hellip;<br />　　美国海洋学家丹尼受美国海洋科学院的邀请去调查这一系列莫名其妙的深海灾难。丹尼一行人的潜艇在深海调查时自身也受到了来自于四面八方的严重攻击&hellip;&hellip;在损失了大半船员之后，他们终于惊讶的发现这些恐怖袭击者原来竟是上百只巨型鲨鱼&hellip;&hellip;<br />　　与此同时，联合国也得到来自全世界各地海区的报警：一共约超过200艘以上的各国海军潜艇被袭击摧毁，3000名以上的船员丧生。同时，这个数字还在不断增加，整个海洋陷入巨大的恐慌之中&hellip;&hellip;<br />　　在终于逃离了被摧毁的潜艇之后，丹尼一行在海底发现了一个惊天秘密：海底深处隐藏着一个不为人知的大白鲨研究和改造基地。原来，冷战时期，美国海军曾秘密制造变异大白鲨，使他们成为攻击和杀人的致命武器。而现在，这个海洋基地已经失去控制，成千上万的经过变异的杀人狂鲨冲破禁区，游向海洋各处&hellip;&hellip;<br />　　丹尼意识到：要使世界恢复和平，只有摧毁基地。但是美国海军的一部分人并不赞成损失他们几十年的科研成果。世界没有选择，一场惊心动魄的人鲨大战开始了&hellip;&hellip;</p>
+<p><img alt="" border="0" src="http://image2.sina.com.cn/ent/d/2007-03-12/U1513P28T3D1475984F326DT20070312185345.jpg" /><br /><img alt="" border="0" src="http://f2.anyp.cn/ud/server2/Data194/3105084/photoes/070417215559977.jpg" /><img alt="" border="0" src="http://f2.anyp.cn/ud/server2/Data194/3105084/photoes/070417215625571.jpg" /><img alt="" border="0" src="http://f2.anyp.cn/ud/server2/Data194/3105084/photoes/070417215647555.jpg" /><img alt="" border="0" src="http://f2.anyp.cn/ud/server2/Data194/3105084/photoes/070417215339118.jpg" /></p>
+<p>2007-10-07 22:28:10 开始连接......<br />2007-10-07 22:28:12 开始搜索候选资源......<br />2007-10-07 22:28:13 搜索到19个候选资源<br />2007-10-07 22:28:15 使用候选资源进行连接......<br />2007-10-07 22:28:17 搜索到39个候选资源<br />2007-10-07 22:28:19 使用候选资源进行连接......<br />2007-10-07 22:28:21 文件创建成功，开始下载数据......<br />2007-10-07 22:28:22 用户取消下载&nbsp;&nbsp; 本文来自 http://www.eee4.com</p>
+选择下载服务器：<br />cd1:<br />
+<table style="BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted" cellspacing="0" cellpadding="6" width="95%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><anchor></anchor><a href="thunder://QUFmdHA6Ly9keWdvZDE6ZHlnb2QxQG02Ni5keWdvZC5jb206OTkyNy/lpKfnmb3psqjkuYvoh7Tlkb3mrablmahEVkQvW+eUteW9seWkqeWggnd3dy5keWdvZC5jb21d5aSn55m96bKo5LmL6Ie05ZG95q2m5ZmoQ0QxLnJtdmJaWg==">07超火爆科幻灾难大片《大白鲨之致命武器》DVD中文字幕 cd1</a></td>
+        </tr>
+    </tbody>
+</table>
+cd2:<br />
+<table style="BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted" cellspacing="0" cellpadding="6" width="95%" align="center" border="0">
+    <tbody>
+        <tr>
+            <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><anchor></anchor><a href="thunder://QUFmdHA6Ly9keWdvZDI6ZHlnb2QyQG02Ni5keWdvZC5jb206OTkyNy/lpKfnmb3psqjkuYvoh7Tlkb3mrablmahEVkQvW+eUteW9seWkqeWggnd3dy5keWdvZC5jb21d5aSn55m96bKo5LmL6Ie05ZG95q2m5ZmoQ0QyLnJtdmJaWg==">周07超火爆科幻灾难大片《大白鲨之致命武器》DVD中文字幕 cd2</a></td>
+        </tr>
+    </tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O164943P-4R12.jpg{/dede:field}

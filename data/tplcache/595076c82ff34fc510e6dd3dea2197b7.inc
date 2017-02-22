@@ -1,0 +1,9 @@
+{dede:field name='keywords'}薯条战争DVD中英双字2011最新喜{/dede:field}
+{dede:field name='description'}薯条战争DVD中英双字2011最新喜剧迅雷下载、免费下载，薯条战争DVD中英双字2011最新喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}薯条战争DVD中英双字2011最新喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2931/飘花电影piaohua.com薯条战争DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO6192F-12951.jpg{/dede:field}

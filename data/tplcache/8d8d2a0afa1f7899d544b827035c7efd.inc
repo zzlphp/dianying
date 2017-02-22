@@ -1,0 +1,9 @@
+{dede:field name='keywords'}爱神一号DVD国粤双语迅雷下载，{/dede:field}
+{dede:field name='description'}爱神一号DVD国粤双语迅雷下载、免费下载，爱神一号DVD国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}爱神一号DVD国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ292K0-512A.jpg{/dede:field}

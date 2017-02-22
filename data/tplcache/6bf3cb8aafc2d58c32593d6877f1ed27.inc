@@ -1,0 +1,9 @@
+{dede:field name='keywords'}鬼讯号1BD中英双字1024/1280高清{/dede:field}
+{dede:field name='description'}鬼讯号1BD中英双字1024/1280高清经典惊悚剧情迅雷下载、免费下载，鬼讯号1BD中英双字1024/1280高清经典惊悚剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}鬼讯号1BD中英双字1024/1280高清经典惊悚剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2421/飘花电影piaohua.com鬼讯号1BD中英双字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPN32F-224T.jpg{/dede:field}

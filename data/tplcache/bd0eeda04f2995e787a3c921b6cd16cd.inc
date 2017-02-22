@@ -1,0 +1,9 @@
+{dede:field name='keywords'}勇者行动高清迅雷下载，免费下载{/dede:field}
+{dede:field name='description'}勇者行动高清迅雷下载、免费下载，勇者行动高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}勇者行动高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:8079/飘花电影piaohua.com勇者行动BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO460260-41c1.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}梦回金沙城HD国语1280高清国产动{/dede:field}
+{dede:field name='description'}梦回金沙城HD国语1280高清国产动画迅雷下载、免费下载，梦回金沙城HD国语1280高清国产动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}梦回金沙城HD国语1280高清国产动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2357/飘花电影piaohua.com梦回金沙城HD国语1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ225340-4W11.jpg{/dede:field}

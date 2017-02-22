@@ -1,0 +1,9 @@
+{dede:field name='keywords'}小妖精/万圣节怪物BD中英双字128{/dede:field}
+{dede:field name='description'}小妖精/万圣节怪物BD中英双字1280高清2011科幻恐怖迅雷下载、免费下载，小妖精/万圣节怪物BD中英双字1280高清2011科幻恐怖Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}小妖精/万圣节怪物BD中英双字1280高清2011科幻恐怖{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1301/飘花电影piaohua.com万圣节怪物DVD中英双字2011.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPP5610-45C3.jpg{/dede:field}

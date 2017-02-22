@@ -1,0 +1,9 @@
+{dede:field name='keywords'}张达明2011栋笃笑：一于做坏旦({/dede:field}
+{dede:field name='description'}张达明2011栋笃笑：一于做坏旦(消暑加料红馆版)中字高清1280迅雷下载、免费下载，张达明2011栋笃笑：一于做坏旦(消暑加料红馆版)中字高清1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}张达明2011栋笃笑：一于做坏旦(消暑加料红馆版)中字高清1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2013/小八戒电影xiaobajie.com张达明栋笃笑一于做坏旦中字高清BD1280.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ41W30-1aB.jpg{/dede:field}

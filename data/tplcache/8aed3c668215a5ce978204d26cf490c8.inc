@@ -1,0 +1,9 @@
+{dede:field name='keywords'}最美丽的事物/最美丽的时光BD128{/dede:field}
+{dede:field name='description'}最美丽的事物/最美丽的时光BD1280高清中字迅雷下载、免费下载，最美丽的事物/最美丽的时光BD1280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}最美丽的事物/最美丽的时光BD1280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2008/飘花电影piaohua.com最美丽的事物BD1280高清中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0610-46135.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}娱乐百分百-20120218迅雷下载，{/dede:field}
+{dede:field name='description'}娱乐百分百-20120218迅雷下载、免费下载，娱乐百分百-20120218Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}娱乐百分百-20120218{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1044/飘花电影piaohua.com娱乐百分百-20110715.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ42K50-16363.jpg{/dede:field}

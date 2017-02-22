@@ -1,0 +1,140 @@
+{dede:field name='keywords'}鹰眼/鹰眼追击BD中英双字1024/12{/dede:field}
+{dede:field name='description'}鹰眼/鹰眼追击BD中英双字1024/1280高清迅雷下载、免费下载，鹰眼/鹰眼追击BD中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}鹰眼/鹰眼追击BD中英双字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-18{/dede:field}
+{dede:field name='body'}<p>
+	<img src="/uploads/allimg/c120525/133O09634320-R341.jpg" /></p>
+<p>
+	◎译　　名　《鹰眼/鹰眼追击》08最新1.7亿票房大片DVD中英双字1024x556高清版<br />
+	◎片　　名　Eagle Eye<br />
+	◎年　　代　2008<br />
+	◎国　　家　美国/德国<br />
+	◎类　　别　动作/神秘/惊悚<br />
+	◎语　　言　英语<br />
+	◎字　　幕　中英双字<br />
+	◎IMDB评分 6.8/10&nbsp; 15,554 votes<br />
+	◎IMDB链接 http://www.imdb.com/title/tt1059786<br />
+	◎文件格式　DVD<br />
+	◎视频尺寸　1024 x 556 <br />
+	◎文件大小　2CD<br />
+	◎片　　长　1:57:33<br />
+	◎导　　演　卡卢索 D.J. Caruso<br />
+	◎主　　演　Shia LaBeouf 希亚&middot;拉博夫 Shia LaBeouf<br />
+	　　　　　　Michelle Monaghan 米歇尔&middot;莫娜汉 Michelle Monaghan<br />
+	　　　　　　Billy Bob Thornton 比利&middot;鲍伯&middot;松顿 Billy Bob Thornton<br />
+	　　　　　　Rosario Dawson 罗莎里奥&middot;道森 Rosario Dawson<br />
+	　　　　　　Ethan Embry 伊桑&middot;恩布里 Ethan Embry<br />
+	　　　　　　Michael Chiklis 麦克&middot;切克里斯 Michael Chiklis<br />
+	　　　　　　Anthony Mackie 安东尼&middot;麦凯 Anthony Mackie<br />
+	　　　　　　Michael Maize ....Master Sergeant<br />
+	　　　　　　Gary Houston ....Forensics Tech #2<br />
+	　　　　　　Jor&#39;don Hodges ....Train Passenger<br />
+	　　　　　　Peggy Roeder ....Forensics Tech #1<br />
+	　　　　　　Tony Flores ....Swat Team Leader<br />
+	　　　　　　Sean Kinney ....JTAC Team leader<br />
+	　　　　　　Steve Barrons ....JTAC Team Member<br />
+	　　　　　　Eric Christian Olsen 艾瑞克&middot;克里斯蒂安&middot;奥森 Eric Christian Olsen<br />
+	　　　　　　Angelina Lyubomirova ....ATM Client</p>
+<p>
+	Domestic:&nbsp; $100,413,489&nbsp; &nbsp; 57.7%<br />
+	+ Foreign:&nbsp; $73,569,385&nbsp; &nbsp; 42.3%<br />
+	--------------------------------------------------------------------------------<br />
+	= Worldwide:&nbsp; $173,982,874&nbsp;<br />
+	<br />
+	◎简　　介　<br />
+	<br />
+	　　故事主人公的孪生兄弟突然不明不白的死掉了，当他赶回家料理后事的时候，发现自己和一个单身母亲竟然都被诬陷为恐怖分子，两人就此被迫卷入了一场政治暗杀的阴谋之中，唯一的出路就是两人共同合作来解救自己&hellip;&hellip;</p>
+<p>
+	<br />
+	<br />
+	&nbsp; 幕后制作<br />
+	<br />
+	　　&ldquo;试映&rdquo;会让影片失去神秘感<br />
+	<br />
+	　　导演卡卢索在拍摄《鹰眼》之初，就非常明确地表达了自己的一个观点，那就是这部影片拍摄完毕之后，坚决绕开&ldquo;试映&rdquo;这一常规步骤，而他所采取的策略，就是将《鹰眼》的后期制作完成的时间尽量拖后，不给&ldquo;试映&rdquo;留下任何回旋的余地，卡卢索说：&ldquo;这种做法可能不太地道，却非常好用，反正我个人觉得，如果我们用光了所有的时间，完全不留下任何空隙，&lsquo;试映&rsquo;也只能就此被取消了&hellip;&hellip;说实话，我很高兴我们最终成功了。&rdquo;制片人艾里克斯&middot;库兹曼则认为：&ldquo;《鹰眼》是一部规模非常大的动作惊悚片，为了让其产生更具震撼力的效果，作为制片人的你最好用安抚去替代急躁，因为你最终会发现，像这种即使在前期做好了大量准备工作的作品，拍摄的时候由于有太多的东西需要协调，所以导演的某些拖延行为，还是有他一定的道理在的，完全在可理解的范围内。不过让我没想到的是，卡卢索竟然是为了避开&lsquo;试映会&rsquo;而故意延长了影片的后期制作，确实被他耍的小计谋给骗了。&rdquo;<br />
+	<br />
+	　　《鹰眼》的片长初步被设定在了152分钟，这也许并不是一个非常确定的数字，但卡卢索也承诺，在这个基础上，不会出现太大的上下浮动，他继续说：&ldquo;在好莱坞，两个半小时的时间确实有点过长，尤其是对一部动作片来说&hellip;&hellip;当然，影片里仍然存在着需要斟酌和打磨的地方，这种情况在前两卷胶片中尤其明显，还有很多选择可供参考，所以，我只能说一切都还是一个未知数。&rdquo;<br />
+	<br />
+	　　另外，卡卢索还表明，《鹰眼》确实在很大程度受到了自己之前做过导演的电视剧《盾牌》的影响，他说：&ldquo;虽然我们并没有直接聘用《盾牌》相关的幕后工作人员，但《鹰眼》在风格上与这部电视剧还是颇有渊源的，不过，《谍影重重》系列也给了我相当大的冲击和感触&hellip;&hellip;说到这里也许有人要说了，&lsquo;它们是三部非常伟大的动作电影。&rsquo;但我的回答却是，&lsquo;我们差不多6年前就在《盾牌》中做过相似的尝试了。&rsquo;我确实倾向于用便携摄像机去拍摄《鹰眼》的某些场景，因为我一直认为，现在的好莱坞进入了一个怪圈当中，便携摄像机的使用频率的确有点过高了，基于这个原因，我希望通过一种&lsquo;伪纪录片&rsquo;的形式正确地记录下我们想要讲述的一切，但绝对不是疯狂地滥用过度。不管你相不相信，这还是我导演事业中第一次使用斯坦尼康－－即摄影机稳定器，我发现这是一个非常不错的拍摄装置，我很喜欢它，因为斯坦尼康不仅能够让画面维持住便携摄像机所制造出的那种特有的感觉，同时还帮助你消除了这种拍摄方式的一些不确定因素。&rdquo;<br />
+	<br />
+	　　这一次，卡卢索做出了正确的选择，因为拍摄一部影片时，适当地使用便携摄像机真的能够带给观众一种真实纪录的现场感，再加上卡卢索还结合了实拍和CGI特效，令所有的汽车追逐场景都产生了一种让人心脏抽动的风驰电掣，他表示：&ldquo;这类电影似乎已经没办法避免数码特效的辅助功能了，不过我们一直在尽自己最大的努力，能实拍的部分一定不会去依靠CGI。比如说《鹰眼》中那些被碾碎了的汽车，就全部都是真实拍摄出来的，惟一使到特效技术的部分，就是用CGI来消除缆绳的痕迹，因为我们需要借用缆绳加大动力，让汽车与汽车以最猛烈的方式撞到一起。所以说，影片中的那些逼真的汽车追逐场景，并不是特效制作出来的成果，尤其是那种需要借助起重支架才能拍摄出来的一些大场面，你不用CGI进行道具的抹除，几乎是没办法完成的。你必须要给《鹰眼》制定一个非常高的起点，因为它毕竟和《变形金刚》这样的作品是完全不一样的，不能使用太多奇幻到不真实的元素去惊掉观众的下巴，一旦明确了自己的目标，你就不会觉得数码特效是一个不可或缺的电影技术了。&rdquo;艾里克斯&middot;库兹曼则稍微进行了一下补充：&ldquo;《变形金刚》对焦在了一个过度被关注的世界里，有一部分是真实的，但也结合了卡通的虚幻。而《鹰眼》的故事所存在的环境却有着非常本质的区别，这使得我们做出了相应的变动和选择，只为一个目的，那就是维持住这部影片的真实感，你可以称之为&lsquo;极光录影&rsquo;，或者其他任何你能想象到的专业形容词&hellip;&hellip;不过拍摄之初，我们真的没有考虑过那么多，就是想制作一部真正能够得到观众喜爱的动作电影而已。&rdquo;</p>
+<p>
+	<br />
+	<br />
+	　　用潜移默化来制造惊悚　<br />
+	<br />
+	　　对于导演卡卢索来说，《鹰眼》更像是一部现代版本的《法国贩毒网》，他说：&ldquo;当我和艾里克斯&middot;库兹曼第一次见面并开始讨论这部影片的时候，就产生过类似的感觉，尤其是从电影技术的角度出发，你会发现两部影片真的存在着很多相似的地方。我和库兹曼从一开始就达成了一个共识，尽量维持住画面和故事的真实性，包括它的自然主义风格，我希望当影片接近尾声的时候，观众将会切身感受到我们的主角正在面对的危机和恐惧。&rdquo;<br />
+	<br />
+	　　关于影片中可能会起到决定作用的关键情节，卡卢索坚守住了电影人一贯使用的&ldquo;保密&rdquo;原则，给人留下了一个非比寻常的悬念，他表示：&ldquo;这已经成为电影工业中的&lsquo;人之常情&rsquo;了，而且我们的制片人可是斯蒂文&middot;斯皮尔伯格－－好莱坞里最喜欢玩神秘、不到最后一刻绝不揭晓答案的电影人之一，在他的影响下，再加上我的一点点坚持，《鹰眼》一定可以用一种非常特别的方式维持住它的新鲜度。也许这部影片并不具备那种让人恍然大悟的突发性惊人时刻，但是它的故事发展的方式却是潜移默化的，一点一点地渗透进了脑髓，最终的答案可能并不是你想要的，却也让你感到除此之外别无选择。鉴于《鹰眼》中所占比重非常大的惊悚部分，我当然希望观众能够将所有的心思都放在影片上，一直到最后结局的时候仍然在费解，搞不清楚到底发生了什么事情&hellip;&hellip;我制作的第一部影片《万里追凶》就具备了这种调调&mdash;&mdash;最初的时候，里面发生的一切让你备感迷茫，可是对于我来说，这样的悬疑气氛，正是一个非传统故事应该具备的能量之一。不过，《鹰眼》可能要比你想象的更加注重情节的对搭，在角色与故事的选择上，身为导演的我经常纠结于其中，孰轻孰重总是要掂量许久，当你真正看到影片的时候，就会知道这些矛盾的部分是多么地蓄势待发了。&rdquo;制片人艾里克斯&middot;库兹曼则认为：&ldquo;单分析这一点还是非常有意思的，比如说如果你是一位编剧，你肯定会说，角色就是剧情本身的一个组成部分，你不得不让它们紧密地结合在一起，或者让它们各自在所属的领域中起到一定的作用，让观众看到其中的一个，就能感觉得到另一个。然而这只是文字方面的需要，将这样的情感用画面表达出来，可就不是那么轻松了。&rdquo;另一位制片人罗伯托&middot;奥利奇也发表了一些自己的看法：&ldquo;卡卢索当然希望观众能够主观地进入影片中主角所处的环境，所以这种时候，肯定是他们知道的越少，越有可能感同身受。&rdquo;<br />
+	<br />
+	　　卡卢索还认为，《鹰眼》在这方面的设定，与许多电脑游戏所采用的是相似的概念：&ldquo;回想一下你心目中的那些最伟大的电脑游戏，它们吸引人的地方，就在于能够让你身陷于未知的世界，处在不知道下一秒钟会发生什么事情的紧迫环境当中&hellip;&hellip;《鹰眼》的前半部分，就好像是一部游戏最开始的两个关卡，你不但可以轻松过关，还将一切都控制在了自己的掌握之中。但随着故事的发展，你会发现之前的一切都被推翻了，没了选择的依据，你不得不走出最初的优势，重新在困难中拼搏出一条出路&mdash;&mdash;不管是游戏还是电影，这都是它们真正的趣味所在。&rdquo;艾里克斯&middot;库兹曼接着说：&ldquo;从这个观点出发，我觉得这部影片还从阿尔弗雷德&middot;希区柯克的作品中借鉴了许多不二的法宝，整个观影的过程就好像是在玩一个猜谜游戏：最后的结局究竟是什么呢？这些卷入到其中的人到底扮演了一个什么样的身份？而讲述这样的故事最好的方式，就是从旁观者的视角出发，然后去想象主角有可能经历的一切。&rdquo;如此说来，《鹰眼》的关键点并不在于&ldquo;谁&rdquo;，而是在于&ldquo;为什么&rdquo;，　当你最终发现那个&ldquo;谁&rdquo;的真正身份时，也就是谜底揭晓的时候了，你将会意识到影片讲述了一个多么充满诱惑力的故事。</p>
+<p>
+	【1024分辨率版本电影截图】：（可点击查看）</p>
+<p>
+	<img onclick="if(this.width&gt;screen.width-461) window.open('/uploads/allimg/c120525/133O09634910-95106.jpg');" src="/uploads/allimg/c120525/133O09634910-95106.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 325px; border-top: 0px solid; border-right: 0px solid" />&nbsp;<br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('/uploads/allimg/c120525/133O09636130-103429.jpg');" src="/uploads/allimg/c120525/133O09636130-103429.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 323px; border-top: 0px solid; border-right: 0px solid" />&nbsp;<br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('/uploads/allimg/c120525/133O0963H60-112K5.jpg');" src="/uploads/allimg/c120525/133O0963H60-112K5.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 325px; border-top: 0px solid; border-right: 0px solid" /></p>
+
+<p>
+	【800分辨率版本电影截图】：<br />
+	<br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('/uploads/allimg/c120525/133O0963U50-129557.jpg');" src="/uploads/allimg/c120525/133O0963U50-129557.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 339px; border-top: 0px solid; border-right: 0px solid" /></p>
+
+<p>
+	&nbsp;<img onclick="if(this.width&gt;screen.width-461) window.open('/uploads/allimg/c120525/133O0963ZZ-132223.jpg');" src="/uploads/allimg/c120525/133O0963ZZ-132223.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 339px; border-top: 0px solid; border-right: 0px solid" /></p>
+<p>
+	<img onclick="if(this.width&gt;screen.width-461) window.open('/uploads/allimg/c120525/133O09639620-144439.jpg');" src="/uploads/allimg/c120525/133O09639620-144439.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 333px; border-top: 0px solid; border-right: 0px solid" />&nbsp;<br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('/uploads/allimg/c120525/133O096401P-1592T.jpg');" src="/uploads/allimg/c120525/133O096401P-1592T.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 333px; border-top: 0px solid; border-right: 0px solid" /></p>
+<p>
+	08最新1.7亿票房大片《鹰眼》</p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>在线观看地址：http://www.xiaozhizhu.net/kehuanpian/883/</td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://d28:d28@dm.eee4.com:1205/[3E电影站www.eee4.com]鹰眼DVD中英双字[高清版]CD1.rmvb</td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://d28:d28@dm.eee4.com:1205/[3E电影站www.eee4.com]鹰眼DVD中英双字[高清版]CD2.rmvb</td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://d29:d29@dm.eee4.com:1205/[3E电影站www.eee4.com]鹰眼[DVD中英双字1024x556高清版]CD1.rmvb</td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://d29:d29@dm.eee4.com:1205/[3E电影站www.eee4.com]鹰眼[DVD中英双字1024x556高清版]CD2.rmvb</td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://dy44:piaohua@dy44.piaohua.com:3244/飘花电影piaohua.com鹰眼追击BD中英双字1280高清.rmvb</td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O09640G0-161334.jpg{/dede:field}

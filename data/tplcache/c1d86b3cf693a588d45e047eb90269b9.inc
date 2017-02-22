@@ -1,0 +1,9 @@
+{dede:field name='keywords'}地狱骑士(导演剪辑版)高清BDRIP{/dede:field}
+{dede:field name='description'}地狱骑士(导演剪辑版)高清BDRIP中字2011最新日本科幻恐怖大片迅雷下载、免费下载，地狱骑士(导演剪辑版)高清BDRIP中字2011最新日本科幻恐怖大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}地狱骑士(导演剪辑版)高清BDRIP中字2011最新日本科幻恐怖大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3330/飘花电影piaohua.com地狱骑士(导演剪辑版)高清BDRIP中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO913910-32528.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}10.5級的大地震迅雷下载，免费下{/dede:field}
+{dede:field name='description'}10.5級的大地震迅雷下载、免费下载，10.5級的大地震Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}10.5級的大地震{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP914Z-3X91.jpg{/dede:field}

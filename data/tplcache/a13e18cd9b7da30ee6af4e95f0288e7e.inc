@@ -1,0 +1,9 @@
+{dede:field name='keywords'}暗潮/怒海狂鲨BD1280高清迅雷下{/dede:field}
+{dede:field name='description'}暗潮/怒海狂鲨BD1280高清迅雷下载、免费下载，暗潮/怒海狂鲨BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}暗潮/怒海狂鲨BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7865/飘花电影piaohua.com暗潮BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP232330-23457.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}疑犯追踪,第一季更新22集[中英双{/dede:field}
+{dede:field name='description'}疑犯追踪 第一季更新22集[中英双字]2012主打美剧迅雷下载、免费下载，疑犯追踪 第一季更新22集[中英双字]2012主打美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}疑犯追踪 第一季更新22集[中英双字]2012主打美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2751/飘花电影piaohua.com疑犯追踪第一季01集[中英双字].rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0Qb0-12306.jpg{/dede:field}

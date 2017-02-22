@@ -1,0 +1,9 @@
+{dede:field name='keywords'}真爱找麻烦港台剧84迅雷下载，免{/dede:field}
+{dede:field name='description'}真爱找麻烦港台剧84迅雷下载、免费下载，真爱找麻烦港台剧84Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}真爱找麻烦港台剧84{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2370/飘花电影piaohua.com真爱找麻烦01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ045K0-11c6.jpg{/dede:field}

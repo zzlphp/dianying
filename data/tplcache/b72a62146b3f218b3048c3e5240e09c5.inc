@@ -1,0 +1,9 @@
+{dede:field name='keywords'}闯堂兔/闯堂兔大电影DVDScr迅雷{/dede:field}
+{dede:field name='description'}闯堂兔/闯堂兔大电影DVDScr迅雷下载、免费下载，闯堂兔/闯堂兔大电影DVDScrGvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}闯堂兔/闯堂兔大电影DVDScr{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1954P-25606.jpg{/dede:field}

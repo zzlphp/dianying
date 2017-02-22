@@ -1,0 +1,9 @@
+{dede:field name='keywords'}梦幻珊瑚海：唤醒BD中英双字1024{/dede:field}
+{dede:field name='description'}梦幻珊瑚海：唤醒BD中英双字1024高清迅雷下载、免费下载，梦幻珊瑚海：唤醒BD中英双字1024高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}梦幻珊瑚海：唤醒BD中英双字1024高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1914/飘花电影piaohua.com梦幻珊瑚海：唤醒BD中英双字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3O020-393C.jpg{/dede:field}

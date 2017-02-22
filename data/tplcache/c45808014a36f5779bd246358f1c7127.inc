@@ -1,0 +1,89 @@
+{dede:field name='keywords'}小熊维尼BD高清迅雷下载，免费下{/dede:field}
+{dede:field name='description'}小熊维尼BD高清迅雷下载、免费下载，小熊维尼BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}小熊维尼BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-20{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="/uploads/allimg/c120525/133O045615F-1XF7.jpg" style="width: 394px; height: 499px" /></p>
+<p>
+	◎译　　名　小熊维尼<br />
+	◎片　　名　Winnie the Pooh<br />
+	◎年　　代　2011<br />
+	◎国　　家　美国<br />
+	◎类　　别　动画/家庭/歌舞<br />
+	◎语　　言　英语<br />
+	◎字　　幕　中字<br />
+	◎IMDB评分 &nbsp; 7.5/10 (3,148 votes)<br />
+	◎IMDB链接 &nbsp; http://www.imdb.com/title/tt1449283/<br />
+	◎文件格式　X264 + DTS<br />
+	◎视频尺寸　1280 x 696<br />
+	◎文件大小　&frac12; DVD<br />
+	◎片　　长　01:03:03<br />
+	◎导　　演　斯蒂文&middot;J&middot;安德森 Stephen J. Anderson<br />
+	　　　　　　唐&middot;霍尔 Don Hall<br />
+	◎主　　演　吉姆&middot;库宁斯 Jim Cummings ....Winnie the Pooh / Tigger (voice)<br />
+	　　　　　　巴德&middot;乐凯 Bud Luckey ....Eeyore (voice)<br />
+	　　　　　　克雷格&middot;费格森 Craig Ferguson ....Owl (voice)<br />
+	　　　　　　约翰&middot;克立斯 John Cleese ....Narrator (voice)<br />
+	　　　　　　Jack Boulter ....Christopher Robin (voice)<br />
+	　　　　　　Travis Oates ....Piglet (voice)<br />
+	　　　　　　Kristen Anderson-Lopez ....Kanga (voice)<br />
+	　　　　　　Wyatt Dean Hall ....Roo (voice)<br />
+	　　　　　　汤姆&middot;肯尼 Tom Kenny ....Rabbit (voice)<br />
+	　　　　　　Huell Howser ....Backson (voice)<br />
+	<br />
+	<br />
+	◎简　　介<br />
+	<br />
+	剧情<br />
+	<br />
+	&nbsp; &nbsp; &nbsp;迪士尼公司再度将《小熊维尼》的故事搬上大银幕，采用手绘风格，而且目标是让全年龄人士喜爱，不再局限低龄儿童。<br />
+	<br />
+	一句话评论<br />
+	<br />
+	也许不是暑期档最好的电影，但一定是最可爱的！<br />
+	<br />
+	&mdash;&mdash;《芝加哥论坛报》<br />
+	<br />
+	甜蜜、无害的儿童电影。<br />
+	<br />
+	&mdash;&mdash;《芝加哥太阳时报》<br />
+	<br />
+	可爱，但也有些单调。<br />
+	<br />
+	&mdash;&mdash;《娱乐周刊》<br />
+	<br />
+	幕后制作<br />
+	<br />
+	　　小熊维尼，英国制造<br />
+	　　提到小熊维尼，很多人的第一个反应这是一个迪士尼的传统角色。实际上小熊维尼是地地道道的英国货，在其版权经过几次倒手之后，才来到迪士尼。<br />
+	　　小熊维尼的前身是一直玩具熊，由英国著名作家阿兰&middot;亚历山德拉&middot;米尔恩在1921年从伦敦著名的Harrods玩具店购入，送给他当时年仅一岁儿子的生日礼物。他的儿子叫做克里斯托弗&middot;鲁宾－－即故事中的小主角。米尔恩在1924年写了一首儿童诗，里面出现了一只叫做爱德华（Edward Bear）的熊，这就是维尼最初的原型。后来，这只熊的名字从爱德华改成了Winnie the Pooh。这个名字来自于两个动物，维尼（Winnie）来自于当时伦敦动物园的一只家喻户晓的黑熊。它是1914年加拿大军队的兽医在一战期间从猎人手里收养的一只孤儿黑熊。后来这名兽医把黑熊从加拿大带到了伦敦，并起名为维尼。后来，部队要开往法国前线，兽医才把小熊送给了伦敦动物园。而Pooh这个名字则来自于鲁宾最喜爱的一只天鹅。1925年，米尔恩一家迁往了苏克塞斯郡的Cotchford农场。这个农场毗邻亚士顿森林，而这个森林就成为了米尔恩创作的一系列维尼熊故事的发生地。1925年的平安夜，维尼熊的故事登上了《伦敦晚报》。次日，圣诞节当天，BBC广播了这个故事，结果大受欢迎。1926年，小说《小熊维尼》出版，在全世界范围内引发了&ldquo;维尼热&rdquo;。1929年，维尼及其所有派生产品的版权被米尔恩卖给了美国人斯蒂芬&middot;斯勒辛格（Stephen Slesinger）。1961年，斯蒂芬&middot;斯勒辛格的遗孀授权迪士尼制作维尼的动画、连环画和其他产品。至此，维尼才成为了迪士尼的&ldquo;私有财产&rdquo;。<br />
+	　　这一部《小熊维尼》的故事并不来自于单独的一本维尼的小说，而是混搭而来的。编剧从米尔恩的小说里找了三个不同的故事，并把它们编在一起。导演]斯蒂文&middot;J&middot;安德森]说：&ldquo;这么做的原因是因为我们想把这部电影打造成一部能适合全年龄段的观众的影片。如果一部电影只有一个简单的儿童故事，那么我们肯定会失去很多成年的观众。如果我们大量地改编剧本，把维尼的故事拍成历险记，那么又会失去原著的质朴的感觉，并失去很多维尼的粉丝。所以我们从原版的小说中找了三个不同的故事，把它们组合在一起，编成了影片的剧本。这样一来，无论是谁，都会从影片中找到自己喜欢的部分。&rdquo;<br />
+	　　经验丰富的班底<br />
+	　　影片的起因很简单，迪士尼的CEO鲍勃&middot;伊戈尔（Bob Iger）和约翰&middot;拉塞特看了小熊的故事，希望能拍摄一部维尼电影，于是他就找到了导演唐&middot;霍尔，并分派给了他工作。霍尔说：&ldquo;在接到工作后，我、斯蒂文&middot;J&middot;安德森和伯尼&middot;马丁森一起翻看维尼的故事书，希望能从中找到一些可以被拍成电影的故事。&rdquo;唐&middot;霍尔和斯蒂文&middot;J&middot;安德都是迪士尼的工作人员，前者参与制作了《公主与青蛙》、《人猿泰山》等动画，后者则是《未来小子》的导演。不过，这三个主创中，资格最老的则是伯尼&middot;马丁森。马丁森是迪士尼公司的老员工，他这部电影里担任了一个并不是太起眼、但是很重要的幕后角色－－执导导演绘制故事板。对于一部动画片来说，故事板是整个电影的基础，故事板上的内容基本就决定了整部动画的故事走向、镜头剪辑、节奏频率等问题。这并不是伯尼&middot;马丁森第一次参与制作小熊维尼的电影，早在1974年，他就在《小熊维尼与跳跳虎》中担任了动画师的职务。<br />
+	　　一开始，伯尼从维尼的小说中找出了5个故事，他希望能从中找到合适的结合点，编写出一个长片的故事。从这些故事的基础上，伯尼开始绘制故事板。他一开始绘制的就是经典的&ldquo;驴子屹耳丢了尾巴&rdquo;的经典情节。唐&middot;霍尔说：&ldquo;围绕着这个情节，我们展开了讨论。因为我们都想把故事弄得简单一些，所以我们最后删掉了两个故事，把剩下来的三个故事融在了剧本里，编出了一个长片的故事。不管故事怎么改变，主线都是维尼和伙伴们帮助驴子屹耳找尾巴。&rdquo;谈及影片的故事和人物，安德森说：&ldquo;可以说这是很传统的维尼的故事，很简单、不做作也没有什么大场面，有的只是维尼和自己的小伙伴们的情谊。我想这才是维尼的故事风靡了几十年而毫不褪色的原因，因为它给了我们一种安静祥和的情感。&rdquo;<br />
+	　　虽然唐&middot;霍尔和斯蒂文&middot;J&middot;安德森都曾经参与过迪士尼的CGI动画片的制作，但是当别人提议可以用电脑技术拍摄这部动画的时候，还是遭到了他们的反对。这两位导演坚持要用手工绘制的方法完成影片。安德森说：&ldquo;我们制作动画的一个宗旨就是要找到合适的工具来讲述合适的故事。在《小熊维尼》中，最合适的工具就是手绘的二维动画，无论是用电脑还是给影片加上一维都是不合适的。因为小熊维尼的世界是一片安静的、未受打扰的世界，所以，只有一笔一笔画出来的二维动画才是最合适的载体。&rdquo;<br />
+	<br />
+	花絮<br />
+	<br />
+	&middot;迄今为止，一共有四部小熊维尼的长片被搬上银幕。最近的一部是2005年的《小熊维尼之长鼻怪大冒险》。<br />
+	&middot;2006年，在小熊维尼正式诞生80周年的时候，维尼在好莱坞星光大道上拥有了一颗属于自己的星星，这是星光大道的第2308颗明星。<br />
+	&middot;2003年公布的福布斯（Forbs）最有价值虚拟人物排行榜中，小熊维尼和伙伴们名列第一。<br />
+	&middot;小熊维尼这个形象在迪士尼的第一次亮相是在1966年的《小熊维尼与蜂蜜树》中。<br />
+	&middot;小熊维尼的第一部长片诞生于1977年，这是一部由三部短片结合形成的长片。这三部短片分别为1966年的《小熊维尼与蜂蜜树》、1968年的《小熊维尼与大风吹》以及1974年的《小熊维尼与跳跳虎》。<br />
+	&middot;除了电影、漫画之外，小熊维尼的故事还被制作成了电视秀、木偶节目、有声读物、广播剧短片、录像带、游戏等等。而且苏联还曾在1969到1972年间，制作过山寨的苏联版小熊维尼的动画片。<br />
+	<img alt="" src="/uploads/allimg/c120525/133O04562540-19C04.jpg" style="width: 720px; height: 405px" /><img alt="" src="/uploads/allimg/c120525/133O045634Z-2052B.jpg" style="width: 720px; height: 405px" /><img alt="" src="/uploads/allimg/c120525/133O04564440-211Q6.jpg" style="width: 720px; height: 405px" /><br />
+	&nbsp;</p>
+<p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="/uploads/allimg/c120524/133N2Z4FF-102231.jpg" />&nbsp;&nbsp;&nbsp;</p>
+
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				ftp://dy125:piaohua@dy125.piaohua.com:7055/飘花电影piaohua.com小熊维尼BD中字1280高清.rmvb</td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O045A560-226091.jpg{/dede:field}

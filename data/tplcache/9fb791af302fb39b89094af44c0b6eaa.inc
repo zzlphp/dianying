@@ -1,0 +1,9 @@
+{dede:field name='keywords'}一级恐惧BD中英字幕美国恐怖/惊{/dede:field}
+{dede:field name='description'}一级恐惧BD中英字幕美国恐怖/惊悚1024/1280高清迅雷下载、免费下载，一级恐惧BD中英字幕美国恐怖/惊悚1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}一级恐惧BD中英字幕美国恐怖/惊悚1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1327/飘花电影piaohua.com一级恐惧BD中英字幕1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPNVZ-25A5.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}拉扎老师/拉札先生BD中字1024高{/dede:field}
+{dede:field name='description'}拉扎老师/拉札先生BD中字1024高清2011最新剧情迅雷下载、免费下载，拉扎老师/拉札先生BD中字1024高清2011最新剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}拉扎老师/拉札先生BD中字1024高清2011最新剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3086/飘花电影piaohua.com拉札先生BD中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP1UF-12519.jpg{/dede:field}

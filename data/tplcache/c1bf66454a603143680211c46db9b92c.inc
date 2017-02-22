@@ -1,0 +1,68 @@
+{dede:field name='keywords'}天国王朝加长版BD高清迅雷下载，{/dede:field}
+{dede:field name='description'}天国王朝加长版BD高清迅雷下载、免费下载，天国王朝加长版BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天国王朝加长版BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-01{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://i3.6.cn/cvbnm/50/63/ff/b1882790a95c6fff6038a5f800c970ae.jpg" style="width: 499px; height: 652px" /><img alt="" src="http://img.album.pchome.net/54/68/02/71/3983c5877af76c1093114e1dcc656458.jpg" style="width: 500px; height: 714px" /></p>
+<p>
+	中文　名　天国王朝加长版/天国骄雄/王者天下<br />
+	片　　名　Kingdom Of Heaven<br />
+	年　　代　2005<br />
+	国　　家　美国<br />
+	类　　别　动作/剧情/战争<br />
+	语　　言　英语<br />
+	字　　幕　中英双字幕<br />
+	评　　分　7.1/10 (63886 votes)<br />
+	链　　接　<a href="http://www.imdb.com/title/tt0320661">http://www.imdb.com/title/tt0320661</a><br />
+	文件格式　BluRay-720P.RMVB<br />
+	视频尺寸　1024 x 576<br />
+	文件大小　2.53GB<br />
+	片　　长　189 Min<br />
+	导　　演　雷德利&middot;斯科特 Ridley Scott<br />
+	主　　演　杰瑞米&middot;艾恩斯 Jeremy Irons .... Tiberias<br />
+	　　　　　利亚姆&middot;尼森 Liam Neeson .... Godfrey of Ibelin<br />
+	　　　　　大卫&middot;泽尔利斯 David Thewlis .... Hospitaller<br />
+	　　　　　爱德华&middot;诺顿 Edward Norton .... King Baldwin IV<br />
+	　　　　　Jouko Ahola ....<br />
+	　　　　　Tim Barlow .... Old Guard<br />
+	　　　　　奥兰多&middot;布鲁姆 Orlando Bloom .... Balian of Ibelin<br />
+	　　　　　Christian Boeving ....<br />
+	　　　　　Nikolaj Coster-Waldau .... Godfrey of Ibelins nephew<br />
+	　　　　　马尔顿&middot;绍凯斯 Marton Csokas .... Guy de Lusignan<br />
+	　　　　　Eriq Ebouaney .... Firuz<br />
+	　　　　　Khaled El Nabaoui ....<br />
+	　　　　　Jon Finch .... Patriarch of Jerusalem<br />
+	　　　　　Michael Fitzgerald .... Humphrey<br />
+	　　　　　布兰德&middot;格里森 Brendan Gleeson .... Reynald</p>
+<p>
+	剧情简介：</p>
+<p>
+	　　12世纪，巴里安(奥兰多&middot;布鲁姆饰)是一个法国小铁匠，在妻子自杀后不情愿地加入了十字军。当他随着十字军东征来到耶路撒冷后，深深地被当地陌生而奇特的文化吸引，巴里安甚至爱上了公主希比拉。但是萨拉丁率领的撒拉森骑士很快来袭，他们发誓要夺回心中的圣地，一场惊心动魄又野蛮残酷的战争即将展开&hellip;&hellip;</p>
+<p>
+	　　这部由20世纪福克斯公司发行的大片，预算高达1亿3000万美元，由获得过奥斯卡提名的雷德利&middot;斯科特导演，动用了数以百计的幕后人员、马匹以及精美的服装。由威廉&middot;莫纳汉创作的剧本，根据历史上十字军东征的真实角色改编而成，其中包括1187年保卫耶路撒冷的十字军骑士巴里安，以及与之为敌的穆斯林领导者萨拉丁。</p>
+<p>
+	　　尽管拍摄方努力强调影片浪漫伟大的爱情戏和惊心动魄的动作场面，但一些宗教学者和其他信仰的激进分子仍然提出了质疑，他们拿着影片的剧本拷贝理直气壮地指责：在当前世界局势如此复杂、激烈的背景下，好莱坞拍摄一部牵涉宗教问题的史诗片到底居心何在？</p>
+<p>
+	简评：雷德利的史诗</p>
+<p>
+	　　2000年，雷德利&middot;斯科特在票房上引爆了一颗重磅炸弹，他导演的《角斗士》同时也获得了奥斯卡最佳影片大奖。随后，他乘胜追击拍摄了《沉默的羔羊》续集《汉尼拔》，在国内取得了1亿7000万美元的票房，打破了二月影片票房不高的规律。接下来推出的便是深受评论家喜爱的《黑鹰降落》，起用了许多好莱坞冉冉升起的新星，其中就包括还未大红大紫的奥兰多&middot;布鲁姆，但是影片却在奥斯卡最佳影片的提名上意外落马。虽然影片获得了1亿8百万美元的票房和一大堆奥斯卡技术奖，提名最佳导演的雷德利并没有在此领域折桂。</p>
+<p>
+	　　尽管《火柴人》在票房上大幅下滑，但这并不阻碍雷德利&middot;斯科特向亿元票房大片冲击。这位拍摄过经典影片《银翼杀手》和《异形》的名导，筹措到1亿 3000万美元资金后，带着《天国王朝》策马扬鞭又杀回来了。不错，这一次又是史诗片。去年号称好莱坞史诗年，但没有一部史诗片为这一年画上完美的句号：《特洛伊》勉强过关，《亚瑟王》滥竽充数，《亚历山大大帝》惨不忍睹。很多人都为雷德利捏了一把冷汗，但是想想《角斗士》这么烂的剧本，经他老人家一番拨弄，也能让人看的津津有味，不由心生一股安慰。</p>
+<p>
+	　　在过去的几十年来，各种有关十字军东征的电影剧本早就引起了好莱坞的兴趣，特别是90年代阿诺德&middot;施瓦辛格曾经提出的计划。斯科特曾受邀拍摄这个剧本，但是他拒绝了：&ldquo;我想拍摄自己的骑士题材作品。&rdquo;2002年当他和莫纳汉产生了拍摄《天国王朝》的念头时，他还特意研究了那时的宗教冲突。&ldquo;我努力拍摄电影。&rdquo;斯科特说：&ldquo;我不是一个纪实小说作者。当你有300年的历史可以选择时，这个无疑是最有趣的冲突，也是最中立的一个。&rdquo;</p>
+<p>
+	&nbsp;<img alt="" src="http://img165.poco.cn/mypoco/myphoto/20110930/09/62564813201109300937411204902499581_003.jpg" style="width: 720px; height: 405px" /><img alt="" src="http://img165.poco.cn/mypoco/myphoto/20110930/09/62564813201109300937411204902499581_002.jpg" style="width: 720px; height: 405px" /><img alt="" src="http://img165.poco.cn/mypoco/myphoto/20110930/09/62564813201109300937411204902499581_001.jpg" style="width: 720px; height: 405px" /><img alt="" src="http://img165.poco.cn/mypoco/myphoto/20110930/09/62564813201109300937411204902499581_000.jpg" style="width: 720px; height: 405px" /></p>
+<p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" />&nbsp;&nbsp;&nbsp;</p>
+
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="&#13;&#10;ftp://dy125:piaohua@dy125.piaohua.com:6023/飘花电影piaohua.com天国王朝BD中英双字1024高清.rmvb">ftp://dy125:piaohua@dy125.piaohua.com:6023/飘花电影piaohua.com天国王朝BD中英双字1024高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O1624O0-55104.jpg{/dede:field}

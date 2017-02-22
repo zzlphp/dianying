@@ -1,0 +1,9 @@
+{dede:field name='keywords'}埃及的十项伟大发现BD中字1024高{/dede:field}
+{dede:field name='description'}埃及的十项伟大发现BD中字1024高清美国纪录片迅雷下载、免费下载，埃及的十项伟大发现BD中字1024高清美国纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}埃及的十项伟大发现BD中字1024高清美国纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy47:piaohua@dy47.piaohua.com:702/飘花电影piaohua.com埃及的十项伟大发现.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4R940-512R.jpg{/dede:field}

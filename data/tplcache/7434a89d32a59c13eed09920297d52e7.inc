@@ -1,0 +1,9 @@
+{dede:field name='keywords'}僵尸先生3/灵幻先生HD高清1280高{/dede:field}
+{dede:field name='description'}僵尸先生3/灵幻先生HD高清1280高清迅雷下载、免费下载，僵尸先生3/灵幻先生HD高清1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}僵尸先生3/灵幻先生HD高清1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1536/飘花电影piaohua.com灵幻先生HD高清1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2GZ-3S24.jpg{/dede:field}

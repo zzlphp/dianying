@@ -1,0 +1,9 @@
+{dede:field name='keywords'}隔绝高清迅雷下载，免费下载，Gv{/dede:field}
+{dede:field name='description'}隔绝高清迅雷下载、免费下载，隔绝高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}隔绝高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPI5M0-3N33.jpg{/dede:field}

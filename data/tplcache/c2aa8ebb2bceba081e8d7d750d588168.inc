@@ -1,0 +1,112 @@
+{dede:field name='keywords'}死刑/非法制裁/死亡裁决BD中英双{/dede:field}
+{dede:field name='description'}死刑/非法制裁/死亡裁决BD中英双字1024/1280高清迅雷下载、免费下载，死刑/非法制裁/死亡裁决BD中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}死刑/非法制裁/死亡裁决BD中英双字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-21{/dede:field}
+{dede:field name='body'}<p>
+	<img border="0" onclick="if(this.width&gt;screen.width-461) window.open('http://cdn3a.dvdempire.org/products/48/1376348h.jpg');" src="http://cdn3a.dvdempire.org/products/48/1376348h.jpg" /><br />
+	<br />
+	◎译　　名　死刑/非法制裁/死亡裁决<br />
+	◎片　　名　Death Sentence<br />
+	◎年　　代　2007<br />
+	◎国　　家　美国<br />
+	◎类　　别　动作/剧情/惊悚<br />
+	◎语　　言　英语<br />
+	◎字　　幕　中英双字<br />
+	◎IMDB评分 6.8/10&nbsp; 24,635 votes<br />
+	◎文件格式　BD-RMVB<br />
+	◎视频尺寸　1024 x 576<br />
+	◎文件大小　1CD<br />
+	◎片　　长　101 min<br />
+	◎导　　演　詹姆斯&middot;温 James Wan<br />
+	◎主　　演　凯文&middot;贝肯 Kevin Bacon&nbsp; .....John Hume<br />
+	　　　　　　凯利&middot;普雷斯顿 Kelly Preston&nbsp; .....Helen Hume<br />
+	　　　　　　加勒特&middot;赫德兰 Garrett Hedlund&nbsp; .....Billy Darly<br />
+	　　　　　　约翰&middot;古德曼 John Goodman&nbsp; .....Bones Darly<br />
+	　　　　　　雷&middot;沃纳尔 Leigh Whannell&nbsp; .....Stink<br />
+	　　　　　　爱莎&middot;泰勒 Aisha Tyler<br />
+	　　　　　　Matt O&#39;Leary&nbsp; .....Joe Darly<br />
+	　　　　　　Yorgo Constantine&nbsp; .....Michael Behring<br />
+	　　　　　　Stuart Lafferty&nbsp; .....Brendan Hume<br />
+	　　　　　　Jordan Garrett&nbsp; .....Lucas Hume<br />
+	　　　　　　Edi Gathegi&nbsp; .....Bodie<br />
+	　　　　　　Zachary Dylan Smith&nbsp; .....Young Brendan Hume<br />
+	　　　　　　Susan Crosby&nbsp; .....Business Woman<br />
+	　　　　　　Freddy Bouciegues&nbsp; .....Tommy<br />
+	　　　　　　Craig S. Harper&nbsp; .....ER Orderly<br />
+	　　　　　　Kristin Cobb&nbsp; .....ER Nurse<br />
+	　　　　　　罗伯特&middot;坎农 Robert Cannon&nbsp; .....Driver<br />
+	　　　　　　Kylene Young&nbsp; .....Heco&#39;s Girlfriend<br />
+	<br />
+	◎简　　介　<br />
+	<br />
+	&nbsp; &nbsp; &nbsp; &nbsp; 是不是只有惩罚敌人，才能消除心中的仇恨？尼克&middot;休姆就是那种大街上随处可见的普通人，人到中年的他如今已经是一家知名保险公司的中层管理人员了，可观的薪水和稳步上升的事业让他不但在郊区的富人区购置了一处房产，还过着人人羡慕的美满生活。尼克每天都会按时下班，因为他知道家里有美丽的妻子海伦和两个儿子布兰登、卢卡斯等待着他&hellip;&hellip;家人，永远是他在这个世界上最真心的牵挂。<br />
+	<br />
+	　　没错，休姆一家过的日子就是最典型的中产阶级家庭的缩影，这一切都让尼克感到满足，他还努力地去承担一些家务杂事，因为他觉得能和海伦一起分享一些亲密且隐私的小秘密，是一件让人非常愉快的事情--她是他的知己，有时候更像是一面镜子。<br />
+	<br />
+	　　除此之外，尼克与两个儿子也不存在那种父子之间惯常会有的紧张关系，他们相处融洽。大儿子布兰登虽然过于自信到有点顽固，但是他有这个资本，因为他不但是学校的运动健将，还相当地受欢迎，正在努力地为他以后的大学生活展开美好的想象。与哥哥比较起来，弟弟卢卡斯似乎就没那么出类拔萃了，不过他还是非常崇拜耀眼的哥哥的，即使他已经意识到，布兰登的成功很可能会为自己的未来蒙上一层阴影&hellip;&hellip;所以有的时候卢卡斯确实会闹一些极端的小情绪，可是这并不能阻止兄弟之间的互敬互爱。<br />
+	<br />
+	　　总而言之，休姆一家就是那种普通的美国家庭，正直且谦逊，然而再美好的生活，也有支离破碎的一天。一天晚上，尼克正开车载布兰登回家，他们刚刚结束了一场曲棍球比赛。到了一家加油站，尼克停下车加油，布兰登则走进便利商店想要买一瓶饮料&hellip;&hellip;就在这个当口，一群带着滑雪面具的匪徒冲进了商店，他们手中拿着各式各样的武器。这次突发事件并非一场简单的抢劫案，因为这伙人眼里看到的不只是物品和金钱，他们将这次抢劫看成了某种为乔?达力准备的仪式，他是街头最残忍的帮派领袖比利?达力的弟弟。在杀死了店员之后，他们将注意力转向了布兰登。<br />
+	<br />
+	　　当尼克终于转身发现了商店里正在发生的一切时，他看到乔正在殴打布兰登&hellip;&hellip;尼克惊恐地注意到，布兰登已经倒在了血泊之中，一动不动了，他疯了似的冲进商店，不可避免地与乔起了冲突，他们一起摔在了地上，乔的面具掉了，露出了他的本来面目。<br />
+	<br />
+	　　乔被拘捕了，尽管负责这起案件的调查官沃利斯找到了充分的证据，证明了乔的罪行，可是法院最终还是释放了他。这让休姆一家陷入了深刻的悲哀之中，因为他们已经永远地失去了布兰登。被愤怒蒙住了双眼的尼克决定亲自主持正义，他找到了那个杀死儿子的凶手，可是就在两人对质的时候，尼克却失去了理智，杀死了乔&hellip;&hellip;尼克觉得这样的结果是最公平的，杀人就应该偿命，他当作什么事都没有发生，回到了正常的生活中，因为那里是他永远的避风港湾：他的妻子，他仅存的一个儿子，以及他的工作。<br />
+	<br />
+	　　当尼克认为一切都已经结束<a href="http://www.3edyy.com/" target="_blank">电影下载</a>了的时候，却忘记了双手一旦沾满了鲜血，就会留下永久的印记，比利?达力随后而至，他要让尼克的所有亲人为自己弟弟的死偿命&hellip;&hellip;那么，尼克为了保护他的家人，会做到什么地步呢？而比利为了保护自己，又会做出什么样的事情呢？<br />
+	<br />
+	幕后制作<br />
+	<br />
+	　　【家庭与暴力】<br />
+	<br />
+	　　砰，砰，你死了&hellip;&hellip;死神的降临永远是那么地不可预知，可能只是一次心跳、一次眨眼的瞬间，想象不到的变故就发生了，一个家庭也变得不再完整。导演詹姆斯&middot;温说：&ldquo;这部影片中所讲述的故事非常具有莎士比亚作品的风格，因为只有复仇才是永恒的主题。当你因被错误的对待而燃起了仇恨的火苗时，寻求报复也就成了最主要的情感支配。至于我应该为《死刑》这部影片做的，就是讲述一个经典的故事，然后将它安置在现代社会的背景下。&rdquo;<br />
+	<br />
+	　　制片人安德鲁&middot;苏格曼(Andrew Sugerman)表示同意詹姆斯&middot;温的说法：&ldquo;这就好比某个经典的希腊悲剧故事，一个男人和他内心的恶魔做着斗争，同时他又得为他的亲人着想&hellip;&hellip;不过他还是被拉入了一个以惩罚取代了宽恕的模式中，并最终发现，以暴制暴是一件多么无意义的行为。&rdquo;<br />
+	<br />
+	　　对敌人产生报复的想法，是一种维持正义自然而然的过程&hellip;&hellip;谚语&ldquo;以眼还眼、以牙还牙&rdquo;一直以来都被当成报仇的经典语录，可是所谓的&ldquo;有仇必报&rdquo;一旦真的发生了，带来的伤害与损失也是巨大的，詹姆斯&middot;温解释说：&ldquo;在情感波动最激烈的时候，尼克&middot;休姆选择去追踪那些杀害他儿子的人，从那一刻起，他就已经打开了潘多拉的盒子。&rdquo;安德鲁&middot;苏格曼则补充道：&ldquo;当一个人相对完美的正常生活被一个无法预知的意外所破坏掉时，他们就有可能失去情感的控制权。&rdquo;另一位制片人阿施沃克&middot;阿姆里特雷吉(Ashok Amritraj)表示：&ldquo;这是一个因地制宜的好故事，讲述的是家庭和普通的生活是如何被彻底颠覆的。影片之所以选在这个时候上映，主要还是因为由帮派引发的暴力事件层出不穷，而这个过程中，总会有无辜的人被卷入其中。于是你会在这里看到一个普通的居家男人是如何被愤怒的火焰所包围的，然后走向了复仇之路。&rdquo;<br />
+	<br />
+	　　主演凯文&middot;贝肯是这样评论自己的角色的：&ldquo;这部影片与那种单纯的&lsquo;好人打坏人&rsquo;还是有一定的区别的，我的角色尼克不得不付出可怕的惨痛代价，因为他选择亲自去执行另一种&lsquo;法律&rsquo;，为了保护和守卫他最爱的家人。他用&lsquo;有仇必报&rsquo;为一切事情做个了结，觉得现在谁也不亏欠谁了，他可以继续和家人过上平静的生活了--那种感觉真的是古怪又陌生。可事实呢？一旦你的双手沾上了鲜血，你是没办法洗干净它们的，尼克那所谓的&lsquo;解决方案&rsquo;，反而引起了更大的仇恨与敌视。&rdquo;<br />
+	<br />
+	　　【一场游戏一场梦】<br />
+	<br />
+	　　最初的时候，你确实可以把发生的事情当成是一场游戏，可是一旦有人从中受到了伤害，那么一切就都改变了&hellip;&hellip;主演之一加勒特&middot;赫德兰(Garrett Hedlund)对此的解释是：&ldquo;我在影片中饰演的角色是比利&middot;达力，他是一群在一个街区长大的小混混的头儿，他们过着完全自由的生活，想做什么就做什么。比利的父亲名叫伯恩斯，是一名残忍的暴徒。我要为他工作，而我手下的小弟则为我工作。&rdquo;伯恩斯的饰演者约翰&middot;古德曼则表示：&ldquo;伯恩斯是一切犯罪行为的幕后策划，他让两个儿子帮他卖兴奋剂和可卡因，自己则贩卖枪支--他是一个真正的坏人，一名纯粹的教唆犯。&rdquo;<br />
+	<br />
+	　　加勒特&middot;赫德兰继续说：&ldquo;影片一定可以引起人们强烈的共鸣，因为里面所讲述的一切都是有关家庭的。首先这里有两个男孩，然而某个人却突然冲进他们的生活带走了其中的一个&hellip;&hellip;&rdquo;整个故事都是围绕着两个完全对立的角色展开的，尼克&middot;休姆和比利&middot;达力，他们都在寻求相同的事情：为亲人报仇。与此同时，赫德兰还说出了是什么让《死刑》在其他相似的影片中显得如此地与众不同：&ldquo;一贯温文尔雅的普通人，当他完全处<a href="http://www.eee4.cc/" target="_blank">3E电影下载站</a>在癫狂的状态时，总能够带来更可怕的后果，甚至完全超出了你的想象范围。&rdquo;<br />
+	<br />
+	　　就像公羊会用角保护它们的草地一样，尼克和比利解决问题的方式都是在遵循暴力的初衷--尼克越是刺激比利，比利就越生气，因为比利一直非常羡慕尼克所拥有的生活，更恨他能够得到自己永远都不可能得到的善良的家人。加勒特&middot;赫德兰说：&ldquo;伯恩斯总是在用高人一等的口气和比利说话，他走到哪儿，就会把争吵带到哪儿&hellip;&hellip;伯恩斯对身边的一切都怀恨在心，包括他的两个儿子。&rdquo;约翰&middot;古德曼随即解释了一下伯恩斯的那种挫败感：&ldquo;他恨所有的事情，他恨他的儿子，他恨这个世界。他所处的那个底层社会铸就了他的这种性格，对于伯恩斯来说，在这个世界上他一无所有。&rdquo;<br />
+	<br />
+	　　由于故事的主题都浸泡在是像复仇、嫉妒和保护这种任性且有压迫感的情感之中，所以詹姆斯&middot;温还是召集到一批能够带给观众一种神清气爽的畅快感的演员，凯文&middot;贝肯表示：&ldquo;从表现形式上出发，影片中的黑帮给人的感觉好像是来自于西部，这一点在最后一个章节中表现得尤为明显。虽然尼克&middot;休姆并非那种传统意义上的英雄角色，可是他的转变却是贯穿于影片的始终的。&rdquo;<br />
+	<br />
+	花絮<br />
+	<br />
+	&middot;影片根据同名小说改编而成，算是另一部小说《猛龙怪客》的续集之作。《猛龙怪客》曾经于1974年被搬上过大银幕，由查尔斯&middot;布朗森主演，随后衍生出的四部续集影片就和小说本身没有任何关系了。也正是因为这个原因，原著作者布赖恩&middot;加菲尔德（Brian Garfield）非常憎恨这四部续集电影，因为他觉得这完全背离了小说中对角色的描述。<br />
+	<br />
+	&middot;为了这部影片，凯文&middot;贝肯特别改变了他的发型。<br />
+	<br />
+	&middot;最初的时候，影片的发生地被设在了马萨诸塞州的波士顿，后来导演詹姆斯&middot;温将地点换到了南卡罗来纳州的哥伦比亚。不过原著小说中，这个故事其实是发生在伊利诺斯州的芝加哥的。<br />
+	<br />
+	&middot;在伯恩斯和他的儿子比利谈话的一个场景中，你能分明地看到电影《电锯惊魂》的海报就贴在墙上--它是导演詹姆斯&middot;温在2004年执导的另一部作品。</p>
+<p>
+	【电影截图】：<br />
+	<br />
+	<img border="0" onclick="if(this.width&gt;screen.width-461) window.open('http://photo6.zxip.com/albums6/folder18/14186/20100701105143/2010717113291618.jpg');" src="http://photo6.zxip.com/albums6/folder18/14186/20100701105143/2010717113291618.jpg" /><br />
+	<img border="0" onclick="if(this.width&gt;screen.width-461) window.open('http://photo6.zxip.com/albums6/folder18/14186/20100701105143/20107171132101268.jpg');" src="http://photo6.zxip.com/albums6/folder18/14186/20100701105143/20107171132101268.jpg" /></p>
+<p>
+	[下载地址]：<img border="0" src="/templets/img/down.jpg" /></p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://3e:3e@d8.3edyy.com:168/【3E电影院www.eee4.cc】死刑BD中英双字1024x576高清版.rmvb" target="_blank">ftp://3e:3e@d8.3edyy.com:168/【3E电影院www.eee4.cc】死刑BD中英双字1024x576高清版.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3265/飘花电影piaohua.com死亡裁决BD中英双字1280高清.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3265/飘花电影piaohua.com死亡裁决BD中英双字1280高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O1562Q30-25457.jpg{/dede:field}

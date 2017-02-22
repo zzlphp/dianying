@@ -1,0 +1,9 @@
+{dede:field name='keywords'}恶魔岛第一季欧美剧13迅雷下载，{/dede:field}
+{dede:field name='description'}恶魔岛第一季欧美剧13迅雷下载、免费下载，恶魔岛第一季欧美剧13Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}恶魔岛第一季欧美剧13{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2647/飘花电影piaohua.com恶魔岛第一季01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ034110-54315.jpg{/dede:field}

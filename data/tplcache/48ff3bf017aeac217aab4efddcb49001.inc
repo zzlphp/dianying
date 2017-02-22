@@ -1,0 +1,9 @@
+{dede:field name='keywords'}猩球崛起/猿族崛起/猿人争霸战BD{/dede:field}
+{dede:field name='description'}猩球崛起/猿族崛起/猿人争霸战BD高清国英双语迅雷下载、免费下载，猩球崛起/猿族崛起/猿人争霸战BD高清国英双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}猩球崛起/猿族崛起/猿人争霸战BD高清国英双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO9EC0-4M31.jpg{/dede:field}

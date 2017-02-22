@@ -1,0 +1,9 @@
+{dede:field name='keywords'}倾城之泪高清1280版BD国语中字20{/dede:field}
+{dede:field name='description'}倾城之泪高清1280版BD国语中字2011最新上映爱情大片迅雷下载、免费下载，倾城之泪高清1280版BD国语中字2011最新上映爱情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}倾城之泪高清1280版BD国语中字2011最新上映爱情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2421/飘花电影piaohua.com倾城之泪高清BD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOELP-353R.jpg{/dede:field}

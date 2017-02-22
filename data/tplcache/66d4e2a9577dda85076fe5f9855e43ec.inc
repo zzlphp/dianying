@@ -1,0 +1,9 @@
+{dede:field name='keywords'}相见恨早/再见钟情BD中英双字128{/dede:field}
+{dede:field name='description'}相见恨早/再见钟情BD中英双字1280高清经典爱情喜剧迅雷下载、免费下载，相见恨早/再见钟情BD中英双字1280高清经典爱情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}相见恨早/再见钟情BD中英双字1280高清经典爱情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2609/飘花电影piaohua.com再见钟情BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOR5160-11249.jpg{/dede:field}

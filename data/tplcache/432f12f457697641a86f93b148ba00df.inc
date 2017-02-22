@@ -1,0 +1,9 @@
+{dede:field name='keywords'}战斗少女：血之铁面具传说DVD中{/dede:field}
+{dede:field name='description'}战斗少女：血之铁面具传说DVD中字2010日本恐怖动作大片迅雷下载、免费下载，战斗少女：血之铁面具传说DVD中字2010日本恐怖动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}战斗少女：血之铁面具传说DVD中字2010日本恐怖动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2848/飘花电影piaohua.com战斗少女：血之铁面具传说DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPR6310-3OM.jpg{/dede:field}

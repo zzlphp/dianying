@@ -1,0 +1,9 @@
+{dede:field name='keywords'}非法入侵BD高清迅雷下载，免费下{/dede:field}
+{dede:field name='description'}非法入侵BD高清迅雷下载、免费下载，非法入侵BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}非法入侵BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP25V60-42429.jpg{/dede:field}

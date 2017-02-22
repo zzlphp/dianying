@@ -1,0 +1,9 @@
+{dede:field name='keywords'}玩命魔术HD1280高清迅雷下载，免{/dede:field}
+{dede:field name='description'}玩命魔术HD1280高清迅雷下载、免费下载，玩命魔术HD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}玩命魔术HD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP2a3P-1AT.jpg{/dede:field}

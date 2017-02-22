@@ -1,0 +1,9 @@
+{dede:field name='keywords'}我愿意HD国语中字1280高清孙红李{/dede:field}
+{dede:field name='description'}我愿意HD国语中字1280高清孙红李冰冰2012最新喜剧爱情迅雷下载、免费下载，我愿意HD国语中字1280高清孙红李冰冰2012最新喜剧爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}我愿意HD国语中字1280高清孙红李冰冰2012最新喜剧爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3035/飘花电影piaohua.com我愿意HD国语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO640040-41142.jpg{/dede:field}

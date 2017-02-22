@@ -1,0 +1,9 @@
+{dede:field name='keywords'}顺藤而上的你更新第26集[韩语中{/dede:field}
+{dede:field name='description'}顺藤而上的你更新第26集[韩语中字]2011韩国KBS2周末剧迅雷下载、免费下载，顺藤而上的你更新第26集[韩语中字]2011韩国KBS2周末剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}顺藤而上的你更新第26集[韩语中字]2011韩国KBS2周末剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2896/飘花电影piaohua.com顺藤而上的你01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP9C410-26126.jpg{/dede:field}

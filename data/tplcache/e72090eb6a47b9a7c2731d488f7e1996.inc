@@ -1,0 +1,9 @@
+{dede:field name='keywords'}肥佬教授DVD国语配音中字迅雷下{/dede:field}
+{dede:field name='description'}肥佬教授DVD国语配音中字迅雷下载、免费下载，肥佬教授DVD国语配音中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}肥佬教授DVD国语配音中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3389/飘花电影piaohua.com肥佬教授DVD国语配音中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO5W230-1WS.jpg{/dede:field}

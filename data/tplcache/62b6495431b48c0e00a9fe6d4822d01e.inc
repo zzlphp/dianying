@@ -1,0 +1,9 @@
+{dede:field name='keywords'}情侣们DVD中字韩国2011爱情喜剧{/dede:field}
+{dede:field name='description'}情侣们DVD中字韩国2011爱情喜剧迅雷下载、免费下载，情侣们DVD中字韩国2011爱情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}情侣们DVD中字韩国2011爱情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2503/飘花电影piaohua.com情侣们DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOO63F-52M5.jpg{/dede:field}

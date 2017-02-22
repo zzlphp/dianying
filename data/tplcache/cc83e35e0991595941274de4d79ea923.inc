@@ -1,0 +1,9 @@
+{dede:field name='keywords'}极速天使BD1280高清国粤双语迅雷{/dede:field}
+{dede:field name='description'}极速天使BD1280高清国粤双语迅雷下载、免费下载，极速天使BD1280高清国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}极速天使BD1280高清国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7881/飘花电影piaohua.com极速天使BD粤语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP23EP-24L1.jpg{/dede:field}

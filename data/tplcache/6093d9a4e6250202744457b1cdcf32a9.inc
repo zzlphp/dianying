@@ -1,0 +1,9 @@
+{dede:field name='keywords'}先知/预知/预难大逃亡/末日预言{/dede:field}
+{dede:field name='description'}先知/预知/预难大逃亡/末日预言高清国语中字迅雷下载、免费下载，先知/预知/预难大逃亡/末日预言高清国语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}先知/预知/预难大逃亡/末日预言高清国语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO94AF-223H.jpg{/dede:field}

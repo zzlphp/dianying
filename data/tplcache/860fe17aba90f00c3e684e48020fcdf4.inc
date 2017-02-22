@@ -1,0 +1,9 @@
+{dede:field name='keywords'}抓住外国佬/我如何度过假期DVD中{/dede:field}
+{dede:field name='description'}抓住外国佬/我如何度过假期DVD中字2012动作迅雷下载、免费下载，抓住外国佬/我如何度过假期DVD中字2012动作Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}抓住外国佬/我如何度过假期DVD中字2012动作{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3425/飘花电影piaohua.com我如何度过假期DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO449630-3QW.jpg{/dede:field}

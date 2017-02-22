@@ -1,0 +1,9 @@
+{dede:field name='keywords'}步步惊心高清第35集2011穿越大剧{/dede:field}
+{dede:field name='description'}步步惊心高清第35集2011穿越大剧【全】迅雷下载、免费下载，步步惊心高清第35集2011穿越大剧【全】Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}步步惊心高清第35集2011穿越大剧【全】{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1526/飘花电影piaohua.com步步惊心[高清]01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ05610-251T.jpg{/dede:field}

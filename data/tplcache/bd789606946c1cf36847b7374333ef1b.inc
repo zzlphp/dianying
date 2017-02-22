@@ -1,0 +1,9 @@
+{dede:field name='keywords'}五日战争/八月战事BD中英双字128{/dede:field}
+{dede:field name='description'}五日战争/八月战事BD中英双字1280高清2011战争剧情迅雷下载、免费下载，五日战争/八月战事BD中英双字1280高清2011战争剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}五日战争/八月战事BD中英双字1280高清2011战争剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy173:piaohua@dy173.piaohua.com:311/飘花电影piaohua.com八月战事1208.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPA0S0-5Y35.jpg{/dede:field}

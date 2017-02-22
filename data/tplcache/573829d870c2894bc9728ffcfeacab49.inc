@@ -1,0 +1,9 @@
+{dede:field name='keywords'}美少女的谎言第二季更新25集[中{/dede:field}
+{dede:field name='description'}美少女的谎言第二季更新25集[中英双字]2011主打美剧迅雷下载、免费下载，美少女的谎言第二季更新25集[中英双字]2011主打美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}美少女的谎言第二季更新25集[中英双字]2011主打美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy40:piaohua@dy40.piaohua.com:46/飘花电影piaohua.com美少女的谎言第二季1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ022110-53230.jpg{/dede:field}

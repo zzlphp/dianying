@@ -1,0 +1,9 @@
+{dede:field name='keywords'}云上太阳HD国语中字1024高清2012{/dede:field}
+{dede:field name='description'}云上太阳HD国语中字1024高清2012剧情迅雷下载、免费下载，云上太阳HD国语中字1024高清2012剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}云上太阳HD国语中字1024高清2012剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3316/飘花电影piaohua.com云上太阳HD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP01U0-43G4.jpg{/dede:field}

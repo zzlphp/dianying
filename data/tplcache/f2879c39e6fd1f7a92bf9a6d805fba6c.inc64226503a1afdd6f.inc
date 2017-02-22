@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","鬼神传/鬼神伝BD高清1280中文字",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","鬼神传/鬼神伝BD高清1280中文字幕同名系列小说改编迅雷下载、免费下载，鬼神传/鬼神伝BD高清1280中文字幕同名系列小说改编Gvod高清在线播放，剧情介绍等。",72,260);
+$z[1][4]['name']="description";
+$z[2]=Array("field","鬼神传/鬼神伝BD高清1280中文字幕同名系列小说改编",262,347);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",349,388);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",390,429);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-09-19",431,481);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O04C13Z-bU6.jpg\" /></p>\r\n<p>\r\n	【影片原名】Legend of the Millennium Dragon Wnf<br />\r\n	【中文译名】鬼神传/鬼神伝 Wnf<br />\r\n	【出品年代】2011年 Wnf<br />\r\n	【IMDB评分】6.8/10 15 votes Wnf<br />\r\n	【国　　家】日本&nbsp; Wnf<br />\r\n	【导　　演】川﨑博嗣 Hirotsugu Kawasaki Wnf<br />\r\n	【主　　演】中村狮童 Shido Nakamura Wnf<br />\r\n	石原里美 Satomi Ishihara Wnf<br />\r\n	小野贤章 Kensho Ono Wnf<br />\r\n	森久保祥太郎 Shotaro Morikubo Wnf<br />\r\n	伊藤健太郎 Kentar? It? Wnf<br />\r\n	加濑康之 Yasuyuki Kase Wnf<br />\r\n	近藤隆 Takashi Kond?&nbsp; Wnf<br />\r\n	塚田正昭 Masaaki Tsukada&nbsp; Wnf<br />\r\n	野岛昭生 Akio Nojima Wnf<br />\r\n	东条加那子 Kanako T?jo&nbsp; Wnf<br />\r\n	咲野俊介 Shunsuke SakuyaWnf</p>\r\n<p>\r\n	Wnf<br />\r\n	【内容简介】 Wnf<br />\r\n	　　生活在京都的天童纯是个不太有自信的十五岁男孩。父亲七年前死于事故，此后纯一直和母亲两个人过日子。这天，纯在放学回家的路上被神秘魔物追赶，危急之中逃入一所古寺，僧人源云救了他。谁知纯就此被带往时空的彼方&hellip;&hellip; Wnf<br />\r\n	　　恢复意识的纯发现自己竟身处平安时代的京都。纯从贵族那里听说了关于&ldquo;鬼&rdquo;的事情。&ldquo;鬼&rdquo;使用各种妖术操控自然、危害人们的生活。而穿越时空而来的纯正是能唤醒幻之大蛇、结束纷争的&ldquo;拯救之神子&rdquo;。了解到自己的身份之后，纯感到不知所措。 Wnf<br />\r\n	　　鬼族少女水叶告诉纯，&ldquo;鬼&rdquo;并不是恶魔，而是力图与自然共存的人。哪一方说的是真话？我又该守护哪一方？在纯的踌躇矛盾之中，人与鬼的大决战临近了&hellip;&hellip;Wnf</p>\r\n<p>\r\n	Wnf<br />\r\n	幕后制作 Wnf<br />\r\n	　　《鬼神传》改编自高田崇史创作的同名系列小说。高田是一位推理小说家，而历史题材的青少年向作品《鬼神传》算得上是他的另类代表作。高田透露自己会创作这部小说是出自手冢治虫的影响：他还在念小学的时候读了手冢的《火鸟》，非常喜欢，过了五年，他得知《火鸟》是基于史实的作品，一时大为震惊，由此立志有朝一日自己也要写出类似的书。高田希望读过《鬼神传》的少年人长大后能对《古事记》之类的古典名作发生兴趣。 Wnf<br />\r\n	　　导演本片的川崎博嗣曾经制作过《火影忍者》电影版，是一位以高速度感动作场面见长的动画人。此外，大名鼎鼎的大友克洋参与了影片关键性存在&ldquo;雄龙灵&rdquo;的设计。 Wnf<br />\r\n	　　在配音阵容方面，担纲主人公的小野贤章是一位主要活跃在译制片中的声优，多年来一直&ldquo;代言&rdquo;《哈利波特》中的哈利波特。影视圈的石原里美和中村狮童在片中客串两个重要角色。 Wnf<br />\r\n	　　在时下3D与CG的风潮中，《鬼神传》是一部难得的返璞归真的手绘动画。影片再现了平安时代的京都，海神、山神、木神、火神、土神、土蜘蛛、鸟天狗、&ldquo;鬼&rdquo;等各种想象中的神怪大举登场，营造出别具一格的和风。Wnf</p>\r\n<p>\r\n	Wnf<br />\r\n	作者简介 Wnf<br />\r\n	　　高田崇史,男,1958年出生于东京，明治药科大学毕业，1998年以古诗百人一首及一宗发生于现代的杀人事件为题材，创作了古今双谜团的《QED百人一首的诅咒》并获得第九回梅菲斯特奖，其后再继续发表类型近似的QED系列作品如1999年的《QED六仙歌的暗号》和2000年《QED Baker街的问题》(Baker街=贝克街)等，另外，也有创作测验系列(高中生千叶千波系列)如1999年的短篇集《于测验出来的Puzzle》等。Wnf</p>\r\n<p>\r\n	Wnf<br />\r\n	主题歌手 Wnf<br />\r\n	　　福原美穂，北海道出生。21岁。双亲都是音乐爱好者，在音乐的熏陶中长大。福原美穗是日本灵魂歌手，由于她从小受喜爱音乐的父母影响，所以生长环境一直都离不开欧美音乐的熏陶。 Wnf<br />\r\n	　　根据日本作家高田崇史的小说改编的动画电影《鬼神传》将于今年4月29日在日本公开上映。日前，制作方公开了这部电影的主题歌，这首名为《星光（STARLIGHT）》的歌曲将由日本歌手福原美穗演唱。 Wnf<br />\r\n	　　为动画电影《鬼神传》演唱主题歌的福原美穗是2008年出道的日本新生代歌手，歌声悠扬而空灵，颇受影视界好评。此前，她已为《不沉的太阳》《恶人》等电影演唱过主题歌，也为电视动画《钢之炼金术师FULLMETAL ALCHEMIST》演唱过片尾曲。 Wnf<br />\r\n	　　成为《鬼神传》主题歌的新曲《星光》由索尼影视娱乐公司（Sony Pictures Entertainment）正式发表。官方声称，这是一首&ldquo;和厚重的画面及剧情相称的歌曲&rdquo;。据悉，这首歌将被收录在5月11日发售的福原美穗新唱片专辑《The Soul Extreme EP》中。Wnf<br />\r\n	&nbsp;视频截图：Wnf</p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O04C410-10A11.jpg\" /></p>\r\n\r\n<p>\r\n	[下载地址]： &nbsp;<img border=\"0\" src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\" /></p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				ftp://dy44:piaohua@dy44.piaohua.com:1601/飘花电影piaohua.com鬼神伝BD高清1280中文字幕.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",483,4854);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O04C4X0-113551.jpg",4856,4940);
+$z[7][4]['name']="litpic";
+
+?>

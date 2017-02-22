@@ -1,0 +1,9 @@
+{dede:field name='keywords'}奥斯陆,八月未央BD中英双字1024{/dede:field}
+{dede:field name='description'}奥斯陆,八月未央BD中英双字1024高清2011剧情迅雷下载、免费下载，奥斯陆,八月未央BD中英双字1024高清2011剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}奥斯陆,八月未央BD中英双字1024高清2011剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3338/飘花电影piaohua.com奥斯陆,八月未央BD中英双字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP30B10-31959.jpg{/dede:field}

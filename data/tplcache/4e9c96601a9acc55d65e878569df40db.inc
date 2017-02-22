@@ -1,0 +1,9 @@
+{dede:field name='keywords'}倚天屠龙记之魔教教主HD高清双语{/dede:field}
+{dede:field name='description'}倚天屠龙记之魔教教主HD高清双语1024*576迅雷下载、免费下载，倚天屠龙记之魔教教主HD高清双语1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}倚天屠龙记之魔教教主HD高清双语1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2C060-45c4.jpg{/dede:field}

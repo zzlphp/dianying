@@ -1,0 +1,9 @@
+{dede:field name='keywords'}车在囧途高清1024/1280版HD国语{/dede:field}
+{dede:field name='description'}车在囧途高清1024/1280版HD国语中字2012最新上映郭德纲喜剧大片迅雷下载、免费下载，车在囧途高清1024/1280版HD国语中字2012最新上映郭德纲喜剧大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}车在囧途高清1024/1280版HD国语中字2012最新上映郭德纲喜剧大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3123/飘花电影piaohua.com车在囧途高清1024版HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOB6220-3SH.jpg{/dede:field}

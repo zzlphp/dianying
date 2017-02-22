@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","量子启示录[DVD中英双字]迅雷下",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","量子启示录[DVD中英双字]迅雷下载、免费下载，量子启示录[DVD中英双字]Gvod高清在线播放，剧情介绍等。",72,212);
+$z[1][4]['name']="description";
+$z[2]=Array("field","量子启示录[DVD中英双字]",214,275);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",277,316);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",318,357);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-06-15",359,409);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG onclick=zoom(this) border=0 alt=\"\" src=\"http://activeentertainment.com/images/quantum_apocalypse_sm.jpg\" onload=\"attachimg(this, 'load')\"><BR><BR><BR>◎译　　名　《量子启示录》2010年美国最新惊悚灾难科幻片DVD中英双字<BR>◎片　　名　Quantum Apocalypse<BR>◎年　　代　2010<BR>◎国　　家　美国<BR>◎类　　别　科幻/灾难/惊悚<BR>◎语　　言　英语<BR>◎字　　幕　中英双字幕<BR>◎IMDB链接 http://www.imdb.com/title/tt1265621<BR>◎文件格式　RMVB<BR>◎视频尺寸　608 x 344<BR>◎文件大小　1CD 369MB<BR>◎片　　长　01:30:58&nbsp;&nbsp;<BR>◎导　　演　Justin Jones<BR>◎主　　演　Rhett Giles&nbsp;&nbsp;....Terry<BR>　　　　　　斯黛芬妮·查韦斯-乔柯布森 Stephanie Chaves-Jacobsen&nbsp;&nbsp;....Lynne<BR>　　　　　　琪琪·爱德丽 Gigi Edgley&nbsp;&nbsp;....Trish<BR>　　　　　　Kristen Quintrall&nbsp;&nbsp;....Lindsey<BR>　　　　　　Peter Jurasik&nbsp;&nbsp;....President Scott<BR>　　　　　　Jenna Craig&nbsp;&nbsp;....Samantha<BR>　　　　　　Jack Ainsworth&nbsp;&nbsp;....Newscaster #2<BR>　　　　　　Dean N. Arevalo&nbsp;&nbsp;....Dr. Rhodes<BR>　　　　　　Shirly Brener&nbsp;&nbsp;....Ms. Taylor<BR>　　　　　　Marcus Lyle Brown&nbsp;&nbsp;....Carson<BR>　　　　　　Kyle Russell Clements&nbsp;&nbsp;....Sean<BR>　　　　　　Ted Ferguson&nbsp;&nbsp;....Mr. Clarke<BR>　　　　　　Ron Flagge&nbsp;&nbsp;....Gen. Rodgers<BR>　　　　　　Sarah Forgany&nbsp;&nbsp;....Newscaster #3<BR>　　　　　　Erica Fox&nbsp;&nbsp;....Erica<BR>　　　　　　Collin Galyean&nbsp;&nbsp;....Tom<BR>　　　　　　Elliott Grey&nbsp;&nbsp;....Randy<BR>　　　　　　Lara Grice&nbsp;&nbsp;....Margaret<BR>　　　　　　Ashley Grishby&nbsp;&nbsp;....Katie<BR>　　　　　　Houston Kraft&nbsp;&nbsp;....Dobbs<BR>　　　　　　Stuart<A href=\"http://www.eee4.cc/\" target=_blank>3e</A> Lafferty&nbsp;&nbsp;....Leo<BR>　　　　　　Andre Le&nbsp;&nbsp;....Security Officer Ross<BR>　　　　　　Jerry Leggio&nbsp;&nbsp;....Dr. Zulkowski<BR><BR><BR>◎简　　介　<BR><BR>　　故事讲的是，某一天航天局发现一个类似于黑洞的天体出现在地球的附近，吞噬着周围太空的一切，地球很快就会毁灭。从发现到预计的毁灭时间，只有100个小时。于是航天局就找来了两个民间专家来解决。最后两个小时，在两个<A href=\"http://www.3edyy.com/\" target=_blank>电影</A>专家还在演算的过程中，一个有沟通障碍的年轻人最终帮了这个大忙，拯救了整个地球。<BR></P>\r\n<P>【电影截图】：<BR><BR></P><IMG src=\"http://img.album.pchome.net/54/74/56/45/3d6924b33e02c614c44bae58bd968f41.jpg\">&nbsp;<BR><IMG src=\"http://img.album.pchome.net/54/74/56/45/833fe1e6f1173990b543e8c8b47163d1.jpg\">&nbsp;<BR><IMG src=\"http://img.album.pchome.net/54/74/56/45/d5e9f3bb271f83a7ea67bc9301ef5910.jpg\">&nbsp;<BR><IMG src=\"http://img.album.pchome.net/54/74/56/45/d29dc9a17d4df521daf7144fb9051f1b.jpg\">&nbsp;<BR><IMG src=\"http://img.album.pchome.net/54/74/56/45/bb47cb663b76fa221717b7171038b841.jpg\">&nbsp;<BR><IMG src=\"http://img.album.pchome.net/54/74/56/45/c9bf952e5a9a0f2a07bd0ad332be9e9d.jpg\"><BR><BR><BR>【网盘高速下载地址】:(直接点击下面链接)<BR><A href=\"http://u.115.com/file/f3a41ab9a\" target=_blank>2010年美国最新惊悚灾难科幻片《量子启示录》DVD中英双字</A><BR><BR>2010年美国最新惊悚灾难科幻片《量子启示录》DVD中英双字 [下载地址]：<IMG border=0 src=\"http://www.3edyy.com/templets/img/down.jpg\"><BR>\r\n<TABLE style=\"BORDER-BOTTOM: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-RIGHT: #cccccc 1px dotted\" border=0 cellSpacing=0 cellPadding=6 width=\"95%\" align=center>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf><A href=\"ftp://3e:3e@d8.3edyy.com:167/【3E电影院www.eee4.cc】量子启示录DVD中英双字.rmvb\" target=_blank>ftp://3e:3e@d8.3edyy.com:167/【3E电影院www.eee4.cc】量子启示录DVD中英双字.rmvb</A></TD></TR></TBODY></TABLE>",411,4139);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15110040-43605.jpg",4141,4226);
+$z[7][4]['name']="litpic";
+
+?>

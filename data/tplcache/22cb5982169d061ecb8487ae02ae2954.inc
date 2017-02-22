@@ -1,0 +1,9 @@
+{dede:field name='keywords'}绿灯侠/绿光战警DVD中英双字2011{/dede:field}
+{dede:field name='description'}绿灯侠/绿光战警DVD中英双字2011动作科幻迅雷下载、免费下载，绿灯侠/绿光战警DVD中英双字2011动作科幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}绿灯侠/绿光战警DVD中英双字2011动作科幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy68:piaohua@dy68.piaohua.com:6018/飘花电影piaohua.com绿光战警TS中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO93P50-46430.jpg{/dede:field}

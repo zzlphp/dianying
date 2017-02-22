@@ -1,0 +1,9 @@
+{dede:field name='keywords'}致命情人节DVDrip-英语中字美国{/dede:field}
+{dede:field name='description'}致命情人节DVDrip-英语中字美国恐怖2001迅雷下载、免费下载，致命情人节DVDrip-英语中字美国恐怖2001Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}致命情人节DVDrip-英语中字美国恐怖2001{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2832/飘花电影piaohua.com致命情人节DVDrip-英语中字.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPR2Q0-564X.jpg{/dede:field}

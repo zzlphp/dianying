@@ -1,0 +1,9 @@
+{dede:field name='keywords'}止时纪/时间规划局/潜逃时空BD12{/dede:field}
+{dede:field name='description'}止时纪/时间规划局/潜逃时空BD1280高清迅雷下载、免费下载，止时纪/时间规划局/潜逃时空BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}止时纪/时间规划局/潜逃时空BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOV4260-35551.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}我猜20060820迅雷下载，免费下载{/dede:field}
+{dede:field name='description'}我猜20060820迅雷下载、免费下载，我猜20060820Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}我猜20060820{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP395S0-34213.jpg{/dede:field}

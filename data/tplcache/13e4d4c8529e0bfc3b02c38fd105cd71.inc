@@ -1,0 +1,9 @@
+{dede:field name='keywords'}华丽的挑战台湾电视剧15迅雷下载{/dede:field}
+{dede:field name='description'}华丽的挑战台湾电视剧15迅雷下载、免费下载，华丽的挑战台湾电视剧15Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}华丽的挑战台湾电视剧15{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2556/飘花电影piaohua.com华丽的挑战01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ041030-14439.jpg{/dede:field}

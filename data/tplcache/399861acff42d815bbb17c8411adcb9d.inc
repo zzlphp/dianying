@@ -1,0 +1,9 @@
+{dede:field name='keywords'}尼基塔第二季23美剧迅雷下载，免{/dede:field}
+{dede:field name='description'}尼基塔第二季23美剧迅雷下载、免费下载，尼基塔第二季23美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}尼基塔第二季23美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1663/飘花电影piaohua.com尼基塔第二季01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP954530-41419.jpg{/dede:field}

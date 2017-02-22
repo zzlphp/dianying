@@ -1,0 +1,9 @@
+{dede:field name='keywords'}特务J迅雷下载，免费下载，Gvod{/dede:field}
+{dede:field name='description'}特务J迅雷下载、免费下载，特务JGvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}特务J{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-09-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP433030-31O3.jpg{/dede:field}

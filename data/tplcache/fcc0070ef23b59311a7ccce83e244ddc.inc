@@ -1,0 +1,9 @@
+{dede:field name='keywords'}耀舞长安/耀武长安港台剧粤语17{/dede:field}
+{dede:field name='description'}耀舞长安/耀武长安港台剧粤语17国语17迅雷下载、免费下载，耀舞长安/耀武长安港台剧粤语17国语17Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}耀舞长安/耀武长安港台剧粤语17国语17{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3327/飘花电影piaohua.com耀武长安粤语01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPb3J0-4P21.jpg{/dede:field}

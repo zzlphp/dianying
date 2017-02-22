@@ -1,0 +1,128 @@
+{dede:field name='keywords'}翻糖花园更新第13集[国语字幕]20{/dede:field}
+{dede:field name='description'}翻糖花园更新第13集[国语字幕]2012台湾偶像剧迅雷下载、免费下载，翻糖花园更新第13集[国语字幕]2012台湾偶像剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}翻糖花园更新第13集[国语字幕]2012台湾偶像剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-19{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://www.wagady.com/pic/uploadimg/2012-2/21381.jpg" /></p>
+<p>
+	类型：台剧<br />
+	首播时间：2012年02月24日<br />
+	导演：张家政 / 柴智屏<br />
+	编剧：陈虹洁 / 汪秀贤 / 蒋家骅 / 罗茜妮<br />
+	演员：朴政珉 / 王传一 / 简嫚书 / 李相林 / 路斯明 / 庞祥麟 / 陈玉玫<br />
+	地区：台湾<br />
+	语言：简体中文<br />
+	别名：&#48264;&#45817;&#54868;&#50896;<br />
+	电视台：中视<br />
+	集数：16<br />
+	简介：朴政珉在浪漫喜剧《翻糖花园》中饰演拥有一切的酒店旅行社会长的儿子朴希焕一角。朴希焕是个想摆脱家庭牢笼能够自由飞翔于天际拥有4次元顽皮性格的男子，偶然间与台湾女生米恩相遇并陷入爱情。《翻糖花园》是讲述在父亲的强迫下，上着无聊的经营课程但是却时刻想逃离的富二代朴希焕在进行第20次相亲的那一天，偶然遇见的从台湾来的面包师女孩美恩，在台湾旅行中因为不知从哪飞过来的平底锅导致失忆，之后4个男女的爱情故事。</p>
+<p>
+	<br />
+	&nbsp;[下载地址]：<img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" /></p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2893/飘花电影piaohua.com翻糖花园01.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2893/飘花电影piaohua.com翻糖花园01.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2945/飘花电影piaohua.com翻糖花园02.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2945/飘花电影piaohua.com翻糖花园02.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3028/飘花电影piaohua.com翻糖花园03.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3028/飘花电影piaohua.com翻糖花园03.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3028/飘花电影piaohua.com翻糖花园04.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3028/飘花电影piaohua.com翻糖花园04.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3063/飘花电影piaohua.com翻糖花园05.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3063/飘花电影piaohua.com翻糖花园05.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3107/飘花电影piaohua.com翻糖花园06.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3107/飘花电影piaohua.com翻糖花园06.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3220/飘花电影piaohua.com翻糖花园07.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3220/飘花电影piaohua.com翻糖花园07.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3220/飘花电影piaohua.com翻糖花园08.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3220/飘花电影piaohua.com翻糖花园08.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3263/飘花电影piaohua.com翻糖花园09.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3263/飘花电影piaohua.com翻糖花园09.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3310/飘花电影piaohua.com翻糖花园10.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3310/飘花电影piaohua.com翻糖花园10.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3404/飘花电影piaohua.com翻糖花园11.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3404/飘花电影piaohua.com翻糖花园11.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3404/飘花电影piaohua.com翻糖花园12.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3404/飘花电影piaohua.com翻糖花园12.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3456/飘花电影piaohua.com翻糖花园13.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3456/飘花电影piaohua.com翻糖花园13.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O1A55b0-1PK.jpg{/dede:field}

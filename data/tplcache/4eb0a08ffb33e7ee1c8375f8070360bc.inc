@@ -1,0 +1,9 @@
+{dede:field name='keywords'}泰坦尼克号2012第04集英剧迅雷下{/dede:field}
+{dede:field name='description'}泰坦尼克号2012第04集英剧迅雷下载、免费下载，泰坦尼克号2012第04集英剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}泰坦尼克号2012第04集英剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3103/飘花电影piaohua.com泰坦尼克号01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0554F-154V.jpg{/dede:field}

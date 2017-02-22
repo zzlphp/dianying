@@ -1,0 +1,55 @@
+{dede:field name='keywords'}龙拳/龍拳DVD国语中字迅雷下载，{/dede:field}
+{dede:field name='description'}龙拳/龍拳DVD国语中字迅雷下载、免费下载，龙拳/龍拳DVD国语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}龙拳/龍拳DVD国语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-05{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://www.dckorean.net/data/file/dn02/1221399009_ORLNz03v_Fist.of.Dragon.2011..jpg" style="width: 600px; height: 848px" /></p>
+<p>
+	◎译　　名　龙拳/龍拳<br />
+	◎片　　名　Fist of Dragon<br />
+	◎年　　代　2011<br />
+	◎国　　家　新加坡/马来西亚/中国<br />
+	◎类　　别　动作/剧情<br />
+	◎语　　言　普通话<br />
+	◎字　　幕　中文</p>
+<p>
+	◎IMDB评分 1.6/10 (8 votes)<br />
+	◎IMDB链接 <a href="http://www.imdb.com/title/tt2203789//" target="_blank">http://www.imdb.com/title/tt2203789//</a><br />
+	◎文件格式　XviD + AC3<br />
+	◎视频尺寸　720 x 416<br />
+	◎文件大小　376MB<br />
+	◎片　　长　1hr 26mn<br />
+	◎导　　演　蔡业翰<br />
+	◎主　　演　程旭辉<br />
+	　　　　　　谢宛谕<br />
+	　　　　　　蔡业翰<br />
+	　　　　　　王晓晨<br />
+	　　　　　　<br />
+	<br />
+	<br />
+	<br />
+	◎简　　介<br />
+	<br />
+	<br />
+	　　《龙拳》是一部以传统华人文化与现代华人文化的冲突为题材的电影。阿杰（蔡业翰饰）从中国到马来西亚投靠叔叔，发觉流氓在小镇收保护费，结果他团结小镇居民，击败流氓。故事是述说着一间咖啡厅老板陈叔叔面对着当地黑社会给他造成的麻烦。因为没能力缴交保护费给黑社会，陈叔叔就向他哥哥求救，然而他哥哥却派了他儿子阿杰来帮忙陈叔叔。当阿杰到达目的地时，他感觉当地文化有所不同，这里当地人民多关注于自家生意以及他们都不合作只为自己的安全<a href="http://www.anzhuo4.com/" style="color: rgb(0, 0, 0); text-decoration: none;">安卓游戏</a> <a href="http://www.qqtmb.com/" style="color: rgb(0, 0, 0); text-decoration: none;">个性签名</a> <a href="http://www.qqtmb.com/" style="color: rgb(0, 0, 0); text-decoration: none;">网名</a> <a href="http://www.dailiv.com/" style="color: rgb(0, 0, 0); text-decoration: none;">在线代理</a> <a href="http://www.2kaba.com/" style="color: rgb(0, 0, 0); text-decoration: none;">绿色软件</a> <a href="http://www.6dtaobao.com/" style="color: rgb(0, 0, 0); text-decoration: none;">淘宝网女装</a> <a href="http://www.nod32jihuoma.cn/virus/fangchenmi.html" style="color: rgb(0, 0, 0); text-decoration: none;">身份证号码大全</a> <a href="http://www.nod32jihuoma.cn/virus/ditu.html" style="color: rgb(0, 0, 0); text-decoration: none;">世界地图</a> <a href="http://www.2kaba.com/view/nod32.html" style="color: rgb(0, 0, 0); text-decoration: none;">nod32</a> <a href="http://www.saier8.com/" style="color: rgb(0, 0, 0); text-decoration: none;">赛尔号</a> <a href="http://www.2kaba.com/sfz/" style="color: rgb(0, 0, 0); text-decoration: none;">身份证</a> <a href="http://www.qqtmb.com/cewangsu/" style="color: rgb(0, 0, 0); text-decoration: none;">网速测试</a> <a href="http://www.qqtmb.com/sfz/" style="color: rgb(0, 0, 0); text-decoration: none;">身份证号码和姓名</a> <a href="http://www.xiaozhizhu.net/" style="color: rgb(0, 0, 0); text-decoration: none;">最新电影</a>着想，因此黑社会就手掌控着全城当地人民。相反的，一心想帮忙的阿杰来到了这裡却反而为陈叔叔带来了更多的麻烦，因为阿杰的举动招惹了当地黑社会也因此牵扯到了整个城市动乱。阿杰尝试说服当地人民必须团结一致打倒黑社会以避免再多的暴力和恐吓发生。可是却没有一个人敢站出来支持阿杰的提议。当黑社会空袭当地城市时，当地人民反而更害怕黑社会所做出的举动于是就责怪阿杰将全部责任都怪在阿杰身上。此外， 陈叔叔的女儿，莉莉也是当地黑社会的一分子也因此严重影响陈叔叔与当地人民和黑社会的对抗。</p>
+<p>
+	<img alt="" src="http://img170.poco.cn/mypoco/myphoto/20120502/13/56643687201205021304025015676184001_000.jpg" style="width: 720px; height: 416px" /><img alt="" src="http://img170.poco.cn/mypoco/myphoto/20120502/13/56643687201205021304025015676184001_003.jpg" style="width: 720px; height: 416px" /></p>
+<p>
+	【下载地址】</p>
+<table bgcolor="#0099cc" border="0" cellpadding="10" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				在线观看地址：<a href="http://www.xiaozhizhu.net" target="_blank">http://www.xiaozhizhu.net</a></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy125:piaohua@dy125.piaohua.com:8007/飘花电影piaohua.com龙拳DVD国语中字.rmvb">ftp://dy125:piaohua@dy125.piaohua.com:8007/飘花电影piaohua.com龙拳DVD国语中字.rmvb</a></td>
+		</tr>
+		<tr>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O15A5V0-1A05.jpg{/dede:field}

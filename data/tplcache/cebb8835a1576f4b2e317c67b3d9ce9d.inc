@@ -1,0 +1,9 @@
+{dede:field name='keywords'}我11/十一朵鲜花高清1024版HD国{/dede:field}
+{dede:field name='description'}我11/十一朵鲜花高清1024版HD国语2012中国剧情迅雷下载、免费下载，我11/十一朵鲜花高清1024版HD国语2012中国剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}我11/十一朵鲜花高清1024版HD国语2012中国剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3448/飘花电影piaohua.com十一朵鲜花高清1024版HD国语.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0bA0-3LH.jpg{/dede:field}

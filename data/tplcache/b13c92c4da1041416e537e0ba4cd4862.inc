@@ -1,0 +1,9 @@
+{dede:field name='keywords'}追爱高清1280版BD国语中字2011最{/dede:field}
+{dede:field name='description'}追爱高清1280版BD国语中字2011最新上映应采儿、佟大为喜剧爱情大迅雷下载、免费下载，追爱高清1280版BD国语中字2011最新上映应采儿、佟大为喜剧爱情大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}追爱高清1280版BD国语中字2011最新上映应采儿、佟大为喜剧爱情大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2302/飘花电影piaohua.com追爱高清1280版BD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOM3440-53144.jpg{/dede:field}

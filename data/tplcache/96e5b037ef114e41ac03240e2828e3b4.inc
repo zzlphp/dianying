@@ -1,0 +1,9 @@
+{dede:field name='keywords'}闭嘴花美男乐队/遇见花美男乐队{/dede:field}
+{dede:field name='description'}闭嘴花美男乐队/遇见花美男乐队第15集韩剧迅雷下载、免费下载，闭嘴花美男乐队/遇见花美男乐队第15集韩剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}闭嘴花美男乐队/遇见花美男乐队第15集韩剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2734/飘花电影piaohua.com遇见花美男乐队01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ020T0-41b4.jpg{/dede:field}

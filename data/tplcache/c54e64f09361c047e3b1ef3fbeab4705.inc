@@ -1,0 +1,9 @@
+{dede:field name='keywords'}蔚蓝深海/深海迷情BD1280高清迅{/dede:field}
+{dede:field name='description'}蔚蓝深海/深海迷情BD1280高清迅雷下载、免费下载，蔚蓝深海/深海迷情BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蔚蓝深海/深海迷情BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7873/飘花电影piaohua.com蔚蓝深海BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOH9410-33013.jpg{/dede:field}

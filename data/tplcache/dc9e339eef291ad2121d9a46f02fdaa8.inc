@@ -1,0 +1,9 @@
+{dede:field name='keywords'}七七事变国语中字经典战争迅雷下{/dede:field}
+{dede:field name='description'}七七事变国语中字经典战争迅雷下载、免费下载，七七事变国语中字经典战争Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}七七事变国语中字经典战争{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy172:piaohua@dy172.piaohua.com:210/飘花电影piaohua.com七七事变国语中字CD1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPA6110-42N3.jpg{/dede:field}

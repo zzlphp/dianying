@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","形影不离HD1280高清迅雷下载，免",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","形影不离HD1280高清迅雷下载、免费下载，形影不离HD1280高清Gvod高清在线播放，剧情介绍等。",73,203);
+$z[1][4]['name']="description";
+$z[2]=Array("field","形影不离HD1280高清",205,261);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",263,302);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",304,343);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-21",345,395);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120506/14/5488623520120506142027044.jpg\" style=\"width: 420px; height: 600px\" /></p>\r\n<p>\r\n	◎译　　名&nbsp; &nbsp;形影不离<br />\r\n	◎片　　名　Inseparable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />\r\n	◎年　　代　2012<br />\r\n	◎国　　家　中国<br />\r\n	◎类　　别　剧情/悬疑/喜剧<br />\r\n	◎语　　言　国语/英语<br />\r\n	◎字　　幕　中文<br />\r\n	◎IMDB评分&nbsp; 5.9/10 from 63 users&nbsp;&nbsp;<br />\r\n	◎IMDB链接&nbsp; <a href=\"http://www.imdb.com/title/tt1032763\">http://www.imdb.com/title/tt1032763</a><br />\r\n	◎文件格式　XviD + MP3<br />\r\n	◎视频尺寸　1280 x 720<br />\r\n	◎文件大小　1CD 958MB<br />\r\n	◎片　　长　93 Mins<br />\r\n	◎导　　演　伍仕贤 Dayyan Eng<br />\r\n	◎主　　演　凯文&middot;史派西 Kevin Spacey&nbsp; &hellip;.Chuck&nbsp;&nbsp;&nbsp;<br />\r\n	　　　　　　吴彦祖 Daniel Wu&nbsp; &hellip;.Li&nbsp;&nbsp;&nbsp;<br />\r\n	　　　　　　龚蓓苾 Gong Beibi&nbsp; &hellip;.Pang&nbsp;&nbsp;&nbsp;<br />\r\n	　　　　　　闫妮 Ni Yan&nbsp; &hellip;.Ms. Yang&nbsp;&nbsp;&nbsp;&nbsp;<br />\r\n	　　　　　　彼得&middot;斯特曼 Peter Stormare&nbsp; &hellip;.Richard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />\r\n	　　　　　　曾江 Kenneth Tsang&nbsp; &hellip;.Mr. Wang&nbsp;&nbsp;&nbsp;&nbsp;<br />\r\n	　　　　　　张默 Mo Zhang&nbsp; &hellip;.Sun Biao&nbsp;&nbsp;<br />\r\n	　　　　　　韩童生 Tongsheng Han&nbsp; &hellip;.Officer Lin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />\r\n	　　　　　　王砚辉 Yanhui Wang&nbsp; &hellip;.Male Tofu Vendor</p>\r\n<p>\r\n	◎简　　介　</p>\r\n<p>\r\n	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 　　　情节曲折的精彩故事发生在中国南部某城市。<br />\r\n	　　29岁的李越（吴彦祖 饰）是某高科技假肢公司一位疲惫不堪、分身乏术的工程师。故事的开始李越试图自杀，却巧被他的老外邻居老查（凯文&middot;史派西 饰）救下，俩人因此</p>\r\n<p>\r\n	成为了好朋友。老查慢慢帮李越解决了工作上的问题和与妻子阿胖&mdash;&mdash;一个极其情绪化的暗访记者（龚蓓苾 饰）&mdash;&mdash;感情中出现的问题&hellip;&hellip;于是李越和老查一起踏上了一段神奇的</p>\r\n<p>\r\n	旅程&hellip;&hellip;<br />\r\n	　　但老查真的只是一个普通的邻居吗？</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120521/22/62564813201205212229543423599946482_006.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120521/22/62564813201205212229543423599946482_005.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120521/22/62564813201205212229543423599946482_004.jpg\" style=\"width: 720px; height: 405px\" /></p>\r\n<p>\r\n	【下载地址】</p>\r\n<table bgcolor=\"#0099cc\" border=\"0\" cellpadding=\"10\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaobajie.com\" target=\"_blank\">http://www.xiaobajie.com</a></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy125:piaohua@dy125.piaohua.com:8087/飘花电影piaohua.com形影不离HD国语中字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:8087/飘花电影piaohua.com形影不离HD国语中字1280高清.rmvb</a></td>\r\n		</tr>\r\n		<tr>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<br />",397,3728);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O149D210-54001.jpg",3730,3814);
+$z[7][4]['name']="litpic";
+
+?>

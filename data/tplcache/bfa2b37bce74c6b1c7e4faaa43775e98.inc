@@ -1,0 +1,9 @@
+{dede:field name='keywords'}缘来柿你之告白BD国语中字1024高{/dede:field}
+{dede:field name='description'}缘来柿你之告白BD国语中字1024高清迅雷下载、免费下载，缘来柿你之告白BD国语中字1024高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}缘来柿你之告白BD国语中字1024高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2108/飘花电影piaohua.com缘来柿你之告白BD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOL04P-1FW.jpg{/dede:field}

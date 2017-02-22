@@ -1,0 +1,9 @@
+{dede:field name='keywords'}情枭的黎明BD中英双字1280高清经{/dede:field}
+{dede:field name='description'}情枭的黎明BD中英双字1280高清经典剧情迅雷下载、免费下载，情枭的黎明BD中英双字1280高清经典剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}情枭的黎明BD中英双字1280高清经典剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3244/飘花电影piaohua.com情枭的黎明BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP232W0-3D15.jpg{/dede:field}

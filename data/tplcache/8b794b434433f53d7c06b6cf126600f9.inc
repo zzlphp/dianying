@@ -1,0 +1,9 @@
+{dede:field name='keywords'}义胆雄心DVD迅雷下载，免费下载{/dede:field}
+{dede:field name='description'}义胆雄心DVD迅雷下载、免费下载，义胆雄心DVDGvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}义胆雄心DVD{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ246150-53L1.jpg{/dede:field}

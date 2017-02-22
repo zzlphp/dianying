@@ -1,0 +1,9 @@
+{dede:field name='keywords'}需要仙女日韩剧60迅雷下载，免费{/dede:field}
+{dede:field name='description'}需要仙女日韩剧60迅雷下载、免费下载，需要仙女日韩剧60Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}需要仙女日韩剧60{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3013/飘花电影piaohua.com需要仙女EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPa3920-460W.jpg{/dede:field}

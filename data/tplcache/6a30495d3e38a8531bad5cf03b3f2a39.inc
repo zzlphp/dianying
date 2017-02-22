@@ -1,0 +1,9 @@
+{dede:field name='keywords'}失踪的宝贝BD1280高清迅雷下载，{/dede:field}
+{dede:field name='description'}失踪的宝贝BD1280高清迅雷下载、免费下载，失踪的宝贝BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}失踪的宝贝BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7853/飘花电影piaohua.com失踪的宝贝BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP302560-35M6.jpg{/dede:field}

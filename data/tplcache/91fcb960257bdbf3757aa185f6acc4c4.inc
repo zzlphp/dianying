@@ -1,0 +1,9 @@
+{dede:field name='keywords'}恶魔之语美国恐怖1280x720英语中{/dede:field}
+{dede:field name='description'}恶魔之语美国恐怖1280x720英语中字迅雷下载、免费下载，恶魔之语美国恐怖1280x720英语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}恶魔之语美国恐怖1280x720英语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3099/飘花电影piaohua.com恶魔之语美国恐怖1280x720英语中字.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPI51P-24515.jpg{/dede:field}

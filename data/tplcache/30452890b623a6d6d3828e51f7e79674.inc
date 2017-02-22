@@ -1,0 +1,9 @@
+{dede:field name='keywords'}好雨时节BD1280高清（修复版）迅{/dede:field}
+{dede:field name='description'}好雨时节BD1280高清（修复版）迅雷下载、免费下载，好雨时节BD1280高清（修复版）Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}好雨时节BD1280高清（修复版）{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2001/飘花电影piaohua.com好雨时节BD中字1280高清（修复版）.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOJ0450-13321.jpg{/dede:field}

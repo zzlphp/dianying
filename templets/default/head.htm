@@ -1,0 +1,38 @@
+<div id="top">
+  <div id="tl"><img src="/templets/images/logo.jpg" alt="飘花资源网" width="203" height="66" /></div>
+  <div id="tr">
+    <p><a href="#" onclick="javascript:window.external.AddFavorite('http://www.piao.com', '飘花免费电影站-piao.com')" target="_self">加入收藏</a><a href="index.html" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.piao.com/');return(false);" style="behavior: url(#default#homepage)">设为主页</a></p>
+    <ul id="trl"><img src="/ad/8844431.gif" alt="banner" width="468" height="60" /></ul>
+    <div id="trr">
+    <form id="form1" name="formsearch" action="/plus/search.php">
+        <input name="q" type="text" class="k" id="search-keyword"value="在这里搜索..." onfocus="if(this.value=='在这里搜索...'){this.value='';}"  onblur="if(this.value==''){this.value='在这里搜索...';}" />
+        <input name="searchtype" type="image" class="r" id="button" value="提交" src="/templets/images/tsoubtn.jpg" />
+      </form>
+<!-- Baidu Button BEGIN -->
+    <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" style="width:280px;float:left;">
+        <span class="bds_more">分享到：</span>
+        <a class="bds_qzone"></a>
+        <a class="bds_tsina"></a>
+        <a class="bds_tqq"></a>
+        <a class="bds_renren"></a>
+		<a class="shareCount"></a>
+    </div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=480713" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script>
+<!-- Baidu Button END -->
+
+    </div>
+  </div>
+</div>
+<div id="menu">
+
+    	<ul>
+      	<li class="nobg"><a href='{dede:global.cfg_cmsurl/}/'>首 页</a></li>
+      	{dede:channel type='top' row='15'}
+      	<li><a href='[field:typeurl/]'>[field:typename/]</a></li>
+      	{/dede:channel}
+    	</ul>
+</div>

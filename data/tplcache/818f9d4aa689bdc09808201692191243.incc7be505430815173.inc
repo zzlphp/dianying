@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","双宝斗恶魔BD中字BD中字1024/128",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","双宝斗恶魔BD中字BD中字1024/1280高清迅雷下载、免费下载，双宝斗恶魔BD中字BD中字1024/1280高清Gvod高清在线播放，剧情介绍等。",73,237);
+$z[1][4]['name']="description";
+$z[2]=Array("field","双宝斗恶魔BD中字BD中字1024/1280高清",239,312);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",314,353);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",355,394);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-02-21",396,446);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://pic.piaohua.com/0701pic/allimg/110808/3-110PP023350-L.jpg\" style=\"width: 500px; height: 769px\" /></p>\r\n<p>\r\n	◎译　　名　双宝斗恶魔/塔克与戴尔对恶魔<br />\r\n	◎片　　名　Tucker And Dale vs Evil<br />\r\n	◎年　　代　2010<br />\r\n	◎国　　家　加拿大<br />\r\n	◎类　　别　喜剧/恐怖<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中字<br />\r\n	◎IMDB评分 7.6 (10,499 votes)<br />\r\n	◎文件格式　BD-RMVB<br />\r\n	◎视频尺寸　1024 x 576<br />\r\n	◎文件大小　1CD<br />\r\n	◎片　　长　84 Mins<br />\r\n	◎导　　演　艾利&middot;克雷格 Eli Craig<br />\r\n	◎主　　演　艾伦&middot;图代克 Alan Tudyk ....Tucker<br />\r\n	　　　　　　卡特里娜&middot;宝登 Katrina Bowden ....Allison<br />\r\n	　　　　　　切兰&middot;西蒙斯 Chelan Simmons ....Chloe<br />\r\n	　　　　　　Tyler Labine ....Dale<br />\r\n	　　　　　　Brandon Jay McLaren ....Jason<br />\r\n	　　　　　　Jesse Moss ....Chad<br />\r\n	　　　　　　Christie Laing ....Naomi<br />\r\n	　　　　　　Alex Arseneault ....Todd<br />\r\n	　　　　　　Philip Granger ....Sheriff<br />\r\n	　　　　　　Travis Nelson ....Chuck<br />\r\n	　　　　　　Tye Evans ....Chad&#39;s Dad<br />\r\n	　　　　　　Bill Baksa ....BJ Hillbilly<br />\r\n	　　　　　　Adam Beauchesne ....Mitch<br />\r\n	　　　　　　Joseph Allan Sutherland ....Mike<br />\r\n	　　　　　　Shaun Tisdale ....Killer Hillbilly #2<br />\r\n	　　　　　　Sasha Williams ....News Reporter<br />\r\n	　　　　　　Karen Reigh ....Cheryl<br />\r\n	　　　　　　Lara Milliken ....Bowler<br />\r\n	　　　　　　Mark W. Strong ....Killer Hillbilly #1<br />\r\n	<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	　　一对死党塔克和戴尔在林子里工作，结果因为外貌比较粗犷被一群放假旅游的学生当成了传说中的森林杀手。而当其中一个学生艾莉森溺水被戴尔救起的时候，学生们还以为戴尔是要把艾莉森拖往林中木屋生死，为了救自己的同伴，这些学生一个一个的在活宝兄弟面前假装自杀好让他们放了艾莉森，面对这失控的场面，塔克和戴尔只想知道为什么这帮脑残学生非在自己的地方整死自己不可。<br />\r\n	<br />\r\n	&nbsp;<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20110807/23/17870980201108072355103457611409597_012.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20110807/23/17870980201108072355103457611409597_011.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	[下载地址]： &nbsp;<img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" /></p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy125:piaohua@dy125.piaohua.com:1047/飘花电影下载站www.xiaozhizhu.net双宝斗恶魔BD中字1024分辨率.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:1047/飘花电影下载站www.xiaozhizhu.net双宝斗恶魔BD中字1024分辨率.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2858/飘花电影piaohua.com双宝斗恶魔BD中字BD中字1280高清.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:2858/飘花电影piaohua.com双宝斗恶魔BD中字BD中字1280高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",448,3751);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15PT60-42543.jpg",3753,3836);
+$z[7][4]['name']="litpic";
+
+?>

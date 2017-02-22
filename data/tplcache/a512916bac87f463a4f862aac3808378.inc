@@ -1,0 +1,9 @@
+{dede:field name='keywords'}彗星撞地球迅雷下载，免费下载，{/dede:field}
+{dede:field name='description'}彗星撞地球迅雷下载、免费下载，彗星撞地球Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}彗星撞地球{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-11-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP91Q10-22215.jpg{/dede:field}

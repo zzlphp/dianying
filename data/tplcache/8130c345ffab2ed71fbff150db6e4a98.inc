@@ -1,0 +1,9 @@
+{dede:field name='keywords'}谁吻了我/失忆少女物语/失落的记{/dede:field}
+{dede:field name='description'}谁吻了我/失忆少女物语/失落的记忆BD中字1024×576迅雷下载、免费下载，谁吻了我/失忆少女物语/失落的记忆BD中字1024×576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}谁吻了我/失忆少女物语/失落的记忆BD中字1024×576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy67:piaohua@dy67.piaohua.com:1029/飘花电影下载站www.piaohua.com谁吻了我BD中字1024×576.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP524050-1R24.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}黄金大劫案/黄金谜案HD1280高清{/dede:field}
+{dede:field name='description'}黄金大劫案/黄金谜案HD1280高清迅雷下载、免费下载，黄金大劫案/黄金谜案HD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}黄金大劫案/黄金谜案HD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:8069/飘花电影piaohua.com黄金大劫案HD国语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO5c5Z-55K0.jpg{/dede:field}

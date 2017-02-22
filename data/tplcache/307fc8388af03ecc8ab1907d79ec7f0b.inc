@@ -1,0 +1,9 @@
+{dede:field name='keywords'}阿黛尔皇家艾伯特大厅演唱会BD中{/dede:field}
+{dede:field name='description'}阿黛尔皇家艾伯特大厅演唱会BD中字1280高清迅雷下载、免费下载，阿黛尔皇家艾伯特大厅演唱会BD中字1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}阿黛尔皇家艾伯特大厅演唱会BD中字1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2045/小八戒电影xiaobajie.com阿黛尔皇家艾伯特大厅演唱会BD中字1280高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ434C0-31613.jpg{/dede:field}

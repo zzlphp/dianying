@@ -1,0 +1,9 @@
+{dede:field name='keywords'}建筑学概论DVD中字韩国2012爱情{/dede:field}
+{dede:field name='description'}建筑学概论DVD中字韩国2012爱情剧情迅雷下载、免费下载，建筑学概论DVD中字韩国2012爱情剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}建筑学概论DVD中字韩国2012爱情剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3440/飘花电影piaohua.com建筑学概论DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOJ9540-1A42.jpg{/dede:field}

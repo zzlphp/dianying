@@ -1,0 +1,9 @@
+{dede:field name='keywords'}风中奇缘BD国语配音中字1024高清{/dede:field}
+{dede:field name='description'}风中奇缘BD国语配音中字1024高清经典动画迅雷下载、免费下载，风中奇缘BD国语配音中字1024高清经典动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}风中奇缘BD国语配音中字1024高清经典动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3117/飘花电影piaohua.com风中奇缘BD国语配音中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1301Z-42505.jpg{/dede:field}

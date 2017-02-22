@@ -1,0 +1,9 @@
+{dede:field name='keywords'}玉蒲团之偷情宝鉴高清/BD1280迅{/dede:field}
+{dede:field name='description'}玉蒲团之偷情宝鉴高清/BD1280迅雷下载、免费下载，玉蒲团之偷情宝鉴高清/BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}玉蒲团之偷情宝鉴高清/BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP1MA0-29E1.jpg{/dede:field}

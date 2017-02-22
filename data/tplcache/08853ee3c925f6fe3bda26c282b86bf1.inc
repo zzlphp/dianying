@@ -1,0 +1,9 @@
+{dede:field name='keywords'}心灵实验DVD中字2011最新美国科{/dede:field}
+{dede:field name='description'}心灵实验DVD中字2011最新美国科幻恐怖大片迅雷下载、免费下载，心灵实验DVD中字2011最新美国科幻恐怖大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}心灵实验DVD中字2011最新美国科幻恐怖大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2477/飘花电影piaohua.com心灵实验DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOU6120-5ZW.jpg{/dede:field}

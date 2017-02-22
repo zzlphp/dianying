@@ -1,0 +1,9 @@
+{dede:field name='keywords'}哈利波特与死亡圣器下高清迅雷下{/dede:field}
+{dede:field name='description'}哈利波特与死亡圣器下高清迅雷下载、免费下载，哈利波特与死亡圣器下高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}哈利波特与死亡圣器下高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO95C0-12349.jpg{/dede:field}

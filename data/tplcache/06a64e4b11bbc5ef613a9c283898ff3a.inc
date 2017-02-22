@@ -1,0 +1,9 @@
+{dede:field name='keywords'}天伦劫BD1280高清中英双字迅雷下{/dede:field}
+{dede:field name='description'}天伦劫BD1280高清中英双字迅雷下载、免费下载，天伦劫BD1280高清中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天伦劫BD1280高清中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2032/飘花电影piaohua.com天伦劫BD1280高清中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP13B60-192a.jpg{/dede:field}

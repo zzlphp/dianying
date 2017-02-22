@@ -1,0 +1,9 @@
+{dede:field name='keywords'}蓝精灵：圣诞颂歌BD中英双字1024{/dede:field}
+{dede:field name='description'}蓝精灵：圣诞颂歌BD中英双字1024高清2011动作短片迅雷下载、免费下载，蓝精灵：圣诞颂歌BD中英双字1024高清2011动作短片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蓝精灵：圣诞颂歌BD中英双字1024高清2011动作短片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2445/飘花电影piaohua.com蓝精灵：圣诞颂歌BD中英双字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2292Z-31E1.jpg{/dede:field}

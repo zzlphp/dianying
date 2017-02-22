@@ -1,0 +1,9 @@
+{dede:field name='keywords'}回归野性/天生狂野BD中英双字128{/dede:field}
+{dede:field name='description'}回归野性/天生狂野BD中英双字1280高清2011纪录片迅雷下载、免费下载，回归野性/天生狂野BD中英双字1280高清2011纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}回归野性/天生狂野BD中英双字1280高清2011纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3265/飘花电影piaohua.com天生狂野BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3004P-5T30.jpg{/dede:field}

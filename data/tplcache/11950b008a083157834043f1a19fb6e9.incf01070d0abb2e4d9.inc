@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","殉难者/殉道者BD1280高清中英双",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","殉难者/殉道者BD1280高清中英双字迅雷下载、免费下载，殉难者/殉道者BD1280高清中英双字Gvod高清在线播放，剧情介绍等。",72,228);
+$z[1][4]['name']="description";
+$z[2]=Array("field","殉难者/殉道者BD1280高清中英双字",230,299);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",301,340);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",342,381);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-18",383,433);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img165.poco.cn/mypoco/myphoto/20120518/00/17870980201205180009089619256204160_000.jpg\" style=\"width: 400px; height: 594px\" /></p>\r\n<p>\r\n	◎译　　名　殉难者<br />\r\n	◎片　　名　Martyrs<br />\r\n	◎年　　代　2008<br />\r\n	◎国　　家　法国<br />\r\n	◎类　　别　惊悚/剧情<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　N/A<br />\r\n	◎IMDB评分 7.1/10 2,953 votes<br />\r\n	◎IMDB链接 <a href=\"http://www.imdb.com/title/tt1029234\" target=\"_blank\">http://www.imdb.com/title/tt1029234</a><br />\r\n	◎片　　长　99 Mins<br />\r\n	◎导　　演　巴斯卡&middot;劳吉尔 Pascal Laugier<br />\r\n	◎主　　演　米兰妮&middot;詹姆帕诺米 Myl&egrave;ne Jampano? ....Lucie<br />\r\n	　　　　　　Morjana El Alaoui ....Anna<br />\r\n	　　　　　　朱丽叶特&middot;高斯林 Juliette Gosselin ....Marie<br />\r\n	　　　　　　Mike Chute ....Homme / Bourreau<br />\r\n	　　　　　　Xavier Dolan-Tadros ....Antoine<br />\r\n	　　　　　　Herv&eacute; Desbois ....Orderly<br />\r\n	　　　　　　Catherine B&eacute;gin ....Mademoiselle<br />\r\n	　　　　　　Robert Toupin ....Le p&egrave;re<br />\r\n	　　　　　　Patricia Tulasne ....La m&egrave;re<br />\r\n	　　　　　　Isabelle Chassepps<br />\r\n	　　　　　　Emilie Miskdjian<br />\r\n	　　　　　　Ga lle Cohen ....Femme de main<br />\r\n	　　　　　　Anie Pascale ....La femme<br />\r\n	　　　　　　Jessie Pham ....Lucie Jeune<br />\r\n	　　　　　　Erika Scott ....Anna Jeune<br />\r\n	　　　　　　Louis Thevenon ....Homme de main<br />\r\n	　　　　　　aikanmi......cnm junses<br />\r\n	<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	　　一名年轻女子寻求报复那个小时候绑架和折磨她的那个坏蛋。就这样，她和一个儿童时期也被人XX过的朋友踏上了报复之路，但是这一切却让她们走上了一条可怕的人间地狱般堕落的旅程。&nbsp;<img alt=\"\" src=\"http://img165.poco.cn/mypoco/myphoto/20120518/00/17870980201205180003292495588145566_012.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img165.poco.cn/mypoco/myphoto/20120518/00/17870980201205180003292495588145566_010.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img165.poco.cn/mypoco/myphoto/20120518/00/17870980201205180003292495588145566_009.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img165.poco.cn/mypoco/myphoto/20120518/00/17870980201205180003292495588145566_008.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy241:piaohua@117.41.229.29:2025/飘花电影piaohua.com殉难者BD1280高清中英双字.rmvb\">ftp://dy241:piaohua@117.41.229.29:2025/飘花电影piaohua.com殉难者BD1280高清中英双字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",435,3764);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O16000560-1J38.jpg",3766,3850);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}¿ñÈ®²¡DVDÖĞÓ¢Ë«×ÖÅ·ÃÀ¿Ö²À¾ªã¤{/dede:field}
+{dede:field name='description'}¿ñÈ®²¡DVDÖĞÓ¢Ë«×ÖÅ·ÃÀ¿Ö²À¾ªã¤Ñ¸À×ÏÂÔØ¡¢Ãâ·ÑÏÂÔØ£¬¿ñÈ®²¡DVDÖĞÓ¢Ë«×ÖÅ·ÃÀ¿Ö²À¾ªã¤Gvod¸ßÇåÔÚÏß²¥·Å£¬¾çÇé½éÉÜµÈ¡£{/dede:field}
+{dede:field name='title'}¿ñÈ®²¡DVDÖĞÓ¢Ë«×ÖÅ·ÃÀ¿Ö²À¾ªã¤{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3176/Æ®»¨µçÓ°piaohua.com¿ñÈ®²¡DVDÖĞÓ¢Ë«×Ö.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPDL0-4A44.jpg{/dede:field}

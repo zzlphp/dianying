@@ -1,0 +1,9 @@
+{dede:field name='keywords'}12只猴子BD中英双字1024/1280高{/dede:field}
+{dede:field name='description'}12只猴子BD中英双字1024/1280高清经典科幻迅雷下载、免费下载，12只猴子BD中英双字1024/1280高清经典科幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}12只猴子BD中英双字1024/1280高清经典科幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy444:piaohua@dy444.piaohua.com:423/飘花电影piaohua.com12只猴子DVD国语配音.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MObIZ-1X42.jpg{/dede:field}

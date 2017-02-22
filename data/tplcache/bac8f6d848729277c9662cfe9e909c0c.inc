@@ -1,0 +1,9 @@
+{dede:field name='keywords'}灵书妙探第四季23美剧迅雷下载，{/dede:field}
+{dede:field name='description'}灵书妙探第四季23美剧迅雷下载、免费下载，灵书妙探第四季23美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}灵书妙探第四季23美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1753/飘花电影piaohua.com灵书妙探第四季01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0J560-3PJ.jpg{/dede:field}

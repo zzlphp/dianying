@@ -1,0 +1,9 @@
+{dede:field name='keywords'}高地战BD高清迅雷下载，免费下载{/dede:field}
+{dede:field name='description'}高地战BD高清迅雷下载、免费下载，高地战BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}高地战BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP5500Z-25243.jpg{/dede:field}

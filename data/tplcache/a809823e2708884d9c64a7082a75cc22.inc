@@ -1,0 +1,9 @@
+{dede:field name='keywords'}黄真伊HD中字1024/1280高清韩国{/dede:field}
+{dede:field name='description'}黄真伊HD中字1024/1280高清韩国爱情剧情迅雷下载、免费下载，黄真伊HD中字1024/1280高清韩国爱情剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}黄真伊HD中字1024/1280高清韩国爱情剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2004/飘花电影piaohua.com黄真伊HD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOM0D0-13145.jpg{/dede:field}

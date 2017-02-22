@@ -1,0 +1,9 @@
+{dede:field name='keywords'}丁克与宝贝HD国语中字喜剧2012迅{/dede:field}
+{dede:field name='description'}丁克与宝贝HD国语中字喜剧2012迅雷下载、免费下载，丁克与宝贝HD国语中字喜剧2012Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}丁克与宝贝HD国语中字喜剧2012{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2921/飘花电影piaohua.com丁克与宝贝HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO614B0-11924.jpg{/dede:field}

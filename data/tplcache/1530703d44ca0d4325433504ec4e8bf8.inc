@@ -1,0 +1,9 @@
+{dede:field name='keywords'}怀胎九月/九月之养BD中英双字128{/dede:field}
+{dede:field name='description'}怀胎九月/九月之养BD中英双字1280高清经典爱情喜剧迅雷下载、免费下载，怀胎九月/九月之养BD中英双字1280高清经典爱情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}怀胎九月/九月之养BD中英双字1280高清经典爱情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2653/飘花电影piaohua.com九月之养BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOS0Z-1F38.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}赎命DVD中字陈奕迅2012惊悚剧情{/dede:field}
+{dede:field name='description'}赎命DVD中字陈奕迅2012惊悚剧情迅雷下载、免费下载，赎命DVD中字陈奕迅2012惊悚剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}赎命DVD中字陈奕迅2012惊悚剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3109/飘花电影piaohua.com赎命DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP1c3P-41439.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}暮色4：破晓(上)清晰TC中英双字2{/dede:field}
+{dede:field name='description'}暮色4：破晓(上)清晰TC中英双字2011最新美国票房奇幻爱情大片迅雷下载、免费下载，暮色4：破晓(上)清晰TC中英双字2011最新美国票房奇幻爱情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}暮色4：破晓(上)清晰TC中英双字2011最新美国票房奇幻爱情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-05{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2264/飘花电影piaohua.com暮色4：破晓(上)清晰TC中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOc3610-33060.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}血之猎手未分级版BD中英双字1024{/dede:field}
+{dede:field name='description'}血之猎手未分级版BD中英双字1024高清欧美恐怖动作迅雷下载、免费下载，血之猎手未分级版BD中英双字1024高清欧美恐怖动作Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}血之猎手未分级版BD中英双字1024高清欧美恐怖动作{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2668/飘花电影piaohua.com血之猎手未分级版BD中英双字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPQ0C0-340P.jpg{/dede:field}

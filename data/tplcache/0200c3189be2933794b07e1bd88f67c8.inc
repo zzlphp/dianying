@@ -1,0 +1,9 @@
+{dede:field name='keywords'}要帅气的生活更新第51集[韩语中{/dede:field}
+{dede:field name='description'}要帅气的生活更新第51集[韩语中字]2011韩国SBS周末剧迅雷下载、免费下载，要帅气的生活更新第51集[韩语中字]2011韩国SBS周末剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}要帅气的生活更新第51集[韩语中字]2011韩国SBS周末剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1595/飘花电影piaohua.com要帅气的生活01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPc2I0-23C9.jpg{/dede:field}

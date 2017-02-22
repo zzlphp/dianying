@@ -1,0 +1,9 @@
+{dede:field name='keywords'}舞后HD中字1024高清韩国2012喜剧{/dede:field}
+{dede:field name='description'}舞后HD中字1024高清韩国2012喜剧迅雷下载、免费下载，舞后HD中字1024高清韩国2012喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}舞后HD中字1024高清韩国2012喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3376/飘花电影piaohua.com舞后DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO5SF-2b15.jpg{/dede:field}

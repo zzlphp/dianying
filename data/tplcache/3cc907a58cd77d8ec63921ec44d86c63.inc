@@ -1,0 +1,9 @@
+{dede:field name='keywords'}2012年央视春节联欢晚会迅雷下载{/dede:field}
+{dede:field name='description'}2012年央视春节联欢晚会迅雷下载、免费下载，2012年央视春节联欢晚会Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}2012年央视春节联欢晚会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2686/飘花电影piaohua.com-2012年央视春节联欢晚会CD1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ40V50-432J.jpg{/dede:field}

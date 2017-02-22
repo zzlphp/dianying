@@ -1,0 +1,9 @@
+{dede:field name='keywords'}偏偏爱上你/情定大饭店国产剧28{/dede:field}
+{dede:field name='description'}偏偏爱上你/情定大饭店国产剧28迅雷下载、免费下载，偏偏爱上你/情定大饭店国产剧28Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}偏偏爱上你/情定大饭店国产剧28{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3009/飘花电影piaohua.com情定大饭店01.HDTV.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ032010-32L9.jpg{/dede:field}

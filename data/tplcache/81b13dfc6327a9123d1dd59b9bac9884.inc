@@ -1,0 +1,9 @@
+{dede:field name='keywords'}西蒙妮/虚拟情人BD1280高清中英{/dede:field}
+{dede:field name='description'}西蒙妮/虚拟情人BD1280高清中英双字迅雷下载、免费下载，西蒙妮/虚拟情人BD1280高清中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}西蒙妮/虚拟情人BD1280高清中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2006/飘花电影piaohua.com西蒙妮BD1280高清中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO5R520-14M6.jpg{/dede:field}

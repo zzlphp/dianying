@@ -1,0 +1,9 @@
+{dede:field name='keywords'}玩具总动员之夏威夷假期高清BD12{/dede:field}
+{dede:field name='description'}玩具总动员之夏威夷假期高清BD1280迅雷下载、免费下载，玩具总动员之夏威夷假期高清BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}玩具总动员之夏威夷假期高清BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ095240-13213.jpg{/dede:field}

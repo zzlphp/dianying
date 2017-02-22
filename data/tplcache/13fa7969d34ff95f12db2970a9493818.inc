@@ -1,0 +1,9 @@
+{dede:field name='keywords'}大话三国之校园大战迅雷下载，免{/dede:field}
+{dede:field name='description'}大话三国之校园大战迅雷下载、免费下载，大话三国之校园大战Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}大话三国之校园大战{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-07-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP431160-15O5.jpg{/dede:field}

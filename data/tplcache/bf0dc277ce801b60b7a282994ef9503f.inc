@@ -1,0 +1,9 @@
+{dede:field name='keywords'}七个以下BD1280高清迅雷下载，免{/dede:field}
+{dede:field name='description'}七个以下BD1280高清迅雷下载、免费下载，七个以下BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}七个以下BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3213/飘花电影piaohua.com七个以下高清DVD中字.rmvb &#13;&#10;{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO405020-14007.jpg{/dede:field}

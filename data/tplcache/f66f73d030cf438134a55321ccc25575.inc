@@ -1,0 +1,9 @@
+{dede:field name='keywords'}龙门飞甲高清正式蓝光国粤双语迅{/dede:field}
+{dede:field name='description'}龙门飞甲高清正式蓝光国粤双语迅雷下载、免费下载，龙门飞甲高清正式蓝光国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}龙门飞甲高清正式蓝光国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-05{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7809/飘花电影piaohua.com龙门飞甲BD国语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO534N0-3IJ.jpg{/dede:field}

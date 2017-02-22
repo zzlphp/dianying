@@ -1,0 +1,9 @@
+{dede:field name='keywords'}湘江北去DVD国语中字2011战争剧{/dede:field}
+{dede:field name='description'}湘江北去DVD国语中字2011战争剧情迅雷下载、免费下载，湘江北去DVD国语中字2011战争剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}湘江北去DVD国语中字2011战争剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy173:piaohua@dy173.piaohua.com:305/飘花电影piaohua.com湘江北去.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPA030-42444.jpg{/dede:field}

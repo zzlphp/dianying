@@ -1,0 +1,9 @@
+{dede:field name='keywords'}志明与春娇BD1280高清粤语迅雷下{/dede:field}
+{dede:field name='description'}志明与春娇BD1280高清粤语迅雷下载、免费下载，志明与春娇BD1280高清粤语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}志明与春娇BD1280高清粤语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOF2260-32091.jpg{/dede:field}

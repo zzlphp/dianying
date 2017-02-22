@@ -1,0 +1,9 @@
+{dede:field name='keywords'}军情观察室-第20110810期迅雷下{/dede:field}
+{dede:field name='description'}军情观察室-第20110810期迅雷下载、免费下载，军情观察室-第20110810期Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}军情观察室-第20110810期{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1260/飘花电影piaohua.com军情观察室20110803期.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ501520-4V61.jpg{/dede:field}

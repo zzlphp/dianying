@@ -1,0 +1,9 @@
+{dede:field name='keywords'}你和我/追寻塔图女孩DVD中英双字{/dede:field}
+{dede:field name='description'}你和我/追寻塔图女孩DVD中英双字2011最新剧情迅雷下载、免费下载，你和我/追寻塔图女孩DVD中英双字2011最新剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}你和我/追寻塔图女孩DVD中英双字2011最新剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3159/飘花电影piaohua.com追寻塔图女孩DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPD41P-1E22.jpg{/dede:field}

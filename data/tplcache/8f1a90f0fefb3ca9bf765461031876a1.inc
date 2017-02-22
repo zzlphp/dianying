@@ -1,0 +1,9 @@
+{dede:field name='keywords'}万鳄巨兽迅雷下载，免费下载，Gv{/dede:field}
+{dede:field name='description'}万鳄巨兽迅雷下载、免费下载，万鳄巨兽Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}万鳄巨兽{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-05-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPT420-5a44.jpg{/dede:field}

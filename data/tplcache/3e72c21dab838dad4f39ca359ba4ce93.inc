@@ -1,0 +1,9 @@
+{dede:field name='keywords'}傲骨贤妻/律政巾帼第三季更新22{/dede:field}
+{dede:field name='description'}傲骨贤妻/律政巾帼第三季更新22集中英双字迅雷下载、免费下载，傲骨贤妻/律政巾帼第三季更新22集中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}傲骨贤妻/律政巾帼第三季更新22集中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1738/飘花电影piaohua.com傲骨贤妻第三季01集[中英双字].rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ062560-21954.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}雨夜花港台剧7迅雷下载，免费下{/dede:field}
+{dede:field name='description'}雨夜花港台剧7迅雷下载、免费下载，雨夜花港台剧7Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}雨夜花港台剧7{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3221/飘花电影piaohua.com雨夜花1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP95LF-21923.jpg{/dede:field}

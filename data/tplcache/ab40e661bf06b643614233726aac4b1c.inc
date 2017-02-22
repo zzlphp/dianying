@@ -1,0 +1,9 @@
+{dede:field name='keywords'}地心的納粹高清1280版BD中字2012{/dede:field}
+{dede:field name='description'}地心的納粹高清1280版BD中字2012最新美国R级恐怖惊悚大片迅雷下载、免费下载，地心的納粹高清1280版BD中字2012最新美国R级恐怖惊悚大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}地心的納粹高清1280版BD中字2012最新美国R级恐怖惊悚大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3300/飘花电影piaohua.com地心的納粹高清1280版BD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPI0P-261Q.jpg{/dede:field}

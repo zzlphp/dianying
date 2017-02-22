@@ -1,0 +1,9 @@
+{dede:field name='keywords'}赤道的男人日韩剧18迅雷下载，免{/dede:field}
+{dede:field name='description'}赤道的男人日韩剧18迅雷下载、免费下载，赤道的男人日韩剧18Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}赤道的男人日韩剧18{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3158/飘花电影piaohua.com赤道的男人EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP93bP-52127.jpg{/dede:field}

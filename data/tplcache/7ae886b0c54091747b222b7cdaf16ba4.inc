@@ -1,0 +1,9 @@
+{dede:field name='keywords'}甜姐儿BD1280高清中英双字迅雷下{/dede:field}
+{dede:field name='description'}甜姐儿BD1280高清中英双字迅雷下载、免费下载，甜姐儿BD1280高清中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}甜姐儿BD1280高清中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2007/飘花电影piaohua.com甜姐儿BD1280高清中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOJ5350-12009.jpg{/dede:field}

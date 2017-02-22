@@ -1,0 +1,134 @@
+{dede:field name='keywords'}苔丝BD1280高清中字迅雷下载，免{/dede:field}
+{dede:field name='description'}苔丝BD1280高清中字迅雷下载、免费下载，苔丝BD1280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}苔丝BD1280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://img2081.poco.cn/mypoco/myphoto/20120522/13/17870980201205221318163726031414279_000.jpg" /></p>
+<p>
+	◎译　　名　苔丝<br />
+	◎片　　名　Tess<br />
+	◎年　　代　1979<br />
+	◎国　　家　英国/法国<br />
+	◎类　　别　剧情/爱情<br />
+	◎语　　言　英语<br />
+	◎字　　幕　N/A<br />
+	◎IMDB评分 7.2/10 &nbsp;6,305 votes<br />
+	◎IMDB链接 <a class="faqlink" href="http://www.bluemv.com">http://www.bluemv.com</a><br />
+	◎文件格式　X264 + AC3<br />
+	◎视频尺寸　1280x544 (X264 @ 25fps)<br />
+	◎文件大小　5600mb<br />
+	◎片　　长　02:45:13<br />
+	◎导　　演　罗曼&middot;波兰斯基 Roman Polanski<br />
+	◎主　　演　娜塔莎&middot;金斯基 Nastassja Kinski &nbsp;....Tess Durbeyfield<br />
+	　　　　　　彼得&middot;弗斯 Peter Firth &nbsp;....Angel Clare<br />
+	　　　　　　利&middot;劳森 Leigh Lawson &nbsp;....Alec d&#39;Urberville<br />
+	　　　　　　苏珊娜&middot;汉密尔顿 Suzanna Hamilton &nbsp;....Izz<br />
+	　　　　　　约翰&middot;科林 John Collin &nbsp;....John Durbeyfield<br />
+	　　　　　　Rosemary Martin &nbsp;....Mrs. Durbeyfield<br />
+	　　　　　　Carolyn Pickles &nbsp;....Miriam<br />
+	　　　　　　Richard Pearson &nbsp;....Vicar of Marlott<br />
+	　　　　　　David Markham &nbsp;....Reverend Mr. Clare<br />
+	　　　　　　Pascale de Boysson &nbsp;....Mrs. Clare<br />
+	　　　　　　Caroline Embling &nbsp;....Retty<br />
+	　　　　　　Tony Church &nbsp;....Parson Tringham<br />
+	　　　　　　Lesley Dunlop &nbsp;....Girl in benbouse<br />
+	　　　　　　Sylvia Coleridge &nbsp;....Mrs. d&#39;Urberville<br />
+	　　　　　　Fred Bryant &nbsp;....Dairyman Crick<br />
+	　　　　　　Dicken Ashworth &nbsp;....Farmer Groby<br />
+	　　　　　　Patsy Rowlands &nbsp;....Landlady<br />
+	　　　　　　John Barrett &nbsp;....Old dairy band<br />
+	　　　　　　Brigid Erin Bates &nbsp;....Girl in meadow<br />
+	　　　　　　Patsy Smart &nbsp;....Housekeeper<br />
+	　　　　　　Jeanne Biras &nbsp;....Girl in meadow<br />
+	　　　　　　John Bett &nbsp;....Felix Clare<br />
+	　　　　　　Tom Chadbon &nbsp;....Cuthbert Clare<br />
+	　　　　　　G&eacute;raldine Arzul &nbsp;....Child<br />
+	　　　　　　Stephanie Treille &nbsp;....Child<br />
+	　　　　　　Elodie Warnod &nbsp;....Child<br />
+	　　　　　　Ben Reeks &nbsp;....Child<br />
+	　　　　　　Marilyne Even &nbsp;....Girl in benbouse<br />
+	　　　　　　Jean-Jacques Daubin &nbsp;....Bailiff<br />
+	　　　　　　Jacob Weizbluth &nbsp;....Yokel at barn-dance (as Jacob Weisbluth)<br />
+	　　　　　　Jacques Mathou &nbsp;....Harvester<br />
+	　　　　　　V&eacute;ronique Alain &nbsp;....Harvester<br />
+	　　　　　　Anne Tirard &nbsp;....Old dairy band (as Ann Tirard)<br />
+	　　　　　　Josine Comellas &nbsp;....Mrs. Crick<br />
+	　　　　　　阿丽尔&middot;朵巴丝勒 Arielle Dombasle &nbsp;....Mercy Chant<br />
+	　　　　　　Gordon Richardson &nbsp;....Parson at wedding<br />
+	　　　　　　Reg Dent &nbsp;....Carter<br />
+	　　　　　　Jimmy Gardner &nbsp;....Pedler<br />
+	　　　　　　John Gill &nbsp;....Landlord<br />
+	　　　　　　Forbes Collins &nbsp;....New tenant<br />
+	　　　　　　Keith Buckley &nbsp;....Possman<br />
+	　　　　　　John Moore &nbsp;....Possman<br />
+	　　　　　　Graham Weston &nbsp;....Constable<br />
+	　　　　　　Lina Roxa &nbsp;....(uncredited)<br />
+	<br />
+	◎简　　介　<br />
+	<br />
+	　　故事发生在英格兰南部的德瑟特。<br />
+	　 傍晚，暮色笼罩着辽阔的田野，一群少女穿着白色的连衣裙，带着白花编成的花冠，踏着明快的乡村舞节奏，在草坪上跳舞。她们中间有个姑娘叫苔丝，生得秀丽、端庄，周围没一个姑娘比得上她。然而，就从这一天起，厄运一直追随着她。<br />
+	　　她的父亲约翰&middot;德皮菲尔德刚才听本村的牧师说，德皮菲尔德其实是古老骑士名门德伯维尔的直系子孙。穷极潦倒的约翰听后信以为真，喜出望外，赶紧把这喜讯告诉了老婆乔安娜。乔安娜想起了在德兰特山那边，住着一位姓德伯维尔的有钱的老太太。于是他们决定让苔丝去认这门本家。苔丝为了帮助家里度过苦日子，勉强答应了，但心里很忧郁。<br />
+	　　第二天，苔丝穿着素净的长裙，挽着一只篮子走进了德伯维尔家。她畏畏缩缩不敢前进，正待她想往回走时，一个男子的声音叫住了她：&quot;喂，漂亮的妞儿，有何贵干？&quot;他就是老太太的儿子亚雷克&middot;德伯维尔。他叼着支烟，慢慢朝苔丝走来。苔丝很窘，结结巴巴地说出了原委。&ldquo;穷亲戚&rdquo;亚雷克明白了。其实，他知道&ldquo;德伯维尔&rdquo;和&ldquo;德皮菲尔德&rdquo;是两个完全&hellip;&hellip;<br />
+	<br />
+	一句话评论<br />
+	<br />
+	罗曼&middot;波兰斯基是一个有着悲剧结尾的爱情故事&mdash;&mdash;所有爱情颂歌中最好的一类。<br />
+	&mdash;&mdash;芝加哥太阳时报<br />
+	<br />
+	幕后制作<br />
+	<br />
+	关于电影：现代人的创痛<br />
+	&nbsp; &nbsp;如果说波兰斯基的《苔丝》是一部经典之作恐怕不会有人怀疑。影片改编自托马斯&middot;哈代的小说《苔丝》，在这部小说里，一个追求爱情的女人的经历被描写得生动凄婉，令人唏嘘，是举世闻名的杰作之一。其次，敢于将这部宏伟巨著搬上银幕的是大名鼎鼎的罗曼&middot;波兰斯基，他以从容的调度、大气的影像技巧展现出英国工业化时期的乡村生活，舞蹈、收割、劳作、乡村酒吧、原始铁路&hellip;&hellip;都一一呈现出非凡的影像美感，弥漫着波兰斯基对宿命的无奈之情。此外，一个不可忽视的原因则是影片中苔丝的扮演者娜塔莎&middot;金斯基浑然天成、丝丝入扣的表演。所以，这部电影是精彩原著、天才导演和出色演员等诸多优秀元素的组合，一经公映就让评论者与影迷惊艳，获得多项国际大奖。<br />
+	&nbsp; &nbsp;影片《苔丝》与其说是&ldquo;现代人的创痛&rdquo;，不如说是&ldquo;近代人的挽歌&rdquo;，是近代人对古代人&mdash;&mdash;后裔子孙对自己世袭贵族世家的挽歌。影片《苔丝》反映的维多利亚时代，正是英国资本主义最发达的时代，农村土地与牧场全都集中在少数农业资本家如《苔丝》中的亚历克少爷、克里克老爷之流手里。农村贫富两极分化，农民赤贫而成为资本的雇佣劳力；英国农村彻底完成了资本主义化。影片中，波兰斯基以极富美感流畅的镜头语言展现出蒸汽机广泛深入到城市乡镇的社会变化，展现出资本主义农场麦收时节夜以继日的脱粒以及穿行在城市之间的火车运输，直观的呈现出影片主人公们生活和活动的社会政治经济背景。<br />
+	&nbsp; &nbsp;影片舍弃了小说本来的荒谬和神秘感反而在影像上表现得相当浪漫和唯美，但从内容和叙事上来看基本上忠实于小说原著，依然将苔丝的悲剧命运从爱情关系上来展开。两个和苔丝相关的男人，亚力克和安杰尔，前者是&ldquo;资本之魔&rdquo;，后者则是软弱的知识分子、空想主义者。亚力克相信资本的力量无穷，他见到苔丝的第一句话则是：&ldquo;美是要付出代价的。&rdquo;这句话包含着双重的意义：他深信在资本无所不能的时代，苔丝的美色一定能通过金钱买得；是对苔丝这样的乡下美丽姑娘而言，上帝既然降美色于她，又使之受穷，她就得心甘情愿为金钱而出卖美色。这双重意义皆从资本本质之&ldquo;万能&rdquo;而来，是资本眼中的必然逻辑。而安杰尔因追求世界的纯洁而不敢面对现实&mdash;&mdash;这包括苔丝甚至连同他自己在内的到处被资本所统治、所污染的&ldquo;一个损毁的星球&rdquo;的现实，他虽爱苔丝并娶其为妻，却又轻易离弃之而放任不管。他离弃她的理由，暴露了他的在资本时代下的男女实际上不平等的深刻偏见。然而苔丝无畏地蔑视这种资本的统治一切的现实关系。她的反抗是美与崇高的；然而她的单个人的反抗的弱小，其结局却必然是悲剧的。<br />
+	<br />
+	关于导演：罪恶大师<br />
+	&nbsp; &nbsp;熟悉罗曼&middot;波兰斯基的经历，读过《波兰斯基》传记的人都能轻易的作出一个结论：他就是一个不折不扣的老流氓。无论是在他作品中永远弥漫着的彻骨的冰凉、阴郁、压抑、悲观和晦涩，还是他如同电影悬念戏剧般的人生经历，将之冠名为&ldquo;罪恶大师&rdquo;实不为过。<br />
+	&nbsp; &nbsp;波兰斯基是一个不幸的人，幼年在纳粹的集中营渡过，母亲死于毒气室，童年过着颠沛流离的生活，盛年时怀孕的妻子为邪教组织谋杀，让他经历着人生最惨痛的一刻，70年代中期在美国又因被指控诱奸未成年少女而流亡欧洲。现实的灾难比影像总是更切肤的痛彻心腑。而波兰斯基也是一个成功的人，29岁就获得了金狮奖提名，此后他的作品囊括了世界著名电影节的所有重要奖项，在《苔丝》之前《罗丝玛丽的婴儿》和《唐人街》等片已使波兰斯基倍受国际影坛的瞩目，《苔丝》一片更是为他赢得了巨大的声誉，一跃而成为国际知名大导演，并终于在2002年以《钢琴师》获得第75届奥斯卡最佳导演，最佳男主角，最佳改编剧本奖而重返好莱坞的领奖台。<br />
+	&nbsp; &nbsp;波兰斯基身上独有的罪恶气息阴错阳差间似乎成为铸就他伟大作品的一个元素。《苔丝》中的女主角娜塔莎&middot;金斯基在遇到波兰斯基之前只演过一些不起眼的小角色，与波兰斯基相遇成为她一生命运的转折点。在金斯基成为波兰斯基的情人后（当时金斯基才15岁），作为导演的波兰斯基敏锐的意识到金斯基具有独特的气质和潜能，因此送她到伦敦去学英语，以便日后进军国际影坛。这一切都仿佛命中注定一般，都使《苔丝》的拍摄成了水到渠成的事情。<br />
+	波兰斯基坎坷的人生经历让他一次次审视人类的行为，他在回忆录里这样写道：当我追忆自己遥远的过去，真实与想像的界线总是那样令人失望地模糊和混乱，我生命的关键就在于此。也许它需要我一生的时间去理解，也许就是他使我饱受磨难和挑战，感到悲伤和失望，但我看到前面的大门已经打开，若不是它，也许这扇大门会紧紧关闭，直到永远。<br />
+	<br />
+	花絮<br />
+	&middot;影片的拍摄由于超出预算，影片拍摄几乎停滞，幸运的是美国著名导演弗兰西斯&middot;科波拉独具慧眼，允诺用他的《现代启示录》在法国的发行收入支付《苔丝》的拍摄费用，才使这部伟大的作品没有胎死腹中。而因此，两位伟大的导演：波兰斯基和科波拉，以及两部伟大的作品：《苔丝》和《现代启示录》之间有着密切的渊源，此事也成为影坛鲜为人知的佳话。<br />
+	&middot;《苔丝》最终的制作费是1200万美元，影片最初长达四个多小时，制片人嫌时间太长不利于商业放映，强迫波兰斯基剪掉了一个多小时。<br />
+	&middot;影片拍摄时间也非常之长，因为波兰斯基一定要拍摄具有连续性的一年四个季节的真实镜头，而且选取了分布80多个地方的拍摄地点。<br />
+	&middot;《苔丝》获奖无数，其中比较著名的则有：第五届凯撒电影节最佳导演、最佳摄影、最佳影片；第五十三届奥斯卡最佳摄影、最佳艺术指导、最佳服装设计；第三十八届金球奖最佳外国电影、最佳新星（女）；第三十五届英国电影学院奖最佳摄影。<br />
+	<br />
+	奥斯卡金像奖 Academy Awards<br />
+	第53届 (1981)<br />
+	获奖<br />
+	&middot;奥斯卡奖-最佳摄影 杰弗里&middot;安斯沃思 Geoffrey Unsworth ， Ghislain Cloquet 　Posthumously.<br />
+	&middot;奥斯卡奖-最佳艺术指导 Pierre Guffroy ， Jack Stephens 　<br />
+	&middot;奥斯卡奖-最佳服装设计 Anthony Powell 　<br />
+	提名<br />
+	&middot;奥斯卡奖-最佳影片 克劳德&middot;贝里 Claude Berri ， Timothy Burrill 　<br />
+	&middot;奥斯卡奖-最佳导演 罗曼&middot;波兰斯基 Roman Polanski 　<br />
+	&middot;奥斯卡奖-最佳配乐 菲利普&middot;萨德 Philippe Sarde 　<br />
+	<br />
+	&nbsp;<img alt="" src="http://img2081.poco.cn/mypoco/myphoto/20120522/13/17870980201205221315312501382022308_002.jpg" style="width: 640px; height: 360px" /></p>
+<p>
+	<img alt="" src="http://img2081.poco.cn/mypoco/myphoto/20120522/13/17870980201205221315312501382022308_001.jpg" /></p>
+<p>
+	<img alt="" src="http://img2081.poco.cn/mypoco/myphoto/20120522/13/17870980201205221315312501382022308_000.jpg" style="width: 640px; height: 360px" /></p>
+<p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" />&nbsp;&nbsp;&nbsp;</p>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				在线观看地址：<a href="http://www.xiaobajie.com" target="_blank">http://www.xiaobajie.com</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy241:piaohua@117.41.229.29:2031/飘花电影piaohua.com苔丝BD1280高清中字.rmvb">ftp://dy241:piaohua@117.41.229.29:2031/飘花电影piaohua.com苔丝BD1280高清中字.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O16012U0-5X44.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}错位青春第一季更新22集[中英双{/dede:field}
+{dede:field name='description'}错位青春第一季更新22集[中英双字]2011主打美剧迅雷下载、免费下载，错位青春第一季更新22集[中英双字]2011主打美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}错位青春第一季更新22集[中英双字]2011主打美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy40:piaohua@dy40.piaohua.com:46/飘花电影piaohua.com错位青春第一季1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ031140-24936.jpg{/dede:field}

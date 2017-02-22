@@ -1,0 +1,9 @@
+{dede:field name='keywords'}狐狸与猎狗1-2BD高清中英双字102{/dede:field}
+{dede:field name='description'}狐狸与猎狗1-2BD高清中英双字1024/1280高清迅雷下载、免费下载，狐狸与猎狗1-2BD高清中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}狐狸与猎狗1-2BD高清中英双字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy67:piaohua@dy67.piaohua.com:1062/飘花电影piaohua.com狐狸与猎狗1BD高清中英双字1024分辨率.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1J220-32A0.jpg{/dede:field}

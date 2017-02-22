@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","水啸雾都/伦敦洪灾/洪水/洪水风",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","水啸雾都/伦敦洪灾/洪水/洪水风暴(上/下)[BD中英双字1280x720高清版]迅雷下载、免费下载，水啸雾都/伦敦洪灾/洪水/洪水风暴(上/下)[BD中英双字1280x720高清版]Gvod高清在线播放，剧情介绍等。",72,294);
+$z[1][4]['name']="description";
+$z[2]=Array("field","水啸雾都/伦敦洪灾/洪水/洪水风暴(上/下)[BD中英双字1280x720高清版]",296,398);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",400,439);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",441,480);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2009-12-03",482,532);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG alt=\"\" src=\"http://blog.laifu.net/UploadFiles/2009-12/2737275297.jpg\" onload=thumbImg(this)><BR><BR>【译　　名】　水啸雾都/伦敦洪灾/洪水/洪水风暴<BR>【片　　名】　Flood<BR>【年　　代】　2009<BR>【国　　家】　英国/南非/加拿大<BR>【类　　别】　动作/剧情/惊悚<BR>【语　　言】　英语<BR>【字幕语言】　中文/英文<BR>【视频尺寸】　1280×720<BR>【文件格式】　RMVB+AAC<BR>【IMDB评分】 4.8/10 (2,534 votes)<BR>【IMDB链接】 http://www.imdb.com/title/tt0790665/<BR>【导　　演】　Tony Mitchell<BR>【主　　演】　罗伯特·卡莱尔 Robert Carlyle ....Rob<BR>　　　　　　琼妮·威利 Joanne Whalley ....Patricia Nash<BR>　　　　　　大卫·苏切特 David Suchet ....DPM Campbell<BR>　　　　　　杰萨琳·吉尔西格 Jessalyn Gilsig ....Sam<BR>　　　　　　汤姆·康特奈 Tom Courtenay ....Leonard Morrison<BR>　　　　　　Nigel Planer ....Keith Hoskins<BR>　　　　　　拉尔夫·布朗 Ralph Brown<BR>　　　　　　Gottfried John ....Arthur Mages<a href=\"http://www.eee4.com/\" target=\"_blank\">3e</a><BR>　　　　　　汤姆·哈迪 Tom Hardy ....Zak<BR>　　　　　　Pip Torrens ....Army Liaison Officer<BR>　　　　　　Susan Wooldridge<BR>　　　　　　David Hayman<BR>　　　　　　Martin Ball ....Wyatt<BR>　　　　　　Poppy Miller ....Nikki Fuller<BR>　　　　　　Peter Wight ....Johnson<BR>　　　　　　Jade Davidson ....Mel<BR>　　　　　　Angus Barnett ....Bill<BR>　　　　　　John Benfield ....Frank<BR>　　　　　　Rob Dixon ....Commander Bryant<BR><BR><BR>【简　　介】<BR><BR>　　一场巨大的风暴引发了洪水泛滥，洪水沿着英格兰的东海岸线直接冲进泰晤士河，并迅速冲破堤坝开始淹没整个城市，伦敦居民的安全正岌岌可危。海事专家罗伯和他的前妻萨姆、兄弟莱纳德，只剩下几个小时的时间，来拯救这个城市……</P>\r\n<P>【电影截图】：<BR><BR><a href=\"http://blog.laifu.net/UploadFiles/2009-12/2737115995.jpg\" target=\"_blank\"><IMG src=\"http://blog.laifu.net/UploadFiles/2009-12/2737115995.jpg\" border=0></a>&nbsp;<BR>\r\n<a href=\"http://blog.laifu.net/UploadFiles/2009-12/2737294303.jpg\" target=\"_blank\"><IMG src=\"http://blog.laifu.net/UploadFiles/2009-12/2737294303.jpg\" border=0></a>&nbsp;<BR>\r\n<a href=\"http://blog.laifu.net/UploadFiles/2009-12/2737274638.jpg\" target=\"_blank\"><IMG src=\"http://blog.laifu.net/UploadFiles/2009-12/2737274638.jpg\" border=0></a></P><br>  [下载地址]：<IMG src=\"http://www.eee4.com/templets/img/down.jpg\" border=0><br>\r\n上：<br><table style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellspacing=\"0\" cellpadding=\"6\" width=\"95%\" align=\"center\" border=\"0\">\r\n    <tbody>\r\n        <tr>\r\n            <td style=\"WORD-WRAP: break-word\" bgcolor=\"#fdfddf\"><a href=\"ftp://4e:4e@www2.eee4.com:928/[3E电影站www.eee4.cn]水啸雾都BD中英双字1280x720高清版[上].rmvb\" target=\"_blank\">ftp://4e:4e@www2.eee4.com:928/[3E电影站www.eee4.cn]水啸雾都BD中英双字1280x720高清版[上].rmvb</a></td>\r\n        </tr>\r\n    </tbody>\r\n</table>\r\n下：<br><table style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellspacing=\"0\" cellpadding=\"6\" width=\"95%\" align=\"center\" border=\"0\">\r\n    <tbody>\r\n        <tr>\r\n            <td style=\"WORD-WRAP: break-word\" bgcolor=\"#fdfddf\"><a href=\"ftp://4e:4e@www2.eee4.com:928/[3E电影站www.eee4.cn]水啸雾都BD中英双字1280x720高清版[下].rmvb\" target=\"_blank\">ftp://4e:4e@www2.eee4.com:928/[3E电影站www.eee4.cn]水啸雾都BD中英双字1280x720高清版[下].rmvb</a></td>\r\n        </tr>\r\n    </tbody>\r\n</table>",534,4055);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O1A2V50-19544.jpg",4057,4140);
+$z[7][4]['name']="litpic";
+
+?>

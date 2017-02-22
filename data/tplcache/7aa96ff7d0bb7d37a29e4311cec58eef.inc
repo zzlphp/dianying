@@ -1,0 +1,9 @@
+{dede:field name='keywords'}爱再来一次DVD中字经典感人爱情{/dede:field}
+{dede:field name='description'}爱再来一次DVD中字经典感人爱情迅雷下载、免费下载，爱再来一次DVD中字经典感人爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}爱再来一次DVD中字经典感人爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2405/飘花电影piaohua.com爱再来一次DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MONH30-4P37.jpg{/dede:field}

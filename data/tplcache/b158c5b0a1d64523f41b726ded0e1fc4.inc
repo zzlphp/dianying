@@ -1,0 +1,9 @@
+{dede:field name='keywords'}疯狂的蠢贼HD国语中字吴镇宇2012{/dede:field}
+{dede:field name='description'}疯狂的蠢贼HD国语中字吴镇宇2012喜剧迅雷下载、免费下载，疯狂的蠢贼HD国语中字吴镇宇2012喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}疯狂的蠢贼HD国语中字吴镇宇2012喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2937/飘花电影piaohua.com疯狂的蠢贼HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO61aZ-25263.jpg{/dede:field}

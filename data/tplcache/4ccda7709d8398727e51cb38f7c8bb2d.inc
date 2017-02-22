@@ -1,0 +1,9 @@
+{dede:field name='keywords'}黎明破晓的街道中日双语字幕DVDr{/dede:field}
+{dede:field name='description'}黎明破晓的街道中日双语字幕DVDrip迅雷下载、免费下载，黎明破晓的街道中日双语字幕DVDripGvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}黎明破晓的街道中日双语字幕DVDrip{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3099/飘花电影piaohua.com黎明破晓的街道.864X464.中日双语字幕DVDrip.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP194150-550J.jpg{/dede:field}

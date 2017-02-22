@@ -1,0 +1,9 @@
+{dede:field name='keywords'}惊魂游戏HD国语中字2012恐怖惊悚{/dede:field}
+{dede:field name='description'}惊魂游戏HD国语中字2012恐怖惊悚迅雷下载、免费下载，惊魂游戏HD国语中字2012恐怖惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}惊魂游戏HD国语中字2012恐怖惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPK1T0-111a.jpg{/dede:field}

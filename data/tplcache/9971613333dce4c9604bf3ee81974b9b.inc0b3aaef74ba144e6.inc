@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","绑架/连环局HD高清迅雷下载，免",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","绑架/连环局HD高清迅雷下载、免费下载，绑架/连环局HD高清Gvod高清在线播放，剧情介绍等。",72,200);
+$z[1][4]['name']="description";
+$z[2]=Array("field","绑架/连环局HD高清",202,257);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",259,298);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",300,339);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-10-07",341,391);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://imgly.net/di-I9FW.jpg\" /></p>\r\n<p>\r\n	◎译　　名　绑架/连环局<br />\r\n	◎片　　名　Kidnap/Bong ga<br />\r\n	◎年　　代　2007<br />\r\n	◎国　　家　中国香港<br />\r\n	◎类　　别　惊悚<br />\r\n	◎语　　言　普通话<br />\r\n	◎字　　幕　繁体中文<br />\r\n	◎IMDB评分 &nbsp;5.6/10 (203 votes)<br />\r\n	◎IMDB链接 &nbsp;<a href=\"http://www.imdb.com/title/tt1045818\" target=\"_blank\">http://www.imdb.com/title/tt1045818</a><br />\r\n	◎片　　长　100 Mins<br />\r\n	◎导　　演　罗志良 Chi-Leung Law<br />\r\n	◎主　　演　刘若英 Rene Liu<br />\r\n	　　　　　　林嘉欣 Karena Lam<br />\r\n	　　　　　　张智霖 Julian Cheung<br />\r\n	　　　　　　郭涛 Tao Guo<br />\r\n	　　　　　　张兆辉 Siu-Fai Cheung<br />\r\n	　　　　　　官恩娜 Ella Koon<br />\r\n	　　　　　　赵会南 Huinan Zhao<br />\r\n	　　　　　　罗仲谦 Chung Him Law<br />\r\n	　　　　　　<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	三宗绑架案，将两个女人的命运纠缠交错；三年前，林晓阳(林嘉欣饰演)的弟弟被绑架，处理绑架案的正是女督察何婉真(刘若英饰演)；三年后，何婉真接手调查一宗绑架案，案件却阴差阳错引发另一宗绑架案发生，是次绑匪部署精细，成功避过了警方的追踪和监听，还懂得操控婉真的心理 &hellip;婉真尤如当年晓阳一样，一步一步走入跟绑匪的心理角力战&hellip;&hellip;<br />\r\n	舞蹈教师林晓阳（林嘉欣饰）的弟弟突然被人绑架，高级督察何宛真（刘若英饰）和智叔（张兆辉饰）奉命解救人质，但是在抓捕过程中，两名却绑匪意外坠楼身亡，最后警察历经千辛万苦找到确实一具尸体，林晓阳也因此在心里埋下了怨恨，她将所有的责任都归咎于警察身上，也为三年后那一场惊天动地的绑架埋下了伏笔。<br />\r\n	三年后，林晓阳似乎已经从那次的绑架事件的伤害中恢复过来了，并且与当年负责其弟绑架案的两名警察成为了好友，特别是智叔，更是成为了林晓阳夫妇的好友，两人从尼泊尔度假归来，还请来智叔来觀看林晓阳排演的新舞蹈。<br />\r\n	然而，林晓阳的丈夫（赵会南饰）身患重病，急需马上出国动手术，手术费约一千万元，绑架案的策划由此展开。林嘉欣首先将富豪王森（郭涛饰）的所有消息搜集起来，并经过多日跟踪调查，在掌握了所有王森儿子的行踪之后才派出两名同伙前往学校进行绑架。但是，林晓阳没有想到的是，当时王森的儿子正好与高级督察何宛真的儿子在一起玩耍，两个孩子为了骗保姆，躲到厕所里互换服装和帽子，谁知竟被绑匪误撞，将何宛真的儿子绑走，王森的儿子目睹了这一切，却因为惊吓过度不敢回家，结果造成了极大的误会。林晓阳、何宛真、王森等都以为是王森的儿子被绑架，林晓阳利用高科技变声器给王森打电话勒索赎金，王森立刻向警察报案，而受理此案的正是当年受理林晓阳弟弟被绑架案的两位高级督察何宛真和智叔。警匪双方在连环绑架案中展开心理、情感、意志的较量&hellip;&hellip;<br />\r\n	<br />\r\n	幕后制作<br />\r\n	<br />\r\n	　　影后林嘉欣、刘若英飙戏<br />\r\n	<br />\r\n	林嘉欣首遇影后级对手刘若英。要做到知己知彼，电影开拍前，林嘉欣便四出打探对方过去。但经多月合作，林嘉欣刘若英不但&ldquo;生变熟&rdquo;，言谈间更发现彼此生活习惯、衣着品味相近，令二人不禁大叹相逢恨晚。<br />\r\n	<br />\r\n	林嘉欣笑说二人情同姊妹：&ldquo;我同刘若英关系真是很好，不单止大家喜好相似，想法都一样，好似曾经在同一场戏，就向导演罗志良发问同一个疑问，我好开心此次合作认识她。&rdquo;<br />\r\n	<br />\r\n	导演大爆两人一开拍就互相斗戏: &ldquo;两人都是认真演员，一开始嘉欣以为自己演的是刘若英角色，一个高级督察兼母亲角色，觉得发挥较大；可是当知道要演的是一个剧场老师的角色，她就不停翻看剧本，看了数遍后，摸透了所演角色的复杂性，就如角色上身，跟她合作第三次，这是我第一次见到嘉欣如此入戏的。&rdquo;<br />\r\n	&nbsp;</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img165.poco.cn/mypoco/myphoto/20111006/11/62564813201110061116533362196299105_001.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img165.poco.cn/mypoco/myphoto/20111006/11/62564813201110061116533362196299105_000.jpg\" style=\"width: 720px; height: 405px\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"&#13;&#10;ftp://dy125:piaohua@dy125.piaohua.com:6073/飘花电影piaohua.com连环局HD国语中字1024高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:6073/飘花电影piaohua.com连环局HD国语中字1024高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",393,4634);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O1602Z30-51M2.jpg",4636,4719);
+$z[7][4]['name']="litpic";
+
+?>

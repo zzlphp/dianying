@@ -1,0 +1,9 @@
+{dede:field name='keywords'}半斤八兩BD1280高清国粤双语迅雷{/dede:field}
+{dede:field name='description'}半斤八兩BD1280高清国粤双语迅雷下载、免费下载，半斤八兩BD1280高清国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}半斤八兩BD1280高清国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2010/飘花电影piaohua.com半斤八兩BD1280高清国粤双语.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO5T2Z-3Z20.jpg{/dede:field}

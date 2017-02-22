@@ -1,0 +1,9 @@
+{dede:field name='keywords'}结婚狂想曲高清1024/1280版HD国{/dede:field}
+{dede:field name='description'}结婚狂想曲高清1024/1280版HD国语中字2012最新上映中国喜剧爱情迅雷下载、免费下载，结婚狂想曲高清1024/1280版HD国语中字2012最新上映中国喜剧爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}结婚狂想曲高清1024/1280版HD国语中字2012最新上映中国喜剧爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2989/飘花电影piaohua.com结婚狂想曲高清1024版HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO633550-1H93.jpg{/dede:field}

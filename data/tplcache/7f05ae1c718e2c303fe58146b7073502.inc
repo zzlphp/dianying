@@ -1,0 +1,9 @@
+{dede:field name='keywords'}高海拔之恋2HD国语中字郑秀文,古{/dede:field}
+{dede:field name='description'}高海拔之恋2HD国语中字郑秀文 古天乐2012最新爱情迅雷下载、免费下载，高海拔之恋2HD国语中字郑秀文 古天乐2012最新爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}高海拔之恋2HD国语中字郑秀文 古天乐2012最新爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOT1J0-5IL.jpg{/dede:field}

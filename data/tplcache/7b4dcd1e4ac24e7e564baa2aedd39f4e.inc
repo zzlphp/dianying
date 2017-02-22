@@ -1,0 +1,9 @@
+{dede:field name='keywords'}保镖1992HDTV高清国英双语双字12{/dede:field}
+{dede:field name='description'}保镖1992HDTV高清国英双语双字1280高清迅雷下载、免费下载，保镖1992HDTV高清国英双语双字1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}保镖1992HDTV高清国英双语双字1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2024/小八戒电影xiaobajie.com保镖1992HDTV高清国英双语双字1280.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOD9140-4c20.jpg{/dede:field}

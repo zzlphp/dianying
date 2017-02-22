@@ -1,0 +1,9 @@
+{dede:field name='keywords'}无极限之危情速递HD国语中字1024{/dede:field}
+{dede:field name='description'}无极限之危情速递HD国语中字1024高清迅雷下载、免费下载，无极限之危情速递HD国语中字1024高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}无极限之危情速递HD国语中字1024高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1290/飘花电影piaohua.com无极限之危情速递TS国语.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP034520-11Z1.jpg{/dede:field}

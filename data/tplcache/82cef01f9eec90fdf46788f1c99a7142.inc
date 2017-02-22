@@ -1,0 +1,9 @@
+{dede:field name='keywords'}第39届全美音乐奖颁奖典礼DVD中{/dede:field}
+{dede:field name='description'}第39届全美音乐奖颁奖典礼DVD中字迅雷下载、免费下载，第39届全美音乐奖颁奖典礼DVD中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}第39届全美音乐奖颁奖典礼DVD中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2226/飘花电影piaohua.com第39届全美音乐奖颁奖典礼DVD中字CD1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3Tb0-5MX.jpg{/dede:field}

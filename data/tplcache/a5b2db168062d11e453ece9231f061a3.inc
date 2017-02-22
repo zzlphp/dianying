@@ -1,0 +1,9 @@
+{dede:field name='keywords'}盖茨堡之役720P,1280*720迅雷下{/dede:field}
+{dede:field name='description'}盖茨堡之役720P 1280*720迅雷下载、免费下载，盖茨堡之役720P 1280*720Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}盖茨堡之役720P 1280*720{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:1030/飘花电影下载站www.piaohua.com盖茨堡之役720p.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP511Q0-4K63.jpg{/dede:field}

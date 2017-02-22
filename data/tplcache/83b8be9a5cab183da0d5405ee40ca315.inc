@@ -1,0 +1,9 @@
+{dede:field name='keywords'}客人为王/客人是王HD中字1024高{/dede:field}
+{dede:field name='description'}客人为王/客人是王HD中字1024高清迅雷下载、免费下载，客人为王/客人是王HD中字1024高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}客人为王/客人是王HD中字1024高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy70:piaohua@dy70.piaohua.com:90/[飘花电影piaohua.com]客人为王.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP64X30-241O.jpg{/dede:field}

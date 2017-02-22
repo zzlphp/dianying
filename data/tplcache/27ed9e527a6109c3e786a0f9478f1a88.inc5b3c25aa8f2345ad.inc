@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","洪水风暴/水啸雾都迅雷下载，免",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","洪水风暴/水啸雾都迅雷下载、免费下载，洪水风暴/水啸雾都Gvod高清在线播放，剧情介绍等。",72,200);
+$z[1][4]['name']="description";
+$z[2]=Array("field","洪水风暴/水啸雾都",202,257);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",259,298);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",300,339);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2007-11-18",341,391);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P>译　　名　洪水风暴/水啸雾都<BR>片　　名　Flood<BR>年　　代　2007<BR>国　　家　英国/美国<BR>类　　别　动作/剧情/灾难<BR>语　　言　英语<BR>文件格式　XviD + MP3<BR>视频尺寸　576 x 320<BR>片　　长　106 mins<BR>导　　演　Tony Mitchell<BR>主　　演　Robert Carlyle ... Rob<BR>　　　　　　Jessalyn Gilsig ... Sam<BR>　　　　　　Tom Courtenay ... Leonard Morrison<BR>　　　　　　Joanne Whalley ... Patricia Nash<BR>　　　　　　David Suchet ... DPM Campbell<BR><BR><BR>◎简　　介　<BR>&nbsp; &nbsp; 当肆虐风暴遇上公海，巨大波涛被释放出来，它冷酷无情地沿着英国东岸东岸进发而去到泰晤士河。防洪设备起不了作用，大量急流涌入城市。数百万伦敦人危在旦夕。资深海事工程师和防洪设备专家ROB，他前妻和他父亲只有几小时来挽救城市 ... </P>\r\n<P><IMG onclick=\"if(this.width>screen.width-461) window.open('/0701pic/allimg/071117/1949440.jpg');\" alt=\"\" src=\"http://pic.piaohua.com/0701pic/allimg/071117/1949440.jpg\" border=0><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://img.album.pchome.net/05/00/80/23/03056f3bb7dea70a3ddd6132e9319f5b.jpg');\" alt=\"\" src=\"http://img.album.pchome.net/05/00/80/23/03056f3bb7dea70a3ddd6132e9319f5b.jpg\" border=0><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://img.album.pchome.net/05/00/80/23/7013ca222be2fb410c65349cbff8fa8a.jpg');\" alt=\"\" src=\"http://img.album.pchome.net/05/00/80/23/7013ca222be2fb410c65349cbff8fa8a.jpg\" border=0><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('/0701pic/allimg/071117/1949443.jpg');\" alt=\"\" src=\"http://pic.piaohua.com/0701pic/allimg/071117/1949443.jpg\" border=0><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('/0701pic/allimg/071117/1949444.jpg');\" alt=\"\" src=\"http://pic.piaohua.com/0701pic/allimg/071117/1949444.jpg\" border=0><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://img.album.pchome.net/05/00/80/23/bf203994da1bcbe684d8f588e80ce514.jpg');\" alt=\"\" src=\"http://img.album.pchome.net/05/00/80/23/bf203994da1bcbe684d8f588e80ce514.jpg\" border=0><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('/0701pic/allimg/071117/1949446.jpg');\" alt=\"\" src=\"http://pic.piaohua.com/0701pic/allimg/071117/1949446.jpg\" border=0></P>\r\n<P>2007-11-18 03:14:10 开始连接......<BR>2007-11-18 03:14:12 开始搜索候选资源......<BR>2007-11-18 03:14:13 搜索到19个候选资源<BR>2007-11-18 03:14:15 使用候选资源进行连接......<BR>2007-11-18 03:14:17 搜索到39个候选资源<BR>2007-11-18 03:14:19 使用候选资源进行连接......<BR>2007-11-18 03:14:21 文件创建成功，开始下载数据......<BR>2007-11-18 03:14:22 用户取消下载&nbsp;&nbsp; 本文来自 </P>07最新火爆灾难大片《洪水风暴》DVD中字 <IMG src=\"/templets/img/down.jpg\" border=0>下载地址：（直接可能无法下载，一律使用<A href=\"http://pstatic.xunlei.com/about/product/down_xl5.htm\" target=_blank>迅雷下载</A>） <BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf><ANCHOR></ANCHOR><A href=\"ftp://dygod1:dygod1@xunlei.dygod.com:9969/洪水风暴/[电影天堂www.dygod.com]洪水风暴-ALL.rmvb\">ftp://dygod1:dygod1@xunlei.dygod.com:9969/洪水风暴/[电影天堂www.dygod.com]洪水风暴-ALL.rmvb</A></TD></TR></TBODY></TABLE>",393,3746);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O164a250-21454.jpg",3748,3832);
+$z[7][4]['name']="litpic";
+
+?>

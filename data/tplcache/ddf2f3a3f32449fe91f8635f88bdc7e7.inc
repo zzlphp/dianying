@@ -1,0 +1,9 @@
+{dede:field name='keywords'}中国达人秀2011迅雷下载，免费下{/dede:field}
+{dede:field name='description'}中国达人秀2011迅雷下载、免费下载，中国达人秀2011Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}中国达人秀2011{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2383/飘花电影piaohua.comcom2011中国达人秀年度盛典之谁是达人.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ400510-14019.jpg{/dede:field}

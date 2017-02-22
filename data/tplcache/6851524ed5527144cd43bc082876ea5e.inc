@@ -1,0 +1,9 @@
+{dede:field name='keywords'}圣斗士星矢剧场版3：真红少年传{/dede:field}
+{dede:field name='description'}圣斗士星矢剧场版3：真红少年传说BD国语中字1280高清迅雷下载、免费下载，圣斗士星矢剧场版3：真红少年传说BD国语中字1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}圣斗士星矢剧场版3：真红少年传说BD国语中字1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2627/飘花电影piaohua.com圣斗士星矢剧场版3：真红少年传说BD国语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0X230-43060.jpg{/dede:field}

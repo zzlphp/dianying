@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","鬼悚历险2D版BD1280高清迅雷下载",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","鬼悚历险2D版BD1280高清迅雷下载、免费下载，鬼悚历险2D版BD1280高清Gvod高清在线播放，剧情介绍等。",73,211);
+$z[1][4]['name']="description";
+$z[2]=Array("field","鬼悚历险2D版BD1280高清",213,273);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",275,314);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",316,355);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-21",357,407);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120520/20/62564813201205202001289550731774550_000.jpg\" style=\"width: 700px; height: 1147px\" /></p>\r\n<p>\r\n	【影片名称】：Paranormal Xperience 3D<br />\r\n	【中文名称】：鬼悚历险3D<br />\r\n	【年 &nbsp; &nbsp; &nbsp;代】：2011年<br />\r\n	【国家地区】：西班牙<br />\r\n	【语 &nbsp; &nbsp; &nbsp;言】：西班牙语<br />\r\n	【类 &nbsp; &nbsp; &nbsp;别】：惊悚 / 恐怖<br />\r\n	【片 &nbsp; &nbsp; &nbsp;长】：90 分钟<br />\r\n	【上映日期】：2011年12月28日 &nbsp;西班牙<br />\r\n	【IMDB链接】：<a href=\"http://www.bluemv.com\">http://www.bluemv.com</a><br />\r\n	【IMDB评分】：3.5/10 from 148 users<br />\r\n	【导 &nbsp; &nbsp; &nbsp;演】：塞吉&middot;维扎诺 Sergi Vizcaino<br />\r\n	【编 &nbsp; &nbsp; &nbsp;剧】：达尼&middot;帕德罗 Dani Padro<br />\r\n	【主 &nbsp; &nbsp; &nbsp;演】：阿玛亚&middot;萨拉曼卡 Amaia Salamanca &nbsp;....Angela<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;马克西&middot;伊格莱西亚斯 Maxi Iglesias &nbsp;....Jose<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;乌苏拉&middot;科贝罗 &Uacute;rsula Corber&oacute; &nbsp;....Bel&eacute;n<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;曼纽尔&middot;德&middot;巴拉斯 Manuel de Blas<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Luis Fern&aacute;ndez &nbsp;....Carlos<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Miguel &Aacute;ngel Jenner &nbsp;....Sr. Fuentes<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&Oacute;scar Sinela &nbsp;....Toni<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Alba Ribas<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Eduard Farelo<br />\r\n	<br />\r\n	※※※※※※※　剧情简介　※※※※※※※<br />\r\n	<br />\r\n	&nbsp; &nbsp; &nbsp; 西班牙恐怖片《鬼悚历险3D》是一部惊悚片，讲述了一群年轻人，他们中的每个人都有自己的兴趣爱好和美好未来的情况下，却被一个疯狂的医生抓到一个堕落的城镇折磨。<br />\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120520/19/62564813201205201958199374371964057_003.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120520/19/62564813201205201958199374371964057_002.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120520/19/62564813201205201958199374371964057_001.jpg\" style=\"width: 720px; height: 405px\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	【下载地址】</p>\r\n<table bgcolor=\"#0099cc\" border=\"0\" cellpadding=\"10\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy125:piaohua@dy125.piaohua.com:8082/飘花电影piaohua.com鬼悚历险BD中字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:8082/飘花电影piaohua.com鬼悚历险BD中字1280高清.rmvb</a></td>\r\n		</tr>\r\n		<tr>\r\n		</tr>\r\n	</tbody>\r\n</table>",409,3717);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O16441A0-31U2.jpg",3719,3802);
+$z[7][4]['name']="litpic";
+
+?>

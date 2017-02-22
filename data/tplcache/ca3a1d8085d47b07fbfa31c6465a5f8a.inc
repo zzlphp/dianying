@@ -1,0 +1,9 @@
+{dede:field name='keywords'}麻姑迅雷下载，免费下载，Gvod高{/dede:field}
+{dede:field name='description'}麻姑迅雷下载、免费下载，麻姑Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}麻姑{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-01-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP41BZ-14A3.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}来访者/神秘来电BD中英双字1024{/dede:field}
+{dede:field name='description'}来访者/神秘来电BD中英双字1024高清2011恐怖惊悚迅雷下载、免费下载，来访者/神秘来电BD中英双字1024高清2011恐怖惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}来访者/神秘来电BD中英双字1024高清2011恐怖惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1779/飘花电影piaohua.com神秘来电DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPS1140-43304.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}断箭HD中字1024高清韩国2012剧情{/dede:field}
+{dede:field name='description'}断箭HD中字1024高清韩国2012剧情迅雷下载、免费下载，断箭HD中字1024高清韩国2012剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}断箭HD中字1024高清韩国2012剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3160/飘花电影piaohua.com断箭DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP2121F-2A31.jpg{/dede:field}

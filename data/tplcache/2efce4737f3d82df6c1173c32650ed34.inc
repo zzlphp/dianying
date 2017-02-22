@@ -1,0 +1,9 @@
+{dede:field name='keywords'}岳：冰峰救援高清迅雷下载，免费{/dede:field}
+{dede:field name='description'}岳：冰峰救援高清迅雷下载、免费下载，岳：冰峰救援高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}岳：冰峰救援高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP1594F-5V04.jpg{/dede:field}

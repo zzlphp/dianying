@@ -1,0 +1,9 @@
+{dede:field name='keywords'}灵魂战车2：复仇之魂TC中字2012{/dede:field}
+{dede:field name='description'}灵魂战车2：复仇之魂TC中字2012最新上映尼古拉斯·凯奇奇幻动作迅雷下载、免费下载，灵魂战车2：复仇之魂TC中字2012最新上映尼古拉斯·凯奇奇幻动作Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}灵魂战车2：复仇之魂TC中字2012最新上映尼古拉斯·凯奇奇幻动作{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2871/飘花电影piaohua.com灵魂战车2：复仇之魂TS中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOXL50-343G.jpg{/dede:field}

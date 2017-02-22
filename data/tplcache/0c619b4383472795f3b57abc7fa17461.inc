@@ -1,0 +1,9 @@
+{dede:field name='keywords'}遇见恶魔(见见恶魔)高清1280版HD{/dede:field}
+{dede:field name='description'}遇见恶魔(见见恶魔)高清1280版HD中字美国R级悬疑惊悚大片迅雷下载、免费下载，遇见恶魔(见见恶魔)高清1280版HD中字美国R级悬疑惊悚大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}遇见恶魔(见见恶魔)高清1280版HD中字美国R级悬疑惊悚大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3188/飘花电影piaohua.com遇见恶魔(见见恶魔)高清1280版HD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP222R0-11B0.jpg{/dede:field}

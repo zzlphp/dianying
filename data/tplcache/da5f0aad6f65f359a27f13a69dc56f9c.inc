@@ -1,0 +1,9 @@
+{dede:field name='keywords'}露西亚的情人BD中英双字1024高清{/dede:field}
+{dede:field name='description'}露西亚的情人BD中英双字1024高清经典爱情剧情迅雷下载、免费下载，露西亚的情人BD中英双字1024高清经典爱情剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}露西亚的情人BD中英双字1024高清经典爱情剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3184/飘花电影piaohua.com露西亚的情人BD中英双字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOH2G0-1Q60.jpg{/dede:field}

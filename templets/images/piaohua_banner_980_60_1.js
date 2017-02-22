@@ -1,0 +1,1 @@
+document.writeln("<script language=\"javascript\" src=\"http:\/\/cpm.7555.net\/Cpc.aspx?uid=748&mode=3&s=29\"><\/script>")

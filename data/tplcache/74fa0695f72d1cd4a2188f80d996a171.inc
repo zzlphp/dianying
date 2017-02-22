@@ -1,0 +1,1 @@
+[field:typename/]<a href="[field:arcurl/]">[field:title/]</a>&nbsp;

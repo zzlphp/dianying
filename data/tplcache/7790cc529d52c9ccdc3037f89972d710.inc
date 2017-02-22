@@ -1,0 +1,9 @@
+{dede:field name='keywords'}极速天使国粤双语中字BD1024/128{/dede:field}
+{dede:field name='description'}极速天使国粤双语中字BD1024/1280高清迅雷下载、免费下载，极速天使国粤双语中字BD1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}极速天使国粤双语中字BD1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2457/飘花电影piaohua.com极速天使国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO500I0-29E5.jpg{/dede:field}

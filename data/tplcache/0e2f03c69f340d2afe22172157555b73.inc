@@ -1,0 +1,9 @@
+{dede:field name='keywords'}Ô¶×ã¾ª»êDVDÖĞ×Ö2011¿Ö²À¾ªã¤Ñ¸{/dede:field}
+{dede:field name='description'}Ô¶×ã¾ª»êDVDÖĞ×Ö2011¿Ö²À¾ªã¤Ñ¸À×ÏÂÔØ¡¢Ãâ·ÑÏÂÔØ£¬Ô¶×ã¾ª»êDVDÖĞ×Ö2011¿Ö²À¾ªã¤Gvod¸ßÇåÔÚÏß²¥·Å£¬¾çÇé½éÉÜµÈ¡£{/dede:field}
+{dede:field name='title'}Ô¶×ã¾ª»êDVDÖĞ×Ö2011¿Ö²À¾ªã¤{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3440/Æ®»¨µçÓ°piaohua.comÔ¶×ã¾ª»êDVDÖĞ×Ö.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPH0530-2F24.jpg{/dede:field}

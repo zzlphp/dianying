@@ -1,0 +1,9 @@
+{dede:field name='keywords'}烂赌夫斗烂赌妻高清BD1280国粤双{/dede:field}
+{dede:field name='description'}烂赌夫斗烂赌妻高清BD1280国粤双语迅雷下载、免费下载，烂赌夫斗烂赌妻高清BD1280国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}烂赌夫斗烂赌妻高清BD1280国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:8057/飘花电影piaohua.com烂赌夫斗烂赌妻BD国语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO59D0-25605.jpg{/dede:field}

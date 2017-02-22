@@ -1,0 +1,9 @@
+{dede:field name='keywords'}影子爱人1280版HD国语中字2012香{/dede:field}
+{dede:field name='description'}影子爱人1280版HD国语中字2012香港喜剧爱情迅雷下载、免费下载，影子爱人1280版HD国语中字2012香港喜剧爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}影子爱人1280版HD国语中字2012香港喜剧爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3396/飘花电影piaohua.com影子爱人DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOJ6320-31X5.jpg{/dede:field}

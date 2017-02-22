@@ -1,0 +1,9 @@
+{dede:field name='keywords'}黄色复仇草第10集韩剧迅雷下载，{/dede:field}
+{dede:field name='description'}黄色复仇草第10集韩剧迅雷下载、免费下载，黄色复仇草第10集韩剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}黄色复仇草第10集韩剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3362/飘花电影piaohua.com黄色复仇草EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP9DL0-45450.jpg{/dede:field}

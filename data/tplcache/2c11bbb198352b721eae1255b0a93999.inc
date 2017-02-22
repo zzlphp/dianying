@@ -1,0 +1,9 @@
+{dede:field name='keywords'}藏獒多吉BD高清迅雷下载，免费下{/dede:field}
+{dede:field name='description'}藏獒多吉BD高清迅雷下载、免费下载，藏獒多吉BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}藏獒多吉BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ211030-34E6.jpg{/dede:field}

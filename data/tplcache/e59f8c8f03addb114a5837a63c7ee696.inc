@@ -1,0 +1,9 @@
+{dede:field name='keywords'}下一个奇迹高清1024/1280版HD国{/dede:field}
+{dede:field name='description'}下一个奇迹高清1024/1280版HD国语中字2012最新上映爱情大片迅雷下载、免费下载，下一个奇迹高清1024/1280版HD国语中字2012最新上映爱情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}下一个奇迹高清1024/1280版HD国语中字2012最新上映爱情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3118/飘花电影piaohua.com下一个奇迹高清1024版HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOGb60-455I.jpg{/dede:field}

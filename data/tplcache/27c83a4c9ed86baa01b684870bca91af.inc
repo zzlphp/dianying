@@ -1,0 +1,9 @@
+{dede:field name='keywords'}日本2011年恶整大赏HD日语中字12{/dede:field}
+{dede:field name='description'}日本2011年恶整大赏HD日语中字1280高清超级爆笑整人游戏综艺迅雷下载、免费下载，日本2011年恶整大赏HD日语中字1280高清超级爆笑整人游戏综艺Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}日本2011年恶整大赏HD日语中字1280高清超级爆笑整人游戏综艺{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2041/小八戒电影xiaobajie.com日本2011年恶整大赏HD日语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ432B0-14Q9.jpg{/dede:field}

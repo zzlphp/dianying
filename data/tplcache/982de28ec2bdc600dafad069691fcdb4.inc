@@ -1,0 +1,9 @@
+{dede:field name='keywords'}未麻的部屋BD1280高清日语中字迅{/dede:field}
+{dede:field name='description'}未麻的部屋BD1280高清日语中字迅雷下载、免费下载，未麻的部屋BD1280高清日语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}未麻的部屋BD1280高清日语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2033/小八戒电影xiaobajie.com未麻的部屋BD1280高清日语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ10YZ-22938.jpg{/dede:field}

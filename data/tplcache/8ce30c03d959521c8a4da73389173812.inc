@@ -1,0 +1,9 @@
+{dede:field name='keywords'}美国黑帮2：迈阿密大劫案DVD中字{/dede:field}
+{dede:field name='description'}美国黑帮2：迈阿密大劫案DVD中字2012最新美国犯罪动作大片迅雷下载、免费下载，美国黑帮2：迈阿密大劫案DVD中字2012最新美国犯罪动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}美国黑帮2：迈阿密大劫案DVD中字2012最新美国犯罪动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3051/飘花电影piaohua.com美国黑帮2：迈阿密大劫案DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4cA0-1U20.jpg{/dede:field}

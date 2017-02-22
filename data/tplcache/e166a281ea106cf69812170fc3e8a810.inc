@@ -1,0 +1,9 @@
+{dede:field name='keywords'}末日浩劫/末日世界/明日过后/明{/dede:field}
+{dede:field name='description'}末日浩劫/末日世界/明日过后/明日之後迅雷下载、免费下载，末日浩劫/末日世界/明日过后/明日之後Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}末日浩劫/末日世界/明日过后/明日之後{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}http://pic.piaohua.com/images/defaultpic.gifalt=末日浩劫/末日世界/明日过width=120height=150border=0{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}邵氏经典佛都有火DVD国语中字迅{/dede:field}
+{dede:field name='description'}邵氏经典佛都有火DVD国语中字迅雷下载、免费下载，邵氏经典佛都有火DVD国语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}邵氏经典佛都有火DVD国语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ250W0-4M56.jpg{/dede:field}

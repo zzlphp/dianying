@@ -1,0 +1,9 @@
+{dede:field name='keywords'}朱朱宠物DVDRip中英字幕美国动画{/dede:field}
+{dede:field name='description'}朱朱宠物DVDRip中英字幕美国动画2011迅雷下载、免费下载，朱朱宠物DVDRip中英字幕美国动画2011Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}朱朱宠物DVDRip中英字幕美国动画2011{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ20160-32M4.jpg{/dede:field}

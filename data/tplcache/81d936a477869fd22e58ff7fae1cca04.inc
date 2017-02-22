@@ -1,0 +1,9 @@
+{dede:field name='keywords'}爱在那一天DVD高清中英双字2012{/dede:field}
+{dede:field name='description'}爱在那一天DVD高清中英双字2012中国爱情迅雷下载、免费下载，爱在那一天DVD高清中英双字2012中国爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}爱在那一天DVD高清中英双字2012中国爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3237/飘花电影piaohua.com爱在那一天DVD高清BD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOHMP-1O36.jpg{/dede:field}

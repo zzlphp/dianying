@@ -1,0 +1,9 @@
+{dede:field name='keywords'}帝企鹅日记BD1280法/国/台/粤/纯{/dede:field}
+{dede:field name='description'}帝企鹅日记BD1280法/国/台/粤/纯音乐五音轨迅雷下载、免费下载，帝企鹅日记BD1280法/国/台/粤/纯音乐五音轨Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}帝企鹅日记BD1280法/国/台/粤/纯音乐五音轨{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2021/飘花电影piaohua.com帝企鹅日记BD1280.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0Tb0-12309.jpg{/dede:field}

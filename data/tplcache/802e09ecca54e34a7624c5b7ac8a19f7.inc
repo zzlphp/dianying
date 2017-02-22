@@ -1,0 +1,9 @@
+{dede:field name='keywords'}追击者BD高清中英双字幕1024*576{/dede:field}
+{dede:field name='description'}追击者BD高清中英双字幕1024*576迅雷下载、免费下载，追击者BD高清中英双字幕1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}追击者BD高清中英双字幕1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3QR0-54641.jpg{/dede:field}

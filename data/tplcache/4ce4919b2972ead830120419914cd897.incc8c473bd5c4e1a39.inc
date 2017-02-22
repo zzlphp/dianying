@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","黑魔王/诡秘怪谈BD1280高清迅雷",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","黑魔王/诡秘怪谈BD1280高清迅雷下载、免费下载，黑魔王/诡秘怪谈BD1280高清Gvod高清在线播放，剧情介绍等。",72,216);
+$z[1][4]['name']="description";
+$z[2]=Array("field","黑魔王/诡秘怪谈BD1280高清",218,281);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",283,322);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",324,363);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-02-25",365,415);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://hdroad.org/bitbucket/month_1202/20120210154059565219.jpg\" style=\"width: 650px; height: 926px\" /></p>\r\n<p>\r\n	◎译　　名　诡秘怪谈/黑魔王/魔法传奇(导演剪辑版)<br />\r\n	◎片　　名　Legend<br />\r\n	◎年　　代　1985<br />\r\n	◎国　　家　美国/英国<br />\r\n	◎类　　别　爱情/冒险/幻想<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中文字幕<br />\r\n	◎IMDB评分 &nbsp;6.2/10 (22,121 votes)<br />\r\n	◎IMDB链接 &nbsp;<a class=\"faqlink\" endcolor=\"FF6600\" href=\"http://www.imdb.com/title/tt0089469\" index=\"0\" startcolor=\"0066ff\" state=\"OFF\" style=\"color: #0066ff\">http://www.imdb.com/title/tt0089469</a><br />\r\n	◎导　　演　雷德利&middot;斯科特 Ridley Scott<br />\r\n	◎主　　演　汤姆&middot;克鲁斯 Tom Cruise &nbsp;....Jack<br />\r\n	　　　　　　米娅&middot;萨拉 Mia Sara &nbsp;....Lili<br />\r\n	　　　　　　蒂姆&middot;克里 Tim Curry &nbsp;....Darkness<br />\r\n	　　　　　　大卫&middot;本奈特 David Bennent &nbsp;....Gump<br />\r\n	　　　　　　Alice Playten &nbsp;....Blix<br />\r\n	　　　　　　Billy Barty &nbsp;....Screwball<br />\r\n	　　　　　　Cork Hubbert &nbsp;....Brown Tom<br />\r\n	　　　　　　Peter O&#39;Farrell &nbsp;....Pox<br />\r\n	　　　　　　Kiran Shah &nbsp;....Blunder<br />\r\n	　　　　　　Annabelle Lanyon &nbsp;....Oona<br />\r\n	　　　　　　Robert Picardo &nbsp;....Meg Mucklebones<br />\r\n	　　　　　　Tina Martin &nbsp;....Nell<br />\r\n	　　　　　　Ian Longmur &nbsp;....Demon Cook<br />\r\n	　　　　　　Mike Crane &nbsp;....Demon Cook<br />\r\n	　　　　　　Liz Gilbert &nbsp;....Dancing Black Dress<br />\r\n	　　　　　　Eddie Powell &nbsp;....Mummified Guard<br />\r\n	　　　　　　Mike Edmonds &nbsp;....Tic (uncredited)<br />\r\n	　<br />\r\n	　　　　　<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	　　故事描述大魔头&ldquo;黑暗&rdquo;准备将这个世界的光亮吞噬，使人类永远生活在黑暗中。森林小子杰克跟他的十一位好友决定联手对抗黑魔王，方法是杀死各地的独角兽。最后，杰克还赢得莉莉公主的芳心，打破了黑魔王迎娶公主的美梦。<br />\r\n	<br />\r\n	◎一句话评论<br />\r\n	<br />\r\n	&quot;No Good without Evil. No Love without Hate. No Innocence without Lust. I am Darkness.&quot;<br />\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120223/18/62564813201202231817242204386041996_003.jpg\" style=\"width: 650px; height: 366px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120223/18/62564813201202231817242204386041996_002.jpg\" style=\"width: 650px; height: 366px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120223/18/62564813201202231817242204386041996_001.jpg\" style=\"width: 650px; height: 366px\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"&#13;&#10;ftp://dy125:piaohua@dy125.piaohua.com:7637/飘花电影piaohua.com黑魔王BD中字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:7637/飘花电影piaohua.com黑魔王BD中字1280高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",417,3639);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15923540-45921.jpg",3641,3726);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}大有前途抢先版国语中字方中信{/dede:field}
+{dede:field name='description'}大有前途抢先版国语中字方中信 王宝强迅雷下载、免费下载，大有前途抢先版国语中字方中信 王宝强Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}大有前途抢先版国语中字方中信 王宝强{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3448/飘花电影piaohua.com大有前途抢先版国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0943F-1L33.jpg{/dede:field}

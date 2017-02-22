@@ -1,0 +1,9 @@
+{dede:field name='keywords'}算计:七天的死亡游戏BD1280高清{/dede:field}
+{dede:field name='description'}算计:七天的死亡游戏BD1280高清中字迅雷下载、免费下载，算计:七天的死亡游戏BD1280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}算计:七天的死亡游戏BD1280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2030/飘花电影piaohua.com算计：七天的死亡游戏.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPK3530-45127.jpg{/dede:field}

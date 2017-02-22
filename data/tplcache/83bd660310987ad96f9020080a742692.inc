@@ -1,0 +1,9 @@
+{dede:field name='keywords'}2011年美国青少年选择奖中文单语{/dede:field}
+{dede:field name='description'}2011年美国青少年选择奖中文单语字幕1024×576迅雷下载、免费下载，2011年美国青少年选择奖中文单语字幕1024×576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}2011年美国青少年选择奖中文单语字幕1024×576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:1052/飘花电影下载站www.piaohua.com2011年美国青少年选择奖1024分辨率.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP4A930-5P23.jpg{/dede:field}

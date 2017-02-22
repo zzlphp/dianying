@@ -1,0 +1,9 @@
+{dede:field name='keywords'}一级病毒下载迅雷下载，免费下载{/dede:field}
+{dede:field name='description'}一级病毒下载迅雷下载、免费下载，一级病毒下载Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}一级病毒下载{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}http://pic.piaohua.com/images/defaultpic.gifalt=一级病毒下载width=120height=150border=0{/dede:field}

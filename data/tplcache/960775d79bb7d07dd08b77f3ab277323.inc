@@ -1,0 +1,9 @@
+{dede:field name='keywords'}鹿鼎记2部BD高清国粤双语迅雷下{/dede:field}
+{dede:field name='description'}鹿鼎记2部BD高清国粤双语迅雷下载、免费下载，鹿鼎记2部BD高清国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}鹿鼎记2部BD高清国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2R440-3W91.jpg{/dede:field}

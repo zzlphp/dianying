@@ -1,0 +1,9 @@
+{dede:field name='keywords'}名侦探柯南剧场版4:瞳孔中的暗杀{/dede:field}
+{dede:field name='description'}名侦探柯南剧场版4:瞳孔中的暗杀者台粤日三声轨中字BD1280高清迅雷下载、免费下载，名侦探柯南剧场版4:瞳孔中的暗杀者台粤日三声轨中字BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}名侦探柯南剧场版4:瞳孔中的暗杀者台粤日三声轨中字BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2044/小八戒电影xiaobajie.com名侦探柯南剧场版4粤台日三语中字1280高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ114310-26238.jpg{/dede:field}

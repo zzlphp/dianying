@@ -1,0 +1,9 @@
+{dede:field name='keywords'}阿波罗18号BD高清迅雷下载，免费{/dede:field}
+{dede:field name='description'}阿波罗18号BD高清迅雷下载、免费下载，阿波罗18号BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}阿波罗18号BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOaFZ-1R08.jpg{/dede:field}

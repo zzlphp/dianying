@@ -1,0 +1,9 @@
+{dede:field name='keywords'}圣斗士星矢剧场版1,:,邪神爱丽丝{/dede:field}
+{dede:field name='description'}圣斗士星矢剧场版1 : 邪神爱丽丝HD国语中字1280高清迅雷下载、免费下载，圣斗士星矢剧场版1 : 邪神爱丽丝HD国语中字1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}圣斗士星矢剧场版1 : 邪神爱丽丝HD国语中字1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2547/飘花电影piaohua.com圣斗士星矢剧场版1邪神爱丽丝HD国语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0SG0-4T94.jpg{/dede:field}

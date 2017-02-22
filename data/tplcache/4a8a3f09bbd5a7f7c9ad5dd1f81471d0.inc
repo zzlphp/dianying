@@ -1,0 +1,9 @@
+{dede:field name='keywords'}星际迷航5BD中英双字1024/1280高{/dede:field}
+{dede:field name='description'}星际迷航5BD中英双字1024/1280高清经典科幻迅雷下载、免费下载，星际迷航5BD中英双字1024/1280高清经典科幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}星际迷航5BD中英双字1024/1280高清经典科幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2126/飘花电影piaohua.com星际迷航5BD中英双字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOb01Z-5Uc.jpg{/dede:field}

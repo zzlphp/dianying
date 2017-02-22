@@ -1,0 +1,9 @@
+{dede:field name='keywords'}红猪BD国日双语中字1024高清经典{/dede:field}
+{dede:field name='description'}红猪BD国日双语中字1024高清经典动画迅雷下载、免费下载，红猪BD国日双语中字1024高清经典动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}红猪BD国日双语中字1024高清经典动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3106/飘花电影piaohua.com红猪BD国日双语中字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ12WP-2G95.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}绝对达令港台剧7迅雷下载，免费{/dede:field}
+{dede:field name='description'}绝对达令港台剧7迅雷下载、免费下载，绝对达令港台剧7Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}绝对达令港台剧7{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3187/飘花电影piaohua.com绝对达令EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP964060-4a58.jpg{/dede:field}

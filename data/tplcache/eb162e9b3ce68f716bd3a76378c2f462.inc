@@ -1,0 +1,9 @@
+{dede:field name='keywords'}小猪历险记/宠物猪猪电影版国英{/dede:field}
+{dede:field name='description'}小猪历险记/宠物猪猪电影版国英双语BD1280高清迅雷下载、免费下载，小猪历险记/宠物猪猪电影版国英双语BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}小猪历险记/宠物猪猪电影版国英双语BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2037/小八戒电影xiaobajie.com小猪历险记国英双语BD1280高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ10c0-31423.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}猫：看见死亡的双眼/猫高清中字B{/dede:field}
+{dede:field name='description'}猫：看见死亡的双眼/猫高清中字BD1280迅雷下载、免费下载，猫：看见死亡的双眼/猫高清中字BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}猫：看见死亡的双眼/猫高清中字BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2001/小八戒电影xiaobajie.com看见死亡的双眼高清中字BD1280.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPQ5C0-23458.jpg{/dede:field}

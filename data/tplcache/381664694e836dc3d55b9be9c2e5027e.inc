@@ -1,0 +1,9 @@
+{dede:field name='keywords'}初恋风暴DVD国语中字2011最新台{/dede:field}
+{dede:field name='description'}初恋风暴DVD国语中字2011最新台湾杨佑宁、陈妍希爱情大片迅雷下载、免费下载，初恋风暴DVD国语中字2011最新台湾杨佑宁、陈妍希爱情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}初恋风暴DVD国语中字2011最新台湾杨佑宁、陈妍希爱情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2583/飘花电影piaohua.com初恋风暴DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOR2540-43333.jpg{/dede:field}

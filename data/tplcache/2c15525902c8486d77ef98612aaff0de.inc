@@ -1,0 +1,9 @@
+{dede:field name='keywords'}冰海沉船BD中英双字1024高清经典{/dede:field}
+{dede:field name='description'}冰海沉船BD中英双字1024高清经典高分剧情迅雷下载、免费下载，冰海沉船BD中英双字1024高清经典高分剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}冰海沉船BD中英双字1024高清经典高分剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3291/飘花电影piaohua.com冰海沉船BD中英双字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP241560-2TT.jpg{/dede:field}

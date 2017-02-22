@@ -1,0 +1,9 @@
+{dede:field name='keywords'}功夫熊猫2BD高清修正字幕迅雷下{/dede:field}
+{dede:field name='description'}功夫熊猫2BD高清修正字幕迅雷下载、免费下载，功夫熊猫2BD高清修正字幕Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}功夫熊猫2BD高清修正字幕{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ19C60-4V59.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}死神来了5BD高清迅雷下载，免费{/dede:field}
+{dede:field name='description'}死神来了5BD高清迅雷下载、免费下载，死神来了5BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}死神来了5BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPLSP-13953.jpg{/dede:field}

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","狱中豪杰/猛男奸狱BD中英双字128",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","狱中豪杰/猛男奸狱BD中英双字1280高清迅雷下载、免费下载，狱中豪杰/猛男奸狱BD中英双字1280高清Gvod高清在线播放，剧情介绍等。",73,237);
+$z[1][4]['name']="description";
+$z[2]=Array("field","狱中豪杰/猛男奸狱BD中英双字1280高清",239,312);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",314,353);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",355,394);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-05",396,446);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img src=\"http://pic.piaohua.com/0701pic/allimg/080810/0946310.jpg\" /></p>\r\n<p>\r\n	【译　　名】《狱中豪杰/猛男奸狱》08最新喜剧大片DVD中字<br />\r\n	【片　　名】Big Stan REPACK<br />\r\n	【年　　代】2008<br />\r\n	【国　　家】美国<br />\r\n	【类　　别】喜剧<br />\r\n	【语　　言】英语<br />\r\n	【字　　幕】英文<br />\r\n	【IMDB评分】6.6/10 (373 Votes)<br />\r\n	【文件格式】XviD + MP3<br />\r\n	【视频尺寸】640 x 352<br />\r\n	【电影整理】3E迅雷电影下载站(www.eee4.com)<br />\r\n	【文件大小】1CD 408MB<br />\r\n	【片　　长】104 Min<br />\r\n	【导　　演】罗伯&middot;施奈德 Rob Schneider<br />\r\n	【主　　演】Tsuyoshi Abe&nbsp; .....Dang<br />\r\n	　　　　　　T.J. Amato&nbsp; .....Waiter #1<br />\r\n	　　　　　　Chris Astoyan&nbsp; .....Italian Inmate<br />\r\n	　　　　　　Erik Betts&nbsp; .....Diamond King Gang Member<br />\r\n	　　　　　　大卫&middot;卡拉丁 David Carradine<br />\r\n	　　　　　　Randy Couture<br />\r\n	　　　　　　Barbara Dodd&nbsp; .....Mrs. Darby<br />\r\n	　　　　　　Federico Dordei&nbsp; .....Farib<br />\r\n	　　　　　　Robert Flores&nbsp; .....Lil rob<br />\r\n	　　　　　　Joseph Fossum-Perez&nbsp; .....Latino Gang Member<br />\r\n	　　　　　　Don Frye<br />\r\n	　　　　　　Kevin Gage&nbsp; .....Bullard</p>\r\n<p>\r\n	【简　　介】：</p>\r\n<p>\r\n	　　罗布是一个身体虚弱，讨人厌的肺病患者。在得知自己因为诈骗要被判入狱一段时间后，由于害怕在监狱里会受欺负<br />\r\n	，于是他急忙寻求一个武师的帮助，在短时间内，速成了一些拳脚功夫。入狱以后，罗布因为有功夫在身，所以生活过得<br />\r\n	很滋润，甚至还因为打败了敌对的狱中帮派而被奉为英雄&hellip;&hellip;3E迅雷<a href=\"/\" target=\"_blank\">电影下载</a>站</p>\r\n\r\n<p>\r\n	【电影截图】：<br />\r\n	电影来源：www.eee4.com<br />\r\n	<img src=\"http://pic.piaohua.com/0701pic/allimg/080810/0947150.jpg\" />&nbsp;<br />\r\n	<img src=\"http://pic.piaohua.com/0701pic/allimg/080810/0946471.jpg\" />&nbsp;<br />\r\n	<img src=\"http://pic.piaohua.com/0701pic/allimg/080810/0947250.jpg\" />&nbsp;<br />\r\n	<img src=\"http://pic.piaohua.com/0701pic/allimg/080810/0946582.jpg\" /></p>\r\n<p>\r\n	08最新喜剧大片《狱中豪杰》DVD中字 －来自[3E迅雷电影站eee4.com]下载地址：<img border=\"0\" src=\"/templets/img/down.jpg\" /></p>\r\n<table align=\"center\" border=\"0\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted\" width=\"95%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#fdfddf\" style=\"word-wrap: break-word\">\r\n				<anchor></anchor><a href=\"ftp://eee4.com:8114@vip11.eee4.com:8114/[3E迅雷电影站www.eee4.com]狱中豪杰DVD中字.rmvb\" target=\"_blank\">ftp://eee4.com:8114@vip11.eee4.com:8114/[3E迅雷电影站www.eee4.com]狱中豪杰DVD中字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table align=\"center\" border=\"0\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted\" width=\"95%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#fdfddf\" style=\"word-wrap: break-word\">\r\n				<anchor></anchor><a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3354/飘花电影piaohua.com猛男奸狱BD中英双字1280高清.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:3354/飘花电影piaohua.com猛男奸狱BD中英双字1280高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",448,3735);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15I3940-3WT.jpg",3737,3819);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,17 @@
+<?php
+$typeArr[1] = '¶¯×÷Æ¬';
+$typeArr[2] = 'Ï²¾çÆ¬';
+$typeArr[3] = '°®ÇéÆ¬';
+$typeArr[4] = '¿Æ»ÃÆ¬';
+$typeArr[5] = '¾çÇéÆ¬';
+$typeArr[6] = 'ÐüÒÉÆ¬';
+$typeArr[7] = 'ÎÄÒÕÆ¬';
+$typeArr[8] = 'Õ½ÕùÆ¬';
+$typeArr[9] = '¿Ö²ÀÆ¬';
+$typeArr[10] = 'ÔÖÄÑÆ¬';
+$typeArr[11] = 'Á¬Ðø¾ç';
+$typeArr[12] = '¶¯Âþ';
+$typeArr[13] = '»³¾É';
+$typeArr[14] = '×ÛÒÕ';
+$typeArr[15] = 'MTV';
+?>

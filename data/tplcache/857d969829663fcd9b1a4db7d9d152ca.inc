@@ -1,0 +1,9 @@
+{dede:field name='keywords'}超级女特工苏菲·玛索战争大片,B{/dede:field}
+{dede:field name='description'}超级女特工苏菲·玛索战争大片 BD中字国语配音1024高清版迅雷下载、免费下载，超级女特工苏菲·玛索战争大片 BD中字国语配音1024高清版Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}超级女特工苏菲·玛索战争大片 BD中字国语配音1024高清版{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:402/飘花电影piaohua.com超级女特工.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP649410-36393.jpg{/dede:field}

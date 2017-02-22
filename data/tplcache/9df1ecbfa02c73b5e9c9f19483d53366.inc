@@ -1,0 +1,9 @@
+{dede:field name='keywords'}战马高清BD1280迅雷下载，免费下{/dede:field}
+{dede:field name='description'}战马高清BD1280迅雷下载、免费下载，战马高清BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}战马高清BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2622/飘花电影piaohua.com战马(雷霆战驹)DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP5OZ-19542.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}亚瑟3：终极对决DVDscr2011最新{/dede:field}
+{dede:field name='description'}亚瑟3：终极对决DVDscr2011最新法国奇幻冒险动画大片迅雷下载、免费下载，亚瑟3：终极对决DVDscr2011最新法国奇幻冒险动画大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}亚瑟3：终极对决DVDscr2011最新法国奇幻冒险动画大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1647/飘花电影piaohua.com亚瑟3：终极对决DVDscr清晰版.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1TW0-3cO.jpg{/dede:field}

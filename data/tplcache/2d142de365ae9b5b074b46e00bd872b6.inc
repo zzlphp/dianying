@@ -1,0 +1,95 @@
+{dede:field name='keywords'}人鬼情未了/第六感生死恋人鬼情{/dede:field}
+{dede:field name='description'}人鬼情未了/第六感生死恋人鬼情未BD中字1280/1024高清迅雷下载、免费下载，人鬼情未了/第六感生死恋人鬼情未BD中字1280/1024高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}人鬼情未了/第六感生死恋人鬼情未BD中字1280/1024高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-14{/dede:field}
+{dede:field name='body'}<p>
+	<img border="0" onclick="if(this.width&gt;screen.width-461) window.open('http://images.blu-ray.com/movies/covers/441_front.jpg');" src="http://images.blu-ray.com/movies/covers/441_front.jpg" /><br />
+	<br />
+	<img alt="" border="0" onload_fckprotectedatt="%20onload%3D%22attachimg(this%2C%20'load')%22" src="http://i3.6.cn/cvbnm/00/9b/b1/fc0059c506d5b3012a170178e11b448c.jpg" /></p>
+<p>
+	◎译　　名　《人鬼情未了/第六感生死恋》美国怀旧经典爱情大片BD中英双字1024x576高清版（附国语版）<br />
+	◎片　　名　Ghost<br />
+	◎类　　别　惊悚/爱情/幻想/喜剧/剧情<br />
+	◎年　　代　1990<br />
+	◎国　　家　美国<br />
+	◎语　　言　英语<br />
+	◎字　　幕　中英双字<br />
+	◎IMDB评分&nbsp; 6.8/10 (28,175 votes&nbsp; &nbsp; &nbsp; &nbsp;<br />
+	◎文件格式　BD-RMVB<br />
+	◎视频尺寸　1024 x 576<br />
+	◎文件大小　1CD<br />
+	◎导　　演　杰里&bull;朱克 Jerry Zucker<br />
+	◎主　　演　乌比&bull;戈德堡 Whoopi Goldberg .... Oda Mae Brown<br />
+	　　　　　　戴米&bull;摩尔 Demi Moore .... Molly Jensen<br />
+	　　　　　　帕特里克&bull;斯韦兹 Patrick Swayze .... Sam Wheat<br />
+	　　　　　　托尼&bull;高德温 Tony Goldwyn .... Carl Bruner<br />
+	　　　　　　文森特&bull;斯克亚维利 Vincent Schiavelli .... Subway Ghost<br />
+	　　　　　　Rick Aviles .... Willie Lopez, Burgler<br />
+	　　　　　　阿尔玛&bull;比尔特来 Alma Beltran .... Woman Ghost<br />
+	　　　　　　Augie Blunt .... Orlando<br />
+	　　　　　　Gail Boggs .... Oda Mae&#39;s Sister<br />
+	　　　　　　Vivian Bonnell .... Ortisha<br />
+	　　　　　　Faye Brenner .... Nun at St. Joseph&#39;s Shelter for the Homeless<br />
+	　　　　　　Sharon Breslau .... Cemetery Ghost<br />
+	　　　　　　Susan Breslau .... Susan<br />
+	　　　　　　William Cort .... Bank Co-Worker<br />
+	　　　　　　Thom Curley .... Workman in Loft<br />
+	<br />
+	◎简　　介<br />
+	<br />
+	&nbsp; &nbsp; 萨姆与未婚妻美莉搬进了由朋友卡尔帮忙换来的一套漂亮公寓，年轻的银行职员萨姆与未婚妻美莉相爱至深。他们正在进行结婚前的准备。一天晚上他们看戏归来时，却受到了歹徒的抢劫。在搏斗中萨姆中枪身亡，美莉悲痛欲绝。而萨姆变成了一个幽灵。他很快就发现原来是朋友卡尔竟然是导致他死亡的主谋。为了窃取银行里的巨款，他想要获得萨姆所掌握的秘码。如今他又对美莉展开了追求。<br />
+	<br />
+	　　萨姆渐渐地学会了如何使用力量。他常常游荡于美莉的周围，时刻保护着她，但却无法交流。为了制止卡尔，他找到了一位能与幽灵沟通的灵媒奥塔，并通过她与美莉取得联系。起初美莉并不相信。但事实终于使她感受到了萨姆的存在。然而深深相爱的两个人却无法直接接触和交流。为了保护美莉，惩罚凶手，萨姆对卡尔展开了报复。他取出了被卡尔窃取的巨款，并且使卡尔的几个手下遭到了报应。气急败坏的卡尔想要伤害美莉。幸亏奥塔和萨姆及时赶到。面对充满了仇恨的幽灵，卡尔终于自取灭亡。完成了心愿的萨姆终即将前往天堂。在消失之前，美莉终于见到了显出身形的萨姆。两人紧紧地相拥&hellip;&hellip;<br />
+	<br />
+	幕后制作<br />
+	<br />
+	爱情片经典之作<br />
+	<br />
+	&nbsp; &nbsp; &nbsp; 一部20世纪90年代初风靡全球、赚尽影迷眼泪、令无数铁汉也为之动容的经典爱情片<a href="http://www.eee4.com/" target="_blank">电影下载</a>《人鬼情未了》（Ghost），该片集浪漫爱情与冒险冲突于一体，在一段生离死别的爱情故事中探寻阴阳相隔的神秘世界，再现了生死不渝的真情境界。在1991年上映的前四个月就突破了两亿美元的票房，至今仍被人们认为是爱情片经典之作。<br />
+	<br />
+	&nbsp; &nbsp; &nbsp; 从故事结构上来看，《人鬼情未了》讲述的只是一个普通的生死别离的爱情故事，但编导却能够别出心栽，将故事的发展设置在一个独特的边缘地带&mdash;&mdash;阴阳界之间。因而这又成为一部鬼片、一部幻想片。男女主人公苦苦相爱，但终因阴阳陌路不能相见互吐衷情。影片正是借鬼魂幽灵产生了一系列的悬念和曲折离奇的情节，观众沉浸在虚幻与真实之中，时而欢乐，时而忧伤，时而为正义所鼓舞，最终被主人公生死不渝的爱情所感动。<br />
+	<br />
+	出神入化的角色<br />
+	<br />
+	&nbsp; &nbsp; 故事之所以能打动人心，出色的角色演绎也是成功的关键。主角帕特里克&middot;斯威兹和戴咪&middot;摩尔都有超水准的发挥，尤其是戴咪&middot;摩尔的忘情表演让观众如醉如痴，深情感动，体现了一流明星的风采。甚至可以说是演出了他们各自的最高水平，因为之后两人几乎再也没有任何角色和演绎技巧能超过本片。<br />
+	<br />
+	&nbsp; &nbsp; 特别值得一提的是片中最出神入化的角色&mdash;&mdash;长相古怪的乌比&middot;戈德堡，她把一个好心肠却小心眼的人物演绎得活灵活现，举手投足和每个眼神、表情变化间，无不显露出她出色的演技。本来，这应该说是一部爱情悲剧，但影片巧妙地把恐怖和幽默融合在一起，仍不乏轻松活跃之处。尤其是黑人演员乌比比&middot;戈德堡的幽默诙谐，处处让观众发出会心的笑声，将喜剧成分巧妙地溶入悲剧之中，在严肃中透露出几丝欢乐，既为观众所乐见，又对加深影片主题有深刻影响。可以说，影片如果没有她一定会失色不少！此后，她也一贯这类角色蜚声影坛。而通过<a href="http://www.eee4.com/" target="_blank">迅雷电影下载</a>本片她得到了舆论的一致好评，同时也为自己带来了不少大奖的荣誉，其中包括奥斯卡小金人和金球奖等。<br />
+	<br />
+	难忘的主题曲<br />
+	<br />
+	&nbsp; &nbsp; 一部精彩的电影之所以受欢迎，故事、音乐、表演等方面缺一不可，而本片正是把这些方面都结合得很完美，所以，影片经得起时间的考验、显得很耐看！至今仍被人们列为经典之作。影片通过流畅的叙述，把一个浪漫、凄美的爱情故事演绎得荡气回肠、催人泪下，更巧妙的是配以悠扬乐曲，与片中故事完美结合，给观众一种超脱、唯美的精神享受。主旋律&ldquo;奔放的旋律&rdquo;（UnchainedMelody）中一声声的呼唤，是超越任何人间界限的对爱人的呼唤。该曲由法国作曲家莫里斯&middot;贾尔（MauriceJarre）所作，&ldquo;正义兄弟&rdquo;演唱。它既增强了故事的形式美感，又为真挚的爱情增添了无穷的浪漫色彩，因而至今盛行不衰。<br />
+	<br />
+	&nbsp; &nbsp; 片中大量采用当时较为先进的特效，创造出恰到好处的悬念和逼真的气氛效果，使男主人公可以穿墙越壁，忽隐忽现，无所不能，这无疑又令观众瞠目结舌。虽然与当今的数码合成技术相比有不少差距，但对于一部有点年头和以情动人的片子来说，仍然值得称赞，要知道在当时可是最高水准的。 <br />
+	<br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('http://img.album.pchome.net/54/71/13/78/c23272aa2ef14e8c124c926ff37d8c4a.jpg');" src="http://img.album.pchome.net/54/71/13/78/c23272aa2ef14e8c124c926ff37d8c4a.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /><br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('http://img.album.pchome.net/54/71/13/78/6354e20ddeb9eaace0269cc24813ee09.jpg');" src="http://img.album.pchome.net/54/71/13/78/6354e20ddeb9eaace0269cc24813ee09.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /><br />
+	<br />
+	<br />
+	美国怀旧经典爱情大片《人鬼情未了》BD中英双字 [下载地址]：<img border="0" src="http://www.eee4.com/templets/img/down.jpg" /></p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://3e:3e@www2.eee4.com:686/[www.eee4.cn提供]人鬼情未了BD中英双字1024x576高清版.rmvb" target="_blank">ftp://3e:3e@www2.eee4.com:686/[www.eee4.cn提供]人鬼情未了BD中英双字1024x576高清版.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2805/飘花电影piaohua.com人鬼情未了BD中英双字1280高清版.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2805/飘花电影piaohua.com人鬼情未了BD中英双字1280高清版.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://e16:e16@xl2.eee4.com:9306/[3E电影站www.eee4.com]人鬼情未了DVD国语中字无水印.rmvb" target="_blank">ftp://e16:e16@xl2.eee4.com:9306/[3E电影站www.eee4.com]人鬼情未了DVD国语中字无水印.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O15O43P-33161.jpg{/dede:field}

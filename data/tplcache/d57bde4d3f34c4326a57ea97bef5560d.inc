@@ -1,0 +1,9 @@
+{dede:field name='keywords'}最后的狮子BD中英双字1024高清20{/dede:field}
+{dede:field name='description'}最后的狮子BD中英双字1024高清2011纪录片迅雷下载、免费下载，最后的狮子BD中英双字1024高清2011纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}最后的狮子BD中英双字1024高清2011纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2548/飘花电影piaohua.com最后的狮子BD中英双字1024高清2011纪录片.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ396230-2M39.jpg{/dede:field}

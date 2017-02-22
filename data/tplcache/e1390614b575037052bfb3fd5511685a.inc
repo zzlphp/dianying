@@ -1,0 +1,9 @@
+{dede:field name='keywords'}猛鬼街2BD中英双字1280高清经典{/dede:field}
+{dede:field name='description'}猛鬼街2BD中英双字1280高清经典恐怖惊悚迅雷下载、免费下载，猛鬼街2BD中英双字1280高清经典恐怖惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}猛鬼街2BD中英双字1280高清经典恐怖惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2237/飘花电影piaohua.com猛鬼街2BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPL15P-54523.jpg{/dede:field}

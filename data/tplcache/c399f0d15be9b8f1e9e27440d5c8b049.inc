@@ -1,0 +1,9 @@
+{dede:field name='keywords'}非凡舞团电影版第二部BD1280中英{/dede:field}
+{dede:field name='description'}非凡舞团电影版第二部BD1280中英双字美国歌舞片迅雷下载、免费下载，非凡舞团电影版第二部BD1280中英双字美国歌舞片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}非凡舞团电影版第二部BD1280中英双字美国歌舞片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2021/飘花电影piaohua.com非凡舞团电影版第二部BD1280中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0UF-23409.jpg{/dede:field}

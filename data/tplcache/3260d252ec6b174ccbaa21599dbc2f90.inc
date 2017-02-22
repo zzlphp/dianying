@@ -1,0 +1,9 @@
+{dede:field name='keywords'}翻糖花园更新第13集[国语字幕]20{/dede:field}
+{dede:field name='description'}翻糖花园更新第13集[国语字幕]2012台湾偶像剧迅雷下载、免费下载，翻糖花园更新第13集[国语字幕]2012台湾偶像剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}翻糖花园更新第13集[国语字幕]2012台湾偶像剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2893/飘花电影piaohua.com翻糖花园01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP94O0-3Q08.jpg{/dede:field}

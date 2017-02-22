@@ -1,0 +1,9 @@
+{dede:field name='keywords'}哈特之战/哈特的战争DVD国语配音{/dede:field}
+{dede:field name='description'}哈特之战/哈特的战争DVD国语配音经典战争迅雷下载、免费下载，哈特之战/哈特的战争DVD国语配音经典战争Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}哈特之战/哈特的战争DVD国语配音经典战争{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy444:piaohua@dy444.piaohua.com:424/飘花电影piaohua.com哈特之战DVD国语配音.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPA5130-3O42.jpg{/dede:field}

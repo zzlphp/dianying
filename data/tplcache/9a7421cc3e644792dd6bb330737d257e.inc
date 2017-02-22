@@ -1,0 +1,9 @@
+{dede:field name='keywords'}2011韩国小姐HD中字迅雷下载，免{/dede:field}
+{dede:field name='description'}2011韩国小姐HD中字迅雷下载、免费下载，2011韩国小姐HD中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}2011韩国小姐HD中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2045/飘花电影piaohua.com2011韩国小姐HD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3R140-1OI.jpg{/dede:field}

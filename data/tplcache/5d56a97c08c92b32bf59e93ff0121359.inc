@@ -1,0 +1,9 @@
+{dede:field name='keywords'}孟买日记,河边的男洗衣工BD1280{/dede:field}
+{dede:field name='description'}孟买日记 河边的男洗衣工BD1280高清迅雷下载、免费下载，孟买日记 河边的男洗衣工BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}孟买日记 河边的男洗衣工BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOR5H0-264c.jpg{/dede:field}

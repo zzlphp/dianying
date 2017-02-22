@@ -1,0 +1,9 @@
+{dede:field name='keywords'}兵临城下之决战要塞高清1024版BD{/dede:field}
+{dede:field name='description'}兵临城下之决战要塞高清1024版BD国语版2012最新战争动作大片迅雷下载、免费下载，兵临城下之决战要塞高清1024版BD国语版2012最新战争动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}兵临城下之决战要塞高清1024版BD国语版2012最新战争动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3035/飘花电影piaohua.com兵临城下之决战要塞高清1024版BD国语版.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP593b0-243X.jpg{/dede:field}

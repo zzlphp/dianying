@@ -1,0 +1,9 @@
+{dede:field name='keywords'}泡吧侦探DVD中字2011最新日本动{/dede:field}
+{dede:field name='description'}泡吧侦探DVD中字2011最新日本动作历史大片迅雷下载、免费下载，泡吧侦探DVD中字2011最新日本动作历史大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}泡吧侦探DVD中字2011最新日本动作历史大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3345/飘花电影piaohua.com泡吧侦探DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO432120-35451.jpg{/dede:field}

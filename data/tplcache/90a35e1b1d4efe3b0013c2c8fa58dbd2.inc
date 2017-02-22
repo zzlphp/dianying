@@ -1,0 +1,9 @@
+{dede:field name='keywords'}极度恐慌迅雷下载，免费下载，Gv{/dede:field}
+{dede:field name='description'}极度恐慌迅雷下载、免费下载，极度恐慌Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}极度恐慌{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-06-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPT5940-13D1.jpg{/dede:field}

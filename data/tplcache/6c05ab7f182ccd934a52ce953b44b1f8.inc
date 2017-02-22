@@ -1,0 +1,9 @@
+{dede:field name='keywords'}温馨家庭/亲子关系BD1280高清中{/dede:field}
+{dede:field name='description'}温馨家庭/亲子关系BD1280高清中字迅雷下载、免费下载，温馨家庭/亲子关系BD1280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}温馨家庭/亲子关系BD1280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2010/飘花电影piaohua.com温馨家庭BD1280高清中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0AO0-3B42.jpg{/dede:field}

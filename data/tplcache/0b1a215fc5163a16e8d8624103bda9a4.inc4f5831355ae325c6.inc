@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","抢救切尔诺贝利[DVD中字]迅雷下",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","抢救切尔诺贝利[DVD中字]迅雷下载、免费下载，抢救切尔诺贝利[DVD中字]Gvod高清在线播放，剧情介绍等。",72,212);
+$z[1][4]['name']="description";
+$z[2]=Array("field","抢救切尔诺贝利[DVD中字]",214,275);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",277,316);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",318,357);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2009-02-27",359,409);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P>◎译　　名　《抢救切尔诺贝利》07揭秘震惊世界的核泄漏科教纪录片DVD中字<BR>◎片　　名　Discovery The Battle Of Chernobyl<BR>◎年　　代　2007<BR>◎国　　家　美国<BR>◎类　　别　科教/纪录<BR>◎语　　言　英语<BR>◎字　　幕　中文字幕<BR>◎IMDB评分 N/A<BR>◎文件格式　RMVB<BR>◎视频尺寸　640x384 (1.85:1)<BR>◎文件大小　425MB<BR>◎片　　长　92 mins<BR>◎导　　演　N/A<BR>◎主　　演　N/A<BR><BR>◎简　　介　<BR>回首当年 <BR>　　<BR>　　１９８６年４月２６日凌晨的１点２３分，前苏联乌克兰地区切尔诺贝利核电站的一声爆炸，带来了人类和平使用核能历史上的一次最大的惨剧。本月２６日，世界将迎来切尔诺贝利核泄漏事故２０周年纪念，２０年过去了，人们仍然不能忘记心头这一久久挥之不去的阴影。<BR>　　<BR>　　<BR>　　于乌克兰北部的切尔诺贝利风景优美，周围松树和白桦树林茂密，森林内布满河流和各种珍禽异兽，而且人口众多。前苏联1973年开始在这里修建切尔诺贝利核电站，于1977年正式激活。 <BR>　　<BR>　　1986年4月26日凌晨1时许，随着一声震天动地的巨响，火光四起，烈焰冲天，火柱高达30多米。切尔诺贝利核电站4号核反应堆发生爆炸，其厂房屋顶被炸飞、墙壁坍塌，当场死亡2人。 <BR>事故发生的当天，不知情的消防员伤亡惨重<BR>但是多亏他们，才避免了后来的二次爆炸<BR>20年过去了，很多当年的士兵们已经因为过量的辐射死去了，但是这些英雄却是应<A href=\"http://www.eee4.com/\" target=_blank>电影下载</A>该被人们铭记在心的。<BR>想知道真正的核爆炸的威力吗？想知道人类玩火的最高境界吗？想知道销毁核弹头的国际法是因何产生的吗？看看这部记录片吧。</P>\r\n<P><IMG src=\"http://www.eee4.com/0701pic/allimg/090226/7.jpg\"></P>\r\n<P>【电影截图】：<BR>电影来源：www.eee4.com <BR><IMG alt=\"\" src=\"http://img.album.pchome.net/54/68/96/83/12355594932b74044ef3395544e00875efdd6de478.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"http://img.album.pchome.net/54/68/96/83/123555949330274743a3dbf449e073505f9d2b1f0f.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"http://img.album.pchome.net/54/68/96/83/1235559493424187a6774e19808da3c3cec7500502.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"http://img.album.pchome.net/54/68/96/83/1235559493aafc3fe2f3ec19a77a619b9937d4be58.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"http://img.album.pchome.net/54/68/96/83/12355594934a2f33d1495f06db2c76a4184219636f.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"http://img.album.pchome.net/54/68/96/83/1235559493f53a65e4fc1ee987df86a7802d6a8315.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"></P>\r\n<P>2009-02-26 13:35:12 开始连接......<BR>2009-02-26 13:35:12 开始搜索候选资源......<BR>2009-02-26 13:35:12 搜索到22个候选资源<BR>2009-02-26 13:35:12 使用候选资源进行连接......<BR>2009-02-26 13:35:13 搜索到41个候选资源<BR>2009-02-26 13:35:13 使用候选资源进行连接......<BR>2009-02-26 13:35:13 文件创建成功，开始下载数据......<BR>2009-02-26 13:35:16 用户取消下载&nbsp;&nbsp; 本文来自：www.eee4.com</P>（一律使用<A href=\"http://www.eee4.com/soft.htm\" target=_blank>迅雷下载</A>）<BR>07揭秘震惊世界的核泄漏科教纪录片《抢救切尔诺贝利》DVD中字 －来自[www.eee4.com]：<IMG src=\"http://www.eee4.com/templets/img/down.jpg\" border=0><BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf><A href=\"ftp://e17:e17@xl2.eee4.com:9219/[3E电影站www.eee4.com]抢救切尔诺贝利.rmvb\" target=_blank>ftp://e17:e17@xl2.eee4.com:9219/[3E电影站www.eee4.com]抢救切尔诺贝利.rmvb</A></TD></TR></TBODY></TABLE>",411,4070);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O16151360-341V.jpg",4072,4156);
+$z[7][4]['name']="litpic";
+
+?>

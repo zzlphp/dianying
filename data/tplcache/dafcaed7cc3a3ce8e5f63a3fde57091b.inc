@@ -1,0 +1,9 @@
+{dede:field name='keywords'}送死/鬼4厉泰国2011最新恐怖片HD{/dede:field}
+{dede:field name='description'}送死/鬼4厉泰国2011最新恐怖片HD中字迅雷下载、免费下载，送死/鬼4厉泰国2011最新恐怖片HD中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}送死/鬼4厉泰国2011最新恐怖片HD中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:104/飘花电影piaohua.com惊魂DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP13240-5N61.jpg{/dede:field}

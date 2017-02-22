@@ -1,0 +1,9 @@
+{dede:field name='keywords'}Naoko/奈绪子/纯爱练习曲BD1280{/dede:field}
+{dede:field name='description'}Naoko/奈绪子/纯爱练习曲BD1280高清迅雷下载、免费下载，Naoko/奈绪子/纯爱练习曲BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}Naoko/奈绪子/纯爱练习曲BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@dy241.piaohua.com:2049/小八戒电影xiaobajie.com奈緒子中字720p.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOS33P-59116.jpg{/dede:field}

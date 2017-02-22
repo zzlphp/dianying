@@ -1,0 +1,9 @@
+{dede:field name='keywords'}TT3D:触摸极限BD中英双字1280高{/dede:field}
+{dede:field name='description'}TT3D:触摸极限BD中英双字1280高清2011纪录片迅雷下载、免费下载，TT3D:触摸极限BD中英双字1280高清2011纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}TT3D:触摸极限BD中英双字1280高清2011纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2304/飘花电影piaohua.comTT3D触摸极限BD中英双字1280高清2011纪录片.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ391940-22a0.jpg{/dede:field}

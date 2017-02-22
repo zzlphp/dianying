@@ -1,0 +1,9 @@
+{dede:field name='keywords'}堡垒(天狱飞龙)DVD中字2011最新{/dede:field}
+{dede:field name='description'}堡垒(天狱飞龙)DVD中字2011最新美国动作大片迅雷下载、免费下载，堡垒(天狱飞龙)DVD中字2011最新美国动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}堡垒(天狱飞龙)DVD中字2011最新美国动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2943/飘花电影piaohua.com堡垒(天狱飞龙)DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO462X0-2V60.jpg{/dede:field}

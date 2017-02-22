@@ -1,0 +1,9 @@
+{dede:field name='keywords'}仁显王后的男人日韩剧10迅雷下载{/dede:field}
+{dede:field name='description'}仁显王后的男人日韩剧10迅雷下载、免费下载，仁显王后的男人日韩剧10Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}仁显王后的男人日韩剧10{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3359/飘花电影piaohua.com仁显王后的男人EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP944N0-59563.jpg{/dede:field}

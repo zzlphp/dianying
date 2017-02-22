@@ -1,0 +1,9 @@
+{dede:field name='keywords'}摩登保镖BD1280高清国粤双语迅雷{/dede:field}
+{dede:field name='description'}摩登保镖BD1280高清国粤双语迅雷下载、免费下载，摩登保镖BD1280高清国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}摩登保镖BD1280高清国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2022/飘花电影piaohua.com摩登保镖BD1280高清国粤双语.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO6014F-164L.jpg{/dede:field}

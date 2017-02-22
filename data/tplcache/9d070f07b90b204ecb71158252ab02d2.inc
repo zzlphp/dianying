@@ -1,0 +1,9 @@
+{dede:field name='keywords'}我为喜剧狂/摇滚30//超级制作人{/dede:field}
+{dede:field name='description'}我为喜剧狂/摇滚30//超级制作人第六季22迅雷下载、免费下载，我为喜剧狂/摇滚30//超级制作人第六季22Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}我为喜剧狂/摇滚30//超级制作人第六季22{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2652/飘花电影piaohua.com超级制作人第六季1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPacZ-59149.jpg{/dede:field}

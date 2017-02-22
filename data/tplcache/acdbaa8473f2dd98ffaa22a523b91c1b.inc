@@ -1,0 +1,9 @@
+{dede:field name='keywords'}科里奥兰纳斯/大将军寇流兰王者{/dede:field}
+{dede:field name='description'}科里奥兰纳斯/大将军寇流兰王者逆袭DVD中英双字2011最新惊悚剧情迅雷下载、免费下载，科里奥兰纳斯/大将军寇流兰王者逆袭DVD中英双字2011最新惊悚剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}科里奥兰纳斯/大将军寇流兰王者逆袭DVD中英双字2011最新惊悚剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3193/飘花电影piaohua.com大将军寇流兰王者逆袭DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP224I0-42Y7.jpg{/dede:field}

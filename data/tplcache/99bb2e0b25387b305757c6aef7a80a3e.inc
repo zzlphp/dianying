@@ -1,0 +1,9 @@
+{dede:field name='keywords'}猛男军中鬼故事DVD国语中字2011{/dede:field}
+{dede:field name='description'}猛男军中鬼故事DVD国语中字2011新加坡恐怖迅雷下载、免费下载，猛男军中鬼故事DVD国语中字2011新加坡恐怖Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}猛男军中鬼故事DVD国语中字2011新加坡恐怖{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3360/飘花电影piaohua.com猛男军中鬼故事DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPHJ20-4O02.jpg{/dede:field}

@@ -1,0 +1,252 @@
+BODY {
+	BACKGROUND-IMAGE: url(../images/bg.jpg); PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.8; BACKGROUND-COLOR: #fff; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-POSITION: 0px 108px; COLOR: #333; FONT-SIZE: 9pt; PADDING-TOP: 0px
+}
+A {
+	COLOR: #106492; TEXT-DECORATION: none
+}
+IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.nos {
+	DISPLAY: none
+}
+.l {
+	FLOAT: left
+}
+.r {
+	FLOAT: right
+}
+.clear {
+	CLEAR: both
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.img {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; WIDTH: 120px; PADDING-RIGHT: 2px; DISPLAY: block; FLOAT: left; HEIGHT: 150px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 2px
+}
+.img:hover {
+	BORDER-BOTTOM-COLOR: #ff6600; BORDER-TOP-COLOR: #ff6600; BORDER-RIGHT-COLOR: #ff6600; BORDER-LEFT-COLOR: #ff6600
+}
+#top {
+	MARGIN: 0px auto; WIDTH: 1000px; HEIGHT: 110px
+}
+#top #tl {
+	WIDTH: 205px; FLOAT: left; HEIGHT: 70px; OVERFLOW: hidden; PADDING-TOP: 25px
+}
+#top #tr {
+	WIDTH: 785px; FLOAT: right; HEIGHT: 100px
+}
+#top #tr P {
+	TEXT-ALIGN: right; LINE-HEIGHT: 30px; MARGIN: 0px; DISPLAY: block; HEIGHT: 30px; COLOR: #0067b0
+}
+#top #tr P A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; PADDING-TOP: 0px
+}
+#top #tr #trl {
+	BORDER-BOTTOM: #d1dbe7 1px solid; BORDER-LEFT: #d1dbe7 1px solid; BACKGROUND-COLOR: #f7f7ff; PADDING-LEFT: 1px; DISPLAY: block; FLOAT: left; HEIGHT: 61px; BORDER-TOP: #d1dbe7 1px solid; BORDER-RIGHT: #d1dbe7 1px solid; PADDING-TOP: 1px
+}
+#top #tr #trl LI {
+	BACKGROUND-IMAGE: url(../images/ico1.gif); PADDING-BOTTOM: 0px; LINE-HEIGHT: 25px; PADDING-LEFT: 8px; WIDTH: 172px; PADDING-RIGHT: 8px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 0px 11px; FLOAT: left; HEIGHT: 25px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#top #tr #trr {
+	WIDTH: 312px; FLOAT: right
+}
+#top #tr #trr FORM {
+	BACKGROUND-IMAGE: url(../images/tsouu.jpg); PADDING-LEFT: 20px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; HEIGHT: 36px
+}
+#top #tr #trr .k {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; LINE-HEIGHT: 18px; BACKGROUND-COLOR: #f7f7ff; MARGIN: 8px; WIDTH: 190px; FLOAT: left; HEIGHT: 18px; COLOR: #666; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+#top #tr #trr P {
+	TEXT-ALIGN: left; LINE-HEIGHT: 25px; HEIGHT: 25px; PADDING-TOP: 5px
+}
+#menu {
+	BACKGROUND-IMAGE: url(../images/mubg.jpg); LINE-HEIGHT: 38px; WIDTH: 1000px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right 0px; HEIGHT: 38px; MARGIN-LEFT: auto; FONT-SIZE: 14px; MARGIN-RIGHT: auto
+}
+#menu UL {
+	BACKGROUND-IMAGE: url(../images/mubg.jpg); DISPLAY: block; BACKGROUND-REPEAT: no-repeat; HEIGHT: 38px
+}
+#menu LI {
+	BACKGROUND-IMAGE: url(../images/mujg.jpg); TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; FLOAT: left; PADDING-TOP: 0px
+}
+#menu .nobg {
+	BACKGROUND-IMAGE: none
+}
+#menu A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#menu A:hover {
+	COLOR: #000
+}
+#main {
+	MARGIN: 5px auto; WIDTH: 1000px
+}
+#main .pad {
+	PADDING-BOTTOM: 5px; CLEAR: both; PADDING-TOP: 5px
+}
+#main #im {
+	PADDING-BOTTOM: 20px; PADDING-TOP: 5px
+}
+#main #im #iml {
+	WIDTH: 588px; FLOAT: left
+}
+#main #im #iml LI {
+	TEXT-ALIGN: center; WIDTH: 126px; PADDING-RIGHT: 20px; DISPLAY: block; FLOAT: left; HEIGHT: 215px
+}
+#main #im #iml STRONG {
+	LINE-HEIGHT: 30px; WIDTH: 126px; DISPLAY: block; HEIGHT: 30px; FONT-SIZE: 14px; OVERFLOW: hidden
+}
+#main #im #iml SPAN {
+	LINE-HEIGHT: 100%; DISPLAY: block; COLOR: #000
+}
+#main #im #iml .img {
+	FLOAT: none
+}
+#main #im #imr {
+	WIDTH: 410px; FLOAT: right
+}
+#main #im #imr DT {
+	LINE-HEIGHT: 25px; BACKGROUND-COLOR: #00a3da; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; HEIGHT: 25px; COLOR: #fff
+}
+#main #im #imr DT A {
+	COLOR: #fff
+}
+#main #im #imr DT A:hover {
+	COLOR: #feda00
+}
+#main #im #imr DD {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; WIDTH: 410px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+#main #im #imr DD A {
+	BACKGROUND-IMAGE: url(../images/ico1.gif); PADDING-BOTTOM: 0px; LINE-HEIGHT: 25px; MARGIN: 0px; PADDING-LEFT: 15px; WIDTH: 180px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 5px 11px; FLOAT: left; HEIGHT: 25px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#main #link {
+	BORDER-BOTTOM: #bfe4ff 1px solid; BORDER-LEFT: #bfe4ff 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BORDER-TOP: #bfe4ff 1px solid; BORDER-RIGHT: #bfe4ff 1px solid; PADDING-TOP: 3px
+}
+#main #dir {
+	BORDER-BOTTOM: #bfe4ff 1px solid; BORDER-LEFT: #bfe4ff 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 25px; BACKGROUND-COLOR: #f7f7ff; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BORDER-TOP: #bfe4ff 1px solid; BORDER-RIGHT: #bfe4ff 1px solid; PADDING-TOP: 0px
+}
+#main .tk {
+	BORDER-BOTTOM: #bfe4ff 1px solid; BORDER-LEFT: #bfe4ff 1px solid; LINE-HEIGHT: 25px; BACKGROUND-COLOR: #f7f7ff; BORDER-TOP: #bfe4ff 1px solid; BORDER-RIGHT: #bfe4ff 1px solid
+}
+#main #im #nml .page {
+	TEXT-ALIGN: right; LINE-HEIGHT: 30px; MARGIN: 5px 0px; PADDING-RIGHT: 6px; HEIGHT: 30px; COLOR: #106492; FONT-SIZE: 14px; FONT-WEIGHT: 700
+}
+#main #im #nml {
+	WIDTH: 740px; FLOAT: left
+}
+#main #im #nml #list {
+	WIDTH: 740px
+}
+#main #im #nml #list DL {
+	WIDTH: 354px; PADDING-RIGHT: 15px; DISPLAY: block; FLOAT: left; HEIGHT: 180px
+}
+#main #im #nml #list DT {
+	DISPLAY: block; FLOAT: left
+}
+#main #im #nml #list DD {
+	WIDTH: 215px; DISPLAY: block; FLOAT: right
+}
+#main #im #nml #list DD STRONG {
+	LINE-HEIGHT: 30px; DISPLAY: block; HEIGHT: 30px; FONT-SIZE: 14px
+}
+#main #im #nml #list DD P {
+	PADDING-BOTTOM: 6px; LINE-HEIGHT: 18px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: 90px; OVERFLOW: hidden; PADDING-TOP: 6px
+}
+#main #im #nml #list DD SPAN {
+	DISPLAY: block; COLOR: #0067b0
+}
+#main #im #nml #show H3 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 45px; DISPLAY: block; COLOR: #106492; FONT-SIZE: 16px
+}
+#main #im #nml #show #showdesc {
+	HEIGHT: 160px
+}
+#main #im #nml #show #showdesc DIV {
+	LINE-HEIGHT: 18px; WIDTH: 600px; FLOAT: right
+}
+#main #im #nml #show #showdesc DIV P {
+	MARGIN: 0px; DISPLAY: block; HEIGHT: 55px; CLEAR: both; OVERFLOW: hidden; PADDING-TOP: 7px
+}
+#main #im #nml #show #showdesc SPAN {
+	BACKGROUND-COLOR: #f1f2f7; PADDING-LEFT: 5px; DISPLAY: block
+}
+#main #im #nml #show #showdown {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+#main #im #nml #show #showdown #dbt {
+	BACKGROUND-IMAGE: url(../images/dico.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 90px 5px; COLOR: red; FONT-SIZE: 14px; FONT-WEIGHT: 700
+}
+#main #im #nml #show #showdown P {
+	BORDER-BOTTOM: #ccc 1px dashed; BORDER-LEFT: #ccc 1px dashed; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #fdfedf; MARGIN-TOP: 5px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; DISPLAY: block; MARGIN-BOTTOM: 5px; BORDER-TOP: #ccc 1px dashed; BORDER-RIGHT: #ccc 1px dashed; PADDING-TOP: 0px
+}
+#main #sou LI {
+	BACKGROUND-IMAGE: url(../images/line.gif); DISPLAY: block; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 0px bottom; HEIGHT: 170px; PADDING-TOP: 10px
+}
+#main #sou LI P {
+	LINE-HEIGHT: 20px; MARGIN: 0px; WIDTH: 860px; DISPLAY: block; FLOAT: right
+}
+#main #sou LI P STRONG {
+	LINE-HEIGHT: 45px; DISPLAY: block; FONT-SIZE: 14px
+}
+#main .spage {
+	TEXT-ALIGN: right; LINE-HEIGHT: 32px; COLOR: #106492; FONT-SIZE: 14px
+}
+#main .spage A {
+	PADDING-LEFT: 10px
+}
+#main #im #nmr {
+	WIDTH: 250px; FLOAT: right
+}
+#main #im #nmr .list {
+	BORDER-BOTTOM: #dde2e5 1px solid; BORDER-LEFT: #dde2e5 1px solid; BACKGROUND-COLOR: #f3f8fe; MARGIN-BOTTOM: 8px; BORDER-TOP: #dde2e5 1px solid; BORDER-RIGHT: #dde2e5 1px solid
+}
+#main #im #nmr .list STRONG {
+	BORDER-BOTTOM: #dde2e5 1px solid; LINE-HEIGHT: 25px; PADDING-LEFT: 15px; DISPLAY: block; HEIGHT: 25px; COLOR: #106492; FONT-SIZE: 14px
+}
+#main #im #nmr .list LI {
+	BACKGROUND-IMAGE: url(../images/line.gif); PADDING-BOTTOM: 5px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 0px bottom; HEIGHT: 43px; COLOR: #106492; PADDING-TOP: 5px
+}
+#main #im #nmr .list LI SPAN {
+	TEXT-ALIGN: center; LINE-HEIGHT: 43px; WIDTH: 30px; DISPLAY: block; FLOAT: left; COLOR: #c7d0d9; FONT-SIZE: 24px
+}
+#bot {
+	BACKGROUND-IMAGE: url(../images/bbg.jpg); TEXT-ALIGN: center; PADDING-BOTTOM: 10px; BACKGROUND-REPEAT: repeat-x; COLOR: #666; PADDING-TOP: 10px
+}
+A:hover {
+	COLOR: red
+}
+.red {
+	COLOR: red
+}
+#main #link A {
+	PADDING-RIGHT: 15px
+}
+#main #im #nml .page A {
+	PADDING-RIGHT: 15px
+}

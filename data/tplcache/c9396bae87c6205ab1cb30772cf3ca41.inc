@@ -1,0 +1,9 @@
+{dede:field name='keywords'}双截棍/双节棍DVD国语中字2012最{/dede:field}
+{dede:field name='description'}双截棍/双节棍DVD国语中字2012最新上映中国动作大片迅雷下载、免费下载，双截棍/双节棍DVD国语中字2012最新上映中国动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}双截棍/双节棍DVD国语中字2012最新上映中国动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2946/飘花电影piaohua.com双节棍DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4C630-19649.jpg{/dede:field}

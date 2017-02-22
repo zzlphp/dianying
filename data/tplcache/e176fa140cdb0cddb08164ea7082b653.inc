@@ -1,0 +1,9 @@
+{dede:field name='keywords'}仁粹大妃第48集[韩语中字]2011韩{/dede:field}
+{dede:field name='description'}仁粹大妃第48集[韩语中字]2011韩国TBC周末剧迅雷下载、免费下载，仁粹大妃第48集[韩语中字]2011韩国TBC周末剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}仁粹大妃第48集[韩语中字]2011韩国TBC周末剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2572/飘花电影piaohua.com仁粹大妃01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP95530-59101.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}扭曲的规则BD中英双字1024高清20{/dede:field}
+{dede:field name='description'}扭曲的规则BD中英双字1024高清2012动作剧情迅雷下载、免费下载，扭曲的规则BD中英双字1024高清2012动作剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}扭曲的规则BD中英双字1024高清2012动作剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3401/飘花电影piaohua.com扭曲的规则BD中英双字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0G440-43131.jpg{/dede:field}

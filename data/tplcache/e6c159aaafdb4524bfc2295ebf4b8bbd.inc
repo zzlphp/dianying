@@ -1,0 +1,9 @@
+{dede:field name='keywords'}生化总动员高清迅雷下载，免费下{/dede:field}
+{dede:field name='description'}生化总动员高清迅雷下载、免费下载，生化总动员高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}生化总动员高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO492020-12K7.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}鬼域高清BD1280迅雷下载，免费下{/dede:field}
+{dede:field name='description'}鬼域高清BD1280迅雷下载、免费下载，鬼域高清BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}鬼域高清BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7803/飘花电影piaohua.com鬼域BD粤语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPI2530-524Z.jpg{/dede:field}

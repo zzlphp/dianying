@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","91神雕侠侣/九一神雕侠侣[DVD国",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","91神雕侠侣/九一神雕侠侣[DVD国语＋粤语中字]迅雷下载、免费下载，91神雕侠侣/九一神雕侠侣[DVD国语＋粤语中字]Gvod高清在线播放，剧情介绍等。",72,250);
+$z[1][4]['name']="description";
+$z[2]=Array("field","91神雕侠侣/九一神雕侠侣[DVD国语＋粤语中字]",252,332);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",334,373);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",375,414);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-01-24",416,466);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG src=\"/uploads/allimg/c120525/133O024QV0-52100.jpg\"><BR><BR><BR>◎译　　名　 《91神雕侠侣/九一神雕侠侣》香港经典科幻爱情喜剧动作片DVD国语＋粤语中字<BR>◎片　　名　 Saviour Of The Soul 1991 <BR>◎年　　代　 1991 <BR>◎国　　家　 香港 <BR>◎类　　别　 动作 剧情 奇幻 爱情 科幻 <BR>◎语　　言　 国语＋粤语 <BR>◎字　　幕　 中文 <BR>◎IMDB评分　 6.3/10 ( 351票 ) <BR>◎IMDB链接　 http://www.imdb.com/title/tt0104322 <BR>◎文件格式　 X264.DVD.500K+AAC <BR>◎视频尺寸　 640 x 352 <BR>◎文件大小　 397.8 MiB <BR>◎片　　长　 01:32:37.035 <BR>◎导　　演　 黎大炜David Lai <BR>　　　　　　 元奎Corey Yuen <BR>◎编　　剧　 王家卫Kar Wai Wong....writer <BR>　　　　　　 刘镇伟Jeffrey Lau....writer <BR>◎主　　演 　叶蕴仪 Gloria Yip ....Wai Heung <BR>　　　　　　 刘嘉玲 Carina Lau ....Pet Lady <BR>　　　　　　 方家煌 Henry Fong ....Fox's3e Master <BR>　　　　　　 刘德华 Andy Lau ....Ching <BR>　　　　　　 梅艳芳 Anita Mui ....Yiu May-kwan <BR>　　　　　　 郭富城 Aaron Kwok ....Silver Fox <BR>　　　　　　 钟镇涛 Kenny Bee ....Siu Chuen <BR>　　　　　　 潘宏彬 Wang Ban Poon <BR>　　　　　　 元奎 Corey Yuen <BR>　　　　　　 方平 Henry Fong <BR>　　　　　　 潘芳芳 Fong Fong Poon <BR>　　　　　　 陈美琪 Chan Mei Kei <BR>　　　　　　 叶晨 San Yip <BR>　　　　　　 陈佩珊 Joanna Chan </P>\r\n<P>◎简　　介 <BR><BR>浪漫情怀 时装动作武侠片 ... <BR>　　不明确的未来时空，几个城市雇佣兵间的错综复杂的爱情故事，最后合力战胜恐怖天使和银狐。 <BR>　　潮东、忠村及容航3人均是捉捕悬赏缉犯的城市雇佣兵。忠村最早对容表露爱情，而容心只属潮东。因容击伤了杀手银狐好友老鹰，而被银狐追杀。在一次行动中忠村被银所杀，而银被容所伤；容为了潮东安危，忍痛离开他。忠村遗下的16岁妹妹美惠，也被潮东训练成城市雇佣兵，两人相处后渐生情憬。 一年后，容航突然出现，原来她不幸中了恐怖天使毒。潮东带着两女逃亡，为了医好毒伤，容用意志战胜恐怖天使，众人合力打败银狐。 <BR><BR><B>◎幕　　后 <BR></B><BR>　　这是刘德华自任老板，创办天幕电影下载公司所拍摄的最成功的作品，票房、口碑都非常理想，新颖的武打设计更令人赞赏。本片虽取名\"九一神雕侠侣\"，却和金庸的名著《神雕侠侣》没多大关系，但编剧王家卫一样描述了一段刻骨铭心的爱情，一样包含着侠客柔情。浪漫奇诡的武侠世界，换上超现代的新衣，加上卡通漫画化的处理，使《九一神雕侠侣》成为相当新颖好玩之作。不少观众可能会嫌此片很卡通、很癫，很不顺眼，但此片癫得花样百出，颇有创意，受到日本卡通很大影响，把东方和西方的奇幻迷情结合起来，特别适合新派青春观众，是九一年少数拍出奇采的港片之一。本片荣获第十一届香港电影金像奖最佳摄影，武打设计也相当精彩，刘德华、梅艳芳、郭富城、钟镇涛、刘嘉玲等众多大牌影星的加盟则使影片更为鲜亮好看。 </P>\r\n<P>【电影截图】：<BR><BR><IMG src=\"/uploads/allimg/c120525/133O024RP-63U8.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120525/133O024S360-Na7.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120525/133O024S920-S249.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120525/133O024T540-913c.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120525/133O024U130-10R57.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120525/133O024UE0-113006.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120525/133O024Uc0-124C6.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120525/133O024V530-13Ja.jpg\">&nbsp;<BR></P>【网盘高速下载地址】:(直接点击下面链接)<BR>香港多明星经典科幻爱情喜剧动作片《91神雕侠侣》DVD国语中字<BR>香港多明星经典科幻爱情喜剧动作片《91神雕侠侣》DVD粤语中字<BR><BR>香港多明星经典科幻爱情喜剧动作片《91神雕侠侣》DVD国语＋粤语中字 [下载地址]：<IMG src=\"/uploads/allimg/c120524/133N295542P-105L6.jpg\" border=0><BR>国语：<BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://3e:3e@www2.3edyy.com:3876/【3E电影院www.3edyy.com】91神雕侠侣DVD国语中字.rmvb</TD></TR></TBODY></TABLE>粤语：<BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://3e:3e@www2.3edyy.com:3876/【3E电影院www.3edyy.com】91神雕侠侣DVD粤语中字.rmvb</TD></TR></TBODY></TABLE>",468,4746);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O024VL0-144514.jpg",4748,4832);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,72 @@
+{dede:field name='keywords'}夺命煞星宝莱坞2BD中英双字1280{/dede:field}
+{dede:field name='description'}夺命煞星宝莱坞2BD中英双字1280高清印度2011动作惊悚迅雷下载、免费下载，夺命煞星宝莱坞2BD中英双字1280高清印度2011动作惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}夺命煞星宝莱坞2BD中英双字1280高清印度2011动作惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-29{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://apollo.s.dpool.sina.com.cn/nd/dataent/moviepic/pics/216/moviepic_2b9b268d95ac496fedffc1be9848cc64.jpg" /></p>
+
+<p>
+	◎译　　名　追踪再现2/夺命煞星宝莱坞2：再度追击<br />
+	◎片　　名　Don 2<br />
+	◎年　　代　2011<br />
+	◎国　　家　印度/德国<br />
+	◎类　　别　动作/犯罪/剧情/神秘/惊悚<br />
+	◎语　　言　北印度语/英语/德语<br />
+	◎字　　幕　中英双字幕<br />
+	◎IMDB评分 7.0/10 from 11,667 users<br />
+	◎文件格式　BD-RMVB<br />
+	◎视频尺寸　1280 x 720<br />
+	◎文件大小　1CD<br />
+	◎片　　长　2:27:52<br />
+	◎导　　演　法拉汗&middot;阿克塔尔 Farhan Akhtar<br />
+	◎主　　演　沙鲁克&middot;罕 Shahrukh Khan&nbsp; ....Don<br />
+	　　　　　　朴雅卡&middot;乔普拉 Priyanka Chopra&nbsp; ....Roma<br />
+	　　　　　　欧姆&middot;普瑞 Om Puri&nbsp; ....CBI Officer Vishal Malik<br />
+	　　　　　　博曼&middot;伊拉尼 Boman Irani&nbsp; ....Vardhaan<br />
+	　　　　　　弗罗里安&middot;卢卡斯 Florian Lukas&nbsp; ....Det. Jens Berkel<br />
+	　　　　　　拉娜&middot;杜塔 Lara Dutta&nbsp; ....Ayesha<br />
+	　　　　　　Senta Dorothea Kirschner&nbsp; ....Hostage<br />
+	　　　　　　Sameera Reddy<br />
+	　　　　　　Kunal Kapoor&nbsp; ....Sameer<br />
+	　　　　　　Wolfgang Stegemann&nbsp; ....Karl<br />
+	　　　　　　马丁&middot;高尔斯 Martin Goeres&nbsp; ....Jabbar&#39;s Goon<br />
+	　　　　　　Hans-Eckart Eckhardt&nbsp; ....President of Court<br />
+	　　　　　　Frank Christian Marx&nbsp; ....Hostage<br />
+	　　　　　　Alexander Yassin&nbsp; ....Politician<br />
+	　　　　　　Hurair Khan&nbsp; ....Don&#39;s new sidekick<br />
+	　　　　　　Rajesh Khattar&nbsp; ....Singhania<br />
+	　　　　　　Nicolas Walier&nbsp; ....SEK Officer<br />
+	　　　　　　Bianca Karsten&nbsp; ....Sophie Kohl<br />
+	　　　　　　Ralf Tillmann&nbsp; ....Jabbar&#39;s Goon 11<br />
+	　　　　　　Sten Jacobs&nbsp; ....Police-Officer<br />
+	　　　　　　Hermann Eppert&nbsp; ....Hostage<br />
+	　　　　　　Martina Ysker&nbsp; ....Crying hostage<br />
+	　　　　　　Marco Ammer&nbsp; ....Hostage (uncredited)</p>
+<p>
+	◎简　　介　</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Don（沙鲁克汗饰演）是亚洲黑道龙头，旗下管理亚洲毒品市场，Don希望可以拓展市场，并且计划偷取德国中央银行（德国央行）的印钞版，为了达成这个完美犯罪，他与昔日仇敌维德汉（波曼伊拉尼饰演）握手言和，协助他逃狱，并找来计算机黑客高手山穆尔（库拿卡普饰演），计划夺取印钞板模，为了达成目的，他甚至恐吓央行副总裁迪万（阿力汗饰演）。在这次的行动中，他再次与萝玛重逢，萝玛（普丽卡乔普拉饰演）对他恨之入骨，希望可以缉捕归案。这一场王者殊死战，在德国重新展开，到底Don这次又会有什么样的奇谋犯罪了呢？</p>
+<p>
+	&nbsp;<img alt="" border="0" src="http://62.imagebam.com/download/wzVDleq2PcZWW8WOMLOA8Q/18729/187284629/1.jpg" /></p>
+<p>
+	<img alt="" border="0" src="http://19.imagebam.com/download/GbzmS3aVp_sjdTrwnqoj0g/18729/187284632/2.jpg" /></p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" />&nbsp;&nbsp;&nbsp;</p>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="word-break: break-all; line-height: 18px" width="100%">
+				在线观看地址：<a href="http://www.xiaozhizhu.netftp://dy44:piaohua@dy44.piaohua.com:3193/" target="_blank">http://www.xiaozhizhu.net</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="word-break: break-all; line-height: 18px" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3315/飘花电影piaohua.com夺命煞星宝莱坞2BD中英双字1280高清.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3315/飘花电影piaohua.com夺命煞星宝莱坞2BD中英双字1280高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O15643310-1R22.jpg{/dede:field}

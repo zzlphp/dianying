@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","三尖树时代(三脚妖之日)高清1280",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","三尖树时代(三脚妖之日)高清1280版BD中字2010英国科幻恐怖动作大迅雷下载、免费下载，三尖树时代(三脚妖之日)高清1280版BD中字2010英国科幻恐怖动作大Gvod高清在线播放，剧情介绍等。",73,287);
+$z[1][4]['name']="description";
+$z[2]=Array("field","三尖树时代(三脚妖之日)高清1280版BD中字2010英国科幻恐怖动作大",289,387);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",389,428);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",430,469);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-02-18",471,521);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120218/11/56643687201202181156461901621390531_004.jpg\" /></p>\r\n\r\n<p>\r\n	◎译　　名　三尖树时代/三脚妖之日/三叶草在行动/三脚树时代<br />\r\n	◎片　　名　The Day of the Triffids<br />\r\n	◎年　　代　2009<br />\r\n	◎国　　家　英国/加拿大<br />\r\n	◎类　　别　动作/恐怖/科幻/惊悚<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中字<br />\r\n	◎IMDB评分 5.7/10 (1373 votes)<br />\r\n	◎文件格式　高清1280版BD-RMVB<br />\r\n	◎视频尺寸　1280 x 720<br />\r\n	◎文件大小　1CD 822MB<br />\r\n	◎片　　长　93 mins<br />\r\n	◎导　　演　尼克&middot;库帕斯 Nick Copus<br />\r\n	◎主　　演　布赖恩&middot;考克斯 Brian Cox .... Dennis Mason (unconfirmed)<br />\r\n	詹神&middot;普里斯特里 Jason Priestley .... Coker (unconfirmed)<br />\r\n	道格利&middot;斯科特 Dougray Scott .... Bill Mason (unconfirmed)<br />\r\n	乔莉&middot;理查森 Joely Richardson .... Jo Playton (unconfirmed)<br />\r\n	范尼莎&middot;雷德格雷夫 Vanessa Redgrave .... Durrant (unconfirmed)<br />\r\n	艾迪&middot;伊扎德 Eddie Izzard .... Torrence<br />\r\n	艾文&middot;布莱纳 Ewen Bremner .... Walter (unconfirmed)<br />\r\n	肖恩&middot;泰勒 Shane Taylor .... Osman (unconfirmed)<br />\r\n	诺拉-简&middot;努内 Nora-Jane Noone .... Lucy<br />\r\n	Genevieve O&#39;Reilly .... Michelle (unconfirmed)<br />\r\n	托尼&middot;毛德斯莱 Tony Maudsley .... Policeman<br />\r\n	Jenn Murray .... Susan<br />\r\n	Adam Sinclair .... Ashdown<br />\r\n	史蒂文&middot;埃尔德 Steven Elder .... Dr. Kotch<br />\r\n	Forbes KB .... Fighting Blind Man<br />\r\n	Julia Joyce .... Imogen<br />\r\n	Simon Lowe .... The Producer<br />\r\n	William Ilkley .... Jeff (unconfirmed)<br />\r\n	Simon Naylor .... Ged<br />\r\n	Karl Rhodes .... Lay Brother</p>\r\n<p>\r\n	◎简　　介　</p>\r\n<p>\r\n	　　《三角树时代》是英国科幻作家约翰&middot;温德姆（John Wyndham）1951年发表的灾难科幻小说，故事讲述了一场流星雨让绝大多数人类眼睛都瞎了，这时一种基因工程创造的超智能植物&ldquo;三角树&rdquo;乘机发动了对人类的攻击，大肆吞噬人类。<br />\r\n	《三角树时代》1961年曾被英国人搬上过大银幕，1981年又被拍成电视剧，2009年BBC又将其再度制作成电视剧。</p>\r\n<p>\r\n	<br />\r\n	&nbsp;</p>\r\n<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120218/11/56643687201202181156461901621390531_000.jpg\" style=\"width: 600px; height: 338px\" /></p>\r\n\r\n<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120218/11/56643687201202181156461901621390531_001.jpg\" style=\"width: 600px; height: 338px\" /></p>\r\n\r\n<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120218/11/56643687201202181156461901621390531_002.jpg\" style=\"width: 600px; height: 338px\" /></p>\r\n\r\n<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120218/11/56643687201202181156461901621390531_003.jpg\" style=\"width: 600px; height: 338px\" /></p>\r\n\r\n<p>\r\n	[下载地址]： &nbsp;<img border=\"0\" src=\"/0701pic/allimg/120110/01223C617-5.jpg\" /></p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				&nbsp;<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2842/飘花电影piaohua.com三尖树时代(三脚妖之日)高清1280版BD中字.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:2842/飘花电影piaohua.com三尖树时代(三脚妖之日)高清1280版BD中字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",523,3810);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15920050-54N7.jpg",3812,3896);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}蛋炒饭高清迅雷下载，免费下载，{/dede:field}
+{dede:field name='description'}蛋炒饭高清迅雷下载、免费下载，蛋炒饭高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蛋炒饭高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3029/飘花电影piaohua.com2011蛋炒饭HD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO639210-33922.jpg{/dede:field}

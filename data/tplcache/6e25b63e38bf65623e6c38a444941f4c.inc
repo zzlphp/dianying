@@ -1,0 +1,131 @@
+{dede:field name='keywords'}家园/地球很美有赖你/卢贝松之抢{/dede:field}
+{dede:field name='description'}家园/地球很美有赖你/卢贝松之抢救地球[DVD中英双字1280x720高清迅雷下载、免费下载，家园/地球很美有赖你/卢贝松之抢救地球[DVD中英双字1280x720高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}家园/地球很美有赖你/卢贝松之抢救地球[DVD中英双字1280x720高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}<p>
+	◎译　　名　《家园/地球很美有赖你/卢贝松之抢救地球》09年法国最新纪录大片DVD中英双字1280x720高清版<br />
+	◎片　　名　Home<br />
+	◎年　　代　2009<br />
+	◎国　　家　法国<br />
+	◎类　　别　纪录片<br />
+	◎语　　言　英语<br />
+	◎IMDB评分 7.9/10 (16 votes)<br />
+	◎片　　长　93 Min<br />
+	◎官方网站：http://www.bluemv.com<br />
+	◎导　　演　扬恩．亚瑟 Yann Arthus-Bertrand<br />
+	◎监　　制　吕克．贝松 luc besson<br />
+	◎主　　演　Glenn Close... Narrator (voice)</p>
+<p>
+	◎简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 介</p>
+<p>
+	自人类出现下地球上的二十万年以来，这个星球历经近四十亿年演化所建立起的平衡，不再井然有序。我们为此付出的代价太过高昂，但现下不是悲观的时刻－－人类还有十年能扭转这股趋向、了解过去我们巧取豪夺地球丰饶资源的完整真相，并改变人类的消耗模式。<br />
+	　　国际摄影大师亚祖贝彤（YannArthus-Bertrand）(亦有译作∶雅安?亚瑟斯－伯特兰)为我们带来他走访超过五十个国家，以客观的角度阐述地球的诞生、演变以及地球现今所面临的种种问题，片中由空中俯瞰所拍摄的独特画面，分享他的惊奇与忧心，而他的作品，也立下一个我们必将共同重建的浩大工程基石。<br />
+	&nbsp; 我们居住的这个蓝色星球已经存在了45亿年，她孕育出来的万千物种长期一直相互依存。但只迅雷电影下载有20万年历史的人类，却快速掌控了这个星球并为所欲为，过度索取资源，打破了亿万年来的固有生态平衡。在《Home》里面，我们了解到∶为了满足日益增长的食物需要，全球一半的谷物用于饲养提供肉类的牲口，生产1公斤牛肉就需要消耗1万3千升的水；为了生产纸浆而砍伐原始森林大量种植桉树，生物的多样性被人为破坏，快速生长的桉树，抽干了地下的水分，快速消耗地球的资源。过去50年，人类对地球的改变，比前面20万年还要多，令这个美丽的蓝星球千疮百孔∶大河断流，资源枯竭；冰川冰冠快速减少，气温上升，气候反常；森林消失，物种灭绝......</p>
+<p>
+	<img alt="" border="0" height="731" onclick="if(this.width&gt;screen.width-461) window.open('http://img2.pict.com/8c/ee/a3/25f1dc16e6ab068e5f3a4ce4f1/2npMs/mfile342676692.jpg');" src="http://img2.pict.com/8c/ee/a3/25f1dc16e6ab068e5f3a4ce4f1/2npMs/mfile342676692.jpg" style="width: 511px; height: 761px" width="469" /></p>
+<p>
+	20％的世界人口消耗了80％的地球资源<br />
+	全球军费开支多于援助开发中国家经费的12倍<br />
+	每天有5千人死于受污染的食水，10亿人没有干净的饮用水<br />
+	10亿人在饱受饥饿<br />
+	全球超过50％销售的谷物用于喂食牲口与生化燃料上<br />
+	全球40％耕地质量下降<br />
+	每年有1300万平方公引的林地给毁灭<br />
+	1/4的哺乳动物、1/8的羽族、1/3的两栖动物濒临绝种，生物品种的死亡率快于自然速度1000倍<br />
+	75％的渔产品已耗尽或面临耗尽<br />
+	过去15年的平均温度是有纪录以来的最高<br />
+	冰冠的浓度40年来减少了40％<br />
+	到2050年，可能导致多达2亿的气候难民<br />
+	&nbsp;&nbsp;&nbsp; 长此以往，电影《Wall-E》里面，整个地球变成垃圾场的命运将不再是科幻情节，也不再遥远，但人类有能力整体移居外星球的日子还遥遥无期，人类正在毁灭自己唯一的家园！<br />
+	&nbsp; 人类早已是地球的统治者，但不能再充当肆意妄为、目光短浅的独裁者，而应该作为地球的管理者，用智慧的远见，与其他所有物种去共同分享、去挽救去持续保育我们赖以生存的家园。让我们欣慰的是，许多国家、许多人已经在行动∶以取之不尽的太阳能、风能替代不可再生的石油、煤炭；重植林木，建立起更多的自然保护区；有节制可持续再生地伐木和捕鱼；减少使用、替代、再用、循环、回收，做一个负责任的消费者&hellip;&hellip;<br />
+	&nbsp;&nbsp;&nbsp; 正如《Home》影片最后所传达的讯息∶&ldquo;现下已不再是悲观的时候，让我们立即联手，重要的不是我们失去了什么，而是我们剩下的还有什么。&rdquo;是继续破坏直至毁灭还是行动起来拯救我们唯一的家园？答案就在你的一念之间！</p>
+<p>
+	驰誉国际摄影宝典《EARTH FROM ABOVE&ldquo;空中看地球&rdquo;》* 作者法国著名平面摄影师恩亚祖贝特杭(YannArthus-Bertrand)，遇上了电影奇才洛比桑，将美不胜收的世界光影搬上了大银幕；随着摄影大师动人的镜头，我们走进美得令人怀疑这些地方是否人类的家─地球。</p>
+<p>
+	《HOME》可说是《空中看地球》的电影版，恩亚祖贝特杭花了15年时间筹备，走访50个国家拍摄，由澳洲海底的大堡礁到非洲肯亚高原的乞力马扎罗山；亚玛逊热带雨林到戈壁沙漠；美国德萨斯州连绵不断的棉花田到中国上海的工业城镇。</p>
+<p>
+	如诗如画的美景唤醒世人，乐观地珍视我们仍然保有的50%雨林，而非只电影下载着眼那失去的一半；更重要是地球60亿人类都应该醒觉，我们的责任所在&hellip;&hellip;<br />
+	以行动支持为地球打气<br />
+	&nbsp;&nbsp;&nbsp; 立基电影参与2009全球环保盛事，呈献年度环保电影《地球很美有赖你》， UA影院与TVB破天荒合作，于6月5日&ldquo;联合国世界环保日&rdquo;，联同其他87个国家参与单位，全球同步发放《地球很美有赖你》。</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 《地球很美有赖你》香港版，由陈志云作粤语旁述，于UA朗豪坊、UA Megabox戏院上映，并只收取象征式票价港币二十元，以行动支持推广环保。</p>
+<p>
+	空前震撼票价<br />
+	&nbsp;&nbsp;&nbsp; 《地》片是首部能够打破媒体限制、市场限制、地域限制，真正做到全球同步跨媒体公映。UA朗豪坊、UAMegabox和TVB于6月5日&ldquo;联合国世界环保日&rdquo;起，观众便可以大小同价港币二十元，欣赏以有别于一般菲林的高清数码播放技术，透过华丽大银幕，随着陈志云动人声线带领，走遍地球瑰丽天堂。TVB明珠台则配合行动，于6月5日晚上8时拨出时段，同步播映唯一的一次电视版本。</p>
+<p>
+	世界环保盛事<br />
+	&nbsp;&nbsp;&nbsp; 《地》片是摄影集《空中看地球》法国著名平面摄影师恩亚祖贝特杭(YannArthus-Bertrand)的电影作品，过去数年《空》图片展览会的参观人次已打破１亿！是次电影版伙同著名导演洛比桑，花了15年时间筹备，在1年半时间内走访54个国家、120个地区取景，总拍摄时间加在一起等于217天。影片将提供14种语言版本，在超过87个国家同步公映。</p>
+<p>
+	高清瑰丽呈献<br />
+	&nbsp;&nbsp;&nbsp; 除了高清数码播放技术的协助，《地》片之所以能令观众像翱翔天际的雀鸟般，于云上俯瞰地球各处瑰丽地貌，全靠一群摄影经验老到的工作人员倾力呈献。</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 从高空要拍摄出高清细致画面，对摄影器材要求就要很严谨。拍摄《地》片所用的，正是&ldquo;陀螺稳定式高清摄录机&rdquo;(Gyro-Stabilized Cineflex HD)，一般应用于军事侦察、空中搜救等任务，可以远距离捕捉细微景物。</p>
+<p>
+	&nbsp;&nbsp; 单是为配合拍摄的仪器已重达120公斤，要装嵌于空间有限的直升机上，是件非常困难的事。拥有十二年飞行拍摄经验、曾任恩亚祖电视版《空中看地球》助手的TanguyThuaud表示，他们每次也要换上不同的直升机，机长也是不能特定的。他们要逐次重覆把仪器装上、折卸，而拍出来的影片质素有6成都是有赖机长的驾驶稳定性而言，用上二百多天拍摄，绝对不是夸大其辞。</p>
+<p>
+	【效果截图】：<br />
+	<br />
+	<img border="0" src="/uploads/allimg/c120525/133O095K360-24356.jpg" />&nbsp;<br />
+	<img border="0" src="/uploads/allimg/c120525/133O095LL0-3RQ.jpg" />&nbsp;<br />
+	<img border="0" src="/uploads/allimg/c120525/133O095M560-4I62.jpg" />&nbsp;<br />
+	<img border="0" src="/uploads/allimg/c120525/133O095N30-56401.jpg" /></p>
+<br />
+<p>
+	（一律使用迅雷下载）<br />
+	09年法国最新纪录大片《家园》DVD中英双字1280x720高清版 [2009/06/16 下载地址]：<img border="0" src="http://www.eee4.com/templets/img/down.jpg" /></p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				ftp://3e:3e@www2.eee4.com:309/[3E电影站www.eee4.com]家园DVD中英双字1280x720高清版.rmvb</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<p>
+	（一律使用迅雷下载）<br />
+	09年法国最新纪录大片《卢贝松之抢救地球/家园》DVD中字 【版本一 972分辨率】：<img border="0" src="http://www.eee4.com/templets/img/down.jpg" /><br />
+	CD1：</p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://3e:3e@www2.eee4.com:606/[3E电影站www.eee4.com]家园CD1.rmvb</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	CD2：</p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://3e:3e@www2.eee4.com:606/[3E电影站www.eee4.com]家园CD2.rmvb</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<p>
+	09年法国最新纪录大片《卢贝松之抢救地球/家园》DVD中字 【版本二 624分辨率】：<img border="0" src="http://www.eee4.com/templets/img/down.jpg" /><br />
+	CD1：</p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://3e:3e@www2.eee4.com:606/[3E电影站www.eee4.com]卢贝松之抢救地球CD1.rmvb</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	CD2：</p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				</anchor>ftp://3e:3e@www2.eee4.com:606/[3E电影站www.eee4.com]卢贝松之抢救地球CD2.rmvb</td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O095O520-MI4.jpg{/dede:field}

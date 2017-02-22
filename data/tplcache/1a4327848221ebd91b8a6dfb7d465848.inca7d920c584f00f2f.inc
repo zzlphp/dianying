@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","人生/傲笑江湖BD1280高清中字迅",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","人生/傲笑江湖BD1280高清中字迅雷下载、免费下载，人生/傲笑江湖BD1280高清中字Gvod高清在线播放，剧情介绍等。",72,220);
+$z[1][4]['name']="description";
+$z[2]=Array("field","人生/傲笑江湖BD1280高清中字",222,287);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",289,328);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",330,369);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-23",371,421);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O0W61c0-25W57.jpg\" /></p>\r\n<p>\r\n	◎译　　名　人生/傲笑江湖<br />\r\n	◎片　　名　Life<br />\r\n	◎年　　代　1999<br />\r\n	◎国　　家　美国<br />\r\n	◎类　　别　喜剧/犯罪/剧情<br />\r\n	◎IMDB评分&nbsp;&nbsp;6.2/10 from 20,344 users<br />\r\n	◎IMDB链接&nbsp;&nbsp;http://www.imdb.com/title/tt0123964/<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　<br />\r\n	◎片　　长　108 mins 31 seconds<br />\r\n	◎导　　演　泰德&middot;戴米 Ted Demme<br />\r\n	◎主　　演　艾迪&middot;墨菲 Eddie Murphy ....Rayford Gibson<br />\r\n	　　　　　　马丁&middot;劳伦斯 Martin Lawrence ....Claude Banks<br />\r\n	　　　　　　Obba Babatund&eacute; ....Willie Long<br />\r\n	　　　　　　尼克&middot;卡索维茨 Nick Cassavetes ....Sergeant Dillard<br />\r\n	　　　　　　安东尼&middot;安德森 Anthony Anderson ....Cookie<br />\r\n	　　　　　　Barry Shabaka Henley ....Pokerface<br />\r\n	　　　　　　布赖特&middot;詹宁斯 Brent Jennings ....Hoppin&#39; Bob<br />\r\n	　　　　　　伯尼&middot;麦克 Bernie Mac ....Jangle Leg<br />\r\n	　　　　　　小米盖尔-A&middot;努耐兹 Miguel A. N&uacute;?ez Jr. ....Biscuit<br />\r\n	　　　　　</p>\r\n<p>\r\n	◎简　　介<br />\r\n	<br />\r\n	　　故事发生在美国实行禁酒令的年代，小扒手雷（艾迪&middot;墨菲 饰）和爱小赌两把的准银行行员克劳（马丁&middot;劳伦斯 饰）在因缘际会的情况下，必须为史班吉（瑞克&middot;詹姆斯 饰）运送私酒。<br />\r\n	<br />\r\n	　　然而原本只是到密西西比买酒的两人却在坏心警长的陷害下，被诬告犯下谋杀罪而获判终生监禁；无辜入狱的雷和克劳两个人由原本一见面就吵架的对头冤家，在朝夕相处下渐渐培养出互相依赖的情谊，在漫长而无聊的牢狱生涯里，两人心中共同的希望便是有朝一日能脱离这座牢笼，因而想出无数次千奇百怪的越狱计划，却也在不知不觉间渡过了六十余年的牢狱生活&hellip;&hellip;<br />\r\n	<br />\r\n	<br />\r\n	◎一句话评论<br />\r\n	<br />\r\n	Share it with someone you love.<br />\r\n	<br />\r\n	<br />\r\n	◎幕后制作<br />\r\n	<br />\r\n	　　艾迪&middot;墨菲Eddie Murphy和马丁&middot;劳伦斯Martin Lawrence的第二次合作，饰演这两个倒霉透顶的家伙。当两位主角出场时，所有人都预期将会有令人捧腹大笑的场面出现，但本片并非直奔主题的喜剧片，事实上，伤感甚至痛苦的片段并不少见，但始终围绕着对生活的热爱和希望，这正是本品的珍贵之处。&nbsp;</p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O0W63250-262056.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O0W63930-2KQ6.jpg\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O0W64620-2XH2.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"/uploads/allimg/c120525/133O0T31310-42214.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：http://www.xiaobajie.com</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				ftp://dy241:piaohua@117.41.229.29:2034/飘花电影piaohua.com人生BD1280高清中字.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",423,3698);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O0WA320-292159.jpg",3700,3784);
+$z[7][4]['name']="litpic";
+
+?>

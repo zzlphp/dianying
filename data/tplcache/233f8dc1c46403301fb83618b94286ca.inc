@@ -1,0 +1,9 @@
+{dede:field name='keywords'}钻石夜总会-20110918迅雷下载，{/dede:field}
+{dede:field name='description'}钻石夜总会-20110918迅雷下载、免费下载，钻石夜总会-20110918Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}钻石夜总会-20110918{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1040/飘花电影piaohua.com钻石夜总会-20110605.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ510W0-43U3.jpg{/dede:field}

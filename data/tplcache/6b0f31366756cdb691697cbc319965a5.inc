@@ -1,0 +1,9 @@
+{dede:field name='keywords'}大海啸迅雷下载，免费下载，Gvod{/dede:field}
+{dede:field name='description'}大海啸迅雷下载、免费下载，大海啸Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}大海啸{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-01-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPT2240-12096.jpg{/dede:field}

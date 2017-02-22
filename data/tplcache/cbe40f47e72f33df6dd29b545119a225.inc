@@ -1,0 +1,9 @@
+{dede:field name='keywords'}如果723/谨以此纪念7.23温州动车{/dede:field}
+{dede:field name='description'}如果723/谨以此纪念7.23温州动车事故中的遇难者迅雷下载、免费下载，如果723/谨以此纪念7.23温州动车事故中的遇难者Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}如果723/谨以此纪念7.23温州动车事故中的遇难者{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPY530-36208.jpg{/dede:field}

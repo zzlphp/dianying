@@ -1,0 +1,9 @@
+{dede:field name='keywords'}战争姐妹/修女的战争BD中英双字1{/dede:field}
+{dede:field name='description'}战争姐妹/修女的战争BD中英双字1280高清2011最新剧情大片迅雷下载、免费下载，战争姐妹/修女的战争BD中英双字1280高清2011最新剧情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}战争姐妹/修女的战争BD中英双字1280高清2011最新剧情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2005/飘花电影piaohua.com修女的战争DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP550630-34033.jpg{/dede:field}

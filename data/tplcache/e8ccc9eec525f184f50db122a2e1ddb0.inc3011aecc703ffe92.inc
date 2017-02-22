@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","镖客三部曲1：荒野大镖客BD中英",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","镖客三部曲1：荒野大镖客BD中英双字1024/1280高清迅雷下载、免费下载，镖客三部曲1：荒野大镖客BD中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。",72,258);
+$z[1][4]['name']="description";
+$z[2]=Array("field","镖客三部曲1：荒野大镖客BD中英双字1024/1280高清",260,344);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",346,385);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",387,426);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-02-29",428,478);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img border=\"0\" onclick=\"if(this.width&gt;screen.width-461) window.open('/uploads/allimg/c120525/133O02F2430-143O5.jpg');\" src=\"/uploads/allimg/c120525/133O02F2430-143O5.jpg\" /><br />\r\n	<br />\r\n	◎译　　名　镖客三部曲1：荒野大镖客/独行侠连环夺命枪港<br />\r\n	◎片　　名　Per un pugno di dollari<br />\r\n	◎年　　代　1964<br />\r\n	◎国　　家　意大利 西班牙 西德<br />\r\n	◎类　　别　动作 西部<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中英双字<br />\r\n	◎IMDB评分 8.0/10 ( 33123票 )<br />\r\n	◎IMDB链接 http://www.imdb.com/title/tt0058461<br />\r\n	◎制作公司　Constantin Film Produktion GmbH [德国]<br />\r\n	　　　　　　 Jolly Film [意大利]<br />\r\n	　　　　　　 Ocean Films [西班牙]<br />\r\n	◎文件格式　BD-RMVB<br />\r\n	◎视频尺寸　1024 x 576<br />\r\n	◎文件大小　1CD<br />\r\n	◎片　　长　 01:39:54.411<br />\r\n	◎导　　演　赛尔乔&middot;莱翁 Sergio Leone....European prints as Bob Robertson<br />\r\n	　　　　　　 蒙特&middot;赫尔曼Monte Hellman....4new footage shot for American TV uncredited<br />\r\n	◎编　　剧　菊岛隆三Ryuzo Kikushima....screenplay Yojimbo uncredited &amp;<br />\r\n	　　　　　　 黑泽明Akira Kurosawa....screenplay Yojimbo uncredited<br />\r\n	　　　　　　 赛尔乔&middot;莱翁Sergio Leone....story<br />\r\n	　　　　　　 克林特&middot;伊斯特伍德Clint Eastwood<br />\r\n	◎主　　演　克林特&middot;伊斯特伍德Clint Eastwood....Joe<br />\r\n	　　　　　　 吉昂&middot;马利亚&middot;沃隆特Gian Maria Volont&eacute;....Ram&oacute;n Rojo as Johnny Wels<br />\r\n	　　　　　　 玛丽安妮&middot;柯奇Marianne Koch....Marisol<br />\r\n	　　　　　　 恩里克&middot;马里亚&middot;萨勒诺Enrico Maria Salerno....Italian-dubbed voice of Joe uncredited<br />\r\n	　　　　　　 哈利&middot;戴恩&middot;斯坦通Harry Dean3e Stanton....Sheriff uncredited<br />\r\n	<br />\r\n	◎简　　介<br />\r\n	<br />\r\n	&nbsp; &nbsp; 本片讲述发生在墨西哥小镇上的故事，一位大镖客来到该镇，看到镇上的居民被两个大私枭，一个贩卖私械，一个贩卖私酒，弄得妻离子散，家破人亡。出于正义，他终于以其身手，弄得两派火并，把镇上的恶势力一网打尽，使镇上的居民回复了平静。克林特．伊斯特伍德扮演大镖客，演出极其精彩。导演瑟吉欧．莱昂内运用拍摄西部片贯用的手法执导此片，成为西部片中的经典之作。其风格承袭若干美式西部经典如＜日正当中＞的神采，但显然更受日本名导黑泽明的影响（将日本武士变身成西部枪手），不过整部作品的故事影像与音乐格调的原创色彩仍相当强烈。</p>\r\n<p>\r\n	【电影截图】：<br />\r\n	<br />\r\n	<br />\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O02F3P-159C5.jpg\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O02F4530-1620T.jpg\" /></p>\r\n<br />\r\n<p>\r\n	[下载地址]：<img border=\"0\" src=\"/uploads/allimg/c120524/133N2ZL930-142957.jpg\" /></p>\r\n<table align=\"center\" border=\"0\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted\" width=\"95%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#fdfddf\" style=\"word-wrap: break-word\">\r\n				ftp://3e:3e@d8.3edyy.com:162/【3E电影院www.eee4.cc】荒野大镖客BD中英双字1024x576高清版.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table align=\"center\" border=\"0\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted\" width=\"95%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#fdfddf\" style=\"word-wrap: break-word\">\r\n				ftp://dy44:piaohua@dy44.piaohua.com:2920/飘花电影piaohua.com荒野大镖客BD中英双字1280高清.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",480,4006);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O02F53F-1HM2.jpg",4008,4090);
+$z[7][4]['name']="litpic";
+
+?>

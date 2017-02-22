@@ -1,0 +1,9 @@
+{dede:field name='keywords'}卡罗莱纳的月亮DVD英语海外爱情{/dede:field}
+{dede:field name='description'}卡罗莱纳的月亮DVD英语海外爱情片迅雷下载、免费下载，卡罗莱纳的月亮DVD英语海外爱情片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}卡罗莱纳的月亮DVD英语海外爱情片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2545/飘花电影piaohua.com卡罗莱纳的月亮DVD英语CD1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOQK30-1c56.jpg{/dede:field}

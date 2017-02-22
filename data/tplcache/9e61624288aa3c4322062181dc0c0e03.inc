@@ -1,0 +1,9 @@
+{dede:field name='keywords'}依然是你日韩剧2迅雷下载，免费{/dede:field}
+{dede:field name='description'}依然是你日韩剧2迅雷下载、免费下载，依然是你日韩剧2Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}依然是你日韩剧2{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3472/飘花电影piaohua.com依然是你01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPb30F-310U.jpg{/dede:field}

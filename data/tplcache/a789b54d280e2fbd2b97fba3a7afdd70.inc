@@ -1,0 +1,9 @@
+{dede:field name='keywords'}布兰妮蛇蝎美人巡回演唱会DVD201{/dede:field}
+{dede:field name='description'}布兰妮蛇蝎美人巡回演唱会DVD2011最新美国音乐纪录片迅雷下载、免费下载，布兰妮蛇蝎美人巡回演唱会DVD2011最新美国音乐纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}布兰妮蛇蝎美人巡回演唱会DVD2011最新美国音乐纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2664/飘花电影piaohua.com布兰妮蛇蝎美人巡回演唱会DVD2011最新美国音乐纪录片.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4033F-41041.jpg{/dede:field}

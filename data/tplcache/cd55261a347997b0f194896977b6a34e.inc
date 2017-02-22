@@ -1,0 +1,9 @@
+{dede:field name='keywords'}冰场打架王/呆子DVD中字2012美国{/dede:field}
+{dede:field name='description'}冰场打架王/呆子DVD中字2012美国喜剧迅雷下载、免费下载，冰场打架王/呆子DVD中字2012美国喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}冰场打架王/呆子DVD中字2012美国喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3173/飘花电影piaohua.com冰场打架王DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOC53P-3G30.jpg{/dede:field}

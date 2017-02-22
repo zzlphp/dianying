@@ -1,0 +1,9 @@
+{dede:field name='keywords'}微博有鬼之目击者-全网发行版[通{/dede:field}
+{dede:field name='description'}微博有鬼之目击者-全网发行版[通过博客寻求车祸目击者]迅雷下载、免费下载，微博有鬼之目击者-全网发行版[通过博客寻求车祸目击者]Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}微博有鬼之目击者-全网发行版[通过博客寻求车祸目击者]{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1902/飘花电影piaohua.com微博有鬼之目击者.mp4{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP309460-2X10.jpg{/dede:field}

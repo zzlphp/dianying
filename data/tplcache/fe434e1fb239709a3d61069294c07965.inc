@@ -1,0 +1,9 @@
+{dede:field name='keywords'}红色机尾/炽天之翼DVD中字迅雷下{/dede:field}
+{dede:field name='description'}红色机尾/炽天之翼DVD中字迅雷下载、免费下载，红色机尾/炽天之翼DVD中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}红色机尾/炽天之翼DVD中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3344/飘花电影piaohua.com炽天之翼DVD中字CD1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO431560-24062.jpg{/dede:field}

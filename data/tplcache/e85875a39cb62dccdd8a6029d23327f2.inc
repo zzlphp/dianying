@@ -1,0 +1,9 @@
+{dede:field name='keywords'}危机边缘/迷离档案第四季22美剧{/dede:field}
+{dede:field name='description'}危机边缘/迷离档案第四季22美剧迅雷下载、免费下载，危机边缘/迷离档案第四季22美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}危机边缘/迷离档案第四季22美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2013/飘花电影piaohua.com迷离档案第四季01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0P0F-54954.jpg{/dede:field}

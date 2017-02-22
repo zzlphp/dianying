@@ -1,0 +1,9 @@
+{dede:field name='keywords'}胜地BD中字1280高清经典纪录片迅{/dede:field}
+{dede:field name='description'}胜地BD中字1280高清经典纪录片迅雷下载、免费下载，胜地BD中字1280高清经典纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}胜地BD中字1280高清经典纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1668/飘花电影piaohua.com胜地BD中字1280高清经典纪录片.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ513310-13912.jpg{/dede:field}

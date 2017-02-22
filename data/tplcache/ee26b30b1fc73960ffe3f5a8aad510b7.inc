@@ -1,0 +1,9 @@
+{dede:field name='keywords'}日本沉没迅雷下载，免费下载，Gv{/dede:field}
+{dede:field name='description'}日本沉没迅雷下载、免费下载，日本沉没Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}日本沉没{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-11-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP91IZ-132C.jpg{/dede:field}

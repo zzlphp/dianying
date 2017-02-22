@@ -1,0 +1,9 @@
+{dede:field name='keywords'}梦游3D/BD1280高清国粤双语迅雷{/dede:field}
+{dede:field name='description'}梦游3D/BD1280高清国粤双语迅雷下载、免费下载，梦游3D/BD1280高清国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}梦游3D/BD1280高清国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP2P30-1J24.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}不一样的月光：寻找沙韵高清迅雷{/dede:field}
+{dede:field name='description'}不一样的月光：寻找沙韵高清迅雷下载、免费下载，不一样的月光：寻找沙韵高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}不一样的月光：寻找沙韵高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP1964Z-11E3.jpg{/dede:field}

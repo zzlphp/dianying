@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","时代精神3/时代精神：维纳斯计划",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","时代精神3/时代精神：维纳斯计划[DVD中英双字]迅雷下载、免费下载，时代精神3/时代精神：维纳斯计划[DVD中英双字]Gvod高清在线播放，剧情介绍等。",73,253);
+$z[1][4]['name']="description";
+$z[2]=Array("field","时代精神3/时代精神：维纳斯计划[DVD中英双字]",255,336);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",338,377);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",379,418);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-03-16",420,470);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<IMG src=\"/uploads/allimg/c120524/133N4Q60V0-142A.jpg\"><BR><BR><BR><BR>◎译　　名　《时代精神3/时代精神：维纳斯计划》2011年美国最新高分纪录片DVD中英双字<BR>◎片　　名　Zeitgeist Moving Forward<BR>◎年　　代　2011<BR>◎国　　家　美国<BR>◎类　　别　纪录片<BR>◎语　　言　英语<BR>◎字　　幕　中英双字<BR>◎IMDB评分 8.7/10 (2,969 votes)<BR>◎IMDB链接 http://www.imdb.com/title/tt1781069<BR>◎文件格式　XviD + AC3<BR>◎视频尺寸　640 x 352<BR>◎文件大小　2CD 2 x 50 x 15MB<BR>◎片　　长　161 Mins<BR>◎导　　演　Peter Joseph<BR>◎主　　演　Adrian Bowyer&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Colin Campbell&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Colin Campbell&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Ashton Cline&nbsp;&nbsp;...&nbsp;&nbsp;Student&nbsp;&nbsp;<BR>　　　　　　Jacque Fresco&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Dr. James Giilligan&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Jeremy J. Gilbert&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Jeremy Gilbert&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　James Gilligan&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Peter Joseph&nbsp;&nbsp;...&nbsp;&nbsp;Narrator&nbsp;&nbsp;<BR>　　　　　　Max Keiser&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Berok Khoshnevis&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Berok Khoshnevis&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Dr. Gabor Maté&nbsp;&nbsp;...&nbsp;&nbsp;Himself&nbsp;&nbsp;<BR>　　　　　　Gabor Mate&nbsp;&nbsp;...&nbsp;&nbsp;Himself<BR>　　　　　　<BR><BR>◎简　　介　<BR><BR>　　一个长篇纪录片，列举了当前社会经济货币支配整个世界出社会所需的过渡情况。这一主题将超越相对主义与传统思想的核心问题。<BR><BR>　　理论一：中性社会政治或者叫做现代社会政治是研究自我与他人之间的利益共同点与相异点，从而形成的利他或利己的主观观点，进而由此观点划分利益团体，自反组成阶级社会。<BR><BR>　　理论二：良性社会政治或者叫未来社会政治的终极意义是研究人与人,人与世界之间的电影下载共性和独立性，基于此状况而产生的利于个体独立的，所有人的良性社会【(物质前提:自动化与循环资源经济的建立)良性社会是有一群不固定的志愿者组成的推动人类科学发展的公益社会，并不强迫他人加入社会劳动而是鼓励将个人劳动的成果与社会分享。其他不固定的不参与者也可以从中得到发展成果。】<BR><BR>　　理论三：科学影响人类这个生物群体，而社会政治影响生命个体。【长期来看，我是说自然科学对于我们的整个社会科学产生了缓慢而巨大的影响。正如马克思所说：生产关系生产关系决定分配原则，生产关系上的变动总是因为起到最终作用自然科学的发展速所引起的。而现代社会政治只不过是在研究如何分配利益，保护利益而已，无论是物质上还是精神上，进而形成了主观的束缚他人思想的一系列的理论。这些理论总是包含着人们对于自然现象的表现的主观臆想，（例：社会进化论就是典型代表，就是通过从自然世界的某些现象中提炼的关于人类社会的理论。）】<BR><BR>　　理论四：纵观人类文明，人们总是在最新电影不断超脱自然法则。（这股超脱力量的源泉总是来源于自然科学，重来不是基于毫无物质基础的社会理论。）<BR><BR>　　理论五（重点）：现代社会政治逐渐成为了对信息社会产生莫大影响的“新宗教”.【大量人力物力投用到了维护“新宗教”的斗争当中，浪费了大量人力、资源。（例：军人等） 违背了良性社会政治的意义，必然会像王权一样被人们遗弃。】<BR><BR>　　理论六：现代社会政治牢牢控制着个体思维模式，都不约而同的影响或抑制自然科学的发展。（“新宗教”的斗争与现代社会政治已经到了濒临崩溃的地步，因为其本身就是人类个体所臆想出来的产物。人们越是接近真理就越发觉得这个幻境濒临破灭。）<BR><BR>　　结论：科学的进步必然会使现代社会政治所淘汰。<BR><BR>\r\n<P>【电影截图】：<BR><BR></P><IMG src=\"/uploads/allimg/c120524/133N4Q64L0-264N.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120524/133N4QA240-3bQ.jpg\">&nbsp;<BR><IMG src=\"/uploads/allimg/c120524/133N4QA950-42251.jpg\"><BR><BR><BR><BR>【115网盘高速下载地址】:<BR>2011年美国最新高分纪录片《时代精神3：维纳斯计划》DVD中英双字<BR><BR>2011年美国最新高分纪录片《时代精神3：维纳斯计划》DVD中英双字 [下载地址]：<IMG border=0 src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\"><BR>\r\n<TABLE style=\"BORDER-BOTTOM: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-RIGHT: #cccccc 1px dotted\" border=0 cellSpacing=0 cellPadding=6 width=\"95%\" align=center>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://3e:3e@d6.3edyy.com:630/【3E看看www.3ekk.com】时代精神3：迈步向前[DVD中英双字].rmvb</TD></TR></TBODY></TABLE>",472,4932);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133N4QDM0-5WW.jpg",4934,5014);
+$z[7][4]['name']="litpic";
+
+?>

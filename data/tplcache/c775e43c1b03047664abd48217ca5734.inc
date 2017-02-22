@@ -1,0 +1,9 @@
+{dede:field name='keywords'}驯龙高手番外篇：龙的礼物DVD中{/dede:field}
+{dede:field name='description'}驯龙高手番外篇：龙的礼物DVD中字2011最新美国动画冒险大片迅雷下载、免费下载，驯龙高手番外篇：龙的礼物DVD中字2011最新美国动画冒险大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}驯龙高手番外篇：龙的礼物DVD中字2011最新美国动画冒险大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2325/飘花电影piaohua.com驯龙高手番外篇-龙的礼物DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2241F-2R13.jpg{/dede:field}

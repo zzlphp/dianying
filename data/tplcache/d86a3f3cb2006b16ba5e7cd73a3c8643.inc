@@ -1,0 +1,9 @@
+{dede:field name='keywords'}南国医恋第一季22欧美剧迅雷下载{/dede:field}
+{dede:field name='description'}南国医恋第一季22欧美剧迅雷下载、免费下载，南国医恋第一季22欧美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}南国医恋第一季22欧美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1872/飘花电影piaohua.com南国医恋第一季EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP93KF-213S.jpg{/dede:field}

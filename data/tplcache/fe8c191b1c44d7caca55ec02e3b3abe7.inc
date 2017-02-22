@@ -1,0 +1,9 @@
+{dede:field name='keywords'}欢乐合唱团,第三季更新21集[中英{/dede:field}
+{dede:field name='description'}欢乐合唱团 第三季更新21集[中英双字]2011主打美剧迅雷下载、免费下载，欢乐合唱团 第三季更新21集[中英双字]2011主打美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}欢乐合唱团 第三季更新21集[中英双字]2011主打美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1661/飘花电影piaohua.com欢乐合唱团第三季01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP93Q10-33323.jpg{/dede:field}

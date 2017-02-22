@@ -1,0 +1,9 @@
+{dede:field name='keywords'}燃眉追击BD1280高清迅雷下载，免{/dede:field}
+{dede:field name='description'}燃眉追击BD1280高清迅雷下载、免费下载，燃眉追击BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}燃眉追击BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7895/飘花电影piaohua.com燃眉追击BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO420030-19464.jpg{/dede:field}

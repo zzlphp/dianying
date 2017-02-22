@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","两只兔子高清BD1280迅雷下载，免",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","两只兔子高清BD1280迅雷下载、免费下载，两只兔子高清BD1280Gvod高清在线播放，剧情介绍等。",73,203);
+$z[1][4]['name']="description";
+$z[2]=Array("field","两只兔子高清BD1280",205,261);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",263,302);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",304,343);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-04-30",345,395);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120426/11/56643687201204261126401661505897231_000.jpg\" /></p>\r\n\r\n\r\n<p>\r\n	【影片原名】2 Coelhos<br />\r\n	【出品公司】Black Maria Filme Video Digital<br />\r\n	【出品年代】2012 年<br />\r\n	【上映日期】2012年1月20日 巴西<br />\r\n	【IMDB链接】http://www.xiaozhizhu.net/<br />\r\n	【IMDB评分】7.8/10 (364 votes)<br />\r\n	【国　　家】巴西<br />\r\n	【类　　别】动作<br />\r\n	【导　　演】Afonso Poyart<br />\r\n	【主　　演】Fernando Alves Pinto ... Edgar<br />\r\n	　　　　　　Caco Ciocler ... Walter<br />\r\n	　　　　　　Marat Descartes ... Maicom<br />\r\n	　　　　　　Djair Guilherme ... Professor<br />\r\n	　　　　　　Roberto Marchese<br />\r\n	　　　　　　Aldine Muller ... Sophia<br />\r\n	　　　　　　Alessandra Negrini ... Julia<br />\r\n	　　　　　　Robson Nunes<br />\r\n	　　　　　　Afonso Poyart<br />\r\n	　　　　　　Tha&iacute;de ... Velinha<br />\r\n	　　　　　　Thogun ... Bolinha<br />\r\n	　　　　　　Neco Villa Lobos ... Henrique</p>\r\n<p>\r\n	【影片长度】108 Mins<br />\r\n	【对白语言】葡萄牙语<br />\r\n	【字幕语言】中文字幕</p>\r\n<p>\r\n	【内容简介】<br />\r\n	　　在一起严重的车祸中,Edgar (Fernando Alves Pinto饰)痛失妻与子,并因肇事被告上法庭.所幸在州议员的介入下,他得免牢狱之灾.此后未久,他重回迈阿密,并且制定了周密的计划,目标直指深陷贪污腐败的政客.Edgar与朋友们将计划付诸行动,揭露黑金,维系正义.此程中,他还结识了以为红颜知己,公检官Julia,与其并肩共战,齐力抗击腐败,还国家以清明</p>\r\n<p>\r\n	<br />\r\n	◎影片截图</p>\r\n\r\n\r\n\r\n\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120427/23/62564813201204272321151313863376226_001.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120427/23/62564813201204272321151313863376226_000.jpg\" style=\"width: 720px; height: 405px\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.netftp//dy44:piaohua@dy44.piaohua.com:3142/\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3297/飘花电影piaohua.com两只兔子高清1024版BD中字.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:3297/飘花电影piaohua.com两只兔子高清1024版BD中字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy125:piaohua@dy125.piaohua.com:7988/飘花电影piaohua.com两只兔子BD中字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:7988/飘花电影piaohua.com两只兔子BD中字1280高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",397,3614);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O156452P-42544.jpg",3616,3700);
+$z[7][4]['name']="litpic";
+
+?>

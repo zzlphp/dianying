@@ -1,0 +1,9 @@
+{dede:field name='keywords'}海啸,(TSUNAMI)2006最新灾难片迅{/dede:field}
+{dede:field name='description'}海啸 (TSUNAMI)2006最新灾难片迅雷下载、免费下载，海啸 (TSUNAMI)2006最新灾难片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}海啸 (TSUNAMI)2006最新灾难片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://61.175.222.10:2121/06{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO60K30-35C0.gif{/dede:field}

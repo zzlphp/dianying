@@ -1,0 +1,9 @@
+{dede:field name='keywords'}哆啦A梦大雄的新魔界大冒险BD128{/dede:field}
+{dede:field name='description'}哆啦A梦大雄的新魔界大冒险BD1280高清中字迅雷下载、免费下载，哆啦A梦大雄的新魔界大冒险BD1280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}哆啦A梦大雄的新魔界大冒险BD1280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2004/飘花电影piaohua.com哆啦A梦大雄的新魔界大冒险BD1280高清中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ14U20-3b92.jpg{/dede:field}

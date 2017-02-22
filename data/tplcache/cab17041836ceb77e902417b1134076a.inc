@@ -1,0 +1,9 @@
+{dede:field name='keywords'}实习医生格蕾第八季23美剧迅雷下{/dede:field}
+{dede:field name='description'}实习医生格蕾第八季23美剧迅雷下载、免费下载，实习医生格蕾第八季23美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}实习医生格蕾第八季23美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2565/飘花电影piaohua.com实习医生格蕾第八季01-02集[中英双字].rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0N160-234F.jpg{/dede:field}

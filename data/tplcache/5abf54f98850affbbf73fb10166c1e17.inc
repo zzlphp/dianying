@@ -1,0 +1,9 @@
+{dede:field name='keywords'}白雪公主：一个致命的夏天DVD中{/dede:field}
+{dede:field name='description'}白雪公主：一个致命的夏天DVD中字2012最新美国恐怖大片迅雷下载、免费下载，白雪公主：一个致命的夏天DVD中字2012最新美国恐怖大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}白雪公主：一个致命的夏天DVD中字2012最新美国恐怖大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3135/飘花电影piaohua.com白雪公主：一个致命的夏天DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPI1b0-4E49.jpg{/dede:field}

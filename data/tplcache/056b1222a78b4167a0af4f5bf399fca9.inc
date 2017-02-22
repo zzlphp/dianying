@@ -1,0 +1,9 @@
+{dede:field name='keywords'}新天师斗僵尸/恐怖之夜BD高清迅{/dede:field}
+{dede:field name='description'}新天师斗僵尸/恐怖之夜BD高清迅雷下载、免费下载，新天师斗僵尸/恐怖之夜BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}新天师斗僵尸/恐怖之夜BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPKXF-2V45.jpg{/dede:field}

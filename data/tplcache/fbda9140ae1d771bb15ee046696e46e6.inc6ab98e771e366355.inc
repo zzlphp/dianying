@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","我的电台FM[S.H.E全新专辑]迅雷",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","我的电台FM[S.H.E全新专辑]迅雷下载、免费下载，我的电台FM[S.H.E全新专辑]Gvod高清在线播放，剧情介绍等。",72,216);
+$z[1][4]['name']="description";
+$z[2]=Array("field","我的电台FM[S.H.E全新专辑]",218,281);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",283,322);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",324,363);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2008-10-14",365,415);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<IMG alt=\"\" src=\"http://img.verycd.com/posts/0809/post-325040-1222131800.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><BR><BR><BR><BR>◎译　　名　《我的电台FM》S.H.E全新专辑DVD国语中字<BR>◎片　　名　SHE FM SHE<BR>◎年　　代　2008<BR>◎地　　区　台湾<BR>◎类　　别　音乐<BR>◎语　　言　国语<BR>◎字　　幕　繁体中文(内嵌)<BR>◎文件格式　Rmvb<BR>◎视频尺寸　512 x 384<BR>◎电影整理　3E电影下载站(www.eee4.com)<BR>◎文件大小　205MB<BR>◎片　　长　36 mins<BR>◎导　　演　<BR>◎主　　演　S.H.E<BR><BR>◎简　　介　<BR><BR>&nbsp; &nbsp; 唱片市场下半年指标性专辑<BR><BR>　　S.H.E 发射欢乐 接收感动 电波传送全宇宙<BR><BR>　　2008年度钜片 第11张专辑【我的电台FM S.H.E】<BR><BR>　　9/23 未来、复古 双封面 双版本 正式开台<BR><BR>　　11首全新歌曲+3则FM S.H.E 节目精华+Bonus曲-酸甜(与飞轮海合唱)<BR><BR>　　未来版加赠 DVD 收录 S.H.E 爆笑工作花絮+宇宙小姐、酸甜MV<BR><BR>　　【专辑制作阵容最坚强 专辑歌曲最好听】电影编辑整理：(www.eee4.com)<BR><BR>　　◎ 专辑11首全新歌曲，Sweetbox、周杰伦、林夕、Selina、蔡旻佑、施人诚、郑楠…等中西音乐人跨海打造，星光帮周定纬献声RAP，专辑制作阵容最坚强！歌曲好听度更胜“PLAY”！<BR><BR>　　◎ 除了11首新歌外，更精选FM S.H.E节目3则收录，S.H.E化身主播、喜碧夫人、熬夜DJ，与你谈天、谈心、谈感情！<BR><BR><BR>01.早安您好<BR>02.我爱烦恼<BR>03.宇宙小姐 (达芙妮广告曲姐妹作)<BR>04.沿海公路的出口<BR>05.天亮了<BR>06.比你贱 (featuring. 周定纬)<BR>07.喜碧夫人时间<BR>08.女孩当自强 (Top Girl 年度广告曲)<BR>09.安静了<BR>10.我是火星人<BR>11.612 星球<BR>12.店小二<BR>13.熬夜 DJ<BR>14.月光手札<BR>15.酸甜 (蒙牛酸酸乳广告曲) (Bonus Track) - S.H.E/飞轮海<BR><BR>◎影片截图<BR><BR><BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133N36049120-219251.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133N3604b40-229394.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133N36050240-23K05.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133N36050430-2410a.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\"><BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133N36050L0-259433.jpg\" onload=\"attachimg(this, 'load')\" border=0 tmooc_h=\"1\">\r\n<P>2008-10-13 15:43:12 开始连接......<BR>2008-10-13 15:43:12 开始搜索候选资源......<BR>2008-10-13 15:43:12 搜索到22个候选资源<BR>2008-10-13 15:43:12 使用候选资源进行连接......<BR>2008-10-13 15:43:13 搜索到41个候选资源<BR>2008-10-13 15:43:13 使用候选资源进行连接......<BR>2008-10-13 15:43:13 文件创建成功，开始下载数据......<BR>2008-10-13 15:43:16 用户取消下载&nbsp;&nbsp; 本文来自：www.eee4.com</P>（直接可能无法下载，一律使用迅雷下载）<BR>S.H.E全新专辑《我的电台FM》DVD国语中字－来自[3E电影站eee4.com]：<IMG src=\"http://www.eee4.com/templets/img/down.jpg\" border=0><BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf></ANCHOR>ftp://e11:e11@xl2.eee4.com:1003/[3E电影站www.eee4.com]she我的电台.rmvb</TD></TR></TBODY></TABLE>",417,3650);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133N36051a0-2N0E.jpg",3652,3735);
+$z[7][4]['name']="litpic";
+
+?>

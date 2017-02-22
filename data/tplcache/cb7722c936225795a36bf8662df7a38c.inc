@@ -1,0 +1,9 @@
+{dede:field name='keywords'}2011维多利亚的秘密时尚内衣秀迅{/dede:field}
+{dede:field name='description'}2011维多利亚的秘密时尚内衣秀迅雷下载、免费下载，2011维多利亚的秘密时尚内衣秀Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}2011维多利亚的秘密时尚内衣秀{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2235/飘花电影piaohua.com2011维多利亚的秘密时尚内衣秀.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3W5Z-2WR.jpg{/dede:field}

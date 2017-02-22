@@ -1,0 +1,9 @@
+{dede:field name='keywords'}电子情书BD中英双字1024/1280高{/dede:field}
+{dede:field name='description'}电子情书BD中英双字1024/1280高清经典爱情喜剧迅雷下载、免费下载，电子情书BD中英双字1024/1280高清经典爱情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}电子情书BD中英双字1024/1280高清经典爱情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy444:piaohua@dy444.piaohua.com:401/飘花电影piaohua.com电子情书1.81G双语字幕.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOD4640-43616.jpg{/dede:field}

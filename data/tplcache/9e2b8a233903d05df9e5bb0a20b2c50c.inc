@@ -1,0 +1,9 @@
+{dede:field name='keywords'}不友善的海豚纪录片美国国家地理{/dede:field}
+{dede:field name='description'}不友善的海豚纪录片美国国家地理迅雷下载、免费下载，不友善的海豚纪录片美国国家地理Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}不友善的海豚纪录片美国国家地理{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2255/飘花电影piaohua.com不友善的海豚纪录片.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3X230-36304.jpg{/dede:field}

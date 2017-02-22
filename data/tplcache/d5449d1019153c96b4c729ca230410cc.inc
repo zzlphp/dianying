@@ -1,0 +1,9 @@
+{dede:field name='keywords'}大开眼戒1024/1280高清妮可·基{/dede:field}
+{dede:field name='description'}大开眼戒1024/1280高清妮可·基德曼史上最性感超经典美国剧情迅雷下载、免费下载，大开眼戒1024/1280高清妮可·基德曼史上最性感超经典美国剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}大开眼戒1024/1280高清妮可·基德曼史上最性感超经典美国剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2963/飘花电影piaohua.com大开眼戒720P.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP224150-3XI.jpg{/dede:field}

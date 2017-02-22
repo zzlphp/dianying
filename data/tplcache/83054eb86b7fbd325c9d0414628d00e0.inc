@@ -1,0 +1,9 @@
+{dede:field name='keywords'}今晚80后说相声HD国语中字1024高{/dede:field}
+{dede:field name='description'}今晚80后说相声HD国语中字1024高清迅雷下载、免费下载，今晚80后说相声HD国语中字1024高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}今晚80后说相声HD国语中字1024高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1716/飘花电影piaohua.com今晚80后说相声HD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ3N130-26238.jpg{/dede:field}

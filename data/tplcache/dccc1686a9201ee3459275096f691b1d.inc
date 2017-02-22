@@ -1,0 +1,9 @@
+{dede:field name='keywords'}顶级猫/猫老大BD中英双字1024高{/dede:field}
+{dede:field name='description'}顶级猫/猫老大BD中英双字1024高清2011动画迅雷下载、免费下载，顶级猫/猫老大BD中英双字1024高清2011动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}顶级猫/猫老大BD中英双字1024高清2011动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2975/飘花电影piaohua.com猫老大BD中英双字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1242Z-13F0.jpg{/dede:field}

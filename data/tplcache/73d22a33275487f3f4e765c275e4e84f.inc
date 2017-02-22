@@ -1,0 +1,9 @@
+{dede:field name='keywords'}改变规则BD中英双字1280高清2012{/dede:field}
+{dede:field name='description'}改变规则BD中英双字1280高清2012最新剧情迅雷下载、免费下载，改变规则BD中英双字1280高清2012最新剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}改变规则BD中英双字1280高清2012最新剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3076/飘花电影piaohua.com改变规则DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP1RE0-5P45.jpg{/dede:field}

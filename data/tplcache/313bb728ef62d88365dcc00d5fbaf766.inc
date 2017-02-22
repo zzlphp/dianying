@@ -1,0 +1,9 @@
+{dede:field name='keywords'}甲贺忍法帖高清BD1280迅雷下载，{/dede:field}
+{dede:field name='description'}甲贺忍法帖高清BD1280迅雷下载、免费下载，甲贺忍法帖高清BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}甲贺忍法帖高清BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-31{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO525530-24027.jpg{/dede:field}

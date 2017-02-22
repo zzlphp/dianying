@@ -1,0 +1,9 @@
+{dede:field name='keywords'}夺命双头鲨DVD中字2012动作科幻{/dede:field}
+{dede:field name='description'}夺命双头鲨DVD中字2012动作科幻迅雷下载、免费下载，夺命双头鲨DVD中字2012动作科幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}夺命双头鲨DVD中字2012动作科幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2779/飘花电影piaohua.com夺命双头鲨DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOX23P-14C6.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}CCTV2007年春节联欢晚会迅雷下载{/dede:field}
+{dede:field name='description'}CCTV2007年春节联欢晚会迅雷下载、免费下载，CCTV2007年春节联欢晚会Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}CCTV2007年春节联欢晚会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-03-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP42L60-31J2.jpg{/dede:field}

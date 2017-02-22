@@ -1,0 +1,9 @@
+{dede:field name='keywords'}边境恶警(新界)BD中字1024高清20{/dede:field}
+{dede:field name='description'}边境恶警(新界)BD中字1024高清2011最新法国加拿大合拍恐怖历史大迅雷下载、免费下载，边境恶警(新界)BD中字1024高清2011最新法国加拿大合拍恐怖历史大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}边境恶警(新界)BD中字1024高清2011最新法国加拿大合拍恐怖历史大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1670/飘花电影piaohua.com边境恶警(新界)DVD2011最新法国加拿大合拍恐怖历史大片.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPKMP-155S.jpg{/dede:field}

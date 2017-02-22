@@ -1,0 +1,9 @@
+{dede:field name='keywords'}钢铁入侵者/异种版变形金刚BD中{/dede:field}
+{dede:field name='description'}钢铁入侵者/异种版变形金刚BD中字1024/1280高清2011科幻动作迅雷下载、免费下载，钢铁入侵者/异种版变形金刚BD中字1024/1280高清2011科幻动作Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}钢铁入侵者/异种版变形金刚BD中字1024/1280高清2011科幻动作{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy173:piaohua@dy173.piaohua.com:309/飘花电影piaohua.com钢铁入侵者.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOX0540-51558.jpg{/dede:field}

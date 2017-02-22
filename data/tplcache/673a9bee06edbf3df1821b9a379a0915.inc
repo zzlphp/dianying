@@ -1,0 +1,9 @@
+{dede:field name='keywords'}颤栗航班93-BD中英双字无水印102{/dede:field}
+{dede:field name='description'}颤栗航班93-BD中英双字无水印1024/1280高清国惊悚迅雷下载、免费下载，颤栗航班93-BD中英双字无水印1024/1280高清国惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}颤栗航班93-BD中英双字无水印1024/1280高清国惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1467/飘花电影piaohua.com颤栗航班93-BD中英双字无水印1024分辨率.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3Tb0-1Y40.jpg{/dede:field}

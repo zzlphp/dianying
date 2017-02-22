@@ -1,0 +1,9 @@
+{dede:field name='keywords'}雌雄莫辨/变装男侍BD1280高清迅{/dede:field}
+{dede:field name='description'}雌雄莫辨/变装男侍BD1280高清迅雷下载、免费下载，雌雄莫辨/变装男侍BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}雌雄莫辨/变装男侍BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:8030/飘花电影piaohua.com雌雄莫辨BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0603P-314U.jpg{/dede:field}

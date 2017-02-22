@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","豪勇七蛟龙/七侠荡寇志[BD中英双",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","豪勇七蛟龙/七侠荡寇志[BD中英双字1280x720高清版]迅雷下载、免费下载，豪勇七蛟龙/七侠荡寇志[BD中英双字1280x720高清版]Gvod高清在线播放，剧情介绍等。",73,261);
+$z[1][4]['name']="description";
+$z[2]=Array("field","豪勇七蛟龙/七侠荡寇志[BD中英双字1280x720高清版]",263,348);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",350,389);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",391,430);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-05-27",432,482);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG alt=\"\" src=\"/uploads/allimg/c120524/133NB2SF-O630.jpg\" onload=thumbImg(this)><BR><BR><BR>【译　　名】豪勇七蛟龙/七侠荡寇志<BR>【片　　名】The Magnificent Seven<BR>【年　　代】1960<BR>【国　　家】美国 <BR>【类　　别】西部/冒险/剧情 <BR>【语　　言】英语/西班牙语<BR>【字幕语言】中文/英文<BR>【视频尺寸】1280×720<BR>【文件格式】RMVB+AAC<BR>【IMDB评分】7.8/10 (25,779 votes) <BR>【IMDB链接】http://www.imdb.com/title/tt0054047/<BR>【片　　长】128 min 6 sec<BR>【导　　演】约翰·斯特奇斯 John Sturges <BR>【主　　演】尤·伯连纳 Yul Brynner ....Chris Adams<BR>　　　　　　埃里·瓦拉赫 Eli Wallach ....Calvera<BR>　　　　　　史蒂夫·麦奎因 Steve McQueen ....Vin<BR>　　　　　　查尔斯·布朗森 Charles Bronson ....Bernardo O'Reilly<BR>　　　　　　罗伯特·沃恩 Robert Vaughn ....Lee<BR>　　　　　　詹姆斯·柯本 James Coburn ....Britt<BR>　　　　　　约翰·A·阿朗索 John A. Alonzo ....Miguel (as John Alonso)<BR>　　　　　　Brad Dexter ....Harry Luck<BR>　　　　　　豪斯特·巴奇霍兹 Horst Buchholz ....Chico<BR>　　　　　　Rosenda Monteros ....Petra<BR>　　　　　　Vladimir Sokoloff ....Old man<BR>　　　　　　Jorge Martínez de Hoyos ....Hilario (as Jorge Martinez de Hoyas)<BR>　　　　　　Rico Alaniz ....Sotero<BR>　　　　　　Pepe Hern<BR>　　　　　　Natividad Vacío ....Tomas<BR>　　　　　　Mario Navarro<BR>　　　　　　Danny Bravo<BR>　　　　　　Enrique Lucero<BR>　　　　　　Alex Montoya<BR>　　　　　　Robert J. Wilke ....Wallace (as Robert Wilke)<BR>　　　　　　Val3e Avery ....Henry (corset salesman)<BR>　　　　　　Whit Bissell ....Chamlee (undertaker)<BR>　　　　　　Bing Russell ....Robert, (Henry's traveling companion)<BR>　　　　　　Roberto Contreras ....Villager (uncredited)<BR>　　　　　　Valentin de Vargas ....Calvera henchman (uncredited)<BR>　　　　　　Larry Duran ....(uncredited)<BR>　　　　　　Joseph Ruskin ....Filene (uncredited)<BR><BR><BR><BR>【简　　介】<BR><BR>剧情<BR><BR>　　根据黑泽明《七武士》改编，讲墨西哥某乡村屡屡遭到强盗抢劫，每年的收成几乎全部被抢走。于是村里的长老派遣三个农夫来到美国，雇佣枪手来保护村子。一共找到了七人。每个人都身怀不同绝技，这七个人也开始教授村民保护自己的办法。而他们面对的敌人是一百多个彪悍的强盗。面对强盗，寡不敌众的他们并没有退缩……<BR><BR>一句话评论<BR><BR>They were seven - And they fought like seven hundred!<BR><BR>The Magnificent One!<BR><BR>幕后制作<BR><BR>　　本片的配乐已成经典，另一特色是启用当时名气不大的演员，但后来相继变成大明星。本片共有三部续集：1966年的《豪勇七蛟龙续集》（Return of the Seven，港译《七镖客》），1969年的《荒野七镖客》（Guns of the Magnificent Seven），1972年的《虎胆奇谋七勇士》（The Magnificent Seven Ride）。</P>\r\n<P>【电影截图】：<BR><BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133NB2bH0-U363.jpg\" onload=thumbImg(this)>&nbsp;<BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133NB300550-ab7.jpg\" onload=thumbImg(this)></P><BR>[下载地址]：<IMG border=0 src=\"/uploads/allimg/c120524/133N295542P-105L6.jpg\"><BR>\r\n<TABLE style=\"BORDER-BOTTOM: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-RIGHT: #cccccc 1px dotted\" border=0 cellSpacing=0 cellPadding=6 width=\"95%\" align=center>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://3e:3e@d8.3edyy.com:160/【3E电影院www.eee4.cc】豪勇七蛟龙BD中英双字1280x720高清版.rmvb</TD></TR></TBODY></TABLE>",484,3846);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133NB3033P-103K4.jpg",3848,3931);
+$z[7][4]['name']="litpic";
+
+?>

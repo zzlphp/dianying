@@ -1,0 +1,9 @@
+{dede:field name='keywords'}僵尸日记2BD中英双字1024/1280高{/dede:field}
+{dede:field name='description'}僵尸日记2BD中英双字1024/1280高清美国火爆恐怖动作猛片迅雷下载、免费下载，僵尸日记2BD中英双字1024/1280高清美国火爆恐怖动作猛片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}僵尸日记2BD中英双字1024/1280高清美国火爆恐怖动作猛片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy445:piaohua@dy445.piaohua.com:509/飘花电影piaohua.com世界之死BD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPD560-2V61.jpg{/dede:field}

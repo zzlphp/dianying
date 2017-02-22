@@ -1,0 +1,9 @@
+{dede:field name='keywords'}开心大冒险HD国语中字1024高清20{/dede:field}
+{dede:field name='description'}开心大冒险HD国语中字1024高清2012中国喜剧动作迅雷下载、免费下载，开心大冒险HD国语中字1024高清2012中国喜剧动作Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}开心大冒险HD国语中字1024高清2012中国喜剧动作{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2541/飘花电影piaohua.com开心大冒险高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4W0F-5LA.jpg{/dede:field}

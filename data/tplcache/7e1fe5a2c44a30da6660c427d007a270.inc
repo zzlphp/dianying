@@ -1,0 +1,9 @@
+{dede:field name='keywords'}快乐大本营-徐静蕾迅雷下载，免{/dede:field}
+{dede:field name='description'}快乐大本营-徐静蕾迅雷下载、免费下载，快乐大本营-徐静蕾Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}快乐大本营-徐静蕾{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://download.xujinglei.org/video/act/uvs060701-xu.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO60K30-35C0.gif{/dede:field}

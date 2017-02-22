@@ -1,0 +1,9 @@
+{dede:field name='keywords'}V字仇杀队[DVD中英双字800分辨率{/dede:field}
+{dede:field name='description'}V字仇杀队[DVD中英双字800分辨率＋1024x576 1280x720高清版]迅雷下载、免费下载，V字仇杀队[DVD中英双字800分辨率＋1024x576 1280x720高清版]Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}V字仇杀队[DVD中英双字800分辨率＋1024x576 1280x720高清版]{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1062/飘花电影piaohua.comV字仇杀队720p高清版.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3G5F-16205.jpg{/dede:field}

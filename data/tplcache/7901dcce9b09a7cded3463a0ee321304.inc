@@ -1,0 +1,9 @@
+{dede:field name='keywords'}李小龙六部合集BD高清国粤双语10{/dede:field}
+{dede:field name='description'}李小龙六部合集BD高清国粤双语1024*576迅雷下载、免费下载，李小龙六部合集BD高清国粤双语1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}李小龙六部合集BD高清国粤双语1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1603/飘花电影piaohua.com死亡塔BD中字1024分辨率.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2MW0-45530.jpg{/dede:field}

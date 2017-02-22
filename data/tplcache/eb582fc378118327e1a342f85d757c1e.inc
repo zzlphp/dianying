@@ -1,0 +1,9 @@
+{dede:field name='keywords'}红男爵BD高清迅雷下载，免费下载{/dede:field}
+{dede:field name='description'}红男爵BD高清迅雷下载、免费下载，红男爵BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}红男爵BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP55U20-19631.jpg{/dede:field}

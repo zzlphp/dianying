@@ -1,0 +1,9 @@
+{dede:field name='keywords'}阿凡达BD国语配音中字经典科幻大{/dede:field}
+{dede:field name='description'}阿凡达BD国语配音中字经典科幻大片迅雷下载、免费下载，阿凡达BD国语配音中字经典科幻大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}阿凡达BD国语配音中字经典科幻大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3017/飘花电影piaohua.com阿凡达BD国语配音中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOY6430-211F.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}饥饿游戏抢先版中英双字2012最新{/dede:field}
+{dede:field name='description'}饥饿游戏抢先版中英双字2012最新美国科幻动作大片迅雷下载、免费下载，饥饿游戏抢先版中英双字2012最新美国科幻动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}饥饿游戏抢先版中英双字2012最新美国科幻动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3215/飘花电影piaohua.com饥饿游戏抢先版中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO91010-22450.jpg{/dede:field}

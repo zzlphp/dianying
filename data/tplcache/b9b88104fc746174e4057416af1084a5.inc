@@ -1,0 +1,9 @@
+{dede:field name='keywords'}彼得与狼BD1280高清奥斯卡获奖短{/dede:field}
+{dede:field name='description'}彼得与狼BD1280高清奥斯卡获奖短片迅雷下载、免费下载，彼得与狼BD1280高清奥斯卡获奖短片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}彼得与狼BD1280高清奥斯卡获奖短片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2043/小八戒电影xiaobajie.com彼得与狼BD1280高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ11620-4Y64.jpg{/dede:field}

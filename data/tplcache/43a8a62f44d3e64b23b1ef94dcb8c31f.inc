@@ -1,0 +1,9 @@
+{dede:field name='keywords'}非诚勿扰20111225期迅雷下载，免{/dede:field}
+{dede:field name='description'}非诚勿扰20111225期迅雷下载、免费下载，非诚勿扰20111225期Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}非诚勿扰20111225期{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy445:piaohua@dy445.piaohua.com:500/飘花电影piaohua.com非诚勿扰20110101期.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ39560-11255.jpg{/dede:field}

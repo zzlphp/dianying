@@ -1,0 +1,9 @@
+{dede:field name='keywords'}林中小屋(尸营旅舍)(诡屋)清晰TS{/dede:field}
+{dede:field name='description'}林中小屋(尸营旅舍)(诡屋)清晰TS中字2012最新美国恐怖悬疑惊悚大迅雷下载、免费下载，林中小屋(尸营旅舍)(诡屋)清晰TS中字2012最新美国恐怖悬疑惊悚大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}林中小屋(尸营旅舍)(诡屋)清晰TS中字2012最新美国恐怖悬疑惊悚大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3330/飘花电影piaohua.com林中小屋(尸营旅舍)(诡屋)清晰TS中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO42P30-53537.jpg{/dede:field}

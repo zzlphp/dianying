@@ -1,0 +1,9 @@
+{dede:field name='keywords'}狮子王2/狮子王3/两部BD高清1024{/dede:field}
+{dede:field name='description'}狮子王2/狮子王3/两部BD高清1024*576迅雷下载、免费下载，狮子王2/狮子王3/两部BD高清1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}狮子王2/狮子王3/两部BD高清1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1UH0-4L13.jpg{/dede:field}

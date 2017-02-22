@@ -1,0 +1,9 @@
+{dede:field name='keywords'}犯罪心理,第七季更新24集2011主{/dede:field}
+{dede:field name='description'}犯罪心理 第七季更新24集2011主打美剧迅雷下载、免费下载，犯罪心理 第七季更新24集2011主打美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}犯罪心理 第七季更新24集2011主打美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1760/飘花电影piaohua.com犯罪心理第七季01集[中英双字].rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP942B0-223a.jpg{/dede:field}

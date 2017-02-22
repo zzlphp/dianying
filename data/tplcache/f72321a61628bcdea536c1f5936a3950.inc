@@ -1,0 +1,9 @@
+{dede:field name='keywords'}窗台上的男人(惊天换日)DVD中字2{/dede:field}
+{dede:field name='description'}窗台上的男人(惊天换日)DVD中字2012最新美国犯罪惊悚大片迅雷下载、免费下载，窗台上的男人(惊天换日)DVD中字2012最新美国犯罪惊悚大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}窗台上的男人(惊天换日)DVD中字2012最新美国犯罪惊悚大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2998/飘花电影piaohua.com窗台上的男人(惊天换日)清晰抢先中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO910550-35H8.jpg{/dede:field}

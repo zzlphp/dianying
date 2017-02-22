@@ -1,0 +1,9 @@
+{dede:field name='keywords'}福熙姐姐更新第130集2011韩国KBS{/dede:field}
+{dede:field name='description'}福熙姐姐更新第130集2011韩国KBS晨间剧迅雷下载、免费下载，福熙姐姐更新第130集2011韩国KBS晨间剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}福熙姐姐更新第130集2011韩国KBS晨间剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2052/飘花电影piaohua.com福熙姐姐01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0F2Z-4L43.jpg{/dede:field}

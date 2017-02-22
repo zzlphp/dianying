@@ -1,0 +1,9 @@
+{dede:field name='keywords'}新特种部队高清BD1280迅雷下载，{/dede:field}
+{dede:field name='description'}新特种部队高清BD1280迅雷下载、免费下载，新特种部队高清BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}新特种部队高清BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4L5Z-45J5.jpg{/dede:field}

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","红番区[HD中英双字1024x576高清",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","红番区[HD中英双字1024x576高清版]迅雷下载、免费下载，红番区[HD中英双字1024x576高清版]Gvod高清在线播放，剧情介绍等。",72,230);
+$z[1][4]['name']="description";
+$z[2]=Array("field","红番区[HD中英双字1024x576高清版]",232,302);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",304,343);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",345,384);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-03-10",386,436);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo5.zxip.com/albums5/folder10/7895/20060404234140/20097231736406063.jpg');\" src=\"http://photo5.zxip.com/albums5/folder10/7895/20060404234140/20097231736406063.jpg\" border=0><BR><BR>◎中文　名　红番区<BR>◎片　　名　Rumble In The Bronx<BR>◎年　　代　1995<BR>◎地　　区　中国香港/加拿大<BR>◎类　　别　犯罪/喜剧/惊秫/动作<BR>◎语　　言　英语<BR>◎字　　幕　中英双字<BR>◎IMDB评分　6.5/10(6.774 votes)<BR>◎文件格式　HDTV-RMVB<BR>◎视频尺寸　1024 x 576<BR>◎文件大小　1CD<BR>◎片　　长　91 Min<BR>◎导　　演　唐季礼Stanley Tong<BR>◎主　　演　董骠 Bill Tung .....Uncle Bill<BR>　　　　　　叶芳华 Fran?oise Yip .....Nancy<BR>　　　　　　梅艳芳 Anita Mui .....Elaine<BR>　　　　　　成龙 Jackie Chan .....Keung<BR>　　　　　　陆剑明 Jamie Luk .....Steven Lau, Friend with Limo<BR>　　　　　　Garvin Cross .....Angelo<BR>　　　　　　Dean McKenzie .....Tony's Gang Member<BR>　　　　　　Lance Gibson .....Tony's Gang Member<BR>　　　　　　Owen Walstrom .....White Tiger's Gang Member<BR>　　　　　　Mark Antoniuk .....Tony's Gang Member<BR>　　　　　　David Fredericks .....Police Officer<BR>　　　　　　Chris3e Franco .....Tony's Gang Member<BR>　　　　　　Rick Burgess .....Harley Gang Leader<BR>　　　　　　Chan Man Ching .....Tony's Gang Member<BR>　　　　　　Carrie Cain-Sparks .....Whi<BR>　　　　　　Alf Humphreys .....Police Officer<BR>　　　　　　高雄 Eddy Ko .....Prospective Market Buyer<BR>　　　　　　周华健 Emil Chau .....Ice Cream Salesman<BR>　　　　　　岳华 Hua Yueh .....(uncredited)<BR>　　　　　　Guyle Fraizer .....Police Officer<BR>　　　　　　John Sampson .....White Tiger's Gang Member<BR>　　　　　　Kimani Ray Smith .....Tony's Gang Member<BR>　　　　　　杜德伟 Alex To .....Ice Cream Customer<BR>　　　　　　Ailen Sit .....Tony's Gang Member<BR><BR>◎简　　介　<BR><BR>　　货车司机强得知移居美国的骠叔新婚之喜，便赴宴祝贺。骠叔想婚后与黑人妻子安享晚年，故将经营多年的超级市场卖给一名年轻寡妇Elaine，强与Elaine初见面已互生好感。超级市场接手后，强主动协助Elaine打点业务，好景不长，超市运作得不错时，却有一班由Johnny为首的pun仔党来偷窃，给强揭发了，从此惹起斗争的危机。数番波折后，强和Elaine不但能逃过厄运，更得来意外收获。<BR><BR>幕后制作：<BR><BR>&nbsp; &nbsp; 1995年1月，由唐季礼执导、成龙主演的影片《红番区》3E电影院在中国内地上映，获得3500多万元的票房成绩，几乎是同期上映的好莱坞大片《亡命天涯》的3倍。由于上映时间正好在春节前后，因此《红番区》从真正意义上开创了中国内地的电影贺岁档。《红番区》也是成龙第一部制作费过亿元的，从《红番区》以后，成龙的每部影片投资都超过亿元。《红番区》以美国纽约为背景，故事简单直接，节奏爽快明朗，十分具有娱乐性。《红番区》亦是成龙打入好莱坞的里程碑之作，该片在美国获得了3234万美元的票房。</P>\r\n<P>【电影截图】：<BR><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo5.zxip.com/albums5/folder10/7895/20100301123846/2010381228140.jpg');\" src=\"http://photo5.zxip.com/albums5/folder10/7895/20100301123846/2010381228140.jpg\" border=0> <BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo5.zxip.com/albums5/folder10/7895/20100301123846/20103812283976.jpg');\" src=\"http://photo5.zxip.com/albums5/folder10/7895/20100301123846/20103812283976.jpg\" border=0></P><br>  [下载地址]：<IMG src=\"/uploads/allimg/c120524/133N2ZL930-142957.jpg\" border=0><br>\r\n<table style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellspacing=\"0\" cellpadding=\"6\" width=\"95%\" align=\"center\" border=\"0\">\r\n    <tbody>\r\n        <tr>\r\n            <td style=\"WORD-WRAP: break-word\" bgcolor=\"#fdfddf\">ftp://4e:4e@m1.3edyy.com:1402/【3E电影院www.3edyy.com】红番区HD中英双字1024x576高清版.rmvb</td>\r\n        </tr>\r\n    </tbody>\r\n</table>",438,4255);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133NC4aK0-31162.jpg",4257,4339);
+$z[7][4]['name']="litpic";
+
+?>

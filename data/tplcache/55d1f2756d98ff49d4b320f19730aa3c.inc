@@ -1,0 +1,9 @@
+{dede:field name='keywords'}杀手精英/特种精英/灭杀门BD国语{/dede:field}
+{dede:field name='description'}杀手精英/特种精英/灭杀门BD国语配音中字1024/1280高清迅雷下载、免费下载，杀手精英/特种精英/灭杀门BD国语配音中字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}杀手精英/特种精英/灭杀门BD国语配音中字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3296/飘花电影piaohua.com杀手精英BD国语配音中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO41D50-4N20.jpg{/dede:field}

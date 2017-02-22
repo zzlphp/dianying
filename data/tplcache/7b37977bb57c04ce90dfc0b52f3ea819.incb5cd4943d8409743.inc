@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","提款机杀人夜DVD中字2011恐怖惊",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","提款机杀人夜DVD中字2011恐怖惊悚迅雷下载、免费下载，提款机杀人夜DVD中字2011恐怖惊悚Gvod高清在线播放，剧情介绍等。",72,228);
+$z[1][4]['name']="description";
+$z[2]=Array("field","提款机杀人夜DVD中字2011恐怖惊悚",230,299);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",301,340);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",342,381);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-21",383,433);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_004.jpg\" /></p>\r\n<p>\r\n	【影片原名】ATM<br />\r\n	【中文译名】自动取款机/提款机杀人夜/提款机杀手<br />\r\n	【出品公司】Buffalo Gal Pictures<br />\r\n	【出品年代】2011 年<br />\r\n	【上映日期】2012年2月17日 意大利<br />\r\n	【影片级别】USA:R<br />\r\n	【文件格式】DVD-RMVB<br />\r\n	【文件大小】1CD 459MB<br />\r\n	【视频尺寸】720 x 400<br />\r\n	【影片长度】108 Mins<br />\r\n	【对白语言】英语<br />\r\n	【字幕语言】中文字幕<br />\r\n	【IMDB评分】6.1/10 (492 votes)<br />\r\n	【IMDB链接】：<a href=\"http://www.bluemv.com\" title=\"电影下载\">http://www.bluemv.com</a><br />\r\n	【国　　家】美国/加拿大<br />\r\n	【类　　别】恐怖/惊悚<br />\r\n	【导　　演】David Brooks<br />\r\n	【主　　演】爱丽丝&middot;伊芙 Alice Eve&nbsp;&nbsp;....Emily<br />\r\n	　　　　　　乔希&middot;佩克 Josh Peck&nbsp;&nbsp;....Corey<br />\r\n	　　　　　　布莱恩&middot;格拉格提 Brian Geraghty&nbsp;&nbsp;....David<br />\r\n	　　　　　　Steve Nagribianko&nbsp;&nbsp;....BGP<br />\r\n	　　　　　　Will Woytowich&nbsp;&nbsp;....Sargent<br />\r\n	　　　　　　Aaron Hughes&nbsp;&nbsp;....Patrolman<br />\r\n	　　　　　　Glen Thompson&nbsp;&nbsp;....Harold<br />\r\n	　　　　　　Robert Huculak&nbsp;&nbsp;....Robert<br />\r\n	<br />\r\n	【内容简介】<br />\r\n	<br />\r\n	　　影片讲述两个男人、一个女人被困在自动提款机的窄室中,而一位杀手窥伺在外。<br />\r\n	<br />\r\n	<br />\r\n	◎影片截图<br />\r\n	<br />\r\n	<img alt=\"\" file=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_003.jpg\" height=\"340\" lazyloaded=\"true\" src=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_003.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	<img alt=\"\" file=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_000.jpg\" height=\"340\" lazyloaded=\"true\" src=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_000.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	<img alt=\"\" file=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_002.jpg\" height=\"340\" lazyloaded=\"true\" src=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_002.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	<img alt=\"\" file=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_001.jpg\" height=\"340\" lazyloaded=\"true\" src=\"http://img170.poco.cn/mypoco/myphoto/20120317/12/56643687201203171253154242559886362_001.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	[下载地址]： &nbsp;<img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" /></p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3032/飘花电影piaohua.com提款机杀人夜DVD中字.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:3032/飘花电影piaohua.com提款机杀人夜DVD中字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",435,3589);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O16459360-25425.jpg",3591,3676);
+$z[7][4]['name']="litpic";
+
+?>

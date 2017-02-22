@@ -1,0 +1,9 @@
+{dede:field name='keywords'}九二神雕侠侣之痴心情长剑国粤双{/dede:field}
+{dede:field name='description'}九二神雕侠侣之痴心情长剑国粤双语迅雷下载、免费下载，九二神雕侠侣之痴心情长剑国粤双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}九二神雕侠侣之痴心情长剑国粤双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2023/飘花电影piaohua.com九二神雕侠侣之痴心情长剑国粤双语.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0Y420-11231.jpg{/dede:field}

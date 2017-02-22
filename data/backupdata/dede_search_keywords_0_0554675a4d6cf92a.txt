@@ -1,0 +1,5 @@
+INSERT INTO `dede_search_keywords` VALUES('1','在这里搜索...','在这里 搜索 ...','1','0','1337849207','0','0');
+INSERT INTO `dede_search_keywords` VALUES('2','张国荣','张国荣','3','3','1337903933','0','0');
+INSERT INTO `dede_search_keywords` VALUES('3','1024','1024','15','232','1337925724','0','0');
+INSERT INTO `dede_search_keywords` VALUES('4','黑色眼镜蛇','黑色 眼镜蛇','4','2','1337925930','0','0');
+INSERT INTO `dede_search_keywords` VALUES('5','黑色','黑色','1','1','1337925646','0','0');

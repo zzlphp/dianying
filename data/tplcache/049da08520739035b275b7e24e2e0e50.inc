@@ -1,0 +1,9 @@
+{dede:field name='keywords'}妻子的资格日韩剧14迅雷下载，免{/dede:field}
+{dede:field name='description'}妻子的资格日韩剧14迅雷下载、免费下载，妻子的资格日韩剧14Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}妻子的资格日韩剧14{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3156/飘花电影piaohua.com妻子的资格EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ05D60-33T5.jpg{/dede:field}

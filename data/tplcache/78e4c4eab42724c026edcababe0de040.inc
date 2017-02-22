@@ -1,0 +1,9 @@
+{dede:field name='keywords'}蝙蝠侠6部曲BD中英双字1024/1280{/dede:field}
+{dede:field name='description'}蝙蝠侠6部曲BD中英双字1024/1280高清经典动作科幻迅雷下载、免费下载，蝙蝠侠6部曲BD中英双字1024/1280高清经典动作科幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蝙蝠侠6部曲BD中英双字1024/1280高清经典动作科幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3169/飘花电影piaohua.com蝙蝠侠BD国英双语中英双字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOZD20-4AD.jpg{/dede:field}

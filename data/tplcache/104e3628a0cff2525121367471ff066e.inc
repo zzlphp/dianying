@@ -1,0 +1,9 @@
+{dede:field name='keywords'}冰与火之歌：权力的游戏第二季美{/dede:field}
+{dede:field name='description'}冰与火之歌：权力的游戏第二季美剧8迅雷下载、免费下载，冰与火之歌：权力的游戏第二季美剧8Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}冰与火之歌：权力的游戏第二季美剧8{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3119/飘花电影piaohua.com冰与火之歌：权力的游戏.第二季.人物篇.丹妮莉丝·坦格利安1280高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPb2530-24236.jpg{/dede:field}

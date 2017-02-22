@@ -1,0 +1,9 @@
+{dede:field name='keywords'}午夜凶梦高清HD高清版BD国语中字{/dede:field}
+{dede:field name='description'}午夜凶梦高清HD高清版BD国语中字2011恐怖惊悚迅雷下载、免费下载，午夜凶梦高清HD高清版BD国语中字2011恐怖惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}午夜凶梦高清HD高清版BD国语中字2011恐怖惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2202/飘花电影piaohua.com午夜凶梦DVDscr国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPO23F-19631.jpg{/dede:field}

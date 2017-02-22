@@ -1,0 +1,9 @@
+{dede:field name='keywords'}那些年，我们一起追的女孩BD1280{/dede:field}
+{dede:field name='description'}那些年，我们一起追的女孩BD1280高清迅雷下载、免费下载，那些年，我们一起追的女孩BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}那些年，我们一起追的女孩BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOR6310-3J15.jpg{/dede:field}

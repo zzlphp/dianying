@@ -1,0 +1,9 @@
+{dede:field name='keywords'}坦克大决战BD高清,二战经典迅雷{/dede:field}
+{dede:field name='description'}坦克大决战BD高清 二战经典迅雷下载、免费下载，坦克大决战BD高清 二战经典Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}坦克大决战BD高清 二战经典{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP560V0-5S36.jpg{/dede:field}

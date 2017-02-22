@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","惊爆十三天/惊爆13天BD1280高清",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","惊爆十三天/惊爆13天BD1280高清中字迅雷下载、免费下载，惊爆十三天/惊爆13天BD1280高清中字Gvod高清在线播放，剧情介绍等。",72,232);
+$z[1][4]['name']="description";
+$z[2]=Array("field","惊爆十三天/惊爆13天BD1280高清中字",234,305);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",307,346);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",348,387);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-10",389,439);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120508/23/17870980201205082310021573325782264_012.jpg\" style=\"width: 413px; height: 499px\" /></p>\r\n<p>\r\n	◎译　　名　惊爆十三天/惊爆13天/惊天13日<br />\r\n	◎片　　名　Thirteen Days<br />\r\n	◎年　　代　2000<br />\r\n	◎国　　家　美国<br />\r\n	◎类　　别　剧情/历史/惊悚<br />\r\n	◎语　　言　英语/俄语/西班牙语/罗马尼亚语<br />\r\n	◎字　　幕　N/A<br />\r\n	◎IMDB评分 7.2/10 (28,990 votes)<br />\r\n	◎IMDB链接 <a href=\"http://www.xiaozhizhu.net/\" target=\"_blank\">http://www.imdb.com/title/tt0146309/</a><br />\r\n	◎文件格式 x264 + DTS<br />\r\n	◎视频尺寸　1280 x 696<br />\r\n	◎文件大小　1.5 DVD<br />\r\n	◎片　　长　02:25:33<br />\r\n	◎导　　演　罗杰&middot;唐纳森 Roger Donaldson<br />\r\n	◎主　　演　凯文&middot;科斯特纳 Kevin Costner ....Kenny O&#39;Donnell, Special Assistant to the President<br />\r\n	　　　　　　布鲁斯&middot;格林伍德 Bruce Greenwood ....President John F. Kennedy<br />\r\n	　　　　　　斯蒂文&middot;卡普 Steven Culp ....Atty. Gen. Robert F. Kennedy<br />\r\n	　　　　　　迪伦&middot;贝克 Dylan Baker ....Robert McNamara, Secretary of Defense<br />\r\n	　　　　　　迈克尔&middot;费尔曼 Michael Fairman ....Adlai Stevenson, US Ambassador to the UN<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	　　古巴飞弹危机是发生于1962年10月14日，美国U2轰炸机发现苏联，在距离佛罗里达不到150公里的古巴境内部署核子飞弹，这些飞弹能够瞄准全美各大都市并且造成重大伤亡，这项消息当然立刻震惊华府。美、苏两强的对峙，情势也急遽升高，核战危机一触即发。<br />\r\n	<br />\r\n	　　一边是苏联极具挑釁的行动；而华府内部的声音，主战的鹰派要蛮干决一死战，也叫总统甘乃迪头痛不已。全世界最危险的13天，甘乃迪总统和他的幕僚该如何用勇气和智慧化解这一场危机呢？<br />\r\n	<br />\r\n	一句话评论<br />\r\n	<br />\r\n	You&#39;ll Never Believe How Close We Came<br />\r\n	<br />\r\n	幕后制作<br />\r\n	<br />\r\n	　　影片描写美国总统肯尼迪和其弟罗伯特应付这场危机的整个过程，包括跟苏联的台前幕后交易以及跟保守党的抗争。影片叙事性强，条理清晰，悬念叠起。寇斯特纳扮演总统的心腹。<br />\r\n	&nbsp;</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120508/23/17870980201205082310021573325782264_005.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120508/23/17870980201205082310021573325782264_003.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120508/23/17870980201205082310021573325782264_002.jpg\" style=\"width: 640px; height: 360px\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net/movie/33434.html\" target=\"_blank\">http://www.xiaozhizhu.net/movie/33434.html</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy241:piaohua@117.41.229.29:2009/飘花电影piaohua.com惊爆十三天BD1280高清中字.rmvb\">ftp://dy241:piaohua@117.41.229.29:2009/飘花电影piaohua.com惊爆十三天BD1280高清中字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",441,3957);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15aBF-3M95.jpg",3959,4040);
+$z[7][4]['name']="litpic";
+
+?>

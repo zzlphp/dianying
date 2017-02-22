@@ -1,0 +1,9 @@
+{dede:field name='keywords'}鬼域BD粤语中字1280高清李心洁惊{/dede:field}
+{dede:field name='description'}鬼域BD粤语中字1280高清李心洁惊悚剧情迅雷下载、免费下载，鬼域BD粤语中字1280高清李心洁惊悚剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}鬼域BD粤语中字1280高清李心洁惊悚剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2700/飘花电影piaohua.com鬼域BD粤语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPK2410-2c57.jpg{/dede:field}

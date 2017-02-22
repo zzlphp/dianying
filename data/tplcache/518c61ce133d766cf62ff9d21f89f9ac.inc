@@ -1,0 +1,9 @@
+{dede:field name='keywords'}武状元苏乞儿BD高清国粤双语1024{/dede:field}
+{dede:field name='description'}武状元苏乞儿BD高清国粤双语1024*576迅雷下载、免费下载，武状元苏乞儿BD高清国粤双语1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}武状元苏乞儿BD高清国粤双语1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2B160-32064.jpg{/dede:field}

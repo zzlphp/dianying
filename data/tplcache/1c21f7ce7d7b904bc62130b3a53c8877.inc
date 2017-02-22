@@ -1,0 +1,22 @@
+{dede:field name='keywords'}W.H.Y,最新EP《坐你隔壁》馬來西{/dede:field}
+{dede:field name='description'}W.H.Y 最新EP《坐你隔壁》馬來西亞版迅雷下载、免费下载，W.H.Y 最新EP《坐你隔壁》馬來西亞版Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}W.H.Y 最新EP《坐你隔壁》馬來西亞版{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-01-04{/dede:field}
+{dede:field name='body'}<p>专辑名称：坐你隔壁<br />发行时间：2006年12月15日<br />专辑歌手：W.H.Y<br />地区：大陆<br />语言：普通话</p>
+<p><br />专辑介绍：</p>
+<p>　　魔fun毕业声 W.H.Y 全新毕业歌为考生加油打气！</p>
+<p>　　肋骨音乐和阿尔发合作艺人经纪即将跨入第三个年头，继两位艺人陈威全和王蓝茵在刚刚落幕的娱协奖各斩获，肋骨再接再厉，11月13日推出&ldquo;魔fun毕业声&rdquo;W.H.Y 的EP《坐你隔壁》！</p>
+<p>　　W.H.Y 由三位年仅18岁的同班同学组成，来自沙巴亚庇。</p>
+<p>　　W.H.Y 出身Digi主办的2005年东马 College Idol，当时她们凭着全场唯一一首全新创作歌曲《我们的爱情》及苦练的舞蹈，击败其他大专院校的对手，夺下冠军。而 W.H.Y 这团名，分别代表林凯雯的雯 (W)，陈慧慧的慧 (H)，以及苏颖滢的滢 (Y)。</p>
+<p>　　W.H.Y 在2006年头就签约肋骨，但基于学业和SPM大考，肋骨决定把发片期订在2006年底，尽管如此，肋骨却从去年年底，就安排 W.H.Y 到吉隆坡上课，除了声乐和乐理，还聘请本地著名舞蹈导师 Michael 和 Nazrim 教导肢体语言。</p>
+<p>　　《坐你隔壁》这一张EP，概念环绕在校园回忆和毕业心情，也因此产生 W.H.Y &ldquo;魔fun毕业声&rdquo;这有趣名堂！EP共收录5首歌。第一波主打《坐你隔壁》和EP同名。《坐你隔壁》近期开始在MyFM首播，配合大考期为全马考生加油打气。</p>
+<p>　　EP的词曲统筹由肋骨音乐负责人，也是《勇气》和《爱笑的眼睛》的写词人洪瑞业掌舵。他从肋骨词曲经纪部不下300首demo里，严格筛选30首，再从中锁定六首歌。其中2006娱协奖特别推荐奖得主王蓝茵的作品《你在哪里》后来更发生抢歌事件，最后因为范玮琪先发片而不得不忍痛割爱。</p>
+<p>　　为了这一张EP，制作群堪称肋骨总动员！除了询众要求收录 College Idol 的冠军作品《我们的爱情》，制作人吴薇薇也破例量身订做超口爱的恰恰曲风《你不是Superman》。这首歌早前已经抢先收录在《骨中作乐》合辑。其他歌曲还有06年娱协新人铜奖得主陈威全的《幸福的魔杖》，肋骨新晋作者林锦荣的《坐你隔壁》和洪俐芩+王蓝茵合作的《微笑的光芒》。</p>
+<p>　　值得一提的是《微笑的光芒》被各方预测将成为2006年最感动的毕业歌。洪俐芩和王蓝茵这一组好搭档，继《如果的事》和《明信片》后，再交出这一首真挚感人的词曲，尤其副歌那一句&ldquo;如果你会孤单，我陪你到天亮；如果你也失望，我们一起坚强；如果你如果你，如果你还渴望；记得要交换一个，微笑光芒&rdquo;写尽毕业后的关怀和思念！由今届毕业生的 W.H.Y 亲自演绎，更见真情流露和感动。</p>
+<p>　　EP的设计，由 Dukun 官方网的设计公司 Phiak 创意总监 Melvin Beh 负责即兴涂鸦，注入校园年轻活力色彩。除了封面封底和歌词，里头还有2007年《你不是Superman》MV月历和 W.H.Y I Bless You 双双有奖祝福卡。W.H.Y I Bless You 双双有奖祝福卡标题有趣 (可解读成为什么我祝福你)，出发点更具意义，趁着年终大考，只要购买 W.H.Y 的 EP，写上祝福语给 W.H.Y 和自己的一位好友，十份最佳祝福语将获得 W.H.Y 亲手准备的 Echo Park 礼物，而且不止寄语人有奖，连收到祝福语的朋友也有奖！</p>
+<p>　第一High主打&ldquo;坐你隔壁&rdquo;<br />　第一圣诞主打&ldquo;幸福的魔拐&rdquo;<br />　第一纪念主打&ldquo;我们的爱情&rdquo;<br />第一口爱主打&ldquo;你不是Superman&rdquo;<br />第一温暖主打&ldquo;微笑的光芒&rdquo;</p>
+<p>&nbsp;</p>
+<p>01.坐你隔壁<br />http://cncvideo.blogolb.com/NUpLoad/2006/12/15/200612151835294534400.mp3<br />02.幸福的魔拐<br />http://cncvideo.blogolb.com/NUpLoad/2006/12/15/200612151838385163136.mp3<br />03.我们的爱情<br />http://cncvideo.blogolb.com/NUpLoad/2006/12/15/200612151843304796544.mp3<br />04.你不是Superman<br />http://cncvideo.blogolb.com/NUpLoad/2006/12/15/200612151846264427904.mp3<br />05.微笑的光芒<br />http://cncvideo.blogolb.com/NUpLoad/2006/12/15/200612151850034003968.mp3</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120524/133N3605XP-63R3.jpg{/dede:field}

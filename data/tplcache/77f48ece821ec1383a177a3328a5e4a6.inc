@@ -1,0 +1,9 @@
+{dede:field name='keywords'}恋爱求证高清BD1280迅雷下载，免{/dede:field}
+{dede:field name='description'}恋爱求证高清BD1280迅雷下载、免费下载，恋爱求证高清BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}恋爱求证高清BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7797/飘花电影piaohua.com恋爱求证BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOB3220-52T1.jpg{/dede:field}

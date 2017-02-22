@@ -1,0 +1,9 @@
+{dede:field name='keywords'}暮光之城1HD国语配音中字1280高{/dede:field}
+{dede:field name='description'}暮光之城1HD国语配音中字1280高清经典爱情迅雷下载、免费下载，暮光之城1HD国语配音中字1280高清经典爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}暮光之城1HD国语配音中字1280高清经典爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2432/飘花电影piaohua.com暮光之城1HD国语配音中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOO1J0-4B10.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}失陷猩球/奇幻大战争BD中英双字1{/dede:field}
+{dede:field name='description'}失陷猩球/奇幻大战争BD中英双字1280高清美国动作科幻迅雷下载、免费下载，失陷猩球/奇幻大战争BD中英双字1280高清美国动作科幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}失陷猩球/奇幻大战争BD中英双字1280高清美国动作科幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2365/飘花电影piaohua.com奇幻大战争BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOU02F-41Z2.jpg{/dede:field}

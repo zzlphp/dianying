@@ -1,0 +1,9 @@
+{dede:field name='keywords'}天使的选择日韩剧36迅雷下载，免{/dede:field}
+{dede:field name='description'}天使的选择日韩剧36迅雷下载、免费下载，天使的选择日韩剧36Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}天使的选择日韩剧36{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3157/飘花电影piaohua.com天使的选择EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP9Cc0-34b4.jpg{/dede:field}

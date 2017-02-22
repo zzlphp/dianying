@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","非凡舞团电影版第二部BD1280中英",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","非凡舞团电影版第二部BD1280中英双字美国歌舞片迅雷下载、免费下载，非凡舞团电影版第二部BD1280中英双字美国歌舞片Gvod高清在线播放，剧情介绍等。",73,255);
+$z[1][4]['name']="description";
+$z[2]=Array("field","非凡舞团电影版第二部BD1280中英双字美国歌舞片",257,339);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",341,380);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",382,421);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-16",423,473);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img src=\"http://attachment.yyets.com/attachment/201203/24/737912_1332558015IXX1.jpg\" /></p>\r\n<p>\r\n	&nbsp;<img border=\"0\" src=\"http://img170.poco.cn/mypoco/myphoto/20120324/10/64984306201203241055221603515665543_001.jpg\" style=\"cursor: hand\" title=\"看原大图\" width=\"500\" /></p>\r\n<p>\r\n	中文片名: 非凡舞团 The LXD Secrets of the Ra 电影版 第二部<br />\r\n	英文片名: The LXD Secrets of the Ra<br />\r\n	国家地区: 美国<br />\r\n	影片类型: 歌舞片<br />\r\n	资源格式: 720P<br />\r\n	上影时间: 2011<br />\r\n	导　演: 朱浩伟(john Chu)<br />\r\n	主　演: Jeremy Marinas<br />\r\n	　　　　　　Travis Wong<br />\r\n	　　　　　　Nicholas Braun<br />\r\n	　　　　　　William Wingfield<br />\r\n	　　　　　　Galen Hooks<br />\r\n	　　　　　　Harry Shum Jr(岑永康)</p>\r\n<p>\r\n	对白语言: 英语&nbsp;<br />\r\n	字幕语种: 中英双字</p>\r\n<p>\r\n	介绍:<br />\r\n	非凡舞团（The Legion of Extraordinary Dancers）LXD是一个真实存在的舞团，2009年，由Jon m Chu导演在Youtube上发起的活动集结到一起，此后，LXD的成员们拍摄了The LXD网络剧，席卷全球！<br />\r\n	另外，作为Glee巡演的御用舞团，LXD的足迹遍布全球各大城市！相信看过舞魅天下的同学们都知道此舞团。<br />\r\n	LXD舞团的网络剧已然成为一种文化现象，它也成为了有史以来舞者参与者最多的电影电视作品。<br />\r\n	最终在网络剧The LXD中露面的舞团由许多个身怀绝技的舞者们组成，很多成员是舞蹈界的明星，明星的编舞及伴舞，本片为LXD舞团网络剧第二季的电影版 ，他们在这一季中将会用RA的力量对抗邪恶势力Ox和Umbras，精彩纷呈的剧情配上让人瞠目结舌的舞蹈势必掀起舞蹈新势力的巨浪！</p>\r\n<p>\r\n	LXD的创始人John Chu（舞出我人生3D的导演）称自己的团体为&quot;对舞蹈艺术的又一次进化，上演的网络剧是一种集音乐、舞蹈、故事线、运动、互动传媒于一身的艺术形式。<br />\r\n	没有特效、威亚，完全靠真人演绎。 &ldquo;LXD使我们更好地通过舞蹈来讲述故事，并为世界上最顶尖的舞者提供了一个充满想象力的平台&rdquo;，这位创始人显然对已经为之秘密策划了一年的项目的野心勃勃，&ldquo;通过与Paramount Digital Entertainment和Agility的合作，我们希望这部剧集能重新定义舞蹈的未来。&rdquo;</p>\r\n<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120516/00/17870980201205160003262386583510549_013.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120516/00/17870980201205160003262386583510549_012.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120516/00/17870980201205160003262386583510549_011.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy241:piaohua@117.41.229.29:2021/飘花电影piaohua.com非凡舞团电影版第二部BD1280中英双字.rmvb\">ftp://dy241:piaohua@117.41.229.29:2021/飘花电影piaohua.com非凡舞团电影版第二部BD1280中英双字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",475,3893);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15c4050-33306.jpg",3895,3979);
+$z[7][4]['name']="litpic";
+
+?>

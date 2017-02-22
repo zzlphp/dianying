@@ -1,0 +1,9 @@
+{dede:field name='keywords'}海军罪案调查处,第九季更新24集2{/dede:field}
+{dede:field name='description'}海军罪案调查处 第九季更新24集2011主打美剧迅雷下载、免费下载，海军罪案调查处 第九季更新24集2011主打美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}海军罪案调查处 第九季更新24集2011主打美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1761/飘花电影piaohua.com海军罪案调查处第九季01集[中英双字].rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP93420-4E08.jpg{/dede:field}

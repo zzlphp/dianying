@@ -1,0 +1,9 @@
+{dede:field name='keywords'}吸血僵尸/吸血疆尸惊情四百年/吸{/dede:field}
+{dede:field name='description'}吸血僵尸/吸血疆尸惊情四百年/吸血惊情400年BD1280高清迅雷下载、免费下载，吸血僵尸/吸血疆尸惊情四百年/吸血惊情400年BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}吸血僵尸/吸血疆尸惊情四百年/吸血惊情400年BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPJF60-1C19.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}哈利波特7上高清国英双语迅雷下{/dede:field}
+{dede:field name='description'}哈利波特7上高清国英双语迅雷下载、免费下载，哈利波特7上高清国英双语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}哈利波特7上高清国英双语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO95I40-22918.jpg{/dede:field}

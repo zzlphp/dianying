@@ -1,0 +1,9 @@
+{dede:field name='keywords'}冰河世纪：感恩节倒计时HD中字迅{/dede:field}
+{dede:field name='description'}冰河世纪：感恩节倒计时HD中字迅雷下载、免费下载，冰河世纪：感恩节倒计时HD中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}冰河世纪：感恩节倒计时HD中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2192/飘花电影piaohua.com冰河世纪：感恩节倒计时HDTV-AVI简体中文.avi{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ21W40-1Fb.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}精灵兰尼和韦恩的圣诞前夜DVD中{/dede:field}
+{dede:field name='description'}精灵兰尼和韦恩的圣诞前夜DVD中英双字美国动画迅雷下载、免费下载，精灵兰尼和韦恩的圣诞前夜DVD中英双字美国动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}精灵兰尼和韦恩的圣诞前夜DVD中英双字美国动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-05{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2526/飘花电影piaohua.com精灵兰尼和韦恩的圣诞前夜DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0S1Z-352G.jpg{/dede:field}

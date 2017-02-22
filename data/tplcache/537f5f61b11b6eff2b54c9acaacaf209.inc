@@ -1,0 +1,9 @@
+{dede:field name='keywords'}现代启示录国英双语数码修复重映{/dede:field}
+{dede:field name='description'}现代启示录国英双语数码修复重映版迅雷下载、免费下载，现代启示录国英双语数码修复重映版Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}现代启示录国英双语数码修复重映版{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP52RZ-52560.jpg{/dede:field}

@@ -1,0 +1,1 @@
+document.writeln("<a href=\"http:\/\/www.piaohua.com\/plus\/guestbook.php\" target=\"_blank\"><font color=\"#FF0000\">问题建议反馈<\/font><\/a>")

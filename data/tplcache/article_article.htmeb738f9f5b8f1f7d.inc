@@ -1,0 +1,43 @@
+<?php
+$z[0]=Array("field","",146,165);
+$z[0][4]['name']="title";
+$z[1]=Array("global","",166,192);
+$z[1][4]['name']="cfg_webname";
+$z[2]=Array("field","",217,246);
+$z[2][4]['name']="keywords";
+$z[3]=Array("field","",283,341);
+$z[3][4]['name']="description";
+$z[3][4]['function']="html2text(@me)";
+$z[4]=Array("include","",574,609);
+$z[4][4]['filename']="head.htm";
+$z[5]=Array("field","",769,798);
+$z[5][4]['name']="position";
+$z[6]=Array("field","",854,881);
+$z[6][4]['name']="title";
+$z[7]=Array("field","",925,952);
+$z[7][4]['name']="litpic";
+$z[8]=Array("field","",959,986);
+$z[8][4]['name']="title";
+$z[9]=Array("field","",1049,1076);
+$z[9][4]['name']="title";
+$z[10]=Array("field","",1106,1162);
+$z[10][4]['name']="pubdate";
+$z[10][4]['function']="GetDateMk('@me')";
+$z[11]=Array("field","",1841,1866);
+$z[11][4]['name']="body";
+$z[12]=Array("arclist","\r\n          [field:typename/]<a href=\"[field:arcurl/]\">[field:title/]</a>&nbsp;\r\n         ",2333,2486);
+$z[12][4]['row']="10";
+$z[12][4]['orderby']="rand";
+$z[12][4]['titlelen']="24";
+$z[13]=Array("arclist","\r\n          <li><span>[field:global name=autoindex/] </span><a href=\"[field:arcurl/]\"><font color=\"#0000FF\">[field:title/]</font></a>£¨[field:typename/]£©</li>\r\n         ",2863,3097);
+$z[13][4]['row']="10";
+$z[13][4]['orderby']="click";
+$z[13][4]['titlelen']="35";
+$z[14]=Array("arclist","\r\n          <li><span>[field:global name=autoindex/] </span><a href=\"[field:arcurl/]\"><font color=\"#0000FF\">[field:title/]</font></a>£¨[field:typename/]£© </li>\r\n         ",3196,3433);
+$z[14][4]['row']="10";
+$z[14][4]['orderby']="pubdate";
+$z[14][4]['titlelen']="35";
+$z[15]=Array("include","",3521,3558);
+$z[15][4]['filename']="footer.htm";
+
+?>

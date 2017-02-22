@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>{dede:field.title/}搜索页_{dede:global.cfg_webname/}</title>
+<meta content="{dede:field name='keywords'/}" name="keywords" />
+<meta content="{dede:field name='description' function='html2text(@me)'/}" name="description" />
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type" />
+<link href="favicon.ico" rel="shortcut icon">
+<link href="/templets/images/mainlist.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+{dede:include filename="head.htm"/}
+<div id="main">
+	<div id="pad_01" class="pad">
+	</div>
+	<div class="pad">
+		
+	</div>
+	<div id="im">
+		<div id="nml">
+			<div id="dir">
+				搜索 <strong class="fc_03c">{dede:global name='keyword' function='RemoveXSS(@me)'/}</strong> 的结果</div>
+			<div class="page">
+				{dede:pagelist listitem="info,index,end,pre,next,pageno" listsize="3"/}
+			</div>
+			<div id="list">
+			
+			{dede:list pagesize='14' titlelen='24'}
+				<dl>
+					<dt>
+					<a class="img" href="[field:arcurl/]" target="_blank">
+					<img alt="[field:title/]" border="0" height="150" src="[field:litpic/]" width="120"></a></dt>
+					<dd><strong><a href="[field:arcurl/]">[field:title/]</a></strong><p>
+					[field:description/]...</p>
+					<span>更新时间：[field:pubdate function="GetDateMK(@me)"/]&nbsp;&nbsp;
+					<a href="[field:arcurl/]">点击下载</a></span></dd>
+				</dl>
+			 {/dede:list}
+				<div class="clear">
+				</div>
+			</div>
+			<div class="page tk">
+			{dede:pagelist listitem="info,index,end,pre,next,pageno" listsize="3"/}
+			</div>
+		</div>
+		<div id="nmr">
+			<div class="list">
+				<strong>下载排行</strong><ul>
+				<script src='/plus/mytag_js.php?aid=1' language='javascript'></script>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="pad" style="padding-top: 3px;">
+
+	</div>
+	<div class="pad" style="padding-top: 3px;">
+		
+	</div>
+</div>
+
+{dede:include filename='footer.htm'/}
+</body>
+
+</html>

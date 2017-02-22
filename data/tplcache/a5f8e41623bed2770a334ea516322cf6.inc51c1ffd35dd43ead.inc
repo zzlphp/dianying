@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","学友光年世界巡迴演唱会2007香港",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","学友光年世界巡迴演唱会2007香港站[DVD中字无水印高清版]迅雷下载、免费下载，学友光年世界巡迴演唱会2007香港站[DVD中字无水印高清版]Gvod高清在线播放，剧情介绍等。",73,273);
+$z[1][4]['name']="description";
+$z[2]=Array("field","学友光年世界巡迴演唱会2007香港站[DVD中字无水印高清版]",275,366);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",368,407);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",409,448);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2009-02-19",450,500);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG src=\"http://www.eee4.com/0701pic/allimg/090219/1507360.jpg\" onload=\"attachimg(this, 'load')\" border=0><BR></P>\r\n<P><BR>◎中文片名：学友光年世界巡迴演唱会2007香港站<BR>◎英文片名：Jacky Cheung World Tour 2007 HK<BR>◎出品年代：2009年<BR>◎国家地区：中国香港<BR>◎类　　别：综艺<BR>◎对白语言：粤语<BR>◎字　　幕：简体中文<BR>◎文件格式：rmvb<BR>◎文件大小：1CD 1990M<BR>◎视频大小：848 x 540(黑边60)<BR>◎片　　长：03:07:55<BR>◎导　　演：张学友<BR>◎演　　员：张学友<BR>◎剧情简介：无水印版本<BR>　　阔别红馆五载，张学友继2002年《音乐之旅》再踏台阶，於2007年举行全球华人最瞩目的音乐盛宴，完美创造出逾百场《学友光年》世界巡迴演唱会！由学友亲自担当艺术总监，杜自持任音乐监制，经过世界各地巡回演出48场后，歌神於8月回到香港红馆，举行18场《学友光年》个人演唱会。<BR>　　以有缘相聚的光年为主题，出道23年的学友甫出场即以「爱火花」的劲歌热舞揭开序幕，全晚经典金曲，「一千个伤心的理由」、「情已逝」、「衹想一生跟你走」、「吻别」、「每天爱你多一些」、「屈到病」、「饿狠传说」等等，快歌、慢歌一首接一首，接著以深情的对话，与歌迷分享婚后的喜悦及创作过程，给太太唱出情歌「讲你知」、给女儿的信「摇摇」，以及给在圈中已过世的摰友送上一曲「给朋友」，场面感人至深。<BR>　　除了唱出自己的金曲外，学友更在台上演绎杨千嬅的「小城大事」和孙燕姿的「天黑黑」，获全场报以热烈的掌声。压轴为眾所期待的现场版爱情音乐剧，揉合了音乐剧《雪狼湖》与歌舞片《如果．爱》的故事和名曲，学友的演唱及演技也扣人心絃。最后学友诚意予多年来不离不弃的歌迷送上「祝福」，为是次三小时的音乐盛会划下了句号。<BR>　　历经一年时间、巡迴12个国家共105场《学友光年世界巡迴演唱会》，好评如潮，屡屡缔造电影下载演唱会新纪录，除了再破他的演唱会场数纪录之外，更曾荣获第八届华语音乐传媒大奖「最佳演唱会」，此香港站BD绝对是乐迷值得收藏的学友演唱会。<BR>　　千呼万唤 眾所期待 全球华人最瞩目的音乐盛宴学友香港红磡体育馆演出实况全纪录 。<BR>历经一年时间的世界巡廻演唱会，<BR>征服了所有华人观眾。<BR>所到之处，好评如潮<BR>反应空前热烈，各地更屡屡缔造演唱会新纪录<BR>华语乐坛第一把交椅“歌神”张学友<BR>以无可取代的歌声、热力十足的劲舞、扣人心弦的歌曲，<BR>演唱会中36首经典名曲<BR>引领观眾经历一场最丰富的音乐盛会。</P>\r\n<P><BR>专辑曲目: <BR>01. 爱．火．花<BR>02. 头髮乱了<BR>03. 和好不如初<BR>04. 听天由命 (国)<BR>05. 一千个伤心的理由 (国)<BR>06. 情已逝 (粤)<BR>07. 只想一生跟你走<BR>08. 走不掉 (国)<BR>09. 饿狼传说<BR>10. 摇摇<BR>11. 讲妳知<BR>12. 给朋友<BR>13. 在你身边 (国)<BR>14. 红色 (国)<BR>15. 屈到病<BR>16. 小城大事<BR>17. 天黑黑 (国)<BR>18. 每天爱你多一些 (粤)<BR>19. 吻别 (国)<BR>20. 忘记他<BR>21. 是否在恋爱 (国)<BR>22. 爱是永恒 (国)<BR>23. 男人本该妒忌 (国)<BR>24. 妳是爱我的 (国)<BR>25. 一个人的牺牲 (国)<BR>26. 命运曲 (国)<BR>27. 如果．爱 (国)<BR>28. 今晚要尽情<BR>29. 非常夏日<BR>30. 暗恋你<BR>31. 夕阳醉了<BR>32. 妳的名字．我的姓氏<BR>33. 还是觉得你最好<BR>34. 月半弯<BR>35. 真情流露<BR>36. 祝福 (国)<BR>Hidden Track<BR>太阳星辰 (粤)</P>\r\n<P>【截图】：</P>\r\n<P><BR><IMG src=\"http://www.eee4.com/0701pic/allimg/090219/1507361.jpg\" onload=\"attachimg(this, 'load')\" border=0>&nbsp;<BR><IMG src=\"http://www.eee4.com/0701pic/allimg/090219/1507362.jpg\" onload=\"attachimg(this, 'load')\" border=0>&nbsp;<BR><IMG src=\"http://www.eee4.com/0701pic/allimg/090219/1507363.jpg\" onload=\"attachimg(this, 'load')\" border=0>&nbsp;<BR><IMG src=\"http://www.eee4.com/0701pic/allimg/090219/1507364.jpg\" onload=\"attachimg(this, 'load')\" border=0>&nbsp;<BR><IMG src=\"http://www.eee4.com/0701pic/allimg/090219/1507365.jpg\" onload=\"attachimg(this, 'load')\" border=0></P>\r\n<P>2009-02-19 12:35:12 开始连接......<BR>2009-02-19 12:35:12 开始搜索候选资源......<BR>2009-02-19 12:35:12 搜索到22个候选资源<BR>2009-02-19 12:35:12 使用候选资源进行连接......<BR>2009-02-19 12:35:13 搜索到41个候选资源<BR>2009-02-19 12:35:13 使用候选资源进行连接......<BR>2009-02-19 12:35:13 文件创建成功，开始下载数据......<BR>2009-02-19 12:35:16 用户取消下载&nbsp;&nbsp; 本文来自：www.eee4.com</P>（一律使用迅雷下载）<BR>《学友光年世界巡迴演唱会2007香港站》DVD中字无水印高清晰版 －来自[www.eee4.com]：<IMG src=\"http://www.eee4.com/templets/img/down.jpg\" border=0><BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://e53:e53@xl2.eee4.com:9024/[3E电影站www.eee4.com]学友光年07香港站.rmvb</TD></TR></TBODY></TABLE>",502,4911);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133N4262cF-123295.jpg",4913,4997);
+$z[7][4]['name']="litpic";
+
+?>

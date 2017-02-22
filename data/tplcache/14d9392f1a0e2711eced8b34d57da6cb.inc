@@ -1,0 +1,9 @@
+{dede:field name='keywords'}我们是夜晚BD中英双字1280高清20{/dede:field}
+{dede:field name='description'}我们是夜晚BD中英双字1280高清2010德国奇幻迅雷下载、免费下载，我们是夜晚BD中英双字1280高清2010德国奇幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}我们是夜晚BD中英双字1280高清2010德国奇幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1257/飘花电影piaohua.com我们是夜晚DVD中字.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO941020-14R3.jpg{/dede:field}

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","天地雄心BD高清国粤双语1024*576",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","天地雄心BD高清国粤双语1024*576迅雷下载、免费下载，天地雄心BD高清国粤双语1024*576Gvod高清在线播放，剧情介绍等。",73,227);
+$z[1][4]['name']="description";
+$z[2]=Array("field","天地雄心BD高清国粤双语1024*576",229,297);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",299,338);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",340,379);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-09-21",381,431);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O02TP20-55J1.jpg\" /></p>\r\n<p>\r\n	◎译　　名 Armageddon<br />\r\n	◎片　　名 天地雄心<br />\r\n	◎年　　代 1997<br />\r\n	◎IMDB链接 http://www.imdb.com/title/tt0183892/<br />\r\n	◎IMDB链接 5.1/10 (164 votes)<br />\r\n	◎国　　家 香港<br />\r\n	◎国　　家 动作/喜剧/恐怖/幻想<br />\r\n	◎片　　长 112分钟<br />\r\n	◎字　　幕 N/A<br />\r\n	◎导　　演 陈嘉上 Gordon Chan<br />\r\n	◎主　　演 刘德华 Andy Lau ....Dr. Tak Ken<br />\r\n	　　　　　　 李嘉欣 Michelle Lee ....Adele<br />\r\n	　　　　　 　黄秋生 Anthony Wong ....Chiu Tai-Pang<br />\r\n	　　　　　 　周宝珊 Jessica Chau<br />\r\n	　　　　　 　王翠玲 Angel Wong<br />\r\n	　　　　　 　黎耀祥 Yiu-Cheung Lai ....(as Yiu Cheung Lai)<br />\r\n	　　　　　 　叶广俭 Kwong Kim Yip<br />\r\n	　　　　 　　Claudia Lau ....Supt. Ivy Yip<br />\r\n	　　　　 　　Michael Lieu<br />\r\n	　　　　 　　Jacky Wong<br />\r\n	　　　　 　　Steven Lau<br />\r\n	　　　　 　　Wai Yin Tse<br />\r\n	　　　　 　　Vincent Chik<br />\r\n	　　　　 　　Michael Ian Lambert ....(as Mike Lambert)<br />\r\n	　　　　 　　Caponio Nunzino<br />\r\n	　　　　 　　Jack Lam<br />\r\n	　　　　 　　Kim Penn ....Sharon (as Kim Maree Penn)<br />\r\n	　　　　 　　Hugo Kwan<br />\r\n	　　　　 　　Takeshi Kokoru ....Mr. Sato<br />\r\n	　　　　 　　金刚 Kong Kim ....(as Kim Kong &#39;Chow Chiu Ki&#39;)<br />\r\n	　　　　 　　谷德昭 Vincent Kok ....T.C.</p>\r\n<p>\r\n	◎简　　介　</p>\r\n<p>\r\n	　　华是香港电脑咨询集团的总裁，亦是香港区三位未来领袖之一，警官秋生被派作保护。另一名未来领袖在严密保护下亦告离奇死亡，华决</p>\r\n<p>\r\n	心调查。</p>\r\n<p>\r\n	　　世界电脑软件大王Bill Gates突然出现找华，Bill也是士大未来领袖之一，Bill以华能见其妻作诱要求借用华人造卫星做联合大行动。华</p>\r\n<p>\r\n	与精英们对Bill展开调查，与秋追寻至布拉格，却受特务阻挠。二人追查至一庄严及神秘的会场，发现其他领袖相继被消灭。Bill要求华加入集</p>\r\n<p>\r\n	团，华拒绝并表示天地万物唯有神才可改变，即与Bill展开智、力对决&hellip;&hellip;</p>\r\n<p>\r\n	　　被誉为十位未来领袖正在香港准备领取特别殊荣，其中一人突然离奇身亡，警方为保护所有未来领袖之安全，特派精英保护。华(刘德华)</p>\r\n<p>\r\n	是香港计算机信息总裁，亦是本港三位未来领袖之一，由警官秋生(黄秋生)作保护。第二名未来领袖在严密保护下亦离奇死亡，华决定调查真相</p>\r\n<p>\r\n	。十大未来领袖之一世界计算机软件大王Bill Gates突然出现找华，要求借用华之人造卫星作联合大行动，华要求解释行动目的，但拒绝并以华</p>\r\n<p>\r\n	能见妻(李嘉欣)作引诱。于是华与精英们对Bill展开调查，发现行动背后隐藏重大秘密&hellip;&hellip;</p>\r\n<p>\r\n	幕后制作</p>\r\n<p>\r\n	　　在电视连续剧《X档案》（The X-Files）的影响下，本片借末世神秘主义打造科幻片类型，然而由于高科技制作需要大资金，影片制作无</p>\r\n<p>\r\n	证满足，因此科幻色彩显得贫瘠。戏剧结构有重大漏洞，给人以拼凑的感觉。比如前半段科学家的离奇死亡牵连出大段科学理论，这与后半段刘</p>\r\n<p>\r\n	德华因思想念李嘉欣被其死而复生引入圈套没有什么关系。本片的特色在于延续了陈嘉上&ldquo;小男人&rdquo;系列中的生活感，人情戏写得出色。刘德华</p>\r\n<p>\r\n	与黄秋生有许多自然即兴，打动观众，真情随处游走的对手戏。黄秋生安慰刘德华，流泪自怨，背着镜头偷偷哭泣，布拉格雪地中互掷雪球，都</p>\r\n<p>\r\n	挖掘出友谊的力量。</p>\r\n<p>\r\n	&nbsp;<img alt=\"\" src=\"/uploads/allimg/c120525/133O02TZF-D356.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"/uploads/allimg/c120525/133O02Tc10-M421.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"/uploads/allimg/c120525/133O02U0S0-U620.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"/uploads/allimg/c120525/133O02U1M0-a109.jpg\" style=\"width: 720px; height: 405px\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				ftp://dy125:piaohua@dy125.piaohua.com:5012/飘花电影piaohua.com天地雄心BD国粤双语中字1024高清.mkv </td>\r\n		</tr>\r\n	</tbody>\r\n</table>",433,4443);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O02U2610-102M8.jpg",4445,4529);
+$z[7][4]['name']="litpic";
+
+?>

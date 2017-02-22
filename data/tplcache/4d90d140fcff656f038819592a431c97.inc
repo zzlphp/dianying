@@ -1,0 +1,9 @@
+{dede:field name='keywords'}幻想剧场DVD中英双字2011韩国恐{/dede:field}
+{dede:field name='description'}幻想剧场DVD中英双字2011韩国恐怖悬疑惊悚迅雷下载、免费下载，幻想剧场DVD中英双字2011韩国恐怖悬疑惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}幻想剧场DVD中英双字2011韩国恐怖悬疑惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-05{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1490/飘花电影piaohua.com幻想剧场DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3YU0-3c32.jpg{/dede:field}

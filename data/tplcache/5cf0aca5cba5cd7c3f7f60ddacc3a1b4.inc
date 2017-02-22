@@ -1,0 +1,9 @@
+{dede:field name='keywords'}浪荡子BD1280高清迅雷下载，免费{/dede:field}
+{dede:field name='description'}浪荡子BD1280高清迅雷下载、免费下载，浪荡子BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}浪荡子BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7817/飘花电影piaohua.com浪荡子BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOC1M0-51141.jpg{/dede:field}

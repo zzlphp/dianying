@@ -1,0 +1,9 @@
+{dede:field name='keywords'}微型家具BD中英双字1280高清2010{/dede:field}
+{dede:field name='description'}微型家具BD中英双字1280高清2010喜剧迅雷下载、免费下载，微型家具BD中英双字1280高清2010喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}微型家具BD中英双字1280高清2010喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-05{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2955/飘花电影piaohua.com微型家具BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO624460-2U35.jpg{/dede:field}

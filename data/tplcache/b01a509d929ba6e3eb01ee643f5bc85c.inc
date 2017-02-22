@@ -1,0 +1,9 @@
+{dede:field name='keywords'}绣花鞋高清1024/1280版HD国语中{/dede:field}
+{dede:field name='description'}绣花鞋高清1024/1280版HD国语中字2012最新上映林心如恐怖惊悚大迅雷下载、免费下载，绣花鞋高清1024/1280版HD国语中字2012最新上映林心如恐怖惊悚大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}绣花鞋高清1024/1280版HD国语中字2012最新上映林心如恐怖惊悚大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3118/飘花电影piaohua.com绣花鞋高清1024版HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPI4250-164K.jpg{/dede:field}

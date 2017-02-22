@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","最后的地球生物BD中英双字1280高",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","最后的地球生物BD中英双字1280高清2011科幻剧情迅雷下载、免费下载，最后的地球生物BD中英双字1280高清2011科幻剧情Gvod高清在线播放，剧情介绍等。",73,255);
+$z[1][4]['name']="description";
+$z[2]=Array("field","最后的地球生物BD中英双字1280高清2011科幻剧情",257,339);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",341,380);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",382,421);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-12-14",423,473);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" height=\"856\" src=\"http://www.comic-soon.com/ragnolc/files/L-Ultimo-Terrestre.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n\r\n<p>\r\n	◎译　　名　最后的地球生物/地球上最后一个人<br />\r\n	◎片　　名　L Ultimo Terrestre<br />\r\n	◎年　　代　2011<br />\r\n	◎国　　家　意大利<br />\r\n	◎类　　别　剧情/科幻<br />\r\n	◎语　　言　意大利语<br />\r\n	◎字　　幕　中英双字幕<br />\r\n	◎IMDB评分 6.4/10 (from 67 users)<br />\r\n	◎文件格式　Rmvb<br />\r\n	◎视频尺寸　640 x 360<br />\r\n	◎文件大小　386MB<br />\r\n	◎片　　长　96 Mins<br />\r\n	◎导　　演　Gian Alfonso Pacinotti<br />\r\n	◎主　　演　罗贝托&middot;赫利兹卡 Roberto Herlitzka ....Padre di Luca<br />\r\n	　　　　　　卢卡&middot;马里内力 Luca Marinelli ....Roberta<br />\r\n	　　　　　　Anna Bellato ....Anna Luini<br />\r\n	　　　　　　Teco Celio ....Giuseppe Geri<br />\r\n	　　　　　　Sara Rosa Losilla ....Aliena<br />\r\n	　　　　　　Paolo Mazzarelli ....Walter Rasini<br />\r\n	　　　　　　Ermanna Montanari ....Carmen<br />\r\n	<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	　　影片的故事发生在外星人入侵地球的一周前，政府向全国人民通报了外星人即将造访的消息，而且小的电视台还做了跟进的报道，但是这些报道没有引起任何人的兴趣。外星人来了，他们选择的国家是那种在经济危机中筋疲力尽、早已没有幻想的国度。他们的来访在这个国度里引起了轩然大波，从种族主义者到教徒，每个人都觉得这是什么契机。<br />\r\n	<br />\r\n	　　影片的主要故事，聚焦在一个叫做卢卡&middot;贝塔奇的男人身上。贝塔奇一辈子命运多变。从小被自己的母亲抛弃，于是他便很仇视女人。他封闭了自己的所有情感。外星人的到来使得整个国度人心惶惶，似乎这是一个巨大的审判日。可是随着事情的发展，人们开始相信，外星人来到地球，简直就是为了贝塔奇的&mdash;&mdash;对于他来说，这些外星人就好像是礼物一般。<br />\r\n	<br />\r\n	幕后制作<br />\r\n	<br />\r\n	　　原名Gianni Pacinotti的Gipi 1992年开始漫画生涯，代表作有《一场战争的笔记》、《我的生活的糟糕绘本》等，擅长描绘日常生活，作品常常嬉笑怒骂而又富有诗意，而从小开始玩超8摄像机的他也一直在拍摄电影短片。2010年读到另一位意大利漫画家Giacomo Monti的《没有人会伤害我》之后他便买下了改编版权，并且得到了意大利著名制作人多米尼科&middot;伯加齐（《格莫拉》、《教皇诞生》）的大力支持。在这部影片中，长着大大的银色脑袋和深陷双眼的外星人来到地球不是为了&ldquo;侵略&rdquo;，而是来帮助人类解决彼此之间的沟通障碍。<br />\r\n	<br />\r\n	◎影片截图<br />\r\n	<br />\r\n	<img alt=\"\" height=\"337\" src=\"http://img.album.pchome.net/54/84/69/41/132384495077856697cc1791b8f9deaf74937dc801.jpg\" style=\"cursor: pointer\" width=\"600\" /><br />\r\n	<img alt=\"\" height=\"337\" src=\"http://img.album.pchome.net/54/84/69/41/13238449507758e1065aa92797e5bd827c958c586b.jpg\" style=\"cursor: pointer\" width=\"600\" /><br />\r\n	<img alt=\"\" height=\"337\" src=\"http://img.album.pchome.net/54/84/69/41/13238449500948b361d8767f5b32d7f04287ffda98.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<hr />\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2334/飘花电影piaohua.com最后的地球生物BD中英双字1280高清.rmvb\">&nbsp;&nbsp;</a><a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2334/飘花电影piaohua.com最后的地球生物BD中英双字1280高清.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:2334/飘花电影piaohua.com最后的地球生物BD中英双字1280高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",475,4048);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15WT0-5b38.jpg",4050,4131);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}相拥而泣DVD中字韩国2011爱情迅{/dede:field}
+{dede:field name='description'}相拥而泣DVD中字韩国2011爱情迅雷下载、免费下载，相拥而泣DVD中字韩国2011爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}相拥而泣DVD中字韩国2011爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2770/飘花电影piaohua.com相拥而泣DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOT04P-3I35.jpg{/dede:field}

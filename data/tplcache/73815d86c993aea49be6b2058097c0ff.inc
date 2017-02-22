@@ -1,0 +1,9 @@
+{dede:field name='keywords'}蝾螈道士和影子操作团/蝾螈道士{/dede:field}
+{dede:field name='description'}蝾螈道士和影子操作团/蝾螈道士与幕后操纵团第10集[韩语中字]201迅雷下载、免费下载，蝾螈道士和影子操作团/蝾螈道士与幕后操纵团第10集[韩语中字]201Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}蝾螈道士和影子操作团/蝾螈道士与幕后操纵团第10集[韩语中字]201{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2757/飘花电影piaohua.com蝾螈道士和影子操作团01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ03O20-36252.jpg{/dede:field}

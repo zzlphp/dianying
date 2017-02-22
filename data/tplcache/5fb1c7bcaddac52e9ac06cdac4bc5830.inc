@@ -1,0 +1,9 @@
+{dede:field name='keywords'}霸王花BD国粤双语中字1024/1280{/dede:field}
+{dede:field name='description'}霸王花BD国粤双语中字1024/1280高清经典动作喜剧迅雷下载、免费下载，霸王花BD国粤双语中字1024/1280高清经典动作喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}霸王花BD国粤双语中字1024/1280高清经典动作喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1416/飘花电影piaohua.com霸王花BD国粤双语1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ262240-5Nc.png{/dede:field}

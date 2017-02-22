@@ -1,0 +1,9 @@
+{dede:field name='keywords'}钢之炼金术师剧场版BD1280高清迅{/dede:field}
+{dede:field name='description'}钢之炼金术师剧场版BD1280高清迅雷下载、免费下载，钢之炼金术师剧场版BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}钢之炼金术师剧场版BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0b340-41138.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}诱饵新娘/冒牌新娘高清1280版BD{/dede:field}
+{dede:field name='description'}诱饵新娘/冒牌新娘高清1280版BD中英双字迅雷下载、免费下载，诱饵新娘/冒牌新娘高清1280版BD中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}诱饵新娘/冒牌新娘高清1280版BD中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3316/飘花电影piaohua.com冒牌新娘高清1280版BD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO564J0-1B61.jpg{/dede:field}

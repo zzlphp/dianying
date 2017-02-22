@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","群星追忆张国荣2012演唱会BD1280",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","群星追忆张国荣2012演唱会BD1280迅雷下载、免费下载，群星追忆张国荣2012演唱会BD1280Gvod高清在线播放，剧情介绍等。",73,227);
+$z[1][4]['name']="description";
+$z[2]=Array("field","群星追忆张国荣2012演唱会BD1280",229,297);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",299,338);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",340,379);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-23",381,431);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120524/133N4S5C50-35Y0.jpg\" style=\"width: 500px; height: 631px\" /></p>\r\n<p>\r\n	◎译　　 名　ReImagine - Leslie Cheung<br />\r\n	◎片　　 名　群星追忆张国荣2012演唱会&nbsp;&nbsp;<br />\r\n	◎年　　 代　2012年3月1日<br />\r\n	◎地　　 区　香港<br />\r\n	◎类　　 别　演唱会<br />\r\n	◎IMDB评分&nbsp; &nbsp;<br />\r\n	◎IMDB链接&nbsp; &nbsp;<br />\r\n	◎语　　 言　粤语/普通话<br />\r\n	◎字　　 幕&nbsp;&nbsp;<br />\r\n	◎片　　 长　120 mins 58 seconds<br />\r\n	<br />\r\n	　<br />\r\n	◎简　　 介<br />\r\n	<br />\r\n	　　<br />\r\n	　　张国荣已离开我们九年，群星特别于2012年3月1日在香港会展举行《浮想联翩张国荣演唱会》(ReImagine Lesile Cheung Concert)，林忆莲、陈奕迅、陈慧琳、林子祥、刘美君、李克勤、莫文蔚、张敬轩、谢安琪、孙耀威、Kary、Mr.、Swing等济济一堂，以平行时空跨界演出，在舞台上突破界限影像，高唱首首名曲，向风华绝代的哥哥致敬。<br />\r\n	<br />\r\n	　　Live 收录当演唱会现场精选歌26首，而众歌手更走进录音室，用心演绎18首哥哥金曲。<br />\r\n	<br />\r\n	<br />\r\n	浮想联翩张国荣<br />\r\n	<br />\r\n	不一样的声音演绎最开怀时光<br />\r\n	<br />\r\n	将美好重组18首歌曲用心全新打造<br />\r\n	　　<br />\r\n	重新鉴赏25首现场演绎音乐会<br />\r\n	　　<br />\r\n	BD现场声画质素无懈可击<br />\r\n	<br />\r\n	<br />\r\n	◎幕　　 后<br />\r\n	<br />\r\n	．全高清1920x1080拍摄<br />\r\n	．dts-HD Master Audio 5.1 24/96<br />\r\n	．Dolby 5.1顶级音效<br />\r\n	<br />\r\n	◎曲　　 目<br />\r\n	<br />\r\n	01. 陪你倒数 - 林子祥<br />\r\n	<br />\r\n	02. 洁身自爱 - 吴雨霏<br />\r\n	<br />\r\n	03. 追 - 孙耀威<br />\r\n	<br />\r\n	04. 同道中人 - Robynn &amp; Kendy<br />\r\n	<br />\r\n	05. 我 (国语版) - 谢安琪<br />\r\n	<br />\r\n	06. 心跳呼吸正常 - 关楚耀<br />\r\n	<br />\r\n	07. 春夏秋冬 - 陈慧琳<br />\r\n	<br />\r\n	08. 左右手 - 刘美君<br />\r\n	<br />\r\n	09. 红 - 张敬轩<br />\r\n	<br />\r\n	10. 想妳 - 张敬轩<br />\r\n	<br />\r\n	11. 怨男 - 麦家瑜<br />\r\n	<br />\r\n	12. 梦死醉生 - 车婉婉<br />\r\n	<br />\r\n	13. 小明星 - 莫文蔚<br />\r\n	<br />\r\n	14. 最冷一天 - 陈奕迅<br />\r\n	<br />\r\n	15. 不如不见 - 陈奕迅<br />\r\n	<br />\r\n	16. 没有爱 - 锺氏兄弟<br />\r\n	<br />\r\n	17. 寂寞有害 - 林德信<br />\r\n	<br />\r\n	18. 侯斯顿之恋 - Swing<br />\r\n	<br />\r\n	19. 怪你过份美丽 - Mr.<br />\r\n	<br />\r\n	20. 大热 - Mr. / Swing / 林德信<br />\r\n	<br />\r\n	21. 路过蜻蜓 - 林忆莲<br />\r\n	<br />\r\n	22. 这麽远那麽近 - 黄耀明<br />\r\n	<br />\r\n	23. 梦到内河 - 李克勤<br />\r\n	<br />\r\n	24. 风继续吹 - 李克勤<br />\r\n	<br />\r\n	25. 明星 - 张国荣 + 环球群星<br />\r\n	<br />\r\n	26. MAKING OF&hellip;&nbsp;</p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120524/133N4S5J30-42644.jpg\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120524/133N4S5P50-52248.jpg\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：http://www.xiaobajie.com</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				ftp://dy241:piaohua@117.41.229.29:2034/飘花电影piaohua.com群星追忆张国荣2012演唱会BD1280.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",433,3797);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133N4S5VP-64464.jpg",3799,3881);
+$z[7][4]['name']="litpic";
+
+?>

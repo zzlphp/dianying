@@ -1,0 +1,9 @@
+{dede:field name='keywords'}第一大总统(国父孙中山)DVD国语{/dede:field}
+{dede:field name='description'}第一大总统(国父孙中山)DVD国语中字2011最新上映中国历传记史大迅雷下载、免费下载，第一大总统(国父孙中山)DVD国语中字2011最新上映中国历传记史大Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}第一大总统(国父孙中山)DVD国语中字2011最新上映中国历传记史大{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1715/飘花电影piaohua.com第一大总统(国父孙中山)DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP549440-19A9.jpg{/dede:field}

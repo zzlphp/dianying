@@ -1,0 +1,9 @@
+{dede:field name='keywords'}再见老婆日韩剧6迅雷下载，免费{/dede:field}
+{dede:field name='description'}再见老婆日韩剧6迅雷下载、免费下载，再见老婆日韩剧6Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}再见老婆日韩剧6{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3385/飘花电影piaohua.com再见老婆EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPbWZ-4J30.jpg{/dede:field}

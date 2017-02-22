@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","背离BD中字1280高清2012最新英国",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","背离BD中字1280高清2012最新英国惊悚大片迅雷下载、免费下载，背离BD中字1280高清2012最新英国惊悚大片Gvod高清在线播放，剧情介绍等。",73,243);
+$z[1][4]['name']="description";
+$z[2]=Array("field","背离BD中字1280高清2012最新英国惊悚大片",245,321);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",323,362);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",364,403);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-21",405,455);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120323/14/56643687201203231418221155641919480_004.jpg\" /></p>\r\n<p>\r\n	◎译　　名　背离<br />\r\n	◎片　　名　Deviation<br />\r\n	◎年　　代　2012<br />\r\n	◎国　　家　英国<br />\r\n	◎类　　别　惊悚<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中文<br />\r\n	◎IMDB评分 (awaiting 5 votes)<br />\r\n	◎IMDB链接 <a href=\"http://www.bluemv.com\" title=\"电影下载\">http://www.bluemv.com</a><br />\r\n	◎文件格式　DVD-RMVB<br />\r\n	◎视频尺寸　640 x 272<br />\r\n	◎文件大小　1CD 453MB<br />\r\n	◎片　　长　90 Mins<br />\r\n	◎导　　演　J.K. Amalou<br />\r\n	◎主　　演　丹尼&middot;戴尔 Danny Dyer &hellip;Frankie<br />\r\n	　　　　　　安娜&middot;沃尔顿 Anna Walton &hellip;Amber<br />\r\n	　　　　　　James Doherty &hellip;Jono<br />\r\n	　　　　　　David Fynn &hellip;Justin<br />\r\n	　　　　　　Alan McKenna &hellip;Tough Cop<br />\r\n	　　　　　　Roy Smiles &hellip;Brian<br />\r\n	　　　　　　Ben Wigzell &hellip; Bob<br />\r\n	　　　　　　Gabriel Cameron &hellip;Van Driver</p>\r\n<p>\r\n	◎简　　介　</p>\r\n<p>\r\n	讲诉了一个个令人恐惧的夜晚，《背离》将要带你进入富兰克诺顿的心灵经历一场惊险的旅程。富兰克诺顿是一个危险的患有精神分裂症的凶手，他逃离了布罗德莫尔医院并在伦敦像一头凶狠的猛虎一样开始屠杀。但当富兰克抓住一个人质之时，致命的猫捉老鼠的游戏真正开始。</p>\r\n<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120323/14/56643687201203231418221155641919480_000.jpg\" /></p>\r\n<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120323/14/56643687201203231418221155641919480_003.jpg\" /></p>\r\n<p>\r\n	<img src=\"http://img170.poco.cn/mypoco/myphoto/20120323/14/56643687201203231418221155641919480_001.jpg\" /></p>\r\n<p>\r\n	<img alt=\"\" file=\"http://img170.poco.cn/mypoco/myphoto/20120328/18/56643687201203281831381194211917187_001.jpg\" height=\"337\" lazyloaded=\"true\" src=\"http://img170.poco.cn/mypoco/myphoto/20120328/18/56643687201203281831381194211917187_001.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	<img alt=\"\" file=\"http://img170.poco.cn/mypoco/myphoto/20120328/18/56643687201203281831381194211917187_003.jpg\" height=\"337\" lazyloaded=\"true\" src=\"http://img170.poco.cn/mypoco/myphoto/20120328/18/56643687201203281831381194211917187_003.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3058/飘花电影piaohua.com背离DVD中字.rmvb\">&nbsp;</a><a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3058/飘花电影piaohua.com背离DVD中字.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:3058/飘花电影piaohua.com背离DVD中字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3094/飘花电影piaohua.com背离BD中字1280高清.rmvb\">&nbsp;</a><a href=\"ftp://dy44:piaohua@dy44.piaohua.com:3094/飘花电影piaohua.com背离BD中字1280高清.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:3094/飘花电影piaohua.com背离BD中字1280高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",457,3759);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15120G0-3Fc.jpg",3761,3843);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}杀生DVD国语中字2012最新上映黄{/dede:field}
+{dede:field name='description'}杀生DVD国语中字2012最新上映黄渤、苏有朋、任达华悬疑喜剧大片迅雷下载、免费下载，杀生DVD国语中字2012最新上映黄渤、苏有朋、任达华悬疑喜剧大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}杀生DVD国语中字2012最新上映黄渤、苏有朋、任达华悬疑喜剧大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3325/飘花电影piaohua.com杀生DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO5EO0-513V.jpg{/dede:field}

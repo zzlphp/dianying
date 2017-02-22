@@ -1,0 +1,9 @@
+{dede:field name='keywords'}红色翅膀：火烈鸟故事BD中英双字{/dede:field}
+{dede:field name='description'}红色翅膀：火烈鸟故事BD中英双字1280高清美国纪录片迅雷下载、免费下载，红色翅膀：火烈鸟故事BD中英双字1280高清美国纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}红色翅膀：火烈鸟故事BD中英双字1280高清美国纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1063/飘花电影piaohua.com红色翅膀：火烈鸟故事BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ49640-454U.jpg{/dede:field}

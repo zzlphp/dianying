@@ -1,0 +1,9 @@
+{dede:field name='keywords'}女舞男/巴黎舞男/巴黎男人香/舞{/dede:field}
+{dede:field name='description'}女舞男/巴黎舞男/巴黎男人香/舞女DVD中英双字欧美剧情迅雷下载、免费下载，女舞男/巴黎舞男/巴黎男人香/舞女DVD中英双字欧美剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}女舞男/巴黎舞男/巴黎男人香/舞女DVD中英双字欧美剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-08{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3176/飘花电影piaohua.com舞女DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP2150Z-593L.jpg{/dede:field}

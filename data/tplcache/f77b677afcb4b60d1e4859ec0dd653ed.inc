@@ -1,0 +1,9 @@
+{dede:field name='keywords'}情谜DVD国语中字舒淇,余文乐2011{/dede:field}
+{dede:field name='description'}情谜DVD国语中字舒淇 余文乐2011最新爱情迅雷下载、免费下载，情谜DVD国语中字舒淇 余文乐2011最新爱情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}情谜DVD国语中字舒淇 余文乐2011最新爱情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2979/飘花电影piaohua.com情谜DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOEV50-5RH.jpg{/dede:field}

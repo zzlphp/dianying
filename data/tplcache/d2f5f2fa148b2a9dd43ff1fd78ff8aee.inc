@@ -1,0 +1,9 @@
+{dede:field name='keywords'}传说/童话镇欧美剧22迅雷下载，{/dede:field}
+{dede:field name='description'}传说/童话镇欧美剧22迅雷下载、免费下载，传说/童话镇欧美剧22Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}传说/童话镇欧美剧22{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2579/飘花电影piaohua.co童话镇01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP924V0-5S62.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}那些年,我们一起追的女孩无删减{/dede:field}
+{dede:field name='description'}那些年,我们一起追的女孩无删减完整版HD国语中字1024/1280高清迅雷下载、免费下载，那些年,我们一起追的女孩无删减完整版HD国语中字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}那些年,我们一起追的女孩无删减完整版HD国语中字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2594/飘花电影piaohua.com那些年,我们一起追的女孩无删减完整版DVD国语.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO6491Z-44O4.jpg{/dede:field}

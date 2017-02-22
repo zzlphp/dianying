@@ -1,0 +1,9 @@
+{dede:field name='keywords'}屠龙者的黎明高清1280版BD中字20{/dede:field}
+{dede:field name='description'}屠龙者的黎明高清1280版BD中字2011最新美国奇幻动作大片迅雷下载、免费下载，屠龙者的黎明高清1280版BD中字2011最新美国奇幻动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}屠龙者的黎明高清1280版BD中字2011最新美国奇幻动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-05{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2955/飘花电影piaohua.com屠龙者的黎明高清1280版BD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4D2Z-2NK.jpg{/dede:field}

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","史瑞克的万圣游戏[BD中英双字102",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","史瑞克的万圣游戏[BD中英双字1024/1280高清版]迅雷下载、免费下载，史瑞克的万圣游戏[BD中英双字1024/1280高清版]Gvod高清在线播放，剧情介绍等。",73,253);
+$z[1][4]['name']="description";
+$z[2]=Array("field","史瑞克的万圣游戏[BD中英双字1024/1280高清版]",255,336);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",338,377);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",379,418);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-10-28",420,470);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O04513Z-302159.jpg\" style=\"width: 600px; height: 850px\" /></p>\r\n<p>\r\n	<img src=\"/uploads/allimg/c120525/133O0451M60-3115b.jpg\" /><br />\r\n	<br />\r\n	<br />\r\n	【中文名】：史瑞克的万圣游戏<br />\r\n	【英文名】：Scared Shrekless<br />\r\n	【地区】：美国<br />\r\n	【语言】：英语<br />\r\n	【类型】：电视动画<br />\r\n	【影片长度】：30 Minutes<br />\r\n	【集数】：1集<br />\r\n	【字幕】：中英双字<br />\r\n	【版本】：NBC万圣节特别动画节目<br />\r\n	【发行时间】：2010年10月28日<br />\r\n	【配音演员】：Mike Myers<br />\r\n	　　　　　　　Dean Edwards<br />\r\n	　　　　　　　Antonio Banderas</p>\r\n\r\n<p>\r\n	剧情简介：</p>\r\n<p>\r\n	　　NBC 2010万圣节特别动画节目《Scared Shrekless》讲述了万圣夜时怪物史瑞克和他的朋友们在法尔奎德领主闹鬼城堡进行的一场既有趣又恐怖的游戏。</p>\r\n<p>\r\n	（文：huercha）</p>\r\n<p>\r\n	When Halloween arrives, Shrek (Mike Myers) cannot wait to start celebrating his favorite holiday ogre style. Instead of the usual tricks or treats, Shrek challenges Donkey (Dean Edwards) Puss in Boots (Antonio Banderas) and the other fairy-tale characters to a scary storytelling contest. Before the night of frights can begin they learn that they must all spend the night in Lord Farquaad&#39;s haunted castle. The last one to be scared &quot;Shrekless&quot; will win.</p>\r\n<p>\r\n	【电影截图】：<br />\r\n	&nbsp;</p>\r\n<p>\r\n	<img src=\"/uploads/allimg/c120525/133O0451RP-325E0.jpg\" />&nbsp;<br />\r\n	<img src=\"/uploads/allimg/c120525/133O0451W40-332392.jpg\" />&nbsp;<br />\r\n	<img src=\"/uploads/allimg/c120525/133O045192F-344023.jpg\" /><br />\r\n	<br />\r\n	<br />\r\n	<br />\r\n	<br />\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O0451aZ-35O51.jpg\" style=\"width: 600px; height: 338px\" /></p>\r\n<p>\r\n	&nbsp;<img alt=\"\" src=\"/uploads/allimg/c120525/133O045205P-364O3.jpg\" style=\"width: 600px; height: 338px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O04521250-3NX9.jpg\" style=\"width: 600px; height: 338px\" /></p>\r\n<p>\r\n	NBC 2010万圣节特别动画节目《史瑞克的万圣游戏》BD中英双字1024x576高清版 [下载地址]：<img border=\"0\" src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\" /></p>\r\n<table align=\"center\" border=\"0\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted\" width=\"95%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#fdfddf\" style=\"word-wrap: break-word\">\r\n				ftp://6e:6e@m3.3edyy.com:501/【3E看看www.3ekk.com】史瑞克的万圣游戏[BD中英双字1024x576高清版].rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table align=\"center\" border=\"0\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted\" width=\"95%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#fdfddf\" style=\"word-wrap: break-word\">\r\n				&nbsp;ftp://dy44:piaohua@dy44.piaohua.com:1937/飘花电影piaohua.com史瑞克的万圣游戏BD中英双字1280高清.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",472,3527);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O04521N0-3U3N.jpg",3529,3612);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>{dede:global.cfg_webname/}</title>
+<meta name="description" content="{dede:global.cfg_description/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="shortcut icon" href="favicon.ico">
+<link href="/templets/images/main.css" rel="stylesheet" type="text/css">
+<base target="_blank">
+</head>
+<body>
+{dede:include filename="head.htm"/}
+<div id="main">
+<div class="pad" id="pad_01"></div>
+<div class="pad" id="pad_02"></div>
+  <div id="im">
+    <div id="iml">
+      <ul>{dede:arclist row='32' titlelen='24' orderby='pubdate' idlist=''}<li><a href="[field:arcurl/]" class="img"><img src="[field:picname/]" alt="[field:title/]" width="120" height="150" border="0" /></a><a href="[field:arcurl/]"><strong>[field:title/]</strong></a><span> [field:pubdate runphp='yes'] 
+    $a="<font color=red>".strftime('%Y-%m-%d',@me)."</font>"; 
+    $b=strftime('%Y-%m-%d',@me); 
+    $ntime = time(); 
+    $day3 = 3600 * 24; 
+    if(($ntime - @me) < $day3) @me = $a; 
+    else @me =$b; 
+    [/field:pubdate]
+</span></li> {/dede:arclist}
+      </ul>
+      <div class="clear"></div>
+    </div>
+    <div id="imr">{dede:channelartlist}
+      <dl>
+        <dt><span class="r"><a href="{dede:field name='typeurl'/}">更多...</a></span><a href="{dede:field name='typeurl'/}">{dede:field name='typename'/}</a></dt>
+        <dd> {dede:arclist titlelen='30' row='6'}
+    <a href="[field:arcurl /]">[field:title /]</a>
+      {/dede:arclist}
+          <div class="clear"></div>
+        </dd>
+      </dl>{/dede:channelartlist}</div>
+    <div class="clear"></div>
+  </div>
+<div class="pad" id="pad_03"></div>
+  <div id="link"><A href="/plus/rssmap.html" target=_blank>RSS订阅</A><A href="http://www.piao.com/" target=_blank>迅雷电影下载</A> <A href="http://www.piao.com/" target=_blank>3E电影网</A><a href="http://www.piao.com/" target="_blank">最新电影</a><A href="/gvod_help.htm" target=_blank>gvod在线电影</A><A href="http://www.piao.com/" target=_blank>迅雷电影下载</A><a href="/map.htm" target="_blank">网站地图</a><A href="http://bbs.52jscn.com/" target=_blank>源码论坛</A><A href="http://www.piao.com/" target=_blank>最新电影</A><a href="http://www.baidu.com" target="_blank">百度baidu</a><A href="http://www.hltm.net/" target=_blank>红旅动漫</A></div>
+</div>
+{dede:include filename='footer.htm'/}
+</body>
+</html>

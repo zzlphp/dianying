@@ -1,0 +1,9 @@
+{dede:field name='keywords'}杀手安魂曲/杀手的挽歌BD1280高{/dede:field}
+{dede:field name='description'}杀手安魂曲/杀手的挽歌BD1280高清迅雷下载、免费下载，杀手安魂曲/杀手的挽歌BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}杀手安魂曲/杀手的挽歌BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3206/飘花电影piaohua.com杀手的挽歌HD1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO420620-21419.jpg{/dede:field}

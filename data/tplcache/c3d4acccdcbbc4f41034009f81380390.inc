@@ -1,0 +1,9 @@
+{dede:field name='keywords'}盗亦有道HD中字2012韩国动作喜剧{/dede:field}
+{dede:field name='description'}盗亦有道HD中字2012韩国动作喜剧迅雷下载、免费下载，盗亦有道HD中字2012韩国动作喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}盗亦有道HD中字2012韩国动作喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3208/飘花电影piaohua.com盗亦有道HD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO54VF-3E52.jpg{/dede:field}

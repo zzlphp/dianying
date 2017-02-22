@@ -1,0 +1,9 @@
+{dede:field name='keywords'}现代启示录BD国语配音中字1024高{/dede:field}
+{dede:field name='description'}现代启示录BD国语配音中字1024高清经典战争大片迅雷下载、免费下载，现代启示录BD国语配音中字1024高清经典战争大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}现代启示录BD国语配音中字1024高清经典战争大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1313/飘花电影piaohua.com现代启示录BD国语配音中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP530960-12163.jpg{/dede:field}

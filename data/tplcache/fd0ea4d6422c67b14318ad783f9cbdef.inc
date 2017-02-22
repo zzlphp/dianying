@@ -1,0 +1,9 @@
+{dede:field name='keywords'}On,Call,36小时粤语25国语25TVB{/dede:field}
+{dede:field name='description'}On Call 36小时粤语25国语25TVB时装医务迅雷下载、免费下载，On Call 36小时粤语25国语25TVB时装医务Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}On Call 36小时粤语25国语25TVB时装医务{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2809/飘花电影piaohua.com-On Call 36小时粤语01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ00010-44S9.jpg{/dede:field}

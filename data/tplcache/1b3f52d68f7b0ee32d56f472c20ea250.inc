@@ -1,0 +1,9 @@
+{dede:field name='keywords'}百老汇上空的子弹/子弹横飞百老{/dede:field}
+{dede:field name='description'}百老汇上空的子弹/子弹横飞百老汇BD01280高清中字迅雷下载、免费下载，百老汇上空的子弹/子弹横飞百老汇BD01280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}百老汇上空的子弹/子弹横飞百老汇BD01280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2017/飘花电影piaohua.com百老汇上空的子弹BD01280高清中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0H150-52364.jpg{/dede:field}

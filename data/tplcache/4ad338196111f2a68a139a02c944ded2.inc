@@ -1,0 +1,9 @@
+{dede:field name='keywords'}核震过后/10.5迅雷下载，免费下{/dede:field}
+{dede:field name='description'}核震过后/10.5迅雷下载、免费下载，核震过后/10.5Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}核震过后/10.5{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-03-30{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPT3L0-4I28.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}漫长的丝绸之路铁道:横跨中国260{/dede:field}
+{dede:field name='description'}漫长的丝绸之路铁道:横跨中国2600公里之旅高清中字1280迅雷下载、免费下载，漫长的丝绸之路铁道:横跨中国2600公里之旅高清中字1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}漫长的丝绸之路铁道:横跨中国2600公里之旅高清中字1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-19{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2030/小八戒电影xiaobajie.com漫长的丝绸之路铁道高清中字1280.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ425610-5Mc.jpg{/dede:field}

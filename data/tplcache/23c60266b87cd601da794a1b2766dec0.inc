@@ -1,0 +1,74 @@
+{dede:field name='keywords'}龙虎门/国粤双语BD1280高清迅雷{/dede:field}
+{dede:field name='description'}龙虎门/国粤双语BD1280高清迅雷下载、免费下载，龙虎门/国粤双语BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}龙虎门/国粤双语BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-07{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://cdn3a.dvdempire.org/products/70/1401570h.jpg" style="width: 500px; height: 672px" /></p>
+<p>
+	◎译　　名　龙虎门<br />
+	◎片　　名　Dragon Tiger Gate<br />
+	◎年　　代　2006<br />
+	◎地　　区　中国香港<br />
+	◎类　　别　剧情/动作<br />
+	◎语　　言　粤语/国语<br />
+	◎IMDB评分 6.1/10 (3267 votes)<br />
+	◎IMDB链接 <a href="http://www.xiaozhizhu.net/" target="_blank">http://www.xiaozhizhu.net/</a><br />
+	◎片　　长　1:34:19<br />
+	◎导　　演　叶伟信 Wilson Yip<br />
+	◎主　　演　甄子丹 Donnie Yen<br />
+	　　　　　　余文乐 Shawn Yue<br />
+	　　　　　　谢霆锋 Nicholas Tse<br />
+	　　　　　　董洁 Jie Dong<br />
+	　　　　　　李小冉<br />
+	<br />
+	<br />
+	<b>◎简　　介◎</b>　<br />
+	<br />
+	&nbsp; &nbsp; 王小虎身手不凡且具侠义心肠，一次到湖舫用膳时巧遇黑帮大会，同时发现有恶霸在场横行霸道，王小虎正义感大发，踢出其看家本领──降龙十八腿，击倒恶霸，最终还误打误撞取去黑帮视之如宝物的一道金牌。<br />
+	原来金牌是亚洲犯罪集团罗刹教教主火云邪神所颁的罗刹令，凡持有罗刹令者便拥有与罗刹教合作的专利权。王小虎不知令牌底蕴，在庆功之际被黑帮伏击，因缘际会下他反被同时来取令牌的黑帮保镳王小龙所救，更遇上持双节棍的金发少年石黑龙仗义相助。罗刹令被王小龙取得，王小虎惊见其身上玉佩，发现王小龙竟是其同父异母的兄长。<br />
+	王小龙身在江湖，却从不沾手犯罪之事，其黑帮大哥马坤把令牌交回罗刹教后，竟突然宣布退出江湖，因而触怒火云邪神，火云邪神遂命其养女罗刹女除去马坤。另一方面，王小虎欲与王小龙相认，求助于马坤爱女马小灵，马小灵早已对王小虎心存好感，于是仗义相助，惜王小龙一时间未能接受王小虎。罗刹女围剿马家，马坤被杀，王小龙带着马小灵杀出重围，负伤去到龙虎门武馆。身负重伤的王小龙因未能拋开心中的枷锁而不愿踏进龙虎门，遂把马小灵交托于王小虎后独自离去。王小虎及石黑龙得知马家灭门，实时义愤填膺，决定替马小灵报仇。<br />
+	火云邪神得知龙虎门高手如云而感到兴奋莫名，一时技痒竟夜闯龙虎门。王小虎等人的师父王降龙为抵挡火云邪神而惨遭杀害。王小虎与石黑龙痛心疾首，力战火云邪神，惜被火云邪神的盖世武功打得落花流水。火云邪神血洗龙虎门后傲慢地离去，留下垂死的龙虎双皇。<br />
+	龙虎门在一夜间被移为平地，马小灵唯有带同伤重的龙虎双皇到中国白云山求医。白云山内有一名奇侠，其武术与医术皆卓越非凡却性情怪癖，全赖马小灵千方百计用诚意打动奇侠，出手救助龙虎双皇。龙虎双皇伤愈后即求奇侠传授武术绝学，誓要替师父王降龙报仇。<br />
+	同一时间，王小龙因严重内伤而险些丧命，幸得其爱人罗刹女相救才得以保命。原来王小龙与罗刹女早已相恋，罗刹女更甘愿为爱情而背叛火云邪神，在罗刹教中偷得神丹，助王小龙逃出鬼门关。<br />
+	龙虎三皇各自潜心苦练，欲在短时间内把武功提升，誓要与火云邪神把新仇旧恨算清。而自恃神功无敌的火云邪神亦无惧龙虎三皇，在罗刹教布下天罗地网，决要与龙虎三皇来一场地动山摇的终极一战。<br />
+	<br />
+	<b>◎幕后故事◎</b><br />
+	<br />
+	&nbsp; &nbsp; 《龙虎门》改编自香港著名漫画大师黄玉郎的同名漫画小说，该漫画在香港已经连载35年，是一部在香港乃至整个亚洲都相当有名的漫画作品。<br />
+	《龙虎门》故事波澜起伏，一幕幕惊心动魄的政协对决，塑造了一群锄强扶弱、正义凛然的英雄形象，把中国的武术的博大精深和中国传统的侠义精神表现得淋漓尽致。电影在漫画结构和叙事的基础上做出相应的调整，重点展示眩目的中国功夫和阳刚的兄弟情义，兼具观赏性和娱乐性。<br />
+	影片存在于一个漫画世界中，没有具体时代背景，主要讲述了王小虎、汪小龙、石黑龙三个神话绝世武功的年轻人创办拳馆，对抗黑帮分子甚至和境外犯罪团伙斗争的故事。影片投资超过1000万美金，有动作巨星甄子丹及偶像明星谢霆锋、余文乐联袂出演，突破性的动作场面，震撼的视听效果，必将成为华语动作电影的巅峰之作。<br />
+	<br />
+	<b>◎人物简介◎</b><br />
+	<br />
+	　　王小虎：龙虎门的大当家，漫画中的第一男主角。聪明、领悟力强，武功与判断力在龙虎群英中最高。自从得到大伯父王降龙亲传绝学&mdash;&mdash;降龙十八腿及重遇生母媚娘获授九阳神功后便成为绝顶高手。在漫画故事中王小虎屡有奇遇：失忆后加入阴世教练成阴世神腿、膝盖碎了但练成九阳天残腿、得到一代大侠柳森严指点将所有武功结合并加强成为降龙新腿。<br />
+	虽然王小虎武功盖世，但命运坎坷，所遇到的几位红颜知己除了被翻江蛟绑架而下落不明的马小灵外，其他如金诗诗、阴姬与白莲公主均死于非命。其它龙虎门内的兄弟亦因对抗敌人而阵亡了大部份&mdash;&mdash;包括其胞兄王小龙。其后因追杀逃至泰国的杀兄仇人陈傲云而开始了&ldquo;龙虎门&rdquo; 的新一篇故事。<br />
+	<br />
+	　　石黑龙：王小虎的好拍档，当年以柔道魔童之绰号成名。他的造型最为突出，除了一头金发外，面上更带了一条长刀疤。活泼好动的他对人的看法有他自己的一套理论，绝不会受他人影响，对付敌人时会比王小虎更果断。武功方面除了擅用双节棍使出十字追魂棍与鬼哭神号外，在漫画中先后习得少林五形拳、铁布衫、金钟罩、易筋经、摧心大法与陈家三绝成为武功可与王小虎看齐的高手。<br />
+	<br />
+	　　王小龙：王小虎同父异母之胞兄。末代丐帮帮主洪东之徒，擅用降龙十八掌与打狗棍法，为人用情专一但情绪化，早年曾误入歧途加入黑帮并染上毒瘾，及后终能浪子回头并成为对付各恶势力的中坚份子。命运较其它二皇不平坦，曾被<a href="http://www.anzhuo4.com/" style="color: rgb(0, 0, 0); text-decoration: none;">安卓游戏</a> <a href="http://www.qqtmb.com/" style="color: rgb(0, 0, 0); text-decoration: none;">个性签名</a> <a href="http://www.qqtmb.com/" style="color: rgb(0, 0, 0); text-decoration: none;">网名</a> <a href="http://www.dailiv.com/" style="color: rgb(0, 0, 0); text-decoration: none;">在线代理</a> <a href="http://www.2kaba.com/" style="color: rgb(0, 0, 0); text-decoration: none;">绿色软件</a> <a href="http://www.6dtaobao.com/" style="color: rgb(0, 0, 0); text-decoration: none;">淘宝网女装</a> <a href="http://www.nod32jihuoma.cn/virus/fangchenmi.html" style="color: rgb(0, 0, 0); text-decoration: none;">身份证号码大全</a> <a href="http://www.nod32jihuoma.cn/virus/ditu.html" style="color: rgb(0, 0, 0); text-decoration: none;">世界地图</a> <a href="http://www.2kaba.com/view/nod32.html" style="color: rgb(0, 0, 0); text-decoration: none;">nod32</a> <a href="http://www.saier8.com/" style="color: rgb(0, 0, 0); text-decoration: none;">赛尔号</a> <a href="http://www.2kaba.com/sfz/" style="color: rgb(0, 0, 0); text-decoration: none;">身份证</a> <a href="http://www.qqtmb.com/cewangsu/" style="color: rgb(0, 0, 0); text-decoration: none;">网速测试</a> <a href="http://www.qqtmb.com/sfz/" style="color: rgb(0, 0, 0); text-decoration: none;">身份证号码和姓名</a> <a href="http://www.xiaozhizhu.net/" style="color: rgb(0, 0, 0); text-decoration: none;">最新电影</a>白莲教毁容，心爱的玉儿又被火云邪神强暴后自杀，在龙虎门与罗刹教的最后决战中，因冲动性格去追杀敌人以致身堕陷阱，再加上陈傲云对其施展刻骨铭心爪而重伤得没法药救，最后为了挽救众人去破坏机关而牺牲自己。<br />
+	<br />
+	　　火云邪神：本名西城勇，是上一代罗刹教主老邪神西城望的养子，后来发现自己真正生父为白莲教五魔之一的剑魔。性格本来是冲动与好胜，自老邪神被王小虎杀后变得十分阴沉，与龙虎门的仇恨更令火云邪神与亲父一直不能相认。火云邪神所修练的易筋经学自老邪神，功力更达到最高的第七级&mdash;&mdash;黑级。自从偷学了无名神僧的无相神功后，配合学自白莲教的火云掌与身穿刀枪不入的天蚕宝衣更强至天下无敌的境界，可惜最后因多行不义而死在王小虎与石黑龙的联合攻击之下。<br />
+	<br />
+	　　东方无敌：为上代白莲教主东方无惧的二弟，在东方无惧被王小虎生母媚娘毒杀后与三弟东方无忌争位，最后凭外援顺利抢到教主之位。登位后为了满足一己私欲，将总坛改为紫禁城般而自称为皇帝。白莲教的高手计有：一皇、二圣、三将军、四神、五魔、六冤魂。因王小虎到韩国求医而开始与龙虎门发生冲突，最后更死在王小龙与王小虎兄弟夹击之下。<img alt="" src="http://photo6.zxip.com/albums6/folder18/14186/20100701105143/20107202701140.jpg" style="width: 730px; height: 411px" /><img alt="" src="http://photo6.zxip.com/albums6/folder18/14186/20100701105143/201072026593619.jpg" style="width: 730px; height: 411px" /></p>
+
+<p>
+	【下载地址】</p>
+<table bgcolor="#0099cc" border="0" cellpadding="10" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				在线观看地址：<a href="http://www.xiaozhizhu.net" target="_blank">http://www.xiaozhizhu.net</a></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy125:piaohua@dy125.piaohua.com:8020/飘花电影piaohua.com龙虎门BD国语中字1280高清.rmvb">ftp://dy125:piaohua@dy125.piaohua.com:8020/飘花电影piaohua.com龙虎门BD国语中字1280高清.rmvb</a></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy125:piaohua@dy125.piaohua.com:8020/飘花电影piaohua.com龙虎门BD粤语中字1280高清.rmvb">ftp://dy125:piaohua@dy125.piaohua.com:8020/飘花电影piaohua.com龙虎门BD粤语中字1280高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O14940260-193O.jpg{/dede:field}

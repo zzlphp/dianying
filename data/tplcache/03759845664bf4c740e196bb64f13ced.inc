@@ -1,0 +1,9 @@
+{dede:field name='keywords'}史酷比：鬼龙传说BD中英双字1280{/dede:field}
+{dede:field name='description'}史酷比：鬼龙传说BD中英双字1280高清迅雷下载、免费下载，史酷比：鬼龙传说BD中英双字1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}史酷比：鬼龙传说BD中英双字1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1517/飘花电影piaohua.com史酷比：鬼龙传说DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ204140-14001.jpg{/dede:field}

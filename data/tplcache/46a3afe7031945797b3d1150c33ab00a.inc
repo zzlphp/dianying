@@ -1,0 +1,9 @@
+{dede:field name='keywords'}恶夜食人族/我们就是我们/恶夜：{/dede:field}
+{dede:field name='description'}恶夜食人族/我们就是我们/恶夜：终极食人族迅雷下载、免费下载，恶夜食人族/我们就是我们/恶夜：终极食人族Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}恶夜食人族/我们就是我们/恶夜：终极食人族{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPP1O0-192P.jpg{/dede:field}

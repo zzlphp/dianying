@@ -1,0 +1,9 @@
+{dede:field name='keywords'}港乐x张敬轩交响音乐会高清中字B{/dede:field}
+{dede:field name='description'}港乐x张敬轩交响音乐会高清中字BD1280迅雷下载、免费下载，港乐x张敬轩交响音乐会高清中字BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}港乐x张敬轩交响音乐会高清中字BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2007/小八戒电影xiaobajie.com港乐x张敬轩交响音乐会高清中字BD1280.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ412P-32L9.jpg{/dede:field}

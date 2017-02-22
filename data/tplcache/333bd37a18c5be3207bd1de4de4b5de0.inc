@@ -1,0 +1,9 @@
+{dede:field name='keywords'}冬日蝶DVD中字韩国2011剧情迅雷{/dede:field}
+{dede:field name='description'}冬日蝶DVD中字韩国2011剧情迅雷下载、免费下载，冬日蝶DVD中字韩国2011剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}冬日蝶DVD中字韩国2011剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3093/飘花电影piaohua.com冬日蝶DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP1X420-59435.jpg{/dede:field}

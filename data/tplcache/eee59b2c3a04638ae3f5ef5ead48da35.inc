@@ -1,0 +1,9 @@
+{dede:field name='keywords'}冷山/乱世情天英粤国三语高清中{/dede:field}
+{dede:field name='description'}冷山/乱世情天英粤国三语高清中英双字BD1280迅雷下载、免费下载，冷山/乱世情天英粤国三语高清中英双字BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}冷山/乱世情天英粤国三语高清中英双字BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2018/小八戒电影xiaobajie.com冷山英粤国三语高清中英双字BD1280.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOCbZ-2X21.jpg{/dede:field}

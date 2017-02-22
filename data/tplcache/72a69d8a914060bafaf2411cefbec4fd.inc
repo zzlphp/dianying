@@ -1,0 +1,9 @@
+{dede:field name='keywords'}爱情啊,爱情啊第11集韩剧迅雷下{/dede:field}
+{dede:field name='description'}爱情啊 爱情啊第11集韩剧迅雷下载、免费下载，爱情啊 爱情啊第11集韩剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}爱情啊 爱情啊第11集韩剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3387/飘花电影piaohua.com爱情啊 爱情啊EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPc1T0-1a60.jpg{/dede:field}

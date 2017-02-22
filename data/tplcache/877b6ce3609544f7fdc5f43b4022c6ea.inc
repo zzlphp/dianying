@@ -1,0 +1,9 @@
+{dede:field name='keywords'}洪水风暴/水啸雾都迅雷下载，免{/dede:field}
+{dede:field name='description'}洪水风暴/水啸雾都迅雷下载、免费下载，洪水风暴/水啸雾都Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}洪水风暴/水啸雾都{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-11-18{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dygod1:dygod1@xunlei.dygod.com:9969/洪水风暴/[电影天堂www.dygod.com]洪水风暴-ALL.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPU0X0-23V0.jpg{/dede:field}

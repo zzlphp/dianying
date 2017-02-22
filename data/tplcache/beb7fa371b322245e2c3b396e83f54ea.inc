@@ -1,0 +1,9 @@
+{dede:field name='keywords'}与敌同寝/与敌同眠DVD中英双字迅{/dede:field}
+{dede:field name='description'}与敌同寝/与敌同眠DVD中英双字迅雷下载、免费下载，与敌同寝/与敌同眠DVD中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}与敌同寝/与敌同眠DVD中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1828/飘花电影piaohua.com与敌同眠DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP553A0-1L32.jpg{/dede:field}

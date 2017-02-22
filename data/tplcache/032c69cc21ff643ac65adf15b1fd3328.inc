@@ -1,0 +1,9 @@
+{dede:field name='keywords'}精灵鼠小弟2BD国粤英中英双字102{/dede:field}
+{dede:field name='description'}精灵鼠小弟2BD国粤英中英双字1024/1280高清迅雷下载、免费下载，精灵鼠小弟2BD国粤英中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}精灵鼠小弟2BD国粤英中英双字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-31{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1157/飘花电影piaohua.com精灵鼠小弟2HR-HDTV双语字幕.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ20G60-5W45.jpg{/dede:field}

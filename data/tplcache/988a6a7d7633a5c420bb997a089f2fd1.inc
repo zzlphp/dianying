@@ -1,0 +1,9 @@
+{dede:field name='keywords'}红白蓝三部曲BD高清迅雷下载，免{/dede:field}
+{dede:field name='description'}红白蓝三部曲BD高清迅雷下载、免费下载，红白蓝三部曲BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}红白蓝三部曲BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2807/飘花电影piaohua.com蓝白红三部曲之-蓝BD中字1024高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOD1350-34T2.jpg{/dede:field}

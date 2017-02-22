@@ -1,0 +1,9 @@
+{dede:field name='keywords'}丁丁历险记/丁丁历险记：独角兽{/dede:field}
+{dede:field name='description'}丁丁历险记/丁丁历险记：独角兽号的秘密BD1280高清迅雷下载、免费下载，丁丁历险记/丁丁历险记：独角兽号的秘密BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}丁丁历险记/丁丁历险记：独角兽号的秘密BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3187/飘花电影piaohua.com丁丁历险记DVD国语配音中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ130I0-535D.jpg{/dede:field}

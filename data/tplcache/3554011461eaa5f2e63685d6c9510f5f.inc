@@ -1,0 +1,9 @@
+{dede:field name='keywords'}潘玮柏/周杰伦江西群星演唱会迅{/dede:field}
+{dede:field name='description'}潘玮柏/周杰伦江西群星演唱会迅雷下载、免费下载，潘玮柏/周杰伦江西群星演唱会Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}潘玮柏/周杰伦江西群星演唱会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO60K30-35C0.gif{/dede:field}

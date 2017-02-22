@@ -1,0 +1,9 @@
+{dede:field name='keywords'}雷神/雷神托尔BD高清中英双字102{/dede:field}
+{dede:field name='description'}雷神/雷神托尔BD高清中英双字1024/1280高清迅雷下载、免费下载，雷神/雷神托尔BD高清中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}雷神/雷神托尔BD高清中英双字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-28{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy444:piaohua@dy444.piaohua.com:415/飘花电影piaohua.com雷神清晰TC中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO925O0-2XI.jpg{/dede:field}

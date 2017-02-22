@@ -1,0 +1,9 @@
+{dede:field name='keywords'}猎杀大行动高清720P,1280*720迅{/dede:field}
+{dede:field name='description'}猎杀大行动高清720P 1280*720迅雷下载、免费下载，猎杀大行动高清720P 1280*720Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}猎杀大行动高清720P 1280*720{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-31{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:1034/飘花电影下载站www.piaohua.com猎杀大行动720p.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3K3Z-51242.jpg{/dede:field}

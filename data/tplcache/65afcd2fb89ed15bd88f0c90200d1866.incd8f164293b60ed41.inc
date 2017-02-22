@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","史酷比：鬼龙传说BD中英双字1280",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","史酷比：鬼龙传说BD中英双字1280高清迅雷下载、免费下载，史酷比：鬼龙传说BD中英双字1280高清Gvod高清在线播放，剧情介绍等。",73,235);
+$z[1][4]['name']="description";
+$z[2]=Array("field","史酷比：鬼龙传说BD中英双字1280高清",237,309);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",311,350);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",352,391);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-10-24",393,443);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	&nbsp;<img border=\"0\" src=\"/uploads/allimg/c120525/133O04531930-13524.jpg\" style=\"max-width: 750px; max-height: 750px\" /></p>\r\n<p>\r\n	◎译　　名　史酷比：鬼龙传说/史酷比<br />\r\n	◎片　　名　Scooby Doo Legend Of The Phantosaur<br />\r\n	◎年　　代　2011<br />\r\n	◎国　　家　美国<br />\r\n	◎类　　别　动画<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中英双字幕<br />\r\n	◎IMDB评分 N/A<br />\r\n	◎文件格式　Rmvb<br />\r\n	◎视频尺寸　640 x 360<br />\r\n	◎文件大小　304MB<br />\r\n	◎片　　长　75 Mins<br />\r\n	◎导　　演　Ethan Spaulding<br />\r\n	◎主　　演　Frank Welker ...Scooby-Doo / Fred Jones / Bikers (voice)<br />\r\n	　　　　　　Mindy Cohn ...Velma Dinkley (voice)<br />\r\n	　　　　　　Grey DeLisle ...Daphne Blake (voice)<br />\r\n	　　　　　　Matthew Lillard ...Shaggy Rogers / Shaky Joe (voice)<br />\r\n	　　　　　　Cathy Cavadini ... Faith (voice)<br />\r\n	　　　　　　Sumalee Montano ... (voice)<br />\r\n	　　　　　　John Di Maggio ... Friz / GPS / Bikers (voice)<br />\r\n	　　　　　　Vyvan Pham ... Emily (voice)<br />\r\n	　　　　　　Michael Gough ... Mr. Babbit / Blair / Grad Student #1 / Bikers (voice)<br />\r\n	　　　　　　Matthew Gray Gubler ... Winsor (voice)<br />\r\n	　　　　　　Finola Hughes ... Professor Svankmajer (voice)<br />\r\n	　　　　　　Colleen O&#39;Shaughnessey ... Cleo (voice)<br />\r\n	　　　　　　Maulik Pancholy ... Doctor (voice)</p>\r\n<p>\r\n	◎简　　介　</p>\r\n<p>\r\n	　　史酷比和他的朋友们在一个又温泉的地方度假。但在这个极度放松的温泉里，发生了一个史前恐慌的事。史酷比和他的朋友们发现的可怕鬼龙。据说这是一个古老的传说。在神密地沙漠洞穴中为了保护宝藏。而设计的魔咒。史酷比为了保护这些宝藏不被那些五颜六色的犯罪嫌疑人抢走。他充当英雄的角色。对那些贪婪的企业投资者和过度热心的科学家们来说，史酷比是一个障碍，想出一切办法要除掉他。他们成功了吗？还是史酷比成了英雄？</p>\r\n<p>\r\n	◎影片截图</p>\r\n<p>\r\n	&nbsp;<img border=\"0\" src=\"/uploads/allimg/c120525/133O04534110-2L28.jpg\" style=\"max-width: 750px; max-height: 750px\" /></p>\r\n<p>\r\n	&nbsp;<img border=\"0\" src=\"/uploads/allimg/c120525/133O04534H0-32034.jpg\" style=\"max-width: 750px; max-height: 750px\" /></p>\r\n<p>\r\n	<img border=\"0\" src=\"/uploads/allimg/c120525/133O045352P-45614.jpg\" style=\"max-width: 750px; max-height: 750px\" /></p>\r\n<p>\r\n	<img alt=\"\" height=\"337\" src=\"/uploads/allimg/c120525/133O04535V0-560P.jpg\" style=\"cursor: pointer\" width=\"600\" /><br />\r\n	<img alt=\"\" height=\"337\" src=\"/uploads/allimg/c120525/133O0453B50-62221.jpg\" style=\"cursor: pointer\" width=\"600\" /><br />\r\n	<img alt=\"\" height=\"337\" src=\"/uploads/allimg/c120525/133O0453IF-Ka4.jpg\" style=\"cursor: pointer\" width=\"600\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]： &nbsp;<img border=\"0\" src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\" /></p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				&nbsp;ftp://dy44:piaohua@dy44.piaohua.com:1517/飘花电影piaohua.com史酷比：鬼龙传说DVD中英双字.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				&nbsp;ftp://dy44:piaohua@dy44.piaohua.com:1890/飘花电影piaohua.com史酷比：鬼龙传说1280高清.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",445,3817);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O0453Q30-S151.jpg",3819,3902);
+$z[7][4]['name']="litpic";
+
+?>

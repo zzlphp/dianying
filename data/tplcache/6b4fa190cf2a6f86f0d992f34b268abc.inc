@@ -1,0 +1,9 @@
+{dede:field name='keywords'}本拉登之死HD中英双字BBC纪录片{/dede:field}
+{dede:field name='description'}本拉登之死HD中英双字BBC纪录片迅雷下载、免费下载，本拉登之死HD中英双字BBC纪录片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}本拉登之死HD中英双字BBC纪录片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-06-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy46:piaohua@dy46.piaohua.com:617/飘花电影piaohua.com本拉登之死.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4Q450-3SO.jpg{/dede:field}

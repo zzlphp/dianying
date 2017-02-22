@@ -1,0 +1,9 @@
+{dede:field name='keywords'}倒数第二次恋爱更新第11集[日语{/dede:field}
+{dede:field name='description'}倒数第二次恋爱更新第11集[日语中字]12冬季日剧迅雷下载、免费下载，倒数第二次恋爱更新第11集[日语中字]12冬季日剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}倒数第二次恋爱更新第11集[日语中字]12冬季日剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2754/飘花电影piaohua.com倒数第二次恋爱-01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ02D40-4P13.jpg{/dede:field}

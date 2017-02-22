@@ -1,0 +1,9 @@
+{dede:field name='keywords'}第五十四届格莱美颁奖典礼高清中{/dede:field}
+{dede:field name='description'}第五十四届格莱美颁奖典礼高清中字1280迅雷下载、免费下载，第五十四届格莱美颁奖典礼高清中字1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}第五十四届格莱美颁奖典礼高清中字1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2022/小八戒电影xiaobajie.com第五十四届格莱美颁奖典礼高清中字1280.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ419420-2S55.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}名侦探柯南剧场版14部曲1024高清{/dede:field}
+{dede:field name='description'}名侦探柯南剧场版14部曲1024高清国语中字经典动画迅雷下载、免费下载，名侦探柯南剧场版14部曲1024高清国语中字经典动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}名侦探柯南剧场版14部曲1024高清国语中字经典动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1071/飘花电影piaohua.com名侦探柯南剧场版1.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ22OZ-19604.jpg{/dede:field}

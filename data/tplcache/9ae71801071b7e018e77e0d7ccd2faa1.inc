@@ -1,0 +1,9 @@
+{dede:field name='keywords'}海神波塞冬号迅雷下载，免费下载{/dede:field}
+{dede:field name='description'}海神波塞冬号迅雷下载、免费下载，海神波塞冬号Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}海神波塞冬号{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-11-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP91b30-45444.jpg{/dede:field}

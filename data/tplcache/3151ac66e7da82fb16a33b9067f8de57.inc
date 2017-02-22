@@ -1,0 +1,9 @@
+{dede:field name='keywords'}登陆之日/我的征途DVD中字2012韩{/dede:field}
+{dede:field name='description'}登陆之日/我的征途DVD中字2012韩国战争迅雷下载、免费下载，登陆之日/我的征途DVD中字2012韩国战争Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}登陆之日/我的征途DVD中字2012韩国战争{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3428/飘花电影piaohua.com我的征途DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP5P4P-25944.jpg{/dede:field}

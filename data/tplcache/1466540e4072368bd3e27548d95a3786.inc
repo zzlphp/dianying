@@ -1,0 +1,9 @@
+{dede:field name='keywords'}温哥华酱油乐队高清迅雷下载，免{/dede:field}
+{dede:field name='description'}温哥华酱油乐队高清迅雷下载、免费下载，温哥华酱油乐队高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}温哥华酱油乐队高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP14F30-22E6.jpg{/dede:field}

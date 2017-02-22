@@ -1,0 +1,9 @@
+{dede:field name='keywords'}深深的海洋BD1280国粤英三语中字{/dede:field}
+{dede:field name='description'}深深的海洋BD1280国粤英三语中字迅雷下载、免费下载，深深的海洋BD1280国粤英三语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}深深的海洋BD1280国粤英三语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:xiaobajie@222.187.221.241:2037/小八戒电影xiaobajie.com深深的海洋BD1280国粤英三语中字.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ4303Z-550S.jpg{/dede:field}

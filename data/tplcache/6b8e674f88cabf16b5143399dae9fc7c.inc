@@ -1,0 +1,9 @@
+{dede:field name='keywords'}金钱第一高清/钱灾人祸/头号冤家{/dede:field}
+{dede:field name='description'}金钱第一高清/钱灾人祸/头号冤家BD1280迅雷下载、免费下载，金钱第一高清/钱灾人祸/头号冤家BD1280Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}金钱第一高清/钱灾人祸/头号冤家BD1280{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO631M0-5RZ.jpg{/dede:field}

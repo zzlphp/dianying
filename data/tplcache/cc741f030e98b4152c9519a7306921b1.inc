@@ -1,0 +1,9 @@
+{dede:field name='keywords'}十八，十九DVD中字2012最新韩国{/dede:field}
+{dede:field name='description'}十八，十九DVD中字2012最新韩国剧情爱情大片迅雷下载、免费下载，十八，十九DVD中字2012最新韩国剧情爱情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}十八，十九DVD中字2012最新韩国剧情爱情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3284/飘花电影piaohua.com十八十九DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOI3A0-312F.jpg{/dede:field}

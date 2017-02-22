@@ -1,0 +1,1 @@
+<li>[field:typename/]&nbsp;<a href="[field:arcurl/]">[field:title/]</a></li>

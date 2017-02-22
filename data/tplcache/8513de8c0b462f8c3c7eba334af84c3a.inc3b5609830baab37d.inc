@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","在这世界的角落中日双语字幕1024",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","在这世界的角落中日双语字幕1024×576迅雷下载、免费下载，在这世界的角落中日双语字幕1024×576Gvod高清在线播放，剧情介绍等。",73,237);
+$z[1][4]['name']="description";
+$z[2]=Array("field","在这世界的角落中日双语字幕1024×576",239,312);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",314,353);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",355,394);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-08-10",396,446);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://pic.piaohua.com/0701pic/allimg/110808/3-110PR306130-L.jpg\" style=\"width: 640px; height: 434px\" /></p>\r\n<p>\r\n	中文片名: 在这世界的角落<br />\r\n	英文片名:<br />\r\n	剧集分类: 战争<br />\r\n	影片类型: 日剧<br />\r\n	资源格式: RMVB<br />\r\n	上影时间: 2011-08-05<br />\r\n	导　演:<br />\r\n	主　演: 北川景子 小出惠介 优香 速水重道 篠田三郎 市毛良枝 小西舞优 芦田爱菜</p>\r\n<p>\r\n	对白语言: 日语&nbsp;<br />\r\n	字幕语种: 简&nbsp; 日&nbsp;</p>\r\n<p>\r\n	介绍:<br />\r\n	太平洋战争中的广岛。<br />\r\n	主人公丝丝是紫菜店的长女，一个喜欢画画的普通女孩子。<br />\r\n	因为嫁给了小时候只见过一次却不记得长相的人，从广岛市搬到了吴市。</p>\r\n<p>\r\n	在对新的家庭，新的街道，新的世界不知所措的同时，天性开朗的丝丝愉快地过着每一天。<br />\r\n	嫁入北条家以后，在忙碌的生活中，丝丝终于熟悉了吴市的街道。<br />\r\n	某一天，丝丝交到了一个叫铃的朋友。丝丝迷路时，就是铃好心地给她指了路。<br />\r\n	虽然铃是青楼女子，但丝丝仍然无所顾忌地和她来往着。<br />\r\n	然而，铃其实是自己丈夫周作在婚前秘密交往的女子。<br />\r\n	偶然之下，丝丝也渐渐察觉到了丈夫周作过去曾与铃之间发生的事。</p>\r\n<p>\r\n	自己对于丈夫来说可能只是铃的替身&hellip;&hellip;<br />\r\n	丝丝怀抱着这个挥之不去的想法不敢说出口。<br />\r\n	就在此时，丝丝在广岛的同班同学兼初恋情人的水原出现了。<br />\r\n	水原在经历了战场之后，前来向丝丝表明心意。<br />\r\n	然而丝丝的心早已倾向了现在的丈夫。<br />\r\n	另一方面，看穿丝丝疑虑的铃意味深长地说了句，&ldquo;秘密只要还是秘密，就和没发生过没有两样&rdquo;，消失了。</p>\r\n<p>\r\n	与此同时，战况日益严峻，对物资匮乏的生活雪上加霜&hellip;&hellip;<br />\r\n	在广岛的娘家，奔赴战场的哥哥回到家时已是一粒沙石。<br />\r\n	随后1945年3月，终于吴市的街道也遭到了大规模的空袭。<br />\r\n	碰巧带着外甥女看望公公的丝丝，从防空洞出来后遇到了定时炸弹爆炸。<br />\r\n	卷入爆炸的丝丝右手被炸飞，而手上牵着的外甥女则失去了性命。</p>\r\n<p>\r\n	&ldquo;你个凶手，明明有你带着她，怎么就！&rdquo;丝丝遭到姐姐的责难。<br />\r\n	&ldquo;别说了！丝丝还活着就好。&rdquo;婆婆帮忙劝说道。<br />\r\n	（真的？真的好吗？对不起。对不起。对不起，我还活着。）<br />\r\n	自此以后，丝丝眼中的世界变得扭曲了。<br />\r\n	丝丝本想回去娘家，但是被从丧女之痛中恢复过来的姐姐劝说后改变了主意。</p>\r\n<p>\r\n	没过多久，原子弹落在了广岛，失去了娘家人的消息。<br />\r\n	无情袭来的战争的恐惧。欺凌他人，又被人欺凌的祖国败下阵来。<br />\r\n	丝丝在这世界的角落里生存下来，决心记录下生活的点滴</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20110810/01/17870980201108100137343511966270632_000.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20110810/01/17870980201108100137343511966270632_001.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n\r\n<p>\r\n	[下载地址]： &nbsp;<img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" /></p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy67:piaohua@dy67.piaohua.com:1031/飘花电影下载站www.xiaozhizhu.net在这世界的角落中日双语字幕1024分辨率.mkv\">ftp://dy67:piaohua@dy67.piaohua.com:1031/飘花电影下载站www.xiaozhizhu.net在这世界的角落中日双语字幕1024分辨率.mkv</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:1229/飘花电影下载站www.xiaozhizhu.net在这世界的角落中日双语字幕1024分辨率.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:1229/飘花电影下载站www.xiaozhizhu.net在这世界的角落中日双语字幕1024分辨率.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",448,4163);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O161c010-3b15.jpg",4165,4248);
+$z[7][4]['name']="litpic";
+
+?>

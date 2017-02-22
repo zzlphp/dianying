@@ -1,0 +1,9 @@
+{dede:field name='keywords'}2016:夜之尽头/地狱BD1280高清迅{/dede:field}
+{dede:field name='description'}2016:夜之尽头/地狱BD1280高清迅雷下载、免费下载，2016:夜之尽头/地狱BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}2016:夜之尽头/地狱BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:8026/飘花电影piaohua.com2016夜之尽头BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO914360-42541.jpg{/dede:field}

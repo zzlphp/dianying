@@ -1,0 +1,9 @@
+{dede:field name='keywords'}飓风/捍卫正义BD中字1280高清经{/dede:field}
+{dede:field name='description'}飓风/捍卫正义BD中字1280高清经典传记剧情迅雷下载、免费下载，飓风/捍卫正义BD中字1280高清经典传记剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}飓风/捍卫正义BD中字1280高清经典传记剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3302/飘花电影piaohua.com捍卫正义BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP246210-5D57.jpg{/dede:field}

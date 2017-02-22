@@ -1,0 +1,75 @@
+{dede:field name='keywords'}下一个奇迹高清1024/1280版HD国{/dede:field}
+{dede:field name='description'}下一个奇迹高清1024/1280版HD国语中字2012最新上映爱情大片迅雷下载、免费下载，下一个奇迹高清1024/1280版HD国语中字2012最新上映爱情大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}下一个奇迹高清1024/1280版HD国语中字2012最新上映爱情大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-03{/dede:field}
+{dede:field name='body'}<p>
+	<img src="http://img03.taobaocdn.com/imgextra/i3/229823360/T2m3yAXddaXXXXXXXX_!!229823360.jpg" /></p>
+
+<p>
+	<img src="http://img03.taobaocdn.com/imgextra/i3/229823360/T2ggyAXdlaXXXXXXXX_!!229823360.jpg" /></p>
+<p>
+	<img src="http://img02.taobaocdn.com/imgextra/i2/229823360/T2dgyAXdpaXXXXXXXX_!!229823360.jpg" /></p>
+<p>
+	中文名： 下一个奇迹<br />
+	出品公司： 上海共创文化传播有限公司<br />
+	导演： 卓立<br />
+	编剧： 洪诚阳；丁梦龙；卓立<br />
+	类型： 剧情，爱情，励志<br />
+	主演： 秦昊，刘诗诗，莫小棋，朴熙植，杨佑宁，唐振刚<br />
+	片长： 115分钟<br />
+	上映时间： 2012年3月31日<br />
+	对白语言： 汉语普通话<br />
+	监制： 叶如芬<br />
+	摄影： 陈楚强<br />
+	剪接： 张嘉辉<br />
+	制作： 威像电影有限公司</p>
+<p>
+	<br />
+	剧情简介</p>
+<p>
+	　　18岁那年，ROCKY （秦昊 饰） 一连串脱轨的举动，让他和父亲（张国柱 饰） 之间的关系恶劣到极点，惯性自杀更带给家人无比困扰，一次比一次荒唐，医生斩钉截铁断定ROCKY患了忧郁症。<br />
+	　　一天，ROCKY走向马路，迎着一辆大巴士，一个女孩子突然冲出来，把他从马路上拉开，从此，ROCKY遇上了改变他生命的女人&mdash;&mdash;MAY （莫小棋 饰），她牵起他的手，鼓励他迎向生命中的每一个挑战。 有了精神力量支撑，ROCKY开始振作，每天抱着美丽愉快的梦想过日子。 老天给了他和MAY再次相遇的机会，然而这一次，MAY的身边却多了一个陈SIR。<br />
+	　　为了接近心中的女神，ROCKY到了陈SIR （石修 饰） 的公司，从一个最底层的业务员做起。ROCKY在MAY的鼓励下，从菜鸟蜕变成销售冠军，却忽略了一直在身边默默支持自己的团队伙伴&mdash;&mdash;佳怡（刘诗诗 饰）。<br />
+	　　不料公司一场突如其来的变故，让ROCKY从天堂坠入地狱，陈SIR卷款潜逃，甚至带走了MAY，ROCKY要挽回这一切，却被MAY狠狠拒绝，一句话&ldquo;十年后你仍一无所有&rdquo;深深烙印在ROCKY的心里。 &ldquo;在上海举行五万人演讲会&rdquo;，成了ROCKY向MAY证明自己的誓言，也是ROCKY追求的人生目标！<br />
+	　　ROCKY白手创业，四位与他同生死共患难的朋友&mdash;行远、国楷、浩哲、佳怡（唐振刚、杨佑宁、朴熙植、刘诗诗 饰） 成了他的事业伙伴，他们各有所长，在不同的领域帮着ROCKY共创事业的高峰，一路辛苦的创业，ROCKY养成了给MAY打电话的习惯，尽管从来没有接通过&hellip;&hellip;佳怡在ROCKY身边，一直支持着ROCKY，她期待着哪天，随着时间的过去，MAY会彻底消失，她会赢得ROCKY的心。 佳怡尽心尽力为ROCKY达成「上海五万人」的目标，却不知道这一切是为了另一个女人&hellip;&hellip;<br />
+	　　就在&ldquo;上海五万人&rdquo;举办前夜，多年来努力的目标眼看就要实现，ROCKY却收到了MAY的消息！ ROCKY不顾团队所有人的反对，一意奔回家乡见MAY一面&hellip;&hellip;他相信他绝对可以及时返回，顺利创造奇迹&hellip;&hellip;<br />
+	　　上海五万人会场，所有人翘首以待，等待ROCKY的出现&hellip;&hellip;　</p>
+
+<p>
+	◎影片截图</p>
+
+<p>
+	<img src="http://img170.poco.cn/mypoco/myphoto/20120403/16/56643687201204031625122604347488629_002.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /></p>
+<p>
+	<img src="http://img170.poco.cn/mypoco/myphoto/20120403/16/56643687201204031625122604347488629_001.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /></p>
+<p>
+	<img src="http://img170.poco.cn/mypoco/myphoto/20120403/16/56643687201204031625122604347488629_000.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /></p>
+<p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" />&nbsp;&nbsp;&nbsp;</p>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				在线观看地址：<a href="http://www.xiaozhizhu.net/" target="_blank">http://www.xiaozhizhu.net</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3118/飘花电影piaohua.com下一个奇迹高清1024版HD国语中字.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3118/飘花电影piaohua.com下一个奇迹高清1024版HD国语中字.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3134/飘花电影piaohua.com下一个奇迹高清1280版HD国语中字.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3134/飘花电影piaohua.com下一个奇迹高清1280版HD国语中字.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O15T4R0-26346.jpg{/dede:field}

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","黄飞鸿之三：狮王争霸[BD国语中",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","黄飞鸿之三：狮王争霸[BD国语中字1280x720＋1024x576高清版无水印]迅雷下载、免费下载，黄飞鸿之三：狮王争霸[BD国语中字1280x720＋1024x576高清版无水印]Gvod高清在线播放，剧情介绍等。",72,290);
+$z[1][4]['name']="description";
+$z[2]=Array("field","黄飞鸿之三：狮王争霸[BD国语中字1280x720＋1024x576高清版无水印]",292,392);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",394,433);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",435,474);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2009-12-28",476,526);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG alt=\"\" src=\"/uploads/allimg/c120525/133O02513360-11F92.jpg\" onload=thumbImg(this)><BR><BR><BR>◎译　　名　黄飞鸿之三狮王争霸/黄飞鸿之三：狮王争霸<BR>◎片　　名　Once Upon A Time In China III<BR>◎年　　代　1993<BR>◎国　　家　中国香港<BR>◎类　　别　动作/历史<BR>◎语　　言　普通话<BR>◎字　　幕　中文字幕<BR>◎IMDB评分 6.7/10&nbsp; &nbsp;2,181 votes<BR>◎文件格式　Rmvb<BR>◎视频尺寸　1280 x 720＋1024x576<BR>◎文件大小　1CD 1.41GB<BR>◎片　　长　112 Mins<BR>◎导　　演　徐克 Hark Tsui<BR>◎主　　演　李连杰 Jet Li&nbsp;&nbsp;....Wong Fei-hung<BR>　　　　　　关之琳 Rosamund Kwan&nbsp;&nbsp;....Aunt Yee (segment \"Penny\")<BR>　　　　　　熊欣欣 Xin Xin Xiong&nbsp;&nbsp;....Club Foot/Thunder Foot<BR>　　　　　　刘洵 Shun Lau&nbsp;&nbsp;....Wong Kei-ying<BR>　　　　　　莫少聪 Siu Chung Mok&nbsp;&nbsp;....Leung Fun<BR>　　　　　　John Wakefield&nbsp;&nbsp;....Tumanovsky<BR><BR>◎简　　介　<BR><BR>　　19世纪末，由于维新变法、皇位继承等诸问题，满清政府与列强关系日趋紧张。慈禧太后决定在全国鼓励习武之风以强国壮志，遂派李鸿章举办舞狮大会，吸引全国武林好手参加，名为“狮王争霸”大赛。黄飞鸿携十三姨、梁宽赴京探望父亲，并准备购买蒸气机以办药厂。北京恶霸赵天霸欲取得大赛头名，用卑鄙手法对付各武林同道，并来广东会馆踢馆，派手下干将鬼脚七将黄琦英打伤。十三姨于北京邂逅留学时的俄国同学，其人在俄国使馆工作，对十三姨一直情有独钟，并送她一部映画机。梁宽设计使鬼脚七断腿。赵天霸认为鬼脚七已无利用价值，将其逐出；黄飞鸿不计前嫌，收留阿七。鬼脚七受黄飞鸿一代宗师的气魄所感动，悔恨自己以往助纣为虐的行为，乃拜黄飞鸿为师。<BR><BR>　　清朝末年，慈禧太后为了宣扬国威，决定举办一场狮王争霸战。黄飞鸿（李连杰）为了参加这场争斗千里迢迢从广州赶到北京。在北京车站与黄飞鸿同行的十三姨（关之琳）遇见了老同学杜文奇，他表面在领事馆做翻译，实际上是一名间谍。<BR><BR>　　黄飞鸿携十三姨、梁宽进京与父亲黄麒英相叙，并协助开办“宝芝林药厂”事宜。到埠后发现麒英被打伤，原来恶霸赵天霸为夺“狮王”，收罗鬼脚七等人助他铲除异己。黄飞鸿更目睹京城武术界为此大动干戈，你死我活，黄飞鸿遂力平纷争，并上书李鸿章，却高清电影下载又不得要领。<BR><BR>　　赛事临近，赵天霸愈发嚣张跋扈。在“三笑楼”设下重重陷阱，邀黄氏父子赴宴，黄飞鸿凭一身绝技独闯虎穴，大破“斧头阵”。鬼脚七因断脚被赵天霸排挤，遗弃街头。黄飞鸿不记前嫌，为其医治断脚，鬼脚七感于黄飞鸿仁义，拜黄为师。<BR><BR>一句话评论<BR><BR>A Hero Beyond All Others.<BR><BR>幕后制作<BR><BR>进入90年代，徐克以匠心独运之创新执导手法，并起用拥有深厚武学底子的李连杰扮演黄飞鸿，再加入了甄子丹、关之琳等顶级演员阵容，令《黄飞鸿》系列每创佳绩，上映后好评如潮，每部均有近3000万票房。而李连杰亦凭黄飞鸿一角在好莱坞打出名堂，现在更成为好莱坞最高身价之亚裔演员。此外，片中林子祥主唱之电影主题曲“男儿当自强”亦成为脍炙人口之经典金曲。前两集《黄飞鸿》都将故事背景放在岭南的广东，第三集却移师北京，并且以大场面的舞狮来赋予这个系列电影新的面貌。不过在主题上仍然紧抓住满清国力衰弱，而中国人却仍不停内斗的时代感叹。压轴的各式舞狮设计多彩多姿，场面相当热闹可观。</P>\r\n<P>【电影截图】：<BR><BR><IMG src=\"/uploads/allimg/c120525/133O025142P-1214a.jpg\" border=0>&nbsp;<BR><IMG src=\"/uploads/allimg/c120525/133O02514a0-135643.jpg\" border=0></P> <BR>1280x720 [下载地址]：<IMG src=\"/uploads/allimg/c120524/133N295542P-105L6.jpg\" border=0><BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://3e:3e@www2.3edyy.com:979/【3E电影院www.3edyy.com】黄飞鸿之三：狮王争霸BD中字1280x720高清版[国语].rmvb</TD></TR></TBODY></TABLE> <BR>1024x576 [下载地址]：<IMG src=\"/uploads/allimg/c120524/133N295542P-105L6.jpg\" border=0><BR>\r\n<TABLE style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellSpacing=0 cellPadding=6 width=\"95%\" align=center border=0>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://3e:3e@www2.3edyy.com:983/【3E电影院www.3edyy.com】黄飞鸿之三：狮王争霸BD中字1024x576高清版无水印[国语].rmvb</TD></TR></TBODY></TABLE>",528,4669);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O02515J0-144107.jpg",4671,4756);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","我说啊，我说DVD迅雷下载，免费",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","我说啊，我说DVD迅雷下载、免费下载，我说啊，我说DVDGvod高清在线播放，剧情介绍等。",72,196);
+$z[1][4]['name']="description";
+$z[2]=Array("field","我说啊，我说DVD",198,251);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",253,292);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",294,333);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-11",335,385);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O1044B40-1Gb1.jpg\" style=\"width: 600px; height: 454px\" /></p>\r\n<p>\r\n	中文名: 「我说啊，」我说。<br />\r\n	英文名: The Soliloquist<br />\r\n	发行时间: 2009年09月<br />\r\n	导演: 马匡霈 Ma Kuang Pei.<br />\r\n	地区: 台湾<br />\r\n	语言: 普通话,英语<br />\r\n	片名： 我说啊，我说 /The Soliloquist<br />\r\n	导演： 马匡霈 /Ma Kuang Pei<br />\r\n	片长：6.05分钟<br />\r\n	类型： 短片 /short film<br />\r\n	国别： 中国台湾/Taiwan<br />\r\n	&nbsp;</p>\r\n<p>\r\n	内容介绍</p>\r\n<p>\r\n	一个失恋之人，在寂寞低潮的日子里收到寄给某人的信与包裹，在无法退还的情况下，主角似有心无意的拆阅信件，<br />\r\n	随著不断累积的数量，渐与那未曾露面出现的那人，发生一段曖昧诡异的另类妄想。<br />\r\n	Of all those lonesome days, a heart broken man had received letters and packages stating with the wrong addressee.<br />\r\n	Unable to return those letters, he started to read them. As the letters piled up, leading him fell in to a fictitious love with an imaginary character.<br />\r\n	创作概念：<br />\r\n	/ Director&rsquo;s Statement on the Film<br />\r\n	『寂寞啊，当我感觉到你存在时，便让我不想存在这世界。』<br />\r\n	一个关於寂寞、人际、感情、妄想、幻觉交错的现代寓言。<br />\r\n	&ldquo;Loneliness, sensing your existence makes me want to disappear.&rdquo;<br />\r\n	A modern fable about the loneliness, fantasy, and **s.<br />\r\n	创作理念：<br />\r\n	故事发想上是以自身失恋的经验转化成一个有如都市传说般的小故事，创作的主旨并不是要讲述一个什么样的大道理，反而是将失恋后低潮的情绪投射在画面的各个情节之中，让每一个场景都成为超现实的舞台，动画的主角则成为独角戏的演员，希望能营造出一种浓厚的情绪氛围。<br />\r\n	如果观眾能从画面或故事中感染到主角的情绪与气氛，就是最大的肯定。<br />\r\n	而当初在构想动画的技术时，希望能结合角色动画的表演和MotionGraphic的运镜，因此才运用了镜头不断推移并搭配字幕叙事的方式，一方面达到一镜到底的特殊效果，一方面也希望产生有如翻阅动画绘本的感觉，呈现不同於动画电影分镜叙事的手法。<br />\r\n	动画风格以自己擅长的2D电脑手绘逐格动画，并运用各式各样的纸质感合成来丰富画面的肌理，让每一个镜头都有很多细节可以供观眾玩味欣赏。也结合了自己幻想式、超现实的想像，让每一个场景呈现出一种诗意、寓意性的感觉，让观眾除了可以从剧情字幕推敲故事的发展外，也可以自行从画面中得到不同的感受和解读，丰富故事和画面的层次。<br />\r\n	此动画作品是我就读臺南艺术大学音像动画研究所时所制作，创作的过程历时一年，创作的过程是从故事文字开始，然后再依照每一句去发想每一个画面，再运用不同的空间串场完成前后运镜，感谢动画所得余为政老师和史明辉老师，让我在作品制作上有很大的发展空间和自由，能够以一个独立艺术的角度去发展这样一个自我为主的题材，能够投入情感也能够感动他人。<br />\r\n	&nbsp;</p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O1044L0-1SN5.jpg\" style=\"width: 720px; height: 480px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O1044S0-196158.jpg\" style=\"width: 720px; height: 480px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O10449110-203W7.jpg\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"/uploads/allimg/c120525/133O104261P-625N.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				ftp://dy241:piaohua@117.41.229.29:2012/飘花电影piaohua.com我说啊，我说DVD.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",387,3805);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O1044b20-219219.jpg",3807,3892);
+$z[7][4]['name']="litpic";
+
+?>

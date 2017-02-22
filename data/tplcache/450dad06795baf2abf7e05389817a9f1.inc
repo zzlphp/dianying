@@ -1,0 +1,9 @@
+{dede:field name='keywords'}梦宅诡影/凶宅藏私BD1280高清迅{/dede:field}
+{dede:field name='description'}梦宅诡影/凶宅藏私BD1280高清迅雷下载、免费下载，梦宅诡影/凶宅藏私BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}梦宅诡影/凶宅藏私BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP2U920-1I91.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}关于爱情和那些魔鬼高清1024版HD{/dede:field}
+{dede:field name='description'}关于爱情和那些魔鬼高清1024版HD国语中字2012上映中国喜剧爱情片迅雷下载、免费下载，关于爱情和那些魔鬼高清1024版HD国语中字2012上映中国喜剧爱情片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}关于爱情和那些魔鬼高清1024版HD国语中字2012上映中国喜剧爱情片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3125/飘花电影piaohua.com关于爱情和那些魔鬼高清1024版HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOGQ30-2Z03.jpg{/dede:field}

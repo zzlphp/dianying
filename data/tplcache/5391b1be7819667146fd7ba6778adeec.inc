@@ -1,0 +1,9 @@
+{dede:field name='keywords'}金贤哲–还没结婚迅雷下载，免费{/dede:field}
+{dede:field name='description'}金贤哲–还没结婚迅雷下载、免费下载，金贤哲–还没结婚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}金贤哲–还没结婚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-01-03{/dede:field}
+{dede:field name='body'}金贤哲 &ndash; 还没结婚<br /><br />
+<div style="FONT-SIZE: 13px">mms://mmc.daumcast.net/mmc/1/1000/0900196001402m.wmv</div>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120524/133N353DD0-2G248.gif{/dede:field}

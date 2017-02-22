@@ -1,0 +1,9 @@
+{dede:field name='keywords'}鲁豫有约_刘德华不老的情人迅雷{/dede:field}
+{dede:field name='description'}鲁豫有约_刘德华不老的情人迅雷下载、免费下载，鲁豫有约_刘德华不老的情人Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}鲁豫有约_刘德华不老的情人{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO60K30-35C0.gif{/dede:field}

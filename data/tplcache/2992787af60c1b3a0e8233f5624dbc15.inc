@@ -1,0 +1,9 @@
+{dede:field name='keywords'}外出就餐5：开放性周末DVD中英双{/dede:field}
+{dede:field name='description'}外出就餐5：开放性周末DVD中英双字2011最新美国同志喜剧大片迅雷下载、免费下载，外出就餐5：开放性周末DVD中英双字2011最新美国同志喜剧大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}外出就餐5：开放性周末DVD中英双字2011最新美国同志喜剧大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-02{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3125/飘花电影piaohua.com外出就餐5：开放性周末DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOB55Z-21Z5.jpg{/dede:field}

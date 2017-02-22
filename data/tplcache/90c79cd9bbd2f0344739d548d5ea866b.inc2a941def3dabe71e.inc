@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","正义联盟：毁灭/正义联盟：判决B",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","正义联盟：毁灭/正义联盟：判决BD1280高清迅雷下载、免费下载，正义联盟：毁灭/正义联盟：判决BD1280高清Gvod高清在线播放，剧情介绍等。",73,245);
+$z[1][4]['name']="description";
+$z[2]=Array("field","正义联盟：毁灭/正义联盟：判决BD1280高清",247,324);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",326,365);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",367,406);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-02-20",408,458);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120220/00/62564813201202200016341905393577176_000.jpg\" style=\"width: 800px; height: 1085px\" /></p>\r\n<p>\r\n	【影片原名】Justice League: Doom<br />\r\n	【中文译名】正义联盟：毁灭/正义联盟：判决<br />\r\n	【出品公司】华纳家庭视频公司<br />\r\n	【出品年代】2012 年<br />\r\n	【上映日期】2012 年 美国<br />\r\n	【IMDB链接】<a href=\"http://www.imdb.com/title/tt2027128\" target=\"_blank\">http://www.imdb.com/title/tt2027128</a><br />\r\n	【IMDB评分】NA<br />\r\n	【国　　家】美国<br />\r\n	【类　　别】动画 奇幻<br />\r\n	【导　　演】Lauren Montgomery<br />\r\n	【配 &nbsp; &nbsp; &nbsp;音】丹尼斯&middot;奎德 Dennis Quaid &nbsp;....Batman (rumored)<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;雷&middot;温斯顿 Ray Winstone &nbsp;....Aquaman (rumored)<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;凯文&middot;索伯 Kevin Sorbo &nbsp;....Superman (rumored)<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;蒂亚&middot;卡雷尔 Tia Carrere &nbsp;....Wonder Woman (rumored)<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;奥利薇亚&middot;阿波 Olivia d&#39;Abo &nbsp;....Carol Ferris / Star Sapphire<br />\r\n	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Christopher Daniel Barnes &nbsp;....The Flash (rumored)<br />\r\n	【内容简介】<br />\r\n	<br />\r\n	An adaptation of Mark Waid&#39;s &amp;quot;Tower of Babel&amp;quot; story from the JLA comic. Ra&#39;s al Ghul steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.<br />\r\n	　　Justice League Doom is a animated movie going to be partly based on the Justice League Tower of Babel series deals with Batman&#39;s perceived betrayal to the superhuman community by keeping records concerning the strengths and weaknesses of his allies in the JLA, including plans to neutralise his allies in a fight. His files are stolen by Ra&#39;s al Ghul, who uses them to defeat the League through a coordinated attack to prevent them from interfering with his latest scheme.</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120220/00/62564813201202200016341905393577176_002.jpg\" style=\"width: 640px; height: 360px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120220/00/62564813201202200016341905393577176_001.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<br />\r\n	<br />\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n\r\n\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"&#13;&#10;ftp://dy125:piaohua@dy125.piaohua.com:7626/飘花电影piaohua.com正义联盟毁灭BD中英双字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:7626/飘花电影piaohua.com正义联盟毁灭BD中英双字1280高清.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",460,3620);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O1B31G0-45F1.jpg",3622,3704);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}站台迅雷下载，免费下载，Gvod高{/dede:field}
+{dede:field name='description'}站台迅雷下载、免费下载，站台Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}站台{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://1NewAccount_LunLi:1NewAccount_LunLi@www.91looks.com:7000/z{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP3951Z-25Q3.jpg{/dede:field}

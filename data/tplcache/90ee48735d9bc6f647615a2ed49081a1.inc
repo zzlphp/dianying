@@ -1,0 +1,90 @@
+{dede:field name='keywords'}喜羊羊与灰太狼之开心闯龙年高清{/dede:field}
+{dede:field name='description'}喜羊羊与灰太狼之开心闯龙年高清1280版国粤双语中字2012最新上映迅雷下载、免费下载，喜羊羊与灰太狼之开心闯龙年高清1280版国粤双语中字2012最新上映Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}喜羊羊与灰太狼之开心闯龙年高清1280版国粤双语中字2012最新上映{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-01{/dede:field}
+{dede:field name='body'}<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120113/00/56643687201201130058067189858124110_005.jpg" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120113/00/56643687201201130058067189858124110_004.jpg" /></p>
+<p>
+	中文名： 喜羊羊与灰太狼4：开心闯龙年/喜羊羊与灰太狼大电影4/喜羊羊4-开心闯龙年<br />
+	外文名： ssion incredible:Adventures On The Dragon&#39;s Trail<br />
+	出品时间： 2012年<br />
+	出品公司： 广州原创动力文化传播有限公司<br />
+	制片地区： 中国，广州<br />
+	类型： 动画，冒险，喜剧<br />
+	主演： 喜羊羊，懒羊羊，慢羊羊，小灰灰，灰太狼<br />
+	上映时间： 2012年1月12日<br />
+	对白语言： 普通话</p>
+<p>
+	<br />
+	剧情简介</p>
+<p>
+	　　传言，幽幽山谷中，藏有千年绝世珍宝&mdash;&mdash;&ldquo;龙笛&rdquo;。只有真正的龙的传人才能开启宝藏的密室之门&hellip;&hellip;<br />
+	　　云朵坠地，飓风骤降，青青草原陷入一片混沌，这一切与龙世界正遭遇的灭顶之灾息息相关，而终结灾难的唯一办法就是吹响传说中的&ldquo;龙笛&rdquo;&hellip;&hellip;于是，&ldquo;羊羊战队&rdquo;再度集结，决定前往这个神秘而 又未知的国度一探究竟！<br />
+	　　另一边，得悉灾难降临而举家<a _fcksavedurl="http://www.dailiv.com/" href="http://www.dailiv.com/" style="color: rgb(0,0,0); text-decoration: none">在线代理</a>落跑的灰太狼被一阵突如其来的怪浪卷入龙世界，不得不再度与众<a _fcksavedurl="http://www.anzhuo4.com/" href="http://www.anzhuo4.com/" style="color: rgb(0,0,0); text-decoration: none">安卓</a>羊并肩作战&hellip;&hellip;<br />
+	　　&ldquo;叮叮&rdquo;，&ldquo;咚咚&rdquo;，&ldquo;铛铛&rdquo;，山谷里传来阵阵刺耳的声响，仔细一瞧，竟是喜羊羊与灰太狼他们在拜师学&ldquo;艺&rdquo;。要想成为龙的传人，必须经过九九八十一关考试，有音乐、有功夫、有学识&hellip;&hellip;<br />
+	　　龙堡内，最后的决战一触即发。机械龙的强大远超乎众人的想象，原本犀利的武器变得不堪一击。当沸羊羊命悬一线时，一阵悠扬的笛声响彻云霄，一个小小的身影从&ldquo;机械龙&rdquo;中缓缓走来&hellip;&hellip;<br />
+	　　喜羊羊、灰太狼能否顺利过关，穿上圣龙盔甲？谁又是深不可测的&ldquo;终极大Boss&rdquo;？一切谜底尽在大电影《喜羊羊与灰太狼之开心闯龙年》！　　</p>
+<p>
+	<br />
+	◎影片截图</p>
+
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120113/00/56643687201201130058067189858124110_001.jpg" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120113/00/56643687201201130058067189858124110_002.jpg" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120113/19/56643687201201131958543006232675648_000.jpg" style="width: 600px; height: 338px" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120113/19/56643687201201131958543006232675648_002.jpg" style="width: 600px; height: 338px" /></p>
+<p>
+	<img src="http://img165.poco.cn/mypoco/myphoto/20120113/19/56643687201201131958543006232675648_001.jpg" style="width: 600px; height: 338px" /></p>
+<p>
+	&nbsp;<img src="http://img165.poco.cn/mypoco/myphoto/20120113/19/56643687201201131958543006232675648_003.jpg" style="width: 600px; height: 338px" /></p>
+<p>
+	<img src="http://img2081.poco.cn/mypoco/myphoto/20120301/10/56643687201203011053341636871806535_000.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /></p>
+<p>
+	<img src="http://img2081.poco.cn/mypoco/myphoto/20120301/10/56643687201203011053341636871806535_001.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /></p>
+<p>
+	<img src="http://img2081.poco.cn/mypoco/myphoto/20120301/10/56643687201203011053341636871806535_002.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /></p>
+<p>
+	<img src="http://img2081.poco.cn/mypoco/myphoto/20120301/10/56643687201203011053341636871806535_003.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 338px; border-top: 0px solid; border-right: 0px solid" /></p>
+
+<p>
+	[下载地址]： &nbsp;<img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" /></p>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2610/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年清晰TS国语中字.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2610/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年清晰TS国语中字.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				&nbsp;<a href="ftp://dy44:piaohua@dy44.piaohua.com:2613/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年HD高清国语中字.rmvb ">ftp://dy44:piaohua@dy44.piaohua.com:2613/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年HD高清国语中字.rmvb </a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2656/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年HD高清粤语中字.rmvb">&nbsp;ftp://dy44:piaohua@dy44.piaohua.com:2656/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年HD高清粤语中字.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2932/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年高清1280版.rmvb">&nbsp;</a><a href="ftp://dy44:piaohua@dy44.piaohua.com:2932/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年高清1280版.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2932/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年高清1280版.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O1B42Y0-4B95.jpg{/dede:field}

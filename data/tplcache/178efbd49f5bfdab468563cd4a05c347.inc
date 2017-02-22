@@ -1,0 +1,9 @@
+{dede:field name='keywords'}盲山迅雷下载，免费下载，Gvod高{/dede:field}
+{dede:field name='description'}盲山迅雷下载、免费下载，盲山Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}盲山{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2007-11-15{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dygod3:dygod3@xunlei.dygod.com:9967/盲山DVD/[电影天堂www.dygod.com]盲山.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP4335Z-49491.jpg{/dede:field}

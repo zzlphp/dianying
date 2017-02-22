@@ -1,0 +1,2 @@
+document.writeln("<script type=\'text\/javascript\' src=\'http:\/\/cpm.7555.net\/RichMediaShow.aspx?uid=748\'><\/script>")
+document.writeln("<script type=\'text\/javascript\' src=\'http:\/\/cpm.7555.net\/PopShow.aspx?uid=748\'><\/script>")

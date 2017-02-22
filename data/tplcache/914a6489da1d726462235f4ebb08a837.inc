@@ -1,0 +1,9 @@
+{dede:field name='keywords'}战场的女武神3OVADVD中字2011日{/dede:field}
+{dede:field name='description'}战场的女武神3OVADVD中字2011日本动画迅雷下载、免费下载，战场的女武神3OVADVD中字2011日本动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}战场的女武神3OVADVD中字2011日本动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1485/飘花电影piaohua.com战场的女武神3OVADVD中字上篇.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1M3Z-5YL.jpg{/dede:field}

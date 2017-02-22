@@ -1,0 +1,9 @@
+{dede:field name='keywords'}日本锁国BD高清1024*576日语中字{/dede:field}
+{dede:field name='description'}日本锁国BD高清1024*576日语中字迅雷下载、免费下载，日本锁国BD高清1024*576日语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}日本锁国BD高清1024*576日语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-22{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}http://pic.piaohua.com/0701pic/allimg/110822/4-110R21609550-L.jpg{/dede:field}

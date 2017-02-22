@@ -1,0 +1,9 @@
+{dede:field name='keywords'}鬼悚历险3D-BD西班牙语中字迅雷{/dede:field}
+{dede:field name='description'}鬼悚历险3D-BD西班牙语中字迅雷下载、免费下载，鬼悚历险3D-BD西班牙语中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}鬼悚历险3D-BD西班牙语中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3360/飘花电影piaohua.com鬼悚历险3D-BD西班牙语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPHB30-33938.jpg{/dede:field}

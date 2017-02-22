@@ -1,0 +1,9 @@
+{dede:field name='keywords'}投名状BD国粤双语中字1280高清迅{/dede:field}
+{dede:field name='description'}投名状BD国粤双语中字1280高清迅雷下载、免费下载，投名状BD国粤双语中字1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}投名状BD国粤双语中字1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3330/飘花电影piaohua.com投名状BD国粤双语中字1280高清.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO42IF-42023.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}]X--Man.SBS060730迅雷下载，免{/dede:field}
+{dede:field name='description'}]X--Man.SBS060730迅雷下载、免费下载，]X--Man.SBS060730Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}]X--Man.SBS060730{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO60K30-35C0.gif{/dede:field}

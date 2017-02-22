@@ -1,0 +1,9 @@
+{dede:field name='keywords'}王牌大贱谍-20110714迅雷下载，{/dede:field}
+{dede:field name='description'}王牌大贱谍-20110714迅雷下载、免费下载，王牌大贱谍-20110714Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}王牌大贱谍-20110714{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy171:piaohua@dy171.piaohua.com:1044/飘花电影piaohua.com王牌大贱谍-20110714.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ494920-264X.jpg{/dede:field}

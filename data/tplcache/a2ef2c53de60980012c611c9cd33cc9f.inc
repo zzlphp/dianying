@@ -1,0 +1,9 @@
+{dede:field name='keywords'}赛德克·巴莱(上)太阳旗BD中字12{/dede:field}
+{dede:field name='description'}赛德克·巴莱(上)太阳旗BD中字1280高清2011战争剧情迅雷下载、免费下载，赛德克·巴莱(上)太阳旗BD中字1280高清2011战争剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}赛德克·巴莱(上)太阳旗BD中字1280高清2011战争剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-20{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3258/飘花电影piaohua.com赛德克·巴莱(上)太阳旗BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP2340Z-59C8.jpg{/dede:field}

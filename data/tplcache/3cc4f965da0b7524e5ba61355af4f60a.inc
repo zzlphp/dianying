@@ -1,0 +1,9 @@
+{dede:field name='keywords'}地球生灵/原野中的一生BD1280高{/dede:field}
+{dede:field name='description'}地球生灵/原野中的一生BD1280高清中英双字迅雷下载、免费下载，地球生灵/原野中的一生BD1280高清中英双字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}地球生灵/原野中的一生BD1280高清中英双字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2004/飘花电影piaohua.com地球生灵BD1280高清中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP05540-39207.jpg{/dede:field}

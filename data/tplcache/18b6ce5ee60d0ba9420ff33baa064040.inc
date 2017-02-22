@@ -1,0 +1,9 @@
+{dede:field name='keywords'}惊爆十三天/惊爆13天BD1280高清{/dede:field}
+{dede:field name='description'}惊爆十三天/惊爆13天BD1280高清中字迅雷下载、免费下载，惊爆十三天/惊爆13天BD1280高清中字Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}惊爆十三天/惊爆13天BD1280高清中字{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-10{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy241:piaohua@117.41.229.29:2009/飘花电影piaohua.com惊爆十三天BD1280高清中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP0F060-29552.jpg{/dede:field}

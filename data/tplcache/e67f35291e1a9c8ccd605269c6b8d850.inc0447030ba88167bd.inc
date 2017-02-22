@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","绝代双骄[HD粤语中字1024x576高",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","绝代双骄[HD粤语中字1024x576高清版]迅雷下载、免费下载，绝代双骄[HD粤语中字1024x576高清版]Gvod高清在线播放，剧情介绍等。",72,234);
+$z[1][4]['name']="description";
+$z[2]=Array("field","绝代双骄[HD粤语中字1024x576高清版]",236,308);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",310,349);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",351,390);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-06-13",392,442);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo4.zxip.com/albums4/folder18/14184/20100601003924/2010610174116119.jpg');\" border=0 src=\"http://photo4.zxip.com/albums4/folder18/14184/20100601003924/2010610174116119.jpg\"><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://img.album.pchome.net/54/72/27/85/b9bfb7265885f2bf38323b59cfa7c3d5.jpg');\" border=0 src=\"http://img.album.pchome.net/54/72/27/85/b9bfb7265885f2bf38323b59cfa7c3d5.jpg\"><BR><BR>◎译　　名　绝代双骄<BR>◎片　　名　Handsome Siblings<BR>◎年　　代　1992<BR>◎国　　家　中国香港<BR>◎类　　别　动作/喜剧<BR>◎语　　言　粤语<BR>◎字　　幕　中文<BR>◎IMDB评分 6.1/10 (99 votes) <BR>◎文件格式　BD-RMVB<BR>◎视频尺寸　1024 x 576<BR>◎文件大小　1CD<BR>◎片　　长　98 Min<BR>◎导　　演　曾志伟 Eric Tsang<BR>◎主　　演　刘德华 Andy Lau&nbsp; ....Fishy (as Tak-wah Lau)<BR>　　　　　　林青霞 Brigitte Lin&nbsp; ....Eva More, daughter of Eva (as Ching-ha Lam)<BR>　　　　　　张敏 Sharla Cheung&nbsp; ....Eva, Supreme Ruler of the Martial World (as Man Cheung)<BR>　　　　　　顾美华 Josephine Koo&nbsp; ....Black Widow<BR>　　　　　　苗侨伟 Michael Miu&nbsp; ....Yin Nam-Tin<BR>　　　　　　吴镇宇 Francis Ng&nbsp; ....Kong Yuk-long (as Chun-yu Ng)<BR>　　　　　　吴耀汉 Richard Ng<BR>　　　　　　成奎安 Fui-On Shing&nbsp; ....Ko Chi-Sum<BR>　　　　　　王青 Ching Wong&nbsp; ....The Supremes<BR>　　　　　　叶德娴 Deannie Yip&nbsp; ....Sissy To (as Tak-han Yip)<BR>　　　　　　袁咏仪 Anita Yuen&nbsp; ....Madam Ti (as Wing-yi Yuen)<BR>　　　　　　张国柱 Guozhu Zhang&nbsp; ....Kong Pi-Hawk (as Kwok-Chu Cheung)<BR>　　　　　　冯克安 Hak On Fung&nbsp; ....Monk Bl<BR>　　　　　　吴孟达 Man Tat Ng&nbsp; ....Big Mouth Lee<BR>　　　　　　汪禹 Yue Wong<BR><BR>◎简　　介　<BR><BR>&nbsp; &nbsp; 曾志伟导演的本片，改编自古龙的同名小说，之前曾被邵氏公司等搬上银幕。剧情主要描述在武林每18年举行一次的赏善罚恶大会上，选出将担任赶杀十大恶人重任的移花宫主为武林义士，不料其夫燕南天及子小鱼儿突至并予以阻止，夫妻反目。宫主收少女花无缺为传人，十恶则收小鱼儿并抚其电影下载为天下最恶之人。18年后，十恶令小鱼儿等混入大会以争盟主，与花无缺相逢，小鱼儿因被揭穿身份，遭群雄追杀……</P>\r\n<P>【电影截图】：<BR><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo4.zxip.com/albums4/folder18/14184/20100601003924/20106101741191796.jpg');\" border=0 src=\"http://photo4.zxip.com/albums4/folder18/14184/20100601003924/20106101741191796.jpg\">&nbsp;<BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo4.zxip.com/albums4/folder18/14184/20100601003924/2010610174119880.jpg');\" border=0 src=\"http://photo4.zxip.com/albums4/folder18/14184/20100601003924/2010610174119880.jpg\">&nbsp;<BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo4.zxip.com/albums4/folder18/14184/20100601003924/2010610174120651.jpg');\" border=0 src=\"http://photo4.zxip.com/albums4/folder18/14184/20100601003924/2010610174120651.jpg\"></P><br>  [下载地址]：<IMG src=\"/uploads/allimg/c120524/133N2ZL930-142957.jpg\" border=0><br>\r\n<table style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellspacing=\"0\" cellpadding=\"6\" width=\"95%\" align=\"center\" border=\"0\">\r\n    <tbody>\r\n        <tr>\r\n            <td style=\"WORD-WRAP: break-word\" bgcolor=\"#fdfddf\">ftp://3e:3e@d8.3edyy.com:166/【3E电影院www.eee4.cc】绝代双骄HD粤语中字1024x576高清版.rmvb</td>\r\n        </tr>\r\n    </tbody>\r\n</table>",444,3980);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133NB25C40-115958.jpg",3982,4066);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}少年菀得/格斗少年BD1280高清迅{/dede:field}
+{dede:field name='description'}少年菀得/格斗少年BD1280高清迅雷下载、免费下载，少年菀得/格斗少年BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}少年菀得/格斗少年BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:7892/飘花电影piaohua.com少年菀得BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP242J0-413L.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}幽灵公主BD中字1280高清IMDB经典{/dede:field}
+{dede:field name='description'}幽灵公主BD中字1280高清IMDB经典TOP119迅雷下载、免费下载，幽灵公主BD中字1280高清IMDB经典TOP119Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}幽灵公主BD中字1280高清IMDB经典TOP119{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-10-23{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1889/飘花电影piaohua.com幽灵公主BD中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ202210-42012.jpg{/dede:field}

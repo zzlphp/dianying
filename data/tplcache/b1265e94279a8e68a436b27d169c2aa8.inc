@@ -1,0 +1,9 @@
+{dede:field name='keywords'}冰雪迷案/影都雪恋DVD国语配音经{/dede:field}
+{dede:field name='description'}冰雪迷案/影都雪恋DVD国语配音经典科幻惊悚迅雷下载、免费下载，冰雪迷案/影都雪恋DVD国语配音经典科幻惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}冰雪迷案/影都雪恋DVD国语配音经典科幻惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-11-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2168/飘花电影piaohua.com影都雪恋DVD国语配音.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOb53Z-53505.jpg{/dede:field}

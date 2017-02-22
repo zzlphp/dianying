@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","摩登保镖BD1280高清国粤双语迅雷",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","摩登保镖BD1280高清国粤双语迅雷下载、免费下载，摩登保镖BD1280高清国粤双语Gvod高清在线播放，剧情介绍等。",73,219);
+$z[1][4]['name']="description";
+$z[2]=Array("field","摩登保镖BD1280高清国粤双语",221,285);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",287,326);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",328,367);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-16",369,419);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120516/00/17870980201205160003262386583510549_001.jpg\" /></p>\r\n<p>\r\n	◎译　　名　Security Unlimited<br />\r\n	◎片　　名　摩登保镖<br />\r\n	◎年　　代　1999<br />\r\n	◎地　　区　香港<br />\r\n	◎类　　别　喜剧<br />\r\n	◎IMDB评分 6.8/10 from 147 users<br />\r\n	◎IMDB链接 <a href=\"http://www.imdb.com/title/tt0082761/\" target=\"_blank\">http://www.imdb.com/title/tt0082761/</a><br />\r\n	◎语　　言　普通话/粤语<br />\r\n	◎字　　幕　<br />\r\n	◎片　　长　90 mins 58 seconds<br />\r\n	◎导　　演　Darren Stein<br />\r\n	◎主　　演　许冠文 Michael Hui&nbsp;&nbsp;....周世昌 Chou Sai-Cheong<br />\r\n	　　　　　　许冠杰 Sam Hui&nbsp;&nbsp;....阿Sam Sam<br />\r\n	　　　　　　许冠英 Ricky Hui&nbsp;&nbsp;....邓小龙 Bruce Tang<br />\r\n	　　　　　　冯淬帆 Stanley Fung&nbsp;&nbsp;....Fan<br />\r\n	　　　　　　李海生 Hoi San Lee&nbsp;&nbsp;....Armored Car Robber<br />\r\n	　　　　　　董骠 Bill Tung&nbsp;&nbsp;....Racetrack Announcer<br />\r\n	　　　　　　黄造时 Jo-see Wong<br />\r\n	　　　　　　陈星 Ringo Chan<br />\r\n	　　　　　　刘克宣 Hark-Sun Lau<br />\r\n	　　　　　　鱼头云 Tau Wan Yue<br />\r\n	　　　　　　张俊英 Chun Ying Chang<br />\r\n	　　　　　　冯峰 Feng Feng<br />\r\n	　　　　　　曾楚霖 Choh Lam Tsang<br />\r\n	　　　　　　区树湛 Shu Cham Au<br />\r\n	　　　　　　谢汉臣 Han-chen Hsueh<br />\r\n	　　　　　　邓美美冯瑞珍 Shui Jan Fung<br />\r\n	　　　　　　唐丝 Tang Shih<br />\r\n	　　　　　　Joe Junior<br />\r\n	　　　　　　黄曼 Man Wong<br />\r\n	　　　　　　张武孝 Big Al<br />\r\n	　　　　　　钟慧冰 Maria Chung<br />\r\n	　　　　　　吴美丽 Mei Lai Ng<br />\r\n	<br />\r\n	<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	　　邓小龙（许冠英 饰）从小就为人正直、乐于助人，他的志愿就是长大了能当一名除暴安良的好警察。无奈天意弄人，他因身材矮小，而且天生色盲，于是被警局拒之了门外，他只好去保安公司当了一名护卫员。保安主管周世昌（许冠文 饰）是一名老油条，为人尖酸刻薄、贪生怕死。下属阿Sam（许冠杰 饰）一早就看他不顺眼，只是有冤无处申。<br />\r\n	<br />\r\n	　　这次，公司的太子王平凡从国外留学回来，假扮保安混进了公司考察情况。不久阿Sam和小龙就因工作出色而获得提拔，而周世昌却被剥夺了主管之位降职任用，还有几个月就可以退休享受的他会为了退休金忍下这口恶气还是会另有所谋？<br />\r\n	&nbsp;</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120516/00/17870980201205160003262386583510549_007.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120516/00/17870980201205160003262386583510549_006.jpg\" style=\"width: 640px; height: 360px\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120516/00/17870980201205160003262386583510549_005.jpg\" style=\"width: 640px; height: 360px\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy241:piaohua@117.41.229.29:2022/飘花电影piaohua.com摩登保镖BD1280高清国粤双语.mkv\">ftp://dy241:piaohua@117.41.229.29:2022/飘花电影piaohua.com摩登保镖BD1280高清国粤双语.mkv</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",421,4109);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15M02F-45557.jpg",4111,4194);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}伦敦上空的鹰/不列顛之战BD中英{/dede:field}
+{dede:field name='description'}伦敦上空的鹰/不列顛之战BD中英双字1280高清战争大片迅雷下载、免费下载，伦敦上空的鹰/不列顛之战BD中英双字1280高清战争大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}伦敦上空的鹰/不列顛之战BD中英双字1280高清战争大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-07-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1135/飘花电影piaohua.com不列顛之战BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP510950-3c63.jpg{/dede:field}

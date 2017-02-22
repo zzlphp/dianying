@@ -1,0 +1,9 @@
+{dede:field name='keywords'}维京小海盗2高清1280版BD中字201{/dede:field}
+{dede:field name='description'}维京小海盗2高清1280版BD中字2011最新德国动作喜剧大片迅雷下载、免费下载，维京小海盗2高清1280版BD中字2011最新德国动作喜剧大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}维京小海盗2高清1280版BD中字2011最新德国动作喜剧大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3066/飘花电影piaohua.com维京小海盗2高清1280版BD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOA25F-22a4.jpg{/dede:field}

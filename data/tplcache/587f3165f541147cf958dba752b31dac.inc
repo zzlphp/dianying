@@ -1,0 +1,9 @@
+{dede:field name='keywords'}秘密/圣徒秘录DVD中英双字2011战{/dede:field}
+{dede:field name='description'}秘密/圣徒秘录DVD中英双字2011战争剧情迅雷下载、免费下载，秘密/圣徒秘录DVD中英双字2011战争剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}秘密/圣徒秘录DVD中英双字2011战争剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2586/飘花电影piaohua.com圣徒秘录DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP5D0P-555T.jpg{/dede:field}

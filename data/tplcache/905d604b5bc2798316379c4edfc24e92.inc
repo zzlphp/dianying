@@ -1,0 +1,9 @@
+{dede:field name='keywords'}血战阿拉曼/沙漠兄弟连BD高清中{/dede:field}
+{dede:field name='description'}血战阿拉曼/沙漠兄弟连BD高清中字1024*576迅雷下载、免费下载，血战阿拉曼/沙漠兄弟连BD高清中字1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}血战阿拉曼/沙漠兄弟连BD高清中字1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-14{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy67:piaohua@dy67.piaohua.com:1042/飘花电影下载站www.piaohua.com沙漠兄弟连BD高清中字1024分辨率.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP52JF-42E3.jpg{/dede:field}

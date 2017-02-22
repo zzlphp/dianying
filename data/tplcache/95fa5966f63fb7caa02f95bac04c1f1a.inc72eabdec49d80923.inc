@@ -1,0 +1,21 @@
+<?php
+$z[0]=Array("field","ºÚÓ¥×¹Âä/ºÚÓ¥¼Æ»®BDÖÐÓ¢Ë«×Ö102",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","ºÚÓ¥×¹Âä/ºÚÓ¥¼Æ»®BDÖÐÓ¢Ë«×Ö1024/1280¸ßÇåÑ¸À×ÏÂÔØ¡¢Ãâ·ÑÏÂÔØ£¬ºÚÓ¥×¹Âä/ºÚÓ¥¼Æ»®BDÖÐÓ¢Ë«×Ö1024/1280¸ßÇåGvod¸ßÇåÔÚÏß²¥·Å£¬¾çÇé½éÉÜµÈ¡£",73,247);
+$z[1][4]['name']="description";
+$z[2]=Array("field","ºÚÓ¥×¹Âä/ºÚÓ¥¼Æ»®BDÖÐÓ¢Ë«×Ö1024/1280¸ßÇå",249,327);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",329,368);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",370,409);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-12-09",411,461);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","",463,500);
+$z[6][4]['name']="body";
+$z[7]=Array("field","ftp://4e:4e@www2.eee4.com:339/[3EµçÓ°Õ¾www.eee4.com]ºÚÓ¥×¹ÂäDVDÖÐÓ¢Ë«×Ö1024x576¸ßÇå°æ.rmvb\" target=\"_blank",502,647);
+$z[7][4]['name']="xiazai";
+$z[8]=Array("field","/uploads/allimg/c120523/133MP55b20-3D44.jpg",649,731);
+$z[8][4]['name']="litpic";
+
+?>

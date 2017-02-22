@@ -1,0 +1,9 @@
+{dede:field name='keywords'}雌雄莫辨DVD中英双字2011剧情迅{/dede:field}
+{dede:field name='description'}雌雄莫辨DVD中英双字2011剧情迅雷下载、免费下载，雌雄莫辨DVD中英双字2011剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}雌雄莫辨DVD中英双字2011剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3277/飘花电影piaohua.com雌雄莫辨DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP23QF-4Y27.jpg{/dede:field}

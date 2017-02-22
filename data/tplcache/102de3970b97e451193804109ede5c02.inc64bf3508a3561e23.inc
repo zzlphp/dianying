@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","破胆惊魂夜/破胆三次/狼人/群魔",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","破胆惊魂夜/破胆三次/狼人/群魔乱舞[BD中英双字1280x720高清版]迅雷下载、免费下载，破胆惊魂夜/破胆三次/狼人/群魔乱舞[BD中英双字1280x720高清版]Gvod高清在线播放，剧情介绍等。",72,284);
+$z[1][4]['name']="description";
+$z[2]=Array("field","破胆惊魂夜/破胆三次/狼人/群魔乱舞[BD中英双字1280x720高清版]",286,383);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",385,424);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",426,465);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-06-14",467,517);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG alt=\"\" src=\"/uploads/allimg/c120524/133NB23310-E936.jpg\" onload=thumbImg(this)><BR><BR>【影片原名】The Howling<BR>【中文译名】破胆惊魂夜/破胆三次/狼人/群魔乱舞<BR>【出品公司】New World-Mutual<BR>【出品年代】1981 年<BR>【上映日期】1981年4月10日 美国&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<BR>【影片级别】USA:R&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <BR>【IMDB链接】http://www.imdb.com/title/tt0082533<BR>【IMDB评分】6.5/10 (8,283 votes)<BR>【国　　家】美国<BR>【字幕语言】中文/英文<BR>【视频尺寸】1280×720<BR>【文件格式】RMVB+AAC<BR>【类　　别】恐怖/神秘<BR>【导　　演】乔·丹特 Joe Dante<BR>【主　　演】迪·沃伦斯-斯通 Dee Wallace-Stone....Karen White<BR>　　　　　　帕特里克·麦克尼 Patrick Macnee....Dr. George Waggner<BR>　　　　　　丹尼斯·杜根 Dennis Dugan....Chris<BR>　　　　　　Christopher Stone ....R. William 'Bill' Neill<BR>　　　　　　Belinda Balaski ....Terry Fisher<BR>　　　　　　Kevin McCarthy ....Fred Francis<BR>　　　　　　约翰·卡拉丁 John Carradine....Erle Kenton<BR>　　　　　　Slim Pickens ....Sam Newfield<BR>　　　　　　Elisabeth Brooks ....Marsha Quist<BR>　　　　　　Robert Picardo ....Eddie Quist<BR>　　　　　　Margie Impert ....Donna<BR>　　　　　　Noble3e Willingham ....Charlie Barton<BR>　　　　　　James Murtaugh ....Jerry Warren<BR>　　　　　　Jim McKrell ....Lew Landers<BR>　　　　　　Kenneth Tobey ....Older Cop<BR><BR>【内容简介】<BR><BR>&nbsp; &nbsp;&nbsp;&nbsp;\"电视台女记者凯伦·怀特(Dee Wallace-Stone饰)充当诱饵，帮助警察破获了Eddie Quist (Robert Picardo饰)所作的一系列凶杀案件后心力交瘁，她听从瓦格纳医生的建议，和丈夫Chris（Dennis Dugan饰）一起到 (Patrick Macnee饰)的治疗中心\"\"The Colony\"\"疗养。夫妻俩在疗养地并不能享受着轻松平静的生活，凯伦始终无法放松，她丈夫一直试图安抚她脆弱的神经。渐渐的，他们在中心发现病人有一些怪异行径，月圆之时并不时听到狼声，似乎当地的人全都是狼人，其中隐约还有令凯伦忐忑不安的杀手Eddie Quist的身影。更要命的是，凯伦的丈夫被狼人咬伤，受感染后也变成了狼人。留给凯伦的只有两种选择：要么被狼人撕成碎片后吃尽；要么加入其中也变成一个狼人……\"<BR><BR>一句话评论<BR><BR>&nbsp; &nbsp;&nbsp;&nbsp;Imagine your worst fear a reality<BR><BR>幕后制作<BR><BR>&nbsp; &nbsp;&nbsp;&nbsp;影片讲述一名女记者凯伦因帮助警察破获一起凶杀案时大受剌激，夫妻俩听从瓦格纳医生的建议到治疗中心休养。他们在中心发现病人电影下载有一些怪异行径，月圆之时并不时听到狼声，最后她丈夫竟成了人狼。在瓦格纳医生的办公室里，我们可以看见墙上挂着一幅Lon Chaney Jr的照片。Chaney在五部影片中饰演狼人：The Wolf Man (1941)， Frankenstein Meets the Wolf Man (1943)， House of Frankenstein (1944)， House of Dracula (1945) and _Bud Abbott， Lou Costello Meet Frankenstein (1948)。Chaney对自己老是被安排出演例如狼人一类的怪兽而感到十分无奈。本片处理手法相当诡异，常出于人之常理，逼真的特技化妆，人变成狼的整个过程，使观众大开眼界。</P>\r\n<P>【电影截图】：<BR><BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133NB24C20-M492.jpg\" onload=thumbImg(this)>&nbsp;<BR><IMG alt=\"\" src=\"/uploads/allimg/c120524/133NB24V30-R164.jpg\" onload=thumbImg(this)></P><br>  [下载地址]：<IMG src=\"/uploads/allimg/c120524/133N2ZL930-142957.jpg\" border=0><br>\r\n<table style=\"BORDER-RIGHT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; BORDER-BOTTOM: #cccccc 1px dotted\" cellspacing=\"0\" cellpadding=\"6\" width=\"95%\" align=\"center\" border=\"0\">\r\n    <tbody>\r\n        <tr>\r\n            <td style=\"WORD-WRAP: break-word\" bgcolor=\"#fdfddf\">ftp://3e:3e@d8.3edyy.com:165/【3E电影院www.eee4.cc】破胆惊魂夜BD中英双字1280x720高清版.rmvb</td>\r\n        </tr>\r\n    </tbody>\r\n</table>",519,4114);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133NB250510-c2N.jpg",4116,4198);
+$z[7][4]['name']="litpic";
+
+?>

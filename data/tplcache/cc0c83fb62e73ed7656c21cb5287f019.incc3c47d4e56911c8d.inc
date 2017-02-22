@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","里约性喜剧BD1280高清中字迅雷下",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","里约性喜剧BD1280高清中字迅雷下载、免费下载，里约性喜剧BD1280高清中字Gvod高清在线播放，剧情介绍等。",73,215);
+$z[1][4]['name']="description";
+$z[2]=Array("field","里约性喜剧BD1280高清中字",217,279);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",281,320);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",322,361);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-05-23",363,413);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://www.filminfos.de/cover/big/690/69045.jpg\" style=\"width: 500px; height: 688px\" /><img alt=\"\" src=\"http://extreme-down.com/uploads/posts/2011-07/1311387111_rio-sex-comedy-french-dvd-r.jpg\" style=\"width: 690px; height: 1022px\" /></p>\r\n<p>\r\n	◎译　　名　里约性喜剧<br />\r\n	◎片　　名　Rio Sex Comedy<br />\r\n	◎年　　代　2010<br />\r\n	◎国　　家　法国/巴西<br />\r\n	◎类　　别　喜剧<br />\r\n	◎语　　言　英语/法语<br />\r\n	◎字　　幕　中字<br />\r\n	◎IMDB评分 &nbsp;5.0/10 (252 votes)<br />\r\n	◎IMDB链接&nbsp; <a href=\"http://www.bluemv.com\" target=\"_blank\">http://www.bluemv.com</a><br />\r\n	◎片　　长　112 Mins<br />\r\n	◎导　　演　乔纳森&middot;诺西特 Jonathan Nossiter<br />\r\n	◎主　　演　夏洛特&middot;兰普林 Charlotte Rampling &nbsp;....Charlotte<br />\r\n	　　　　　　比尔&middot;普尔曼 Bill Pullman &nbsp;....William<br />\r\n	　　　　　　伊莲娜&middot;雅各布 Ir&egrave;ne Jacob &nbsp;....Ir&egrave;ne<br />\r\n	　　　　　　J&eacute;r?me Kircher &nbsp;....Robert<br />\r\n	　　　　　　Jean-Marc Roulot &nbsp;....Antoine<br />\r\n	　　　　　　丹涅尔拉&middot;达姆斯 Daniela Dams<br />\r\n	　　　　　　Mary Sheila &nbsp;....Maria Angelica<br />\r\n	　　　　　　David Jarre &nbsp;....Alex<br />\r\n	　　　　　　Branca Messina &nbsp;....Tatiana<br />\r\n	　　　　　　Patrick Breen &nbsp;....Frank<br />\r\n	　　　　　　Herson Capri &nbsp;....Dr. Pav?o<br />\r\n	　　　　　　Bob Nadkarni &nbsp;....Bob<br />\r\n	　　　　　　Pablo Padilla<br />\r\n	　　　　　　Rodrigo Nogueira<br />\r\n	　　　　　　Renato Machado &nbsp;....Himself<br />\r\n	　　　　　　L&uacute;cia Murat &nbsp;....Herself<br />\r\n	　　　　　　Dan Klabin<br />\r\n	　　　　　　Dr. Ivo Pitanguy &nbsp;....Himself<br />\r\n	　　　　　　<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	&nbsp; &nbsp; 社会责任和个人幸福之间是否存在着不可调和的矛盾？影片中这几位生活在巴西里约热内卢的外国人都正经历着自相矛盾的纠结生活。夏洛特&middot;兰普林饰演一位英国整形科医生，她却极力奉劝任何想要进行整容手术的人打消念头；伊莲娜&middot;雅各布是一名来自法国的人类学家，但比起政治来，她对性更有兴趣；比尔&middot;普尔曼身为一名美国大使，却一直想要逃离自己的职责，为此他竟然跑到里约热内卢最危险的贫民区躲了起来。这些人的故事交织成一出有趣的喜剧，里约热内卢真是名副其实的&ldquo;奇迹之乡&rdquo;。</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120519/20/62564813201205192053282847972554330_004.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120519/20/62564813201205192053282847972554330_003.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"http://img2081.poco.cn/mypoco/myphoto/20120519/20/62564813201205192053282847972554330_002.jpg\" style=\"width: 720px; height: 405px\" /><br />\r\n	<br />\r\n	&nbsp;</p>\r\n<p>\r\n	【下载地址】</p>\r\n<table bgcolor=\"#0099cc\" border=\"0\" cellpadding=\"10\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaobajie.com\" target=\"_blank\">http://www.xiaobajie.com</a></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy241:piaohua@117.41.229.29:2033/飘花电影piaohua.com里约性喜剧BD1280高清中字.rmvb\">ftp://dy241:piaohua@117.41.229.29:2033/飘花电影piaohua.com里约性喜剧BD1280高清中字.rmvb</a></td>\r\n		</tr>\r\n		<tr>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<p>\r\n	&nbsp;</p>",415,3850);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15NF30-3V35.jpg",3852,3934);
+$z[7][4]['name']="litpic";
+
+?>

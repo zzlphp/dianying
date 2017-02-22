@@ -1,0 +1,9 @@
+{dede:field name='keywords'}AA制生活国产剧39【完】迅雷下载{/dede:field}
+{dede:field name='description'}AA制生活国产剧39【完】迅雷下载、免费下载，AA制生活国产剧39【完】Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}AA制生活国产剧39【完】{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-25{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3129/飘花电影piaohua.comAA制生活.HDTV.01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ061240-150W.jpg{/dede:field}

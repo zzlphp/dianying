@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>今日更新电影_高清电影下载_飘花电影网_飘花迅雷电影下载网_最新电影_迅雷免费电影下载</title>
+<meta content="" name="description" />
+<meta content="高清电影下载,高清电影,下载电影,电影下载,最新电影,eee4.com,piaohua.com" name="keywords" />
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type">
+<link href="favicon.ico" rel="shortcut icon">
+<link href="/templets/images/mainday.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+{dede:include filename="head.htm"/}
+<div id="main">
+	<div class="pad">
+
+	</div>
+	<div class="pad">
+
+	</div>
+	<div id="im">
+	
+	
+
+	
+	{dede:channelartlist typeid='1,2,3,4,5,6,7,8,9,10,11,12,13,14'}
+
+		<div class="bunews">
+			<div class="title">
+				<span class="r"><a href="{dede:field name='typeurl'/}">更多...</a></span><a href="{dede:field name='typeurl'/}">最新{dede:field name='typename'/}</a></div>
+			<ul> {dede:arclist titlelen='60' row='18'}
+				<li><span>[field:pubdate function="MyDate('m-d',@me)"/]</span><a href="[field:arcurl /]" target="_blank">[field:title /]</a></li>
+				 {/dede:arclist}
+			</ul>
+			<div class="clear">
+			</div>
+		</div>
+		{/dede:channelartlist}
+		<div class="clear">
+		</div>
+	</div>
+	<div class="pad">
+		
+	</div>
+</div>
+{dede:include filename='footer.htm'/}
+</body>
+
+</html>

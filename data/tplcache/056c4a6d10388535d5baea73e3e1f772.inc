@@ -1,0 +1,9 @@
+{dede:field name='keywords'}昔日的我/革命青春DVD中字2011日{/dede:field}
+{dede:field name='description'}昔日的我/革命青春DVD中字2011日本剧情喜剧迅雷下载、免费下载，昔日的我/革命青春DVD中字2011日本剧情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}昔日的我/革命青春DVD中字2011日本剧情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-16{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3430/飘花电影piaohua.com革命青春DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO602520-31611.jpg{/dede:field}

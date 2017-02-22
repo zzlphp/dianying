@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta content="{dede:field name='keywords'/}" name="keywords" />
+<meta content="{dede:field name='description' function='html2text(@me)'/}" name="description" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="shortcut icon" href="favicon.ico">
+<link href="/templets/images/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+{dede:include filename="head.htm"/}
+<div id="main">
+<div class="pad" id="pad_01"></div>
+<div class="pad" id="pad_02"></div>
+  <div id="im">
+    <div id="nml">
+      <div id="dir">当前位置：{dede:field name='position'/} 电影下载页面</div>
+      <div id="show">
+        <h3>{dede:field name="title" /}</h3>
+        <div id="showdesc"><img src="{dede:field name='litpic'/}" alt="{dede:field name="title" /}" width="121" height="150" class="img"/>
+          <div>片名：{dede:field name="title" /}<br />
+            发布时间：{dede:field name="pubdate" function="GetDateMk('@me')"/}<br />
+            在线观看：<a href="#bottom"><b>免费高速在线播放秘密通道</b></a><br />
+			技术支持：<a href="http://bbs.52jscn.com"><b>锦尚中国</b></a><br />
+            注意：<font color="#FF0000">请勿必使用迅雷软件<font color="#0000FF">（迅雷7）</font>下载本站的免费电影！</font>&gt;&gt;&gt;&gt; <a href="http://www.piaohua.com/eee4help.htm">下载帮助</a>&nbsp; <a href="http://www.piaohua.com/gvod_help.htm">在线播放帮助</a><br />
+            <p><a href="#bottom" class="l"><img src="/templets/images/down.jpg" alt="下载" width="146" height="44" /></a><a href="#bottom" class="r"></a></p>
+            <span>该片迅雷下载地址和剧情：</span></div>
+        </div>
+		<div class="showad" id="pad_03"></div>
+        <div id="showinfo">
+         {dede:field name='body'/}
+         
+
+<script src='http://pstatic.xunlei.com/js/webThunderDetect.js'></script> 
+<script src='http://pstatic.xunlei.com/js/base64.js'></script> 
+<script src='http://pstatic.xunlei.com/js/thunderForumLinker.js'></script> 
+<script language="javascript"> 
+    var thunderPid="27891"; 
+    //var thunderAppend=true; 
+    thunderFuncType=false; 
+    thunderLinker(); 
+</script> 
+
+
+        </div>
+        <ul class="mmlist">
+        
+                 {dede:arclist row=10 orderby=rand titlelen='24'}
+          [field:typename/]<a href="[field:arcurl/]">[field:title/]</a>&nbsp;
+         {/dede:arclist}
+		</ul>
+<div id="bottom" ><b><font color="#0000FF">【请一定要用<font color="#FF0000">（迅雷7）</font>】下载额！<a href="/help.html" ><font color="#0000FF">下载不了电影__请看这里</font></a></font></b></div>        <div class="showad" id="pad_04"></div>
+      </div>
+    </div>
+    <div id="nmr">
+      <div class="list"> <strong>本类下载排行</strong>
+               <ul>{dede:arclist row=10 orderby=click titlelen='35'}
+          <li><span>[field:global name=autoindex/] </span><a href="[field:arcurl/]"><font color="#0000FF">[field:title/]</font></a>（[field:typename/]）</li>
+         {/dede:arclist}
+        </ul>
+      </div>
+      <div class="list"> <strong>本类更新排行</strong>
+        <ul>{dede:arclist row=10 orderby=pubdate titlelen='35'}
+          <li><span>[field:global name=autoindex/] </span><a href="[field:arcurl/]"><font color="#0000FF">[field:title/]</font></a>（[field:typename/]） </li>
+         {/dede:arclist}
+        </ul>
+      </div>
+    </div>
+    <div class="clear"></div></div></div>
+
+{dede:include filename='footer.htm'/}
+
+</body>
+</html>

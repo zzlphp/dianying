@@ -1,0 +1,9 @@
+{dede:field name='keywords'}记忆神探/无法忘记第一季22欧美{/dede:field}
+{dede:field name='description'}记忆神探/无法忘记第一季22欧美剧迅雷下载、免费下载，记忆神探/无法忘记第一季22欧美剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}记忆神探/无法忘记第一季22欧美剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-12{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1873/飘花电影piaohua.com记忆神探.第一季EP01.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0M5Z-135C.jpg{/dede:field}

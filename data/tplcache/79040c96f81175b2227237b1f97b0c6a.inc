@@ -1,0 +1,9 @@
+{dede:field name='keywords'}碟中谍4：幽灵协议真正DVD修正中{/dede:field}
+{dede:field name='description'}碟中谍4：幽灵协议真正DVD修正中字2011最新上映动作大片迅雷下载、免费下载，碟中谍4：幽灵协议真正DVD修正中字2011最新上映动作大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}碟中谍4：幽灵协议真正DVD修正中字2011最新上映动作大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-31{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2367/飘花电影piaohua.com碟中谍4-幽灵协议TS.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO52D10-45I0.jpg{/dede:field}

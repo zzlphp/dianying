@@ -1,0 +1,9 @@
+{dede:field name='keywords'}双宝斗恶魔BD中字BD中字1024/128{/dede:field}
+{dede:field name='description'}双宝斗恶魔BD中字BD中字1024/1280高清迅雷下载、免费下载，双宝斗恶魔BD中字BD中字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}双宝斗恶魔BD中字BD中字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-02-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:1047/飘花电影下载站www.piaohua.com双宝斗恶魔BD中字1024分辨率.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOE1610-12346.jpg{/dede:field}

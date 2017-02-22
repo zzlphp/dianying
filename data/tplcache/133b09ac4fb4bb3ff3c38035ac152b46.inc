@@ -1,0 +1,89 @@
+{dede:field name='keywords'}直击要害/间接伤BD中英双字1024/{/dede:field}
+{dede:field name='description'}直击要害/间接伤BD中英双字1024/1280高清迅雷下载、免费下载，直击要害/间接伤BD中英双字1024/1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}直击要害/间接伤BD中英双字1024/1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-05{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://pic.66vod.net:888/2/1114.jpg" /></p>
+<p>
+	◎译　　名　《间接伤害/直击要害》02美国惊悚动作大片DVD中英双字1024x576高清版<br />
+	◎片　　名　Collateral Damage<br />
+	◎年　　代　2002<br />
+	◎国　　家　美国<br />
+	◎类　　别　动作/惊悚<br />
+	◎语　　言　英语<br />
+	◎字　　幕　中英双字<br />
+	◎IMDB评分&nbsp; 5.2/10 (20,210 votes)<br />
+	◎文件格式　BD-RMVB<br />
+	◎视频尺寸　1024 x 576<br />
+	◎文件大小　1CD<br />
+	◎导　　演&nbsp; 安德鲁&middot;戴维斯&nbsp; Andrew Davis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+	◎主　　演&nbsp; 阿诺&middot;施瓦辛格&nbsp; Arnold Schwarzenegger&nbsp; ....Gordy Brewer&nbsp;<br />
+	　　　　　　弗朗西斯卡&middot;内莉&nbsp; Francesca Neri&nbsp; ....Selena Perrini&nbsp; &nbsp; &nbsp;<br />
+	　　　　　　伊莱亚斯&middot;科泰斯 Elias Koteas&nbsp; ....Peter Brandt<br />
+	　　　　　　克利夫&middot;柯蒂斯 Cliff Curtis&nbsp; ....Claudio Perrini<br />
+	　　　　　　约翰&middot;雷吉扎莫 John Leguizamo&nbsp; ....Felix Ramirez<br />
+	　　　　　　约翰&middot;特托罗 John Turturro&nbsp; ....Sean Armstrong<br />
+	　　　　　　简&middot;林奇 Jane Lynch&nbsp; ....Agent Russo<br />
+	　　　　　　凯文&middot;贝尔德 Kevin Beard&nbsp; ....Agent Phipps-Driver and FBI Agent (uncredited)<br />
+	　　　　　　史文-欧尔&middot;托尔森 Sven-Ole Thorsen&nbsp; ....Bomb Victim (uncredited)<br />
+	　　　　　　Jsu Garcia&nbsp; ....RomanTyler Posey&nbsp; ....Mauro (as Tyler Garcia Posey)<br />
+	　　　　　　Lindsay Frost&nbsp; ....Anne Brewer<br />
+	　　　　　　Ethan Dampf&nbsp; ....Matt Brewer<br />
+	　　　　　　Jorge Zepeda&nbsp; ....Rocha<br />
+	　　　　　　Miguel Sandoval&nbsp; ....Joe Phipps<br />
+	　　　　　　Harry J. Lennix&nbsp; ....Dray (as Harry Lennix)<br />
+	　　　　　　Madison Mason&nbsp; ....Undersecretary Shrub<br />
+	<br />
+	◎简　　介　<br />
+	&nbsp; &nbsp;<br />
+	　　为了杀害中南美洲军事顾问团与美国情报局官员，来自中南美洲的恐_怖_粪子不惜在洛杉矶市中心发动恐怖爆破行动。这次爆破行动威力强大，炸毁了洛杉矶市中心的一栋建筑，这个行动不仅酿成了相关政府人员的严重伤亡，同时也造成许多无辜的市民死伤，其中消防队员布洛的妻子与年幼的稚子也在这场爆炸中意外身亡。<br />
+	<br />
+	　　与家人约在这栋大楼见面的布洛，因为迟到而目睹整个令人惊心动魄的爆炸过程，面对自己的家人身陷火海却无力挽救，布洛身心备受折磨，却还要被迫接受妻儿的死是「间接伤害」的官方说法，面对政府惩治匪徒的无力，这段血海深仇可能将永远无法得报，布洛心中燃起满腔的怒火。<br />
+	<br />
+	　　透过美国情报局，布洛终于知道这一起爆炸案是由一名哥国反 政 府军领袖「野狼」所主导策划，「野狼」生性残忍、恶名昭彰，领导叛军与政府军作长达十多年的内战，就连哥国政府也拿他没有办法，更何况是没有引渡条约的美国政府。经过几个星期的奔走之后，布洛发现美国社会已经开始忘记了这个恐怖事件，政府单位更是准备将这段夺去布洛一切的历史淡化处理。亲仇不报，布洛心中的愤恨难消，尽管联邦调查局与中情局都警告布洛不许轻举妄动，但是布洛仍决定亲手将嫌犯捉捕到案。<br />
+	<br />
+	　　独自踏上哥伦比亚的布洛，他才发现情况的艰难与险恶远远超出他的想像，在这个陌生国度里，他连基本的沟通都成问题，却必须一个人面对大群武装叛军的追杀与全然不熟悉的陌生环境，然而一心只想复仇的布洛已经顾不了这么许多，荷枪实弹的敌人也已经布下天罗地网要捕捉他，身陷重重危机的布洛，要如何在陌生的环境里躲过众多叛军的追击，缉拿凶手为自己的亲人报仇？ </p>
+<p>
+	<br />
+	<br />
+	幕后制作<br />
+	<br />
+	　　本片跟&ldquo;9&middot;11&rdquo;有几处巧合，如主角均是消防队员，反角在原剧本中是阿拉伯恐怖__粪子，因之前好莱坞动作片中已有太多先例，临时改为哥伦比亚毒枭。阿诺救火的开场戏本来纯属点缀，但因&ldquo;9&middot;11&rdquo;纽约有数百名消防员殉职，让人多了几分敬意。故事真正启动时，阿诺在哥伦比亚领事馆门外跟一名警察打了一个照面，观众若多一个心眼，会一眼看出那警察是假的，他就是日后阿诺能够辨认的恐怖__粪子。影片的动作桥段完全按好莱坞章法办事，没有一处让人拍案叫绝，但破绽还算不太明显。拍过《亡命天涯》的导演戴维斯，毫不在乎剽窃自己的作品，哈里森&middot;福特纵身跳下大瀑布的惊心动魄场面，在这里又重复了一次。<br />
+	<br />
+	　　在惨绝人寰的9&middot;11恐怖袭击事件发生之后，美国人可谓深入领会了&ldquo;间接伤害&rdquo;一词的真正含义，而以&ldquo;间接伤害&rdquo;冠名的本片更是以主人公戈迪&middot;布鲁尔的惊心经历生动演绎了间接伤害的深远影响。影片故事甚至让制作人大卫&middot;福斯特想起了1988年洛克比空难的新闻画面：&ldquo;有270人在那场空难中丧生，当看到遇难者的亲属抵达洛克比时，我几乎崩溃了。我曾设想自己就是其中一员，我会作何反应？我该怎样在天翻地覆的灾难后生活下去？很多年前，影片故事就深深吸引了我，它让我的问题成为焦点。&rdquo;<br />
+	<br />
+	　　《间接伤害》的故事构思最初是由编剧兼剪辑师罗纳德&middot;罗斯提出的，他将想法告诉给好友大卫&middot;福斯特，作为曾参与拍摄《狂野之河》和《佐罗的面具》的资深制作人，福斯特非常看好故事的电影潜力，并力邀《似是故人来》、《变脸》和《摇滚巨星》的制作人史蒂文&middot;鲁瑟联手筹拍。<br />
+	<br />
+	　　在本片之前，制作人鲁瑟曾在《潜龙轰天》中与导演安德鲁&middot;戴维斯有过合作，他认为执导过《亡命天涯》和《超完美谋杀案》的戴维斯是为本片掌舵的理想人选。阿诺&middot;施瓦辛格是最先签约本片的演员，他是在升降椅上开始注意到《间接伤害》，当时他和鲁瑟正在太阳谷滑雪。&ldquo;我经常这样得知华纳兄弟公司的电影，&rdquo;施瓦辛格说，&ldquo;《蒸发密令》和《蝙蝠侠与罗宾》的剧本都是我在乘坐升降椅时得到的。&rdquo;作为典型的居家男人，施瓦辛格非常同情他扮演的戈迪：&ldquo;如果你深爱你的家庭，就无法承受家人在眼前惨遭杀害的残酷现实，所以我很容易体会到人物的情感。&rdquo;施瓦辛格同时还非常高兴能有机会塑造消防队员，他说：&ldquo;我可以在大银幕上成为英雄，但他们才是真正的英雄，因为他们每天都在出生入死，9&middot;11事件之后发生的一切就充分证明了这一点，为了挽救伤者，他们甚至有人献出了生命。&rdquo;<br />
+	<br />
+	　　制作人福斯特说：&ldquo;阿诺在<a href="http://www.eee4.com/" target="_blank">迅雷电影下载</a>《龙兄鼠弟》中的表演让很多人都深感意外，因为没人将他当作喜剧演员，但事实证明，他很有喜剧天赋，所有人都认可了他的表演。在《间接伤害》中，他表现出了另外一种天赋，他扮演了一位突然陷入危险境地的普通男人。&rdquo;制作人鲁瑟补充说：&ldquo;戈迪与阿诺塑造过的所有角色都大相径庭，他不再是战无不胜的英雄，他只是一个普通人，你会想问，&lsquo;他的机枪在哪呢？&rsquo;动作戏只是塑造戈迪角色的一部分。&rdquo;<br />
+	<br />
+	　　在影片开拍前，为打造出惊心动魄的场景，主创人员曾从哥伦比亚武装冲突纪录片中获取拍摄灵感。导演戴维斯说：&ldquo;片中有段封锁公路的骇人场景，正是根据我们观看的纪录片构思而成。在公路上旅行的人们必须面对艰难抉择，要么选择逃跑，要么屈从于武装分子的质问。大多人都会逃向丛林，一时间便会枪声大作，很多无辜者会死于非命。&rdquo;<br />
+	<br />
+	　　因为在哥伦比亚实地拍摄缺乏安全保障，所以制片方选择在墨西哥的维拉克鲁斯州取景拍摄。当地地形丰富多变，从茂密的丛林、壮观的瀑布到滨海平原、白沙滩和18000英尺高的火山应有尽有。本片剧组人员多达近千人，临时演员也有数百人，当地的野外路况异常崎岖，剧组必须借助卡车才能将数吨重的拍摄器材运到外景地。除了炎热、潮湿和体型巨大的昆虫外，剧组上下还曾受到飓风威胁。执行制片人霍克&middot;科奇回忆说：&ldquo;因为我们的剧组人员来自美国和墨西哥当地，所以语言和文化的差异难免会造成麻烦，不过最棘手的还是墨西哥的恶劣路况，为了运输器材，我们必须在丛林中铺设出一条道路。&rdquo;<br />
+	<br />
+	<img border="0" onclick="if(this.width&gt;screen.width-461) window.open('http://img.album.pchome.net/54/68/92/28/613ea5405004ccc96861600094adb0db.jpg');" src="http://img.album.pchome.net/54/68/92/28/613ea5405004ccc96861600094adb0db.jpg" />&nbsp;<br />
+	<img border="0" onclick="if(this.width&gt;screen.width-461) window.open('http://img.album.pchome.net/54/68/92/28/bf3868f94b7895bb7bdba9aa0d089444.jpg');" src="http://img.album.pchome.net/54/68/92/28/bf3868f94b7895bb7bdba9aa0d089444.jpg" />&nbsp;<br />
+	<img border="0" onclick="if(this.width&gt;screen.width-461) window.open('http://img.album.pchome.net/54/68/92/28/7e9d83812f086eee10a48b6278cbb75c.jpg');" src="http://img.album.pchome.net/54/68/92/28/7e9d83812f086eee10a48b6278cbb75c.jpg" /></p>
+<br />
+<p>
+	美国惊悚动作大片《直击要害》DVD中英双字1024x576高清版 －来自[www.eee4.com]：<img border="0" src="http://www.eee4.com/templets/img/down.jpg" /></p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://e9:e9@xl2.eee4.com:9306/[3E电影站www.eee4.com]直击要害DVD中英双字1024x576高清版.rmvb" target="_blank">ftp://e9:e9@xl2.eee4.com:9306/[3E电影站www.eee4.com]直击要害DVD中英双字1024x576高清版.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:2957/飘花电影piaohua.com间接伤BD中英双字1280高清.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:2957/飘花电影piaohua.com间接伤BD中英双字1280高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O150601P-4a48.jpg{/dede:field}

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","黑金BD1280高清迅雷下载，免费下",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","黑金BD1280高清迅雷下载、免费下载，黑金BD1280高清Gvod高清在线播放，剧情介绍等。",73,195);
+$z[1][4]['name']="description";
+$z[2]=Array("field","黑金BD1280高清",197,249);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",251,290);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",292,331);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-04-16",333,383);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120416/01/62564813201204160112522976813530179_000.jpg\" style=\"width: 650px\" /></p>\r\n<p>\r\n	◎译　　名　黑金<br />\r\n	◎片　　名　Black Gold<br />\r\n	◎年　　代　2011<br />\r\n	◎国　　家　法国/意大利 &nbsp;<br />\r\n	◎类　　别　剧情<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中字<br />\r\n	◎IMDB评分 6.5/10 &nbsp;（726 votes）<br />\r\n	◎IMDB链接 <a href=\"http://www.imdb.com/title/tt1701210/\" target=\"_blank\">http://www.imdb.com/title/tt1701210/</a><br />\r\n	◎文件格式　Bluray<br />\r\n	◎视频尺寸　1280 x 720<br />\r\n	◎文件大小　1.40G</p>\r\n<p>\r\n	◎片　　长　2h 21mn<br />\r\n	◎导　　演　让-雅克&middot;阿诺 &nbsp; Jean Jacques Annaud<br />\r\n	◎主　　演　安东尼奥&middot;班德拉斯 Antonio Banderas &nbsp;....Nassib<br />\r\n	　　　　　　塔哈&middot;拉希姆 Tahar Rahim &nbsp;....Prince Auda<br />\r\n	　　　　　　芙蕾达&middot;平托 Freida Pinto &nbsp;....Princess Lallah<br />\r\n	　　　　　　马克&middot;斯特朗 Mark Strong &nbsp;....Amar<br />\r\n	　　　　　　里兹&middot;阿迈德 Riz Ahmed &nbsp;....Ali<br />\r\n	　　　　　　克里&middot;约翰逊 Corey Johnson &nbsp;....Thurkettle<br />\r\n	　　　　　　莉亚&middot;科贝德 Liya Kebede &nbsp;....Aicha<br />\r\n	　　　　　　艾瑞克&middot;艾伯纳尼 Eriq Ebouaney &nbsp;....Hassan Dakhil<br />\r\n	　　　　　　Jan Uddin &nbsp;....Ibn Idriss<br />\r\n	　　　　　　Jamal Awar &nbsp;....Compagnon Khoz Ahmed#1<br />\r\n	　　　　　　Akin Gazi &nbsp;....Saleeh<br />\r\n	　　　　　　Driss Roukhe &nbsp;....Magroof<br />\r\n	　　　　　　Ziad Ghaoui &nbsp;....Theologian<br />\r\n	　　　　　　Mostafa Gaafar &nbsp;....Khoz Ahmed　　　　<br />\r\n	　　　　　　<br />\r\n	<br />\r\n	◎简　　介　<br />\r\n	<br />\r\n	　　剧情设定在上个世纪30年代，当时阿拉伯国家正处在石油热的初期。故事讲述一个博览群书的年轻王子（Tahar Rahim饰）在保守的父亲（Mark Strong饰）与思想开放的岳父（Antonio Banderas饰）对于石油的不同态度之间的权衡与抉择，与此同时，他也在复杂的利益纠葛与权力纷争之中渐渐成熟...<br />\r\n	<br />\r\n	◎幕后制作<br />\r\n	<br />\r\n	《情人》导演让-雅克&middot;阿诺新作。影片全程在沙哈拉沙漠拍摄。<br />\r\n	故事改编自Hans Ruesch的小说《心之南方：一部关于现代阿拉伯的小说》，讲述了30年代早期两大阿拉伯酋长之间的斗争。有人将本片形容为&ldquo;《阿拉伯的劳伦斯》+《血色将至》&rdquo;。<br />\r\n	<img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120416/01/62564813201204160114282817696154363_002.jpg\" style=\"width: 650px; height: 366px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120416/01/62564813201204160114282817696154363_001.jpg\" style=\"width: 650px; height: 366px\" /><img alt=\"\" src=\"http://img170.poco.cn/mypoco/myphoto/20120416/01/62564813201204160114282817696154363_000.jpg\" style=\"width: 650px; height: 366px\" /><br />\r\n	&nbsp;</p>\r\n<p>\r\n	【下载地址】</p>\r\n<table bgcolor=\"#0099cc\" border=\"0\" cellpadding=\"10\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				在线观看地址：<a href=\"http://www.xiaozhizhu.net\" target=\"_blank\">http://www.xiaozhizhu.net</a></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy125:piaohua@dy125.piaohua.com:7858/飘花电影piaohua.com黑金BD中字1280高清.rmvb\">ftp://dy125:piaohua@dy125.piaohua.com:7858/飘花电影piaohua.com黑金BD中字1280高清.rmvb</a></td>\r\n		</tr>\r\n		<tr>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<br />",385,3803);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15615460-2Z33.jpg",3805,3889);
+$z[7][4]['name']="litpic";
+
+?>

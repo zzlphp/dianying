@@ -1,0 +1,9 @@
+{dede:field name='keywords'}龙纹身的女孩/千禧三部曲I：龙纹{/dede:field}
+{dede:field name='description'}龙纹身的女孩/千禧三部曲I：龙纹身的女孩BD1280高清迅雷下载、免费下载，龙纹身的女孩/千禧三部曲I：龙纹身的女孩BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}龙纹身的女孩/千禧三部曲I：龙纹身的女孩BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4644P-41235.jpg{/dede:field}

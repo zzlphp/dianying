@@ -1,0 +1,9 @@
+{dede:field name='keywords'}鲨鱼惊魂夜3D/大白鲨3D食人夜BD1{/dede:field}
+{dede:field name='description'}鲨鱼惊魂夜3D/大白鲨3D食人夜BD1280高清迅雷下载、免费下载，鲨鱼惊魂夜3D/大白鲨3D食人夜BD1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}鲨鱼惊魂夜3D/大白鲨3D食人夜BD1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-12-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPN5010-49356.jpg{/dede:field}

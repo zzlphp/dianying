@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","镖客三部曲3：黄金三镖客/黄金三",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","镖客三部曲3：黄金三镖客/黄金三镖客/独行侠勇破地狱门/黄昏三镖客[BD中英双字1024x57迅雷下载、免费下载，镖客三部曲3：黄金三镖客/黄金三镖客/独行侠勇破地狱门/黄昏三镖客[BD中英双字1024x57Gvod高清在线播放，剧情介绍等。",73,327);
+$z[1][4]['name']="description";
+$z[2]=Array("field","镖客三部曲3：黄金三镖客/黄金三镖客/独行侠勇破地狱门/黄昏三镖客[BD中英双字1024x57",329,447);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",449,488);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",490,529);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2010-06-05",531,581);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<P><IMG onclick=\"if(this.width>screen.width-461) window.open('http://cdn3a.dvdempire.org/products/24/1527524h.jpg');\" border=0 src=\"http://cdn3a.dvdempire.org/products/24/1527524h.jpg\"><BR><BR>◎译　　名　镖客三部曲3：黄金三镖客/黄金三镖客/独行侠勇破地狱门/黄昏三镖客/善恶丑<BR>◎片　　名　The Good The Bad And The Ugly<BR>◎年　　代　1966<BR>◎国　　家　意大利/西班牙/西德<BR>◎类　　别　动作/冒险/西部<BR>◎语　　言　英语<BR>◎字　　幕　中英双字<BR>◎IMDB评分 9.0/10&nbsp; 124,054 votes&nbsp; Top 250: #4 <BR>◎文件格式　BD-RMVB<BR>◎视频尺寸　1024 x 576<BR>◎文件大小　1CD<BR>◎片　　长　179MiN<BR>◎导　　演　赛尔乔·莱翁 Sergio Leone <BR>◎主　　演　埃里·瓦拉赫 Eli Wallach ...&nbsp; Tuco <BR>　　　　　　克林特·伊斯特伍德 Clint Eastwood ...&nbsp; Blondie <BR>　　　　　　李·范·克里夫 Lee Van Cleef ...&nbsp; Sentenza / Angel Eyes <BR>　　　　　　Aldo Giuffrè ...&nbsp; Alcoholic Union Captain <BR>　　　　　　Luigi Pistilli ...&nbsp; Father Pablo Ramirez <BR>　　　　　　Rada Rassimov ...&nbsp; Maria <BR>　　　　　　Enzo Petito ...&nbsp; Storekeeper <BR>　　　　　　Claudio Scarchilli ...&nbsp; Mexican peon <BR>　　　　　　John Bartha ...&nbsp; Sheriff (as John Bartho) <BR>　　　　　　Livio Lorenzon ...&nbsp; Baker <BR>　　　　　　Antonio Casale ...&nbsp; Jackson / Bill Carson <BR>　　　　　　Sandro Scarchilli ...&nbsp; Mexican peon <BR>　　　　　　Benito Stefanelli ...&nbsp; Member of Angel Eyes' Gang <BR>　　　　　　Angelo Novi ...&nbsp; Monk <BR>　　　　　　Antonio Casas ...&nbsp; Stevens <BR><BR>◎简　　介　<BR><BR>&nbsp; &nbsp; 由克林特·伊斯特伍德、李·范·克里夫和伊莱·沃勒克分饰英文片名所指的好人、坏人和丑恶之人。三人在美国南北战争期间趁着政局混乱，打算谋夺一批属于南方政府的财富，但每个人只知道一部分藏金的细节，必须联合起来才可以取得全部的钱。起先只有“恶人”在追查线索，而“好人”与“丑人”之间的瓜葛和仇恨，更像是一出撷趣迭生的旁支故事，穿插在主线之间。然而，很快，两条线索戏剧性的合并到一起，故事也便发展到了高潮。于是三人既互相利用又勾心斗角，产生不少有趣的笑料和张力十足的戏剧性对峙。本片制作严谨，气派十足，具有同类娱乐片所有吸引人的元素，主角的演出和颜尼欧莫利克奈的配乐均令人难忘。 <BR><BR>&nbsp; 瑟吉欧·莱昂内不愧为大师，3个钟头的片子，丝毫没有停滞的节点。悬念和张力层出不穷，像燃放烟花的夜空一般，一个爆发接着一个爆发。《黄金三镖客》堪称瑟吉欧·莱昂内电影的一座里程碑。他的叙事从此走向舒缓和深沉，在单纯的表现西部游侠故事之余，深沉的历史感在不知不觉中感染着观众。意大利人往往是外刚内柔的，瑟吉欧·莱昂内在本片中一次次电影下载表现美国南北战争的惨烈，绝不仅为了烘托影片的气氛。世界陷于战乱，三位主角却为了一笔黄金，穿梭于对峙的两个阵营之中，仿佛世外高人。这种逃避恰恰是种莫大的悲哀和反讽。当镜头缓慢的抚过废墟上成堆的尸骨时，影片的节奏一下子变得舒缓而肃穆。这种情绪被一点点酝酿，直到片末伊斯特伍德把雨衣盖在一个即将死去的伤兵身上，并给他抽最后一口雪茄时，达到了高潮……</P>\r\n<P>【电影截图】：<BR><BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo4.zxip.com/albums4/folder18/14184/20100601003924/201062188451096.jpg');\" border=0 src=\"http://photo4.zxip.com/albums4/folder18/14184/20100601003924/201062188451096.jpg\"> <BR><IMG onclick=\"if(this.width>screen.width-461) window.open('http://photo4.zxip.com/albums4/folder18/14184/20100601003924/201062188451691.jpg');\" border=0 src=\"http://photo4.zxip.com/albums4/folder18/14184/20100601003924/201062188451691.jpg\"></P><BR>[下载地址]：<IMG border=0 src=\"/uploads/allimg/c120524/133N295542P-105L6.jpg\"><BR>\r\n<TABLE style=\"BORDER-BOTTOM: #cccccc 1px dotted; BORDER-LEFT: #cccccc 1px dotted; TABLE-LAYOUT: fixed; BORDER-TOP: #cccccc 1px dotted; BORDER-RIGHT: #cccccc 1px dotted\" border=0 cellSpacing=0 cellPadding=6 width=\"95%\" align=center>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"WORD-WRAP: break-word\" bgColor=#fdfddf>ftp://3e:3e@d8.3edyy.com:162/【3E电影院www.eee4.cc】黄金三镖客BD中英双字1024x576高清版.rmvb</TD></TR></TBODY></TABLE>",583,4454);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120524/133NB2P160-55630.jpg",4456,4539);
+$z[7][4]['name']="litpic";
+
+?>

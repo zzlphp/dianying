@@ -1,0 +1,9 @@
+{dede:field name='keywords'}噬血地道/城市探险者BD高清迅雷{/dede:field}
+{dede:field name='description'}噬血地道/城市探险者BD高清迅雷下载、免费下载，噬血地道/城市探险者BD高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}噬血地道/城市探险者BD高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPIX40-11133.jpg{/dede:field}

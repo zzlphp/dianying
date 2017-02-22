@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","铁甲钢拳DVD中英双字2011动作科",0,70);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","铁甲钢拳DVD中英双字2011动作科幻迅雷下载、免费下载，铁甲钢拳DVD中英双字2011动作科幻Gvod高清在线播放，剧情介绍等。",72,228);
+$z[1][4]['name']="description";
+$z[2]=Array("field","铁甲钢拳DVD中英双字2011动作科幻",230,299);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",301,340);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",342,381);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-01-04",383,433);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	&nbsp;<img alt=\"\" src=\"http://img165.poco.cn/mypoco/myphoto/20120104/10/56643687201201041051133986872131413_005.jpg\" /></p>\r\n\r\n\r\n<p>\r\n	◎片　　名　铁甲钢拳/钢铁擂台(台)<br />\r\n	◎又&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 名&nbsp;&nbsp; Real Steel<br />\r\n	◎年　　代　2011<br />\r\n	◎国　　家　美国<br />\r\n	◎类　　别　剧情 / 动作 / 科幻<br />\r\n	◎语　　言　英语<br />\r\n	◎字　　幕　中字<br />\r\n	◎IMDB评分&nbsp; 7.3/10 from 746 users<br />\r\n	◎文件格式&nbsp; TS-RMVB<br />\r\n	◎视频尺寸&nbsp; 720 x 304<br />\r\n	◎文件大小&nbsp; 1CD 702MB<br />\r\n	◎片　　长&nbsp; 104 Mins<br />\r\n	◎导　　演&nbsp;&nbsp; 肖恩&middot;列维<br />\r\n	◎演&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 员&nbsp; 休&middot;杰克曼 / Dakota Goyo / 凯文&middot;杜兰 / 安东尼&middot;麦凯 / 伊万杰琳&middot;莉莉 / 霍普&middot;戴维斯 / 詹姆斯&middot;瑞布霍恩 / Olga Fonda</p>\r\n<p>\r\n	◎简　　介<br />\r\n	影片讲述了在不远的未来，类拳击被取缔，只有机器人的拳击赛才合法。休&middot;杰克曼在片中出演一位前拳击手，他在长时间的沉睡之后醒来，发现人类已经不能参与拳击运动了，而且自己还有一个11岁的儿子，于是决定成为拳击经纪人。在寻找中他发现了一个求胜心很强，却已经被弃用的机器人，于是他和儿子一起努力让它成为冠军。<br />\r\n	&nbsp;</p>\r\n<p>\r\n	<img alt=\"\" src=\"http://pic.piaohua.com/0701pic/allimg/111011/1-1110111T35K14.jpg\" /></p>\r\n<p>\r\n	<img alt=\"\" height=\"340\" src=\"http://img165.poco.cn/mypoco/myphoto/20120104/10/56643687201201041051133986872131413_003.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	<img alt=\"\" height=\"340\" src=\"http://img165.poco.cn/mypoco/myphoto/20120104/10/56643687201201041051133986872131413_004.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	<img alt=\"\" height=\"340\" src=\"http://img165.poco.cn/mypoco/myphoto/20120104/10/56643687201201041051133986872131413_000.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	<img alt=\"\" height=\"340\" src=\"http://img165.poco.cn/mypoco/myphoto/20120104/10/56643687201201041051133986872131413_001.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	<img alt=\"\" height=\"340\" src=\"http://img165.poco.cn/mypoco/myphoto/20120104/10/56643687201201041051133986872131413_002.jpg\" style=\"cursor: pointer\" width=\"600\" /></p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;</p>\r\n\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:1795/飘花电影piaohua.com铁甲钢拳抢先版.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:1795/飘花电影piaohua.com铁甲钢拳抢先版.rmvb</a>&nbsp;</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2214/飘花电影piaohua.com铁甲钢拳DVDscr清晰版.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:2214/飘花电影piaohua.com铁甲钢拳DVDscr清晰版.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2515/飘花电影piaohua.com铁甲钢拳DVD中英双字.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:2515/飘花电影piaohua.com铁甲钢拳DVD中英双字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",435,3900);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15Z1140-36422.jpg",3902,3986);
+$z[7][4]['name']="litpic";
+
+?>

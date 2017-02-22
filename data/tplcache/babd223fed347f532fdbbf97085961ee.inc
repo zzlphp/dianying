@@ -1,0 +1,9 @@
+{dede:field name='keywords'}热血新仔2僵尸危机DVD中字2011最{/dede:field}
+{dede:field name='description'}热血新仔2僵尸危机DVD中字2011最新荷兰恐怖动作喜剧大片迅雷下载、免费下载，热血新仔2僵尸危机DVD中字2011最新荷兰恐怖动作喜剧大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}热血新仔2僵尸危机DVD中字2011最新荷兰恐怖动作喜剧大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3325/飘花电影piaohua.com热血新仔2僵尸危机DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4260Z-22428.jpg{/dede:field}

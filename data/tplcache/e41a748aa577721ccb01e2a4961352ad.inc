@@ -1,0 +1,9 @@
+{dede:field name='keywords'}十大未解之迷《埃及古墓咒语之迷{/dede:field}
+{dede:field name='description'}十大未解之迷《埃及古墓咒语之迷》迅雷下载、免费下载，十大未解之迷《埃及古墓咒语之迷》Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}十大未解之迷《埃及古墓咒语之迷》{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://ftp.dianbbs.com/{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO60K30-35C0.gif{/dede:field}

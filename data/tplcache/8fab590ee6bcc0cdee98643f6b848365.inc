@@ -1,0 +1,9 @@
+{dede:field name='keywords'}形影不离1024HD国语中字2012中国{/dede:field}
+{dede:field name='description'}形影不离1024HD国语中字2012中国剧情迅雷下载、免费下载，形影不离1024HD国语中字2012中国剧情Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}形影不离1024HD国语中字2012中国剧情{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3360/飘花电影piaohua.com形影不离1024HD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP04J10-53U5.jpg{/dede:field}

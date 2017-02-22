@@ -1,0 +1,9 @@
+{dede:field name='keywords'}丧尸侠(The,Revenant)DVD中字美{/dede:field}
+{dede:field name='description'}丧尸侠(The Revenant)DVD中字美国恐怖2009迅雷下载、免费下载，丧尸侠(The Revenant)DVD中字美国恐怖2009Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}丧尸侠(The Revenant)DVD中字美国恐怖2009{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3099/飘花电影piaohua.com丧尸侠(The Revenant)DVD中字.mkv{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPCQ30-32220.jpg{/dede:field}

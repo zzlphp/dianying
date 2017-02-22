@@ -1,0 +1,9 @@
+{dede:field name='keywords'}喜羊羊与灰太狼之开心闯龙年高清{/dede:field}
+{dede:field name='description'}喜羊羊与灰太狼之开心闯龙年高清1280版国粤双语中字2012最新上映迅雷下载、免费下载，喜羊羊与灰太狼之开心闯龙年高清1280版国粤双语中字2012最新上映Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}喜羊羊与灰太狼之开心闯龙年高清1280版国粤双语中字2012最新上映{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2610/飘花电影piaohua.com喜羊羊与灰太狼之开心闯龙年清晰TS国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ119320-16438.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}熊熊爱上你DVD国语中字2012爱情{/dede:field}
+{dede:field name='description'}熊熊爱上你DVD国语中字2012爱情喜剧迅雷下载、免费下载，熊熊爱上你DVD国语中字2012爱情喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}熊熊爱上你DVD国语中字2012爱情喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3396/飘花电影piaohua.com熊熊爱上你DVD国语中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO5WL0-21349.jpg{/dede:field}

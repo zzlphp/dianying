@@ -1,0 +1,9 @@
+{dede:field name='keywords'}巨星恶搞之吴宗宪爆整林心如迅雷{/dede:field}
+{dede:field name='description'}巨星恶搞之吴宗宪爆整林心如迅雷下载、免费下载，巨星恶搞之吴宗宪爆整林心如Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}巨星恶搞之吴宗宪爆整林心如{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-04{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO60K30-35C0.gif{/dede:field}

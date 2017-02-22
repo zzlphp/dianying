@@ -1,0 +1,9 @@
+{dede:field name='keywords'}背离BD中字1280高清2012最新英国{/dede:field}
+{dede:field name='description'}背离BD中字1280高清2012最新英国惊悚大片迅雷下载、免费下载，背离BD中字1280高清2012最新英国惊悚大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}背离BD中字1280高清2012最新英国惊悚大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3058/飘花电影piaohua.com背离DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPIE10-56209.jpg{/dede:field}

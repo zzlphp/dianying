@@ -1,0 +1,9 @@
+{dede:field name='keywords'}小红帽：狼人猎手DVD中英双字201{/dede:field}
+{dede:field name='description'}小红帽：狼人猎手DVD中英双字2010恐怖动作迅雷下载、免费下载，小红帽：狼人猎手DVD中英双字2010恐怖动作Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}小红帽：狼人猎手DVD中英双字2010恐怖动作{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-09{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2553/飘花电影piaohua.com小红帽：狼人猎手DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MPOV50-35b8.jpg{/dede:field}

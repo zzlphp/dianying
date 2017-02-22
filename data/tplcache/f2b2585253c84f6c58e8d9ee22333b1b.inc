@@ -1,0 +1,9 @@
+{dede:field name='keywords'}穿靴子的猫/鞋猫剑客DVD中字2011{/dede:field}
+{dede:field name='description'}穿靴子的猫/鞋猫剑客DVD中字2011美国奇幻冒险动画喜剧迅雷下载、免费下载，穿靴子的猫/鞋猫剑客DVD中字2011美国奇幻冒险动画喜剧Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}穿靴子的猫/鞋猫剑客DVD中字2011美国奇幻冒险动画喜剧{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2007/飘花电影piaohua.com穿靴子的猫TS中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ0V2Z-14R0.jpg{/dede:field}

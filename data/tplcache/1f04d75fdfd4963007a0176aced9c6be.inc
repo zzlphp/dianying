@@ -1,0 +1,9 @@
+{dede:field name='keywords'}失恋33天/非常完美2BD1280高清/{/dede:field}
+{dede:field name='description'}失恋33天/非常完美2BD1280高清/失恋33天港版迅雷下载、免费下载，失恋33天/非常完美2BD1280高清/失恋33天港版Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}失恋33天/非常完美2BD1280高清/失恋33天港版{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-13{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy125:piaohua@dy125.piaohua.com:8059/飘花电影piaohua.com失恋33天BD国语中字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MOJE40-4M59.jpg{/dede:field}

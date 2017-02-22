@@ -1,0 +1,9 @@
+{dede:field name='keywords'}夺命煞星宝莱坞2BD中英双字1280{/dede:field}
+{dede:field name='description'}夺命煞星宝莱坞2BD中英双字1280高清印度2011动作惊悚迅雷下载、免费下载，夺命煞星宝莱坞2BD中英双字1280高清印度2011动作惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}夺命煞星宝莱坞2BD中英双字1280高清印度2011动作惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-29{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3315/飘花电影piaohua.com夺命煞星宝莱坞2BD中英双字1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO4213F-331U.jpg{/dede:field}

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}牙狼电影版/红色安魂曲BD高清102{/dede:field}
+{dede:field name='description'}牙狼电影版/红色安魂曲BD高清1024*576迅雷下载、免费下载，牙狼电影版/红色安魂曲BD高清1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}牙狼电影版/红色安魂曲BD高清1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-27{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1670/飘花电影piaohua.com牙狼电影版：红色安魂曲DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO942020-242V.jpg{/dede:field}

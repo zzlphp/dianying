@@ -1,0 +1,9 @@
+{dede:field name='keywords'}唐伯虎点秋香HD高清国粤闽三语10{/dede:field}
+{dede:field name='description'}唐伯虎点秋香HD高清国粤闽三语1024*576迅雷下载、免费下载，唐伯虎点秋香HD高清国粤闽三语1024*576Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}唐伯虎点秋香HD高清国粤闽三语1024*576{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-01{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2645P-194S.jpg{/dede:field}

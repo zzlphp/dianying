@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","雨果(雨果的冒险)/雨果的秘密DVD",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","雨果(雨果的冒险)/雨果的秘密DVD中英双字2012最新美国奇幻冒险大迅雷下载、免费下载，雨果(雨果的冒险)/雨果的秘密DVD中英双字2012最新美国奇幻冒险大Gvod高清在线播放，剧情介绍等。",73,287);
+$z[1][4]['name']="description";
+$z[2]=Array("field","雨果(雨果的冒险)/雨果的秘密DVD中英双字2012最新美国奇幻冒险大",289,387);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",389,428);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",430,469);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2012-02-18",471,521);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120201/12/56643687201202011237246908253074355_004.jpg\" /></p>\r\n<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120201/12/56643687201202011237246908253074355_005.jpg\" /></p>\r\n<p>\r\n	导演: 马丁&middot;斯科塞斯<br />\r\n	编剧: John Logan / Brian Selznick<br />\r\n	主演: 阿沙&middot;巴特菲尔德 / 科洛&middot;莫瑞兹 / 本&middot;金斯利 / 萨莎&middot;拜伦&middot;科恩 / 裘德&middot;洛 / 雷&middot;温斯顿 / 克里斯托弗&middot;李 / 理查德&middot;格雷弗斯 / 海伦&middot;麦克洛瑞 / 弗朗西斯&middot;德&middot;拉&middot;图瓦<br />\r\n	类型: 剧情 / 悬疑 / 奇幻 / 冒险 / 家庭<br />\r\n	官方网站: <a href=\"http://www.hugomovie.com/\">www.hugomovie.com/</a><br />\r\n	制片国家/地区: 美国<br />\r\n	语言: 英语<br />\r\n	上映日期: 2011-11-23(美国)<br />\r\n	片长: 127分钟<br />\r\n	又名: 雨果的巴黎奇幻历险(港) / 雨果的冒险(台) / 雨果的秘密 / 雨果&middot;卡布里特的发明 / The Invention of Hugo Cabret<br />\r\n	IMDb链接: tt0970179</p>\r\n<p>\r\n	<br />\r\n	剧情简介</p>\r\n<p>\r\n	　　故事发生在上世纪30年代末巴黎一个繁忙火车站，主人公12岁孤儿雨果藏匿与墙壁后的暗窄通道里，会在每个夜晚的烛光下给火车站的27座时钟一丝不苟地上油、校准；死去的父亲给他留下的唯一遗产便是神秘笔记和一台旁人眼中完全是垃圾的机器人，雨果从一本木刻书得知这个机器人可以写字作画&mdash;&mdash;如果有天他能把它修好。<br />\r\n	　　影片其他主要角色包括车站玩具店的老板乔治斯、他的孙女伊莎贝拉，以及另外一个有钱人家的小女孩。雨果为了得到修理机器人的零件到玩具店偷东西，最终发现古怪老板原来就是隐姓埋名的乔治&middot;梅里耶，他的《月球旅行记》是雨果父亲生前最喜欢的电影。</p>\r\n<p>\r\n	<br />\r\n	◎影片截图</p>\r\n\r\n<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120201/12/56643687201202011237246908253074355_002.jpg\" /></p>\r\n<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120201/12/56643687201202011237246908253074355_001.jpg\" /></p>\r\n<p>\r\n	<img src=\"http://img165.poco.cn/mypoco/myphoto/20120201/12/56643687201202011237246908253074355_000.jpg\" /></p>\r\n\r\n<p>\r\n	<img alt=\"\" src=\"http://img.album.pchome.net/48/32/32/45/7f0d70cca03c5e1e0177a779280d98d1.2011\" /></p>\r\n\r\n<p>\r\n	<img alt=\"\" src=\"http://img.album.pchome.net/48/32/32/45/9e7afcc675a65c9067d252fe46846118.2011\" /></p>\r\n\r\n<p>\r\n	<img alt=\"\" src=\"http://img.album.pchome.net/48/32/32/45/76c5cb00c8ab673bf5ec9aadf1557053.2011\" /></p>\r\n<p>\r\n	<img alt=\"\" src=\"http://img.album.pchome.net/48/32/32/45/eece65f278b23a97ad9edf13aac0d904.2011\" /></p>\r\n<p>\r\n	[下载地址]： &nbsp;<img border=\"0\" src=\"http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg\" /></p>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2731/飘花电影piaohua.com雨果(雨果的冒险)TS中英双字.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:2731/飘花电影piaohua.com雨果(雨果的冒险)TS中英双字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				<a href=\"ftp://dy44:piaohua@dy44.piaohua.com:2842/飘花电影piaohua.com雨果的秘密DVD中英双字.rmvb\">ftp://dy44:piaohua@dy44.piaohua.com:2842/飘花电影piaohua.com雨果的秘密DVD中英双字.rmvb</a></td>\r\n		</tr>\r\n	</tbody>\r\n</table>",523,3910);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O15921P-1G64.jpg",3912,3994);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}月色狰狞HD国语中字1024/1280高{/dede:field}
+{dede:field name='description'}月色狰狞HD国语中字1024/1280高清2012最新动作惊悚迅雷下载、免费下载，月色狰狞HD国语中字1024/1280高清2012最新动作惊悚Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}月色狰狞HD国语中字1024/1280高清2012最新动作惊悚{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-06{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3357/飘花电影piaohua.com月色狰狞HD国语中字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO43ZF-19538.jpg{/dede:field}

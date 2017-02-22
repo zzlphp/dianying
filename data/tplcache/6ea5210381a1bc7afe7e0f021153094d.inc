@@ -1,0 +1,9 @@
+{dede:field name='keywords'}歌迷為始源和庚宝过生迅雷下载，{/dede:field}
+{dede:field name='description'}歌迷為始源和庚宝过生迅雷下载、免费下载，歌迷為始源和庚宝过生Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}歌迷為始源和庚宝过生{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2006-08-17{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO60K30-35C0.gif{/dede:field}

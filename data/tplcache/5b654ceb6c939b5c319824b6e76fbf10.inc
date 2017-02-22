@@ -1,0 +1,9 @@
+{dede:field name='keywords'}机器人之城DVD中字2011动作科幻{/dede:field}
+{dede:field name='description'}机器人之城DVD中字2011动作科幻迅雷下载、免费下载，机器人之城DVD中字2011动作科幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}机器人之城DVD中字2011动作科幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-26{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1653/飘花电影piaohua.com机器人之城DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO93V40-53J5.jpg{/dede:field}

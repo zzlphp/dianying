@@ -1,0 +1,9 @@
+{dede:field name='keywords'}恶灵入侵(入侵者)DVD中字2011最{/dede:field}
+{dede:field name='description'}恶灵入侵(入侵者)DVD中字2011最新美国恐怖惊悚大片迅雷下载、免费下载，恶灵入侵(入侵者)DVD中字2011最新美国恐怖惊悚大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}恶灵入侵(入侵者)DVD中字2011最新美国恐怖惊悚大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-04-07{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3174/飘花电影piaohua.com恶灵入侵(入侵者)DVD中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO53O40-141a.jpg{/dede:field}

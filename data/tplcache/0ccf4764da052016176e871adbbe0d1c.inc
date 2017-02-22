@@ -1,0 +1,78 @@
+{dede:field name='keywords'}大人物拿破仑/炸弹的异想世界BD{/dede:field}
+{dede:field name='description'}大人物拿破仑/炸弹的异想世界BD中英双字1280高清迅雷下载、免费下载，大人物拿破仑/炸弹的异想世界BD中英双字1280高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}大人物拿破仑/炸弹的异想世界BD中英双字1280高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-04{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" src="http://img.album.pchome.net/54/68/65/05/89a0b6210e115d6d665d9a7af8e9a511.jpg" /></p>
+<p>
+	◎译　　名　《大人物拿破仑/炸弹的异想世界》精彩喜剧大片BD中英双字[880分辨率]<br />
+	◎片　　名　Napoleon Dynamite<br />
+	◎年　　代　2004<br />
+	◎国　　家　美国<br />
+	◎类　　别　家庭/剧情/喜剧<br />
+	◎语　　言　英语<br />
+	◎字　　幕　中英双字<br />
+	◎IMDB评分&nbsp; 6.9/10 (65,054 votes)<br />
+	◎视频尺寸　880 x 486<br />
+	◎导　　演　杰瑞德&middot;赫斯 Jared Hess<br />
+	◎主　　演　蒂娜&middot;米乔里诺 Tina Majorino&nbsp; ....Deb<br />
+	　　　　　　Tom Adams&nbsp; ....FFA Judge No. 1<br />
+	　　　　　　乔恩&middot;海德 Jon Heder&nbsp; ....Napoleon Dynamite<br />
+	　　　　　　艾弗连&middot;莱米雷斯 Efren Ramirez&nbsp; ....Pedro Sanchez<br />
+	　　　　　　强&middot;格瑞斯 Jon Gries&nbsp; ....Uncle Rico<br />
+	　　　　　　Aaron Ruell&nbsp; ....Kip Dynamite<br />
+	　　　　　　戴德里克&middot;巴德 Diedrich Bader&nbsp; ....Rex<br />
+	　　　　　　Sandy Martin&nbsp; ....Grandma<br />
+	　　　　　　海莉&middot;达芙 Haylie Duff&nbsp; ....Summer Wheatly<br />
+	　　　　　　Trevor Snarr&nbsp; ....Don<br />
+	　　　　　　Shondrella Avery&nbsp; ....LaFawnduh Lucas<br />
+	　　　　　　Bracken Johnson&nbsp; ....Randy<br />
+	　　　　　　Carmen Brady&nbsp; ....Starla<br />
+	　　　　　　Ellen Dubin&nbsp; ....Ilene<br />
+	　　　　　　J.C. Cunningham&nbsp; ....Jock No. 1<br />
+	　　　　　　James Smooth&nbsp; ....Jock No. 2<br />
+	　　　　　　Brian Petersen&nbsp; ....Lance<br />
+	<br />
+	◎简　　介　&nbsp; &nbsp;<br />
+	<br />
+	　　拿破伦&middot;戴纳麦特，这个与大人物同名的小子却仅仅是爱达荷乡下的一名普通高中生，有着一头蓬松红头发的他正处于青春期疯狂的迷茫和烦恼之中，他认为自己没有可以被人欣赏的特殊技能，即不会黑客技术也不会甜蜜的舞蹈，另外一个让他感觉自卑的就是迟钝的神经，对于任何事情，他的反应似乎都要比别人慢上一拍，为此他也经常成为校园里那些强壮孩子欺负的对象。拿破伦和奶奶及失业的哥哥凯普住在一起，这位30岁的大哥自信可以成为一名出色的斗士，但却整日无所事事留连于网络找女人寻欢作乐。拿破仑还有一个的叔叔里考，他是一个在商业上小有成就的人，但他的出现和他将自己的丰胸草药生意拓展到整个阵上的打算却让拿破仑的生活变得更加糟糕。虽然总是被人嘲笑，但拿破伦却有着善良的心，他慢慢喜欢上同样不被人重视的胖女孩，还和校友佩德罗交上了朋友，为了帮助朋友获得学生会主席的竞选，他暂时放弃了自己的工作，虽然他的迟钝笨拙没有品位的衣着一直被人嘲笑，但拿破仑和朋友的坚持不懈赢为他们赢得了最后的胜利，而几年之后，拿破仑还将自己的故事搬上了银幕，拍摄了关于它们的电影，他以一个曾和青春期紧密联系的名字为它命名：Napoleon Dynamite&hellip;&hellip;<br />
+	<br />
+	一句话评论<br />
+	<br />
+	He&#39;s out to prove he&#39;s got nothing to prove.<br />
+	<br />
+	It&#39;s Gonna Be a Dynamite Summer<br />
+	<br />
+	Same planet...different flippin&#39; world.<br />
+	<br />
+	幕后制作<br />
+	<br />
+	　　这部影片是根据杰蕾德&middot;赫斯本人曾导演过的9分钟短片《Peluca》拍摄而成，这部短片获奖之后，导演决定将它拍摄成一部长片。这是这位今年刚刚24岁的年轻导演杰蕾德&middot;赫斯的第一部剧情长片。影片在圣丹斯电影节上，获得了剧情类最佳评审团大奖的提名，它以如流水般缓徐的情节讲述了一个不同的青春故事。主角拿破仑虽然也是个迷茫的高中生，但他非常纯洁善良，内向和忧郁的性质让他默默地坚持去做自己认为对的事，在最后终于得到了大家的认可。相对于许多青春片张扬的个性或者泛滥的迷茫，本片出奇地安静，犹如现代的山村水彩画，在不加修饰的镜头下，让观众看到了一个偏僻小镇无名男孩的内心世界。</p>
+<p>
+	<br />
+	<br />
+	<b>影片截图：</b><br />
+	<br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('http://img.album.pchome.net/54/68/69/32/b347c3f9784cdd9e34dd7fc8663ab030.jpg');" src="http://img.album.pchome.net/54/68/69/32/b347c3f9784cdd9e34dd7fc8663ab030.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 325px; border-top: 0px solid; border-right: 0px solid" />&nbsp;<br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('http://img.album.pchome.net/54/68/69/32/c28ae32ee1c646a0192c6bae3e8c628d.jpg');" src="http://img.album.pchome.net/54/68/69/32/c28ae32ee1c646a0192c6bae3e8c628d.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 325px; border-top: 0px solid; border-right: 0px solid" />&nbsp;<br />
+	<img onclick="if(this.width&gt;screen.width-461) window.open('http://img.album.pchome.net/54/68/69/32/8d3d02d045a0dce3aebaaedbec8f41b2.jpg');" src="http://img.album.pchome.net/54/68/69/32/8d3d02d045a0dce3aebaaedbec8f41b2.jpg" style="border-bottom: 0px solid; border-left: 0px solid; width: 600px; height: 325px; border-top: 0px solid; border-right: 0px solid" /></p>
+	精彩喜剧大片《大人物拿破仑》BD中英双字[880分辨率] －来自[3E电影站 eee4.com]：<img border="0" src="http://www.eee4.com/templets/img/down.jpg" /></p>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://e42:e42@xl2.eee4.com:9024/[3E电影站www.eee4.com]大人物拿破仑.rmvb" target="_blank">ftp://e42:e42@xl2.eee4.com:9024/[3E电影站www.eee4.com]大人物拿破仑.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="6" cellspacing="0" style="border-bottom: #cccccc 1px dotted; border-left: #cccccc 1px dotted; table-layout: fixed; border-top: #cccccc 1px dotted; border-right: #cccccc 1px dotted" width="95%">
+	<tbody>
+		<tr>
+			<td bgcolor="#fdfddf" style="word-wrap: break-word">
+				<a href="ftp://dy44:piaohua@dy44.piaohua.com:3348/飘花电影piaohua.com炸弹的异想世界BD中英双字1280高清.rmvb">ftp://dy44:piaohua@dy44.piaohua.com:3348/飘花电影piaohua.com炸弹的异想世界BD中英双字1280高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O15I320-251T.jpg{/dede:field}

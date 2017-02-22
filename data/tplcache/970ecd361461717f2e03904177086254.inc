@@ -1,0 +1,9 @@
+{dede:field name='keywords'}哈勃望远镜3DBD中英双字1024高清{/dede:field}
+{dede:field name='description'}哈勃望远镜3DBD中英双字1024高清迅雷下载、免费下载，哈勃望远镜3DBD中英双字1024高清Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}哈勃望远镜3DBD中英双字1024高清{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-11{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1245/飘花电影piaohua.com哈勃望远镜3DBD中英双字1024高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ500640-3D63.jpg{/dede:field}

@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","大冒险家HD高清迅雷下载，免费下",0,71);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","大冒险家HD高清迅雷下载、免费下载，大冒险家HD高清Gvod高清在线播放，剧情介绍等。",73,195);
+$z[1][4]['name']="description";
+$z[2]=Array("field","大冒险家HD高清",197,249);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",251,290);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",292,331);
+$z[4][4]['name']="source";
+$z[5]=Array("field","2011-10-28",333,383);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O02P5040-224223.jpg\" style=\"width: 387px; height: 550px\" /></p>\r\n<p>\r\n	◎译　　名　大冒险家/挑战者<br />\r\n	◎片　　名　Da mao xian jia<br />\r\n	◎年　　代　1995<br />\r\n	◎国　　家　香港<br />\r\n	◎类　　别　动作/剧情<br />\r\n	◎语　　言　国语<br />\r\n	◎字　　幕　简体中文<br />\r\n	◎IMDB评分 6.1/10 ( 175票 )<br />\r\n	◎IMDB链接 http://www.imdb.com/title/tt0112772<br />\r\n	◎制作公司　永盛娱乐有限公司 [香港]<br />\r\n	　　　　　　 Win&amp;amp;#39;s Production<br />\r\n	◎发行公司　永盛娱乐有限公司 [香港]<br />\r\n	　　　　　　 中国星娱乐有限公司 [香港]<br />\r\n	◎文件格式　X264 + AC3<br />\r\n	◎视频尺寸　1280 x 720<br />\r\n	◎文件大小　1.07G<br />\r\n	◎片　　长　01:49:55.714<br />\r\n	◎导　　演　林岭东Ringo Lam<br />\r\n	◎编　　剧　林岭东Ringo Lam<br />\r\n	　　　　　　 绍丽琼Sandy Shaw<br />\r\n	　　　　　　 叶广荫Gong Yam Yip<br />\r\n	◎主　　演　关之琳Rosamund Kwan....Mona<br />\r\n	　　　　　　 刘德华Andy Lau....Wai Lok-yan/Mandy Chan<br />\r\n	　　　　　　 吴倩莲Chien-lien Wu....Crystal Lui &amp;amp;#39;Chan&amp;amp;#39;<br />\r\n	　　　　　　 姜大卫David Chiang....Uncle Shang<br />\r\n	　　　　　　 程东John Ching....Lam, Ching &amp;amp;#39;Boder&amp;amp;#39;<br />\r\n	　　　　　　 何家驹Ka-Kui Ho....General Buboei<br />\r\n	　　　　　　 吴毅将Ben Ng....Dog<br />\r\n	　　　　　　 黄锦江Kam-Kong Wong....Military Officer<br />\r\n	　　　　　　 黄柏文Parkman Wong....Officer Cheng<br />\r\n	　　　　　　 秦沛Paul Chun....Ray Lui<br />\r\n	　　　　　　 高飞Phillip Ko....Wah<br />\r\n	　　　　　　 谢贤Yin Tse<br />\r\n	　　　　　　 Ron Yuan....Paul<br />\r\n	　　　　　　 George Cheung....Tung<br />\r\n	　　　　　　 Victor Wong....Uncle Nine<br />\r\n	<br />\r\n	◎简　　介<br />\r\n	<br />\r\n	这是导演林岭东赴美国发展前拍摄的最后一部港片，企图走国际动作片的娱乐路线，在大型枪战爆破场面的处理上拍出相当水准，可惜剧情的安排却具有过多巧合和情理不通之处。刘德华在片中饰演一名孤儿，童年时他的父母被结拜兄弟杀死。二十年后，刘成为泰国的空军飞行员希望为父母报仇，但却跟仇人的情妇关之琳发生了关系，因而被对方追杀。他逃到美国去向中央情报局求救。巧合的是他又救了仇人的女儿吴倩莲，并且跟她产生了真感情。在此情况下，刘藉机破坏仇家的生意，用经济手法来进行大报复。<br />\r\n	<br />\r\n	◎幕　　后<br />\r\n	<br />\r\n	进入娱乐圈后的刘德华凭着《皇上保重》等电视剧走红，但他在电影上的成绩却更加出色。尤其他在1988年拍摄的《旺角卡门》中的不羁浪子形象，简直令无数少女疯狂痴迷。其后的《至尊无上》、《赌神》、《天若有情》以及《神雕侠侣》(1991版)中的潇洒形象更成为了一个时代新好男人的固定模式。而《刀剑笑》、《暴走战士》、《天与地》、《挑战者》、《烽火佳人》等片上映时，票房收入之高更是令人咋舌。</p>\r\n<p>\r\n	<img alt=\"\" src=\"/uploads/allimg/c120525/133O02PH30-23c07.jpg\" style=\"width: 720px; height: 405px\" /><img alt=\"\" src=\"/uploads/allimg/c120525/133O02PR50-2413C.jpg\" style=\"width: 720px; height: 405px\" /></p>\r\n<p>\r\n	<br />\r\n	<br />\r\n	&nbsp;</p>\r\n<p>\r\n	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border=\"0\" src=\"/uploads/allimg/c120524/133N2Z4FF-102231.jpg\" />&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<table bgcolor=\"#ff8c00\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"100%\">\r\n	<tbody>\r\n		<tr>\r\n			<td bgcolor=\"#ffffbb\" style=\"line-height: 18px; word-break: break-all\" width=\"100%\">\r\n				ftp://dy125:piaohua@dy125.piaohua.com:7096/飘花电影piaohua.com大冒险家HD国语中字1280高清.rmvb</td>\r\n		</tr>\r\n	</tbody>\r\n</table>",385,3773);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c120525/133O02P92Z-251528.jpg",3775,3859);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,9 @@
+{dede:field name='keywords'}马利和我2：小狗岁月BD中英双字{/dede:field}
+{dede:field name='description'}马利和我2：小狗岁月BD中英双字幕1280高清可爱狗狗的搞笑之旅201迅雷下载、免费下载，马利和我2：小狗岁月BD中英双字幕1280高清可爱狗狗的搞笑之旅201Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}马利和我2：小狗岁月BD中英双字幕1280高清可爱狗狗的搞笑之旅201{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1392/飘花电影piaohua.com马利和我2：小狗岁月BD中英双字幕1280高清.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1E320-59452.jpg{/dede:field}

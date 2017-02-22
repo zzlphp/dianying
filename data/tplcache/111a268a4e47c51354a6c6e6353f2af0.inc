@@ -1,0 +1,9 @@
+{dede:field name='keywords'}中途岛战役DVD国语配音中字经典{/dede:field}
+{dede:field name='description'}中途岛战役DVD国语配音中字经典战争迅雷下载、免费下载，中途岛战役DVD国语配音中字经典战争Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}中途岛战役DVD国语配音中字经典战争{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-05-21{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:3134/飘花电影piaohua.com中途岛战役DVD国语配音中字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MP592Z-12U9.jpg{/dede:field}

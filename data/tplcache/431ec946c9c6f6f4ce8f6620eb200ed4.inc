@@ -1,0 +1,9 @@
+{dede:field name='keywords'}机器鸡：星球大战3DVD中英双字20{/dede:field}
+{dede:field name='description'}机器鸡：星球大战3DVD中英双字2011美国科幻迅雷下载、免费下载，机器鸡：星球大战3DVD中英双字2011美国科幻Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}机器鸡：星球大战3DVD中英双字2011美国科幻{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-09-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1475/飘花电影piaohua.com机器鸡：星球大战3DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MO92M20-5O51.jpg{/dede:field}

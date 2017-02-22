@@ -1,0 +1,116 @@
+{dede:field name='keywords'}志明与春娇BD1280高清粤语迅雷下{/dede:field}
+{dede:field name='description'}志明与春娇BD1280高清粤语迅雷下载、免费下载，志明与春娇BD1280高清粤语Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}志明与春娇BD1280高清粤语{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-03-11{/dede:field}
+{dede:field name='body'}<p>
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.filmsh.com.cn/upload_show/4a631bb621b4483f8f.jpg" /><br />
+	<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.filmsh.com.cn/upload_show/935b017be01641dc83.jpg" /><br />
+	<br />
+	◎中 文 名　《志明与春娇/谈恋爱◎英 文 名　</p>
+<p>
+	Love in a puff/Tan Lian Ai<br />
+	◎年　　代　2010<br />
+	◎国　　家　中国香港<br />
+	◎类　　别　爱情/剧情<br />
+	◎语　　言　粤语<br />
+	◎字　　幕　中文<br />
+	◎IMDB评分　8.2/10 (90 votes)<br />
+	◎IMDB链接　http://www.imdb.com/title/tt1602479/<br />
+	◎文件格式　BD-RMVB<br />
+	◎视频尺寸　1280X720</p>
+<p>
+	◎文件大小　1CD 409MB<br />
+	◎片　　长　102 Min<br />
+	◎导　　演　彭浩翔 Ho-Cheung Pang<br />
+	◎主　　演　杨千嬅 Miriam Yeung...Cherie<br />
+	　　　　　　余文乐 Shawn Yue...Jimmy<br />
+	　　　　　　张达明 Tat-Ming Cheung<br />
+	　　　　　　方皓玟 Charmaine Fong<br />
+	　　　　　　邹凯光 Matt Chow<br />
+	　　　　　　徐天佑 Ting Yau Tsui<br />
+	　　　　　　谷德昭 Vincent Kok<br />
+	　　　　　　谷祖琳 Jo Kuk<br />
+	　　　　　　陆诗韵 Luk Sharon<br />
+	　　　　　　缪非临 Miao Fei-lin<br />
+	　　　　　　司徒慧焯 Roy Szeto<br />
+	<br />
+	◎分　　级　Hong Kong:III<br />
+	<br />
+	<br />
+	◎简　　介　<br />
+	<br />
+	自2007年1月1日开始，香港实施室内全面禁烟，烟民都被迫从办公室走至后巷抽烟。自此，来自不同背景职业的抽烟族，在后巷开辟了一个打诨聊天、结交朋友的特殊场所，其中一对男女──张志明与余春娇，亦因抽烟而在肮脏又狭窄的后巷中邂逅，一段错摸不定、暧昧难测的恋爱关系，由燃点香烟的瞬间中展开。<br />
+	<br />
+	　　一次，志明主动上前为春娇点烟，首先是这个微细动作令春娇对他加倍留意，而两人在谈天说地间，满脑子怪念头的志明更令春娇乐陶陶，自此一拍即合，两人不停互发短讯来往，甚至相约在晚上一起抽烟见面。那晚，志明与春娇在室内抽烟，惹来卫生帮办追捕，二人牵手拔足狂奔，首度肌肤接触。<br />
+	<br />
+	　　后来志明发展春娇原来早有男友，故时刻压抑自己的感情。另一方面，春娇与男友家豪的感情却因志明的出现，泛起了一丝暗涌。志明和春娇由最初不经意的相约在后巷见面，之后春娇索性拉着志明一起<a href="http://www.3edyy.com/" target="_blank">电影下载</a>跑到附近另一条后巷，建立属于他们的秘密基地。二人的感情，随着缕缕轻烟逐渐酝酿，越趋浓烈。<br />
+	<br />
+	　　家豪察觉春娇的微妙变化，更偷看了志明传给春娇的短讯，误会春娇背着他和志明鬼混。春娇百辞莫辩，但她却无法否认自己对志明心存好感，于是她鼓起勇气，搬出男友家。志明得知春娇为自己引起的误会而分手后，向她连番暗示心意，但春娇总是接收错误，以致他们一直无法确认彼此想法而疏远。<br />
+	<br />
+	　　直至2009年2月25日傍晚，香港政府公布财政预算案，由当晚凌晨十二时起增加烟草税。志明在街上巧遇春娇，索性一起结伴跑到全港所有便利店及士多搜购香烟。二人在找寻香烟的同时，也为自己的爱情找到了出口，而那些新购入的香烟，亦见证着他们爱情的升华。<br />
+	<br />
+	◎剧　　照　<br />
+	<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.movietalk.com.hk/wp-content/uploads/2010/02/love-in-a-puff1.jpg" />&nbsp;<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.movietalk.com.hk/wp-content/uploads/2010/02/love-in-a-puff9.jpg" />&nbsp;<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.movietalk.com.hk/wp-content/uploads/2010/02/love-in-a-puff2.jpg" />&nbsp;<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.movietalk.com.hk/wp-content/uploads/2010/02/love-in-a-puff3.jpg" />&nbsp;<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.movietalk.com.hk/wp-content/uploads/2010/02/love-in-a-puff4.jpg" />&nbsp;<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.movietalk.com.hk/wp-content/uploads/2010/02/love-in-a-puff5.jpg" />&nbsp;<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.movietalk.com.hk/wp-content/uploads/2010/02/love-in-a-puff6.jpg" />&nbsp;<br />
+	<img alt="" border="0" onclick="zoom(this)" onload="attachimg(this, 'load')" src="http://www.movietalk.com.hk/wp-content/uploads/2010/02/love-in-a-puff8.jpg" /><br />
+	<br />
+	<br />
+	幕后制作<br />
+	<br />
+	影片的起始创意<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;影片的起始创意很简单，按导演的说法，前几年香港开始在公共场所禁烟，结果导致一个很有意思的景象：一堆人围在垃圾筒旁,边抽烟边聊天。于是彭浩翔就认为，在这种陌生人之间的聊天里可以产生爱情。再然后，他又把自己生活中的一个经历给写进故事，就是结尾处的那个往马桶里倒干冰，让一坨大便看起来像是&quot;仙宫&quot;的桥段。诸多小桥段凑到了一起，就变成了这部几乎可以使人从头笑到尾的电影。<br />
+	<br />
+	最纯情的三级片<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;彭浩翔自称《志明与春娇》<a href="http://www.3edyy.com/" target="_blank">电影下载</a>是自己从影以来最纯情的一部作品，但该片却被香港电检列为&quot;三级片&quot;，原因是电影中出现了大量的粗口，重新配音后才得以在内地上映。<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;按照彭浩翔导演的说法，他只不过是&quot;想拍一个爱情故事&quot;。影片虽然有床戏，却不过是两人拥抱着入睡而已；有情戏，却不过是所有恋人都会玩的对弈而已。为了表现地道写实的香港本土文化，少量粗口在所难免。反过来也正因为内容的纯洁，恰巧为影片通过内地审查提供了保障。<br />
+	<br />
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;影片充满了香港独有的生活气息。特别集中在一些年轻人身上，导演彭浩翔从这些年轻人的生活细节中看到了点点滴滴，便利店、卡拉OK、西餐厅和在后巷&quot;打边炉&quot;这样年轻人出没的地方，他们在这里干什么？会发生怎么样的故事？他们在想些什么？他们会说些什么？等等。正是从片中张志明和春娇这样的平常人身上，彭浩翔挖掘出亲切、平和、熟悉的的特质，使得普通观众对这些人物产生认同。<br />
+	<br />
+	怪咖导演首次进军内地<br />
+	<br />
+	　　十年来香港电影市场浮沉，彭浩翔却能每年拿出新作，并折腾出无穷创意，无论是阔太买凶拍人、大丈夫们集体偷腥、痴男怨女那点破事儿，还是烟民儿女浪漫爱情，无一不寓荒谬有趣于体察入微。尽管彭浩翔的电影从没在内地放映过，但他从2001年拍的《买兇拍人》《大丈夫》《公主复仇记》《AV》《伊莎贝拉》《出埃及记》《破事儿》不是获奖就是受瞩目，并获不同程度的叫好，风格属于剑走偏锋。 《志明与春娇》是这位香港怪咖导演首部进入大陆公映的作品。<br />
+	<br />
+	　　《志明与春娇》在香港国际电影节首映后，即有网友称&quot;这是彭浩翔最好的电影&quot;。影片充满彭浩翔式的幽默，虽充满恶趣味，却颇具智慧--烟民不想去吸烟区吸烟，灵机一动把烟头塞在饮料杯的吸管里，最后被店员发现，为了<a href="http://www.eee4.cc/" target="_blank">3E电影下载站</a>隐藏事实憋得满脸通红；余文乐和杨千嬅吸烟被警察追赶，灵机一动冒充起了韩国人和日本人，最后却因粤语的手机铃声忽然响起而露馅。而影片中的采访实录，则更是彭浩翔的老把戏，在之前的《买凶拍人》和《AV》，都曾频繁地使用过。<br />
+	<br />
+	花絮<br />
+	<br />
+	&middot;&quot;志明、春娇&quot;在片中是男女主人公的名字，灵感其实来自台湾的俗语，这两个名字泛指恋爱中的男男女女。因此也可以解释为&quot;罗密欧与朱丽叶&quot;或者&quot;梁山伯与祝英台&quot;的故事，歌手陈升与五月天都曾以&quot;志明与春娇&quot;为题创作过脍炙人口的爱情歌曲；一向剑走偏锋的彭浩翔，这次片中大玩网络热词，&quot;抽的不是烟，是寂寞；呼的也不是烟，是爱！&quot;相信会让观者会心一笑。<br />
+	<br />
+	&middot;&nbsp;&nbsp;《志明与春娇》拍摄时间相当短，在五个星期内拍了15个拍摄日。但这并不是彭浩翔导演最短的记录，彭浩翔拍摄电影《破事儿》时，只拍了12天。<br />
+	<br />
+	&middot;由于杨千嬅则不是烟民，所以在拍摄前一个月，就已经开始练习。基本上都是真的抽下去。但在拍摄时，彭浩翔也会特别迁就她，拍千嬅抽烟的镜头时，一般都不会太长，因为她气管不好，怕她抽得太多会有影响。</p>
+<p>
+	【电影截图】：<br />
+	&nbsp;</p>
+<p>
+	<img src="http://img.album.pchome.net/54/74/88/95/31c60dd800c1938a74c305eec9902753.jpg" />&nbsp;<br />
+	<img src="http://img.album.pchome.net/54/74/88/95/9474301960b2632ef881aacaa719f450.jpg" />&nbsp;<br />
+	<img src="http://img.album.pchome.net/54/74/88/95/0d311c9ffd8c8bd65319e368b66093c8.jpg" />&nbsp;<br />
+	<img src="http://img.album.pchome.net/54/74/88/95/0d14738face6dfc445fe2392956acd1d.jpg" /><br />
+	<br />
+	<br />
+	&nbsp;</p>
+<p>
+	[下载地址]：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="http://i3.6.cn/cvbnm/c1/f4/cd/1d5d785194cc53c388c37ac6d66c5bd3.jpg" />&nbsp;&nbsp;&nbsp;</p>
+
+<table bgcolor="#ff8c00" border="0" cellpadding="5" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffbb" style="line-height: 18px; word-break: break-all" width="100%">
+				<a href="&#13;&#10;ftp://dy125:piaohua@dy125.piaohua.com:7690/飘花电影piaohua.com志明与春娇BD粤语中字1280高清.rmvb">ftp://dy125:piaohua@dy125.piaohua.com:7690/飘花电影piaohua.com志明与春娇BD粤语中字1280高清.rmvb</a></td>
+		</tr>
+	</tbody>
+</table>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120525/133O15R0W0-15025.jpg{/dede:field}

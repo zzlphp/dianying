@@ -1,0 +1,9 @@
+{dede:field name='keywords'}智取威虎山高清HD版国语2011最新{/dede:field}
+{dede:field name='description'}智取威虎山高清HD版国语2011最新上映中国动画历史大片迅雷下载、免费下载，智取威虎山高清HD版国语2011最新上映中国动画历史大片Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}智取威虎山高清HD版国语2011最新上映中国动画历史大片{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2012-01-03{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:2503/飘花电影piaohua.com智取威虎山高清HD版国语.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ2330P-1S46.jpg{/dede:field}

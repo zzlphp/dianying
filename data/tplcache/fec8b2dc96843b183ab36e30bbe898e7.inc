@@ -1,0 +1,9 @@
+{dede:field name='keywords'}红线/超时空甩尾DVD中英双字2010{/dede:field}
+{dede:field name='description'}红线/超时空甩尾DVD中英双字2010最新动画迅雷下载、免费下载，红线/超时空甩尾DVD中英双字2010最新动画Gvod高清在线播放，剧情介绍等。{/dede:field}
+{dede:field name='title'}红线/超时空甩尾DVD中英双字2010最新动画{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}2011-08-24{/dede:field}
+{dede:field name='body'}{/dede:field}
+{dede:field name='xiazai'}ftp://dy44:piaohua@dy44.piaohua.com:1389/飘花电影piaohua.com超时空甩尾DVD中英双字.rmvb{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c120523/133MQ1D510-4WZ.jpg{/dede:field}
